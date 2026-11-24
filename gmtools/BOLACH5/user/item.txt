@@ -1,0 +1,3740 @@
+2| Kim cương
+7| Kinh nghiệm
+3| Màu bối
+100001|1 Nặng chuyển sinh thạch
+100002|2 Nặng chuyển sinh thạch
+100003|3 Nặng chuyển sinh thạch
+100004|4 Nặng chuyển sinh thạch
+100005|5 Nặng chuyển sinh thạch
+100006|6 Nặng chuyển sinh thạch
+100007|7 Nặng chuyển sinh thạch
+100008|8 Nặng chuyển sinh thạch
+100009|9 Nặng chuyển sinh thạch
+100010|10 Nặng chuyển sinh thạch
+100011|11 Nặng chuyển sinh thạch
+100012|12 Nặng chuyển sinh thạch
+100100| Thể lực dược thủy
+100101| Đổi tên thẻ
+101000| Tọa kỵ tiến giai quả
+101001| Vũ khí tiến giai quả
+101002| Cánh tiến giai quả
+101003| Thánh linh tiến giai quả
+101004| Chiến tướng tiến giai quả
+101005| Chiến kỵ tiến giai quả
+101006| Chiến Linh tiến giai quả
+101007| Long tộc tiến giai quả
+101100| Tọa kỵ luyện Thần thạch
+101101| Vũ khí luyện Thần thạch
+101102| Cánh luyện Thần thạch
+101103| Thánh linh luyện Thần thạch
+101104| Chiến tướng luyện Thần thạch
+101105| Chiến kỵ luyện Thần thạch
+101106| Chiến Linh luyện Thần thạch
+101107| Long tộc luyện Thần thạch
+101108| Thời trang luyện Thần thạch
+101200| Tọa kỵ chú linh quả
+101201| Vũ khí chú linh quả
+101202| Cánh chú linh quả
+101203| Thánh linh chú linh quả
+101206| Chiến Linh chú linh quả
+101208| Thời trang chú linh quả
+101400| Tọa kỵ sách kỹ năng
+101401| Vũ khí sách kỹ năng
+101402| Cánh sách kỹ năng
+101403| Thánh linh sách kỹ năng
+101404| Chiến tướng sách kỹ năng
+101405| Chiến kỵ sách kỹ năng
+101406| Chiến Linh sách kỹ năng
+101407| Long tộc sách kỹ năng
+101501| Thủy tinh chìa khoá
+102000| Sơ cấp sủng vật cơm nắm
+102001| Trung cấp sủng vật cơm nắm
+102002| Cao cấp sủng vật cơm nắm
+102003| Sủng vật tẩy luyện nước
+102004| Sủng vật chuyển sinh thạch
+102005| Sơ cấp bắt thú dây thừng
+102006| Cao cấp bắt thú dây thừng
+102007| Thần thú kèn lệnh
+102008| Kim cái xẻng
+102009| Linh châu
+102010| Bắt thú kẹp
+102011| Hi hữu bắt thú kẹp
+102012| Thần thú thiết lập lại đan
+102100| Sơ cấp man lực
+102101| Cao cấp man lực
+102102| Đỉnh cấp man lực
+102103| Sơ cấp tất sát
+102104| Cao cấp tất sát
+102105| Đỉnh cấp tất sát
+102106| Sơ cấp trí mạng
+102107| Cao cấp trí mạng
+102108| Đỉnh cấp trí mạng
+102109| Sơ cấp phi hành
+102110| Cao cấp phi hành
+102111| Đỉnh cấp phi hành
+102112| Sơ cấp cứng cỏi
+102113| Cao cấp cứng cỏi
+102114| Đỉnh cấp cứng cỏi
+102115| Sơ cấp may mắn
+102116| Cao cấp may mắn
+102117| Đỉnh cấp may mắn
+102118| Sơ cấp cường tráng
+102119| Cao cấp cường tráng
+102120| Đỉnh cấp cường tráng
+102121| Sơ cấp mau lẹ
+102122| Cao cấp mau lẹ
+102123| Đỉnh cấp mau lẹ
+102124| Sơ cấp đánh lén
+102125| Cao cấp đánh lén
+102126| Đỉnh cấp đánh lén
+102127| Sơ cấp xuyên thấu
+102128| Cao cấp xuyên thấu
+102129| Đỉnh cấp xuyên thấu
+102130| Sơ cấp liên kích
+102131| Cao cấp liên kích
+102132| Đỉnh cấp liên kích
+102133| Sơ cấp kỹ xảo
+102134| Cao cấp kỹ xảo
+102135| Đỉnh cấp kỹ xảo
+102136| Sơ cấp bắn ngược
+102137| Cao cấp bắn ngược
+102138| Đỉnh cấp bắn ngược
+102139| Sơ cấp sức sống
+102140| Cao cấp sức sống
+102141| Đỉnh cấp sức sống
+102142| Sơ cấp quang minh
+102143| Cao cấp quang minh
+102144| Đỉnh cấp quang minh
+102145| Sơ cấp trùng sinh
+102146| Cao cấp trùng sinh
+102147| Đỉnh cấp trùng sinh
+102148| Sơ cấp chống đỡ
+102149| Cao cấp chống đỡ
+102150| Đỉnh cấp chống đỡ
+102151| Sơ cấp tái sinh
+102152| Cao cấp tái sinh
+102153| Đỉnh cấp tái sinh
+102154| Sơ cấp hộ chủ
+102155| Cao cấp hộ chủ
+102156| Đỉnh cấp hộ chủ
+102157| Sơ cấp phòng ngự chúc phúc
+102158| Cao cấp phòng ngự chúc phúc
+102159| Đỉnh cấp phòng ngự chúc phúc
+102160| Sơ cấp công kích chúc phúc
+102161| Cao cấp công kích chúc phúc
+102162| Đỉnh cấp công kích chúc phúc
+102163| Sơ cấp kiên định
+102164| Cao cấp kiên định
+102165| Đỉnh cấp kiên định
+102166| Sơ cấp cương nghị
+102167| Cao cấp cương nghị
+102168| Đỉnh cấp cương nghị
+102169| Sơ cấp gánh nước
+102170| Cao cấp gánh nước
+102171| Đỉnh cấp gánh nước
+102172| Sơ cấp choáng váng
+102173| Cao cấp choáng váng
+102174| Đỉnh cấp choáng váng
+102175| Sơ cấp thẩm phán
+102176| Cao cấp thẩm phán
+102177| Đỉnh cấp thẩm phán
+102178| Sơ cấp đâm lưng
+102179| Cao cấp đâm lưng
+102180| Đỉnh cấp đâm lưng
+102181| Sơ cấp hút máu
+102182| Cao cấp hút máu
+102183| Đỉnh cấp hút máu
+102184| Sơ cấp báo thù
+102185| Cao cấp báo thù
+102186| Đỉnh cấp báo thù
+102187| Sơ cấp kịch liệt
+102188| Cao cấp kịch liệt
+102189| Đỉnh cấp kịch liệt
+102200| Vu sư thần linh
+102201| Mẫu thần thần linh
+102202| Nữ thần thần linh
+102203| Đại thần thần linh
+102204| Mặt trăng thần linh
+102205| Thái Dương Thần linh
+102301| Đầu chim thú mảnh vỡ
+102302| Sâu Hải Na già mảnh vỡ
+102303| Kình đầu cá mảnh vỡ
+102304| Con dơi mảnh vỡ
+102305| Xú xú hoa mảnh vỡ
+102306| Goblin tinh anh mảnh vỡ
+102307| Thái Dương Hoa mảnh vỡ
+102308| Chùy đập nát phiến
+102309| Độc nấm đầu mảnh vỡ
+102310| Lông xanh trùng mảnh vỡ
+102311| Cây nấm đầu mảnh vỡ
+102312| Đèn lồng hoa mảnh vỡ
+102313| Bổng bổng mảnh vỡ
+102314| Côn côn mảnh vỡ
+102315| Lợn rừng mảnh vỡ
+102316| Thạch ngẫu mảnh vỡ
+102317| Mộc Tinh Linh mảnh vỡ
+102318| Tiên nhân đâm mảnh vỡ
+102319| Tinh hồng nhện mảnh vỡ
+102320| Bộ lạc Vu sư mảnh vỡ
+102321| Độc độc hoa mảnh vỡ
+102322| Sâm Lâm Na già mảnh vỡ
+102323| Đại quái điểu mảnh vỡ
+102324| Hoa ăn thịt người mảnh vỡ
+102325| Ba đóa lan ân mảnh vỡ
+102326| Hổ răng kiếm mảnh vỡ
+102327| Đốn củi cơ mảnh vỡ
+102328| Máy móc thủ vệ mảnh vỡ
+102329| Bộ lạc trưởng lão mảnh vỡ
+102330| Tuyết tinh linh mảnh vỡ
+102331| Cây phong ma mảnh vỡ
+102332| Máy móc con rối mảnh vỡ
+102333| Băng ma mảnh vỡ
+102334| Dung nham rùa mảnh vỡ
+102335| Thảo tinh linh mảnh vỡ
+102336| Lam cá trích người mảnh vỡ
+102337| Đầm lầy cự con ếch mảnh vỡ
+102338|Mk.III Mảnh vỡ
+102339| Thổ tinh linh mảnh vỡ
+102340| Độc nhãn cự nhân mảnh vỡ
+102341| Đao Thánh mảnh vỡ
+102342| Kim loại đại sư mảnh vỡ
+102343| Liệt diễm tinh linh mảnh vỡ
+102344| Nai con mảnh vỡ
+102345| Ruộng lúa quái nhân mảnh vỡ
+102346| Sơn động cự nhân mảnh vỡ
+102347| Cự Giác man ngưu mảnh vỡ
+102348| Bộ lạc thủ lĩnh mảnh vỡ
+102349| Gạo qua mảnh vỡ
+102350| Logan mảnh vỡ
+102351| Thuyền tượng tướng quân mảnh vỡ
+102352| Lake bỗng nhiên mảnh vỡ
+102353| Hằng Nga mảnh vỡ
+102354| Grew đặc biệt mảnh vỡ
+102355| Thiếp kéo chỗ y đóa mảnh vỡ
+102401| Đầu chim thú
+102402| Sâu Hải Na già
+102403| Kình đầu cá
+102404| Con dơi
+102405| Xú xú hoa
+102406| Goblin tinh anh
+102407| Thái Dương Hoa
+102408| Chùy chùy
+102409| Độc nấm đầu
+102410| Lông xanh trùng
+102411| Cây nấm đầu
+102412| Đèn lồng hoa
+102413| Bổng bổng
+102414| Côn côn
+102415| Lợn rừng
+102416| Thạch ngẫu
+102417| Mộc Tinh Linh
+102418| Tiên nhân đâm
+102419| Tinh hồng nhện
+102420| Bộ lạc Vu sư
+102421| Sâm Lâm Na già
+102422| Độc độc hoa
+102423| Đại quái điểu
+102424| Hoa ăn thịt người
+102425| Ba đóa lan ân
+102426| Hổ răng kiếm
+102427| Đốn củi cơ
+102428| Máy móc thủ vệ
+102429| Bộ lạc trưởng lão
+102430| Tuyết tinh linh
+102431| Cây phong ma
+102432| Máy móc con rối
+102433| Băng ma
+102434| Dung nham rùa
+102435| Thảo tinh linh
+102436| Lam cá trích người
+102437| Đầm lầy cự con ếch
+102438|Mk.III
+102439| Thổ tinh linh
+102440| Độc nhãn cự nhân
+102441| Đao Thánh
+102442| Kim loại đại sư
+102443| Liệt diễm tinh linh
+102444| Nai con
+102445| Ruộng lúa quái nhân
+102446| Sơn động cự nhân
+102447| Cự Giác man ngưu
+102448| Bộ lạc thủ lĩnh
+102449| Gạo qua
+102450| Logan
+102451| Thuyền tượng tướng quân
+102452| Lake bỗng nhiên
+102453| Hằng Nga
+102454| Grew đặc biệt
+102455| Thiếp kéo chỗ y đóa
+102501| Sơ cấp man lực mảnh vỡ
+102502| Cao cấp man lực mảnh vỡ
+102503| Đỉnh cấp man lực mảnh vỡ
+102504| Sơ cấp tất sát mảnh vỡ
+102505| Cao cấp tất sát mảnh vỡ
+102506| Đỉnh cấp tất sát mảnh vỡ
+102507| Sơ cấp trí mạng mảnh vỡ
+102508| Cao cấp trí mạng mảnh vỡ
+102509| Đỉnh cấp trí mạng mảnh vỡ
+102510| Sơ cấp phi hành mảnh vỡ
+102511| Cao cấp phi hành mảnh vỡ
+102512| Đỉnh cấp phi hành mảnh vỡ
+102513| Sơ cấp cứng cỏi mảnh vỡ
+102514| Cao cấp cứng cỏi mảnh vỡ
+102515| Đỉnh cấp cứng cỏi mảnh vỡ
+102516| Sơ cấp may mắn mảnh vỡ
+102517| Cao cấp may mắn mảnh vỡ
+102518| Đỉnh cấp may mắn mảnh vỡ
+102519| Sơ cấp cường tráng mảnh vỡ
+102520| Cao cấp cường tráng mảnh vỡ
+102521| Đỉnh cấp cường tráng mảnh vỡ
+102522| Sơ cấp mau lẹ mảnh vỡ
+102523| Cao cấp mau lẹ mảnh vỡ
+102524| Đỉnh cấp mau lẹ mảnh vỡ
+102525| Sơ cấp đánh lén mảnh vỡ
+102526| Cao cấp đánh lén mảnh vỡ
+102527| Đỉnh cấp đánh lén mảnh vỡ
+102528| Sơ cấp xuyên thấu mảnh vỡ
+102529| Cao cấp xuyên thấu mảnh vỡ
+102530| Đỉnh cấp xuyên thấu mảnh vỡ
+102531| Sơ cấp liên kích mảnh vỡ
+102532| Cao cấp liên kích mảnh vỡ
+102533| Đỉnh cấp liên kích mảnh vỡ
+102534| Sơ cấp kỹ xảo mảnh vỡ
+102535| Cao cấp kỹ xảo mảnh vỡ
+102536| Đỉnh cấp kỹ xảo mảnh vỡ
+102537| Sơ cấp bắn ngược mảnh vỡ
+102538| Cao cấp bắn ngược mảnh vỡ
+102539| Đỉnh cấp bắn ngược mảnh vỡ
+102540| Sơ cấp sức sống mảnh vỡ
+102541| Cao cấp sức sống mảnh vỡ
+102542| Đỉnh cấp sức sống mảnh vỡ
+102543| Sơ cấp quang minh mảnh vỡ
+102544| Cao cấp quang minh mảnh vỡ
+102545| Đỉnh cấp quang minh mảnh vỡ
+102546| Sơ cấp trùng sinh mảnh vỡ
+102547| Cao cấp trùng sinh mảnh vỡ
+102548| Đỉnh cấp trùng sinh mảnh vỡ
+102549| Sơ cấp chống đỡ mảnh vỡ
+102550| Cao cấp chống đỡ mảnh vỡ
+102551| Đỉnh cấp chống đỡ mảnh vỡ
+102552| Sơ cấp tái sinh mảnh vỡ
+102553| Cao cấp tái sinh mảnh vỡ
+102554| Đỉnh cấp tái sinh mảnh vỡ
+102555| Sơ cấp hộ chủ mảnh vỡ
+102556| Cao cấp hộ chủ mảnh vỡ
+102557| Đỉnh cấp hộ chủ mảnh vỡ
+102558| Sơ cấp phòng ngự chúc phúc mảnh vỡ
+102559| Cao cấp phòng ngự chúc phúc mảnh vỡ
+102560| Đỉnh cấp phòng ngự chúc phúc mảnh vỡ
+102561| Sơ cấp công kích chúc phúc mảnh vỡ
+102562| Cao cấp công kích chúc phúc mảnh vỡ
+102563| Đỉnh cấp công kích chúc phúc mảnh vỡ
+102564| Sơ cấp kiên định mảnh vỡ
+102565| Cao cấp kiên định mảnh vỡ
+102566| Đỉnh cấp kiên định mảnh vỡ
+102567| Sơ cấp cương nghị mảnh vỡ
+102568| Cao cấp cương nghị mảnh vỡ
+102569| Đỉnh cấp cương nghị mảnh vỡ
+102570| Sơ cấp gánh nước mảnh vỡ
+102571| Cao cấp gánh nước mảnh vỡ
+102572| Đỉnh cấp gánh nước mảnh vỡ
+102573| Sơ cấp choáng váng mảnh vỡ
+102574| Cao cấp choáng váng mảnh vỡ
+102575| Đỉnh cấp choáng váng mảnh vỡ
+102576| Sơ cấp thẩm phán mảnh vỡ
+102577| Cao cấp thẩm phán mảnh vỡ
+102578| Đỉnh cấp thẩm phán mảnh vỡ
+102579| Sơ cấp đâm lưng mảnh vỡ
+102580| Cao cấp đâm lưng mảnh vỡ
+102581| Đỉnh cấp đâm lưng mảnh vỡ
+102582| Sơ cấp hút máu mảnh vỡ
+102583| Cao cấp hút máu mảnh vỡ
+102584| Đỉnh cấp hút máu mảnh vỡ
+102585| Sơ cấp báo thù mảnh vỡ
+102586| Cao cấp báo thù mảnh vỡ
+102587| Đỉnh cấp báo thù mảnh vỡ
+102588| Sơ cấp kịch liệt mảnh vỡ
+102589| Cao cấp kịch liệt mảnh vỡ
+102590| Đỉnh cấp kịch liệt mảnh vỡ
+103300| Hi hữu văn vật tinh hoa
+103301| Viên hầu mặt nạ
+103302| Mũi dài mặt nạ
+103303| Hai mắt đẫm lệ mặt nạ
+103304| Chết lặng mặt nạ
+103305| Ngốc trệ mặt nạ
+103306| Tù trưởng mặt nạ
+103307| Ai Cập mặt nạ
+103308| Ngủ say mặt nạ
+103309| Thằng hề mặt nạ
+103310| Điếu tình mặt nạ
+103311| Tà ác mặt nạ
+103312| Phi cầm mặt nạ
+103313| Tham ăn mặt nạ
+103314| Con nai mặt nạ
+103315| Tăng lữ mặt nạ
+103316| Ngạo mạn mặt nạ
+103400| Sử thi văn vật tinh hoa
+103401| Viễn chinh bích hoạ
+103402| Sinh sôi bích hoạ
+103403| Quân đội bích hoạ
+103404| Chèo thuyền bích hoạ
+103405| Tế bái bích hoạ
+103406| Thị tộc bích hoạ
+103407| Khiêu vũ bích hoạ
+103408| Voi Ma-mút bích hoạ
+103409| Chiến tranh bích hoạ
+103410| Mặt trời bích hoạ
+103411| Đi săn bích hoạ
+103412| Thủ lĩnh bích hoạ
+103500| Truyền thuyết văn vật tinh hoa
+103501| Hổ phách
+103502| Vòng xoáy thạch
+103503| Thú ấn thạch
+103504| Đá lửa
+103505| Thạch mâu
+103506| Mãnh Mã Tượng răng
+103507| Bích gạch
+103508| Long Thú trứng
+103509| Răng nanh
+103510| Xương rồng
+103511| Trân châu
+103512| Giáp cốt văn
+103600| Viễn cổ văn vật tinh hoa
+103601| Trảo long hóa thạch
+103602| Răng long hóa thạch
+103603| Dực Long hoá thạch
+103604| Kiếm Long hoá thạch
+103605| Lôi Long hoá thạch
+103606| Trộm long hóa thạch
+103607| Bạo long hoá thạch
+103608| Tam Giác Long hoá thạch
+103609| Cỏ long hóa thạch
+103610| Cức long hoá thạch
+104000| Độc nấm đầu ( Vạn thần )
+104001| Độc độc hoa ( Vạn thần )
+104002| Đèn lồng hoa ( Vạn thần )
+104003| Xú xú hoa ( Vạn thần )
+104004| Cây nấm đầu ( Vạn thần )
+104005| Thái Dương Hoa ( Vạn thần )
+104006| Cây phong ma ( Vạn thần )
+104007| Tiên nhân đâm ( Vạn thần )
+104008| Mộc Tinh Linh ( Vạn thần )
+104009| Sinh Mệnh Cổ Thụ ( Vạn thần )
+104010| Rơm rạ quái nhân ( Vạn thần )
+104011| Chiến tranh cổ thụ ( Vạn thần )
+104100| Thảo tinh linh ( Vạn thần )
+104101| Sâm Lâm Na già ( Vạn thần )
+104102| Dung nham nhện ( Vạn thần )
+104103| Tuyết tinh linh ( Vạn thần )
+104104| Thạch ngẫu ( Vạn thần )
+104105| Viêm tinh linh ( Vạn thần )
+104106| Chiếu Trạch Quái vật ( Vạn thần )
+104107| Lam vây cá người ( Vạn thần )
+104108| Thổ tinh linh ( Vạn thần )
+104109| Băng ma ( Vạn thần )
+104110| Nai con ( Vạn thần )
+104111| Hằng Nga ( Vạn thần )
+104200| Con dơi ( Vạn thần )
+104201| Lợn rừng ( Vạn thần )
+104202| Dung nham rùa ( Vạn thần )
+104203| Đại quái điểu ( Vạn thần )
+104204| Côn côn ( Vạn thần )
+104205| Sâu Hải Na già ( Vạn thần )
+104206| Độc nhãn cự nhân ( Vạn thần )
+104207| Cự Giác trâu ( Vạn thần )
+104208| Sơn động cự nhân ( Vạn thần )
+104209| Tác Baker ( Vạn thần )
+104210| Chân to tuyết quái ( Vạn thần )
+104211| Lang Vương ( Vạn thần )
+104300| Đáng yêu rồng ( Vạn thần )
+104301| Lam Long ( Vạn thần )
+104302| Tích dịch long ( Vạn thần )
+104303| Phó trất rồng ( Vạn thần )
+104304| Sắt miệng rồng ( Vạn thần )
+104305| Tam Giác Long ( Vạn thần )
+104306| Ưng miệng rồng ( Vạn thần )
+104307| Dung Nham Long rùa ( Vạn thần )
+104308| Đầm lầy chi vương ( Vạn thần )
+104309| Hư không Linh Long ( Vạn thần )
+104310| Dung nham cự long ( Vạn thần )
+104311| Tinh dã du long ( Vạn thần )
+104500| Thần thạch
+105000| Long tộc thăng cấp đan
+105100| Phấn hồng tiểu long mảnh vỡ
+105101| Ngốc bay Lam Long mảnh vỡ
+105102| Tích dịch long mảnh vỡ
+105103| Miệng chim Phi Long mảnh vỡ
+105104| Phó trất rồng mảnh vỡ
+105105| Điên Phi Long mảnh vỡ
+105106| Mũi to cá sấu mảnh vỡ
+105107| Hung mãnh Dực Long mảnh vỡ
+105108| Sắt miệng rồng mảnh vỡ
+105109| Dung Nham Long rùa mảnh vỡ
+105110| Tiểu Bạch Long mảnh vỡ
+105111| Hoàng Tam Giác Vàng rồng mảnh vỡ
+105112| Ám kim Thánh Long mảnh vỡ
+105113| Địa Ngục Phi Long mảnh vỡ
+105114| Minh ám long mảnh vỡ
+105115| Băng Sương cự long mảnh vỡ
+105116| Địa Ngục Man Long mảnh vỡ
+105117| Phượng Hoàng Phi Long mảnh vỡ
+105118| Song đầu long mảnh vỡ
+105119| Máy móc điểu long mảnh vỡ
+105120| Trung Quốc rồng mảnh vỡ
+105121| Hư không bạo long mảnh vỡ
+105122| Luyện Ngục á long mảnh vỡ
+105125| Thanh Long mảnh vỡ
+105200| Phấn hồng tiểu long tinh phách
+105201| Ngốc bay Lam Long tinh phách
+105202| Tích dịch long tinh phách
+105203| Miệng chim Phi Long tinh phách
+105204| Phó trất long tinh phách
+105205| Điên Phi Long tinh phách
+105206| Mũi to cá sấu tinh phách
+105207| Hung mãnh Dực Long tinh phách
+105208| Sắt miệng long tinh phách
+105209| Dung Nham Long rùa tinh phách
+105210| Tiểu Bạch Long tinh phách
+105211| Hoàng Tam Giác Vàng long tinh phách
+105212| Ám kim Thánh Long tinh phách
+105213| Địa Ngục Phi Long tinh phách
+105214| Minh ám long tinh phách
+105215| Băng Sương cự long tinh phách
+105216| Địa Ngục Man Long tinh phách
+105217| Phượng Hoàng Phi Long tinh phách
+105218| Song đầu long tinh phách
+105219| Máy móc điểu long tinh phách
+105220| Trung Quốc long tinh phách
+105221| Hư không bạo long tinh phách
+105222| Luyện Ngục á long tinh phách
+105223| Thanh Long tinh phách
+106000| Sơ cấp chiến tướng thăng cấp đan
+106001| Cao cấp chiến tướng thăng cấp đan
+106002| Đỉnh cấp chiến tướng thăng cấp đan
+107000| Đồng bạn thăng cấp đan ( Tử )
+107001| Đồng bạn thăng cấp đan ( Cam )
+107002| Đồng bạn thăng cấp đan ( Đỏ )
+107003| Cất giữ cường hóa thạch
+107100| Tâm đầu ý hợp
+107101| Kim lan
+107110| Tâm đầu ý hợp mảnh vỡ
+107111| Kim lan mảnh vỡ
+107200| Chúc phúc quyển trục - Cường tráng
+107201| Chúc phúc quyển trục - Nhanh nhẹn
+107202| Chúc phúc quyển trục - Tinh chuẩn
+107203| Chúc phúc quyển trục - Tri thức
+107300| Mộc thuẫn
+107301| Bất hủ cổ mộc
+107302| Gốm nồi
+107303| Cỏ xiên
+107304| Răng thú mặt dây chuyền
+107305| Cốt mâu
+107306| Cốt chất đại kiếm
+107307| Hài cốt mũ giáp
+107308| Da thú áo
+107309| Mộc cung
+107310| Búa nhỏ
+107311| Thạch chuỳ
+107312| Thạch xẻng
+107313| Làm bằng đá áo giáp
+107314| Mào
+107315| Thổi tên
+107316| Vu y mặt nạ
+107317| Boomerang
+107318| Bảo thạch
+107319| Kịch độc lưỡi dao
+107320| Lang Nha bổng
+107321| Khô lâu quyền trượng
+107322| Phượng Hoàng lông vũ
+107323| Chiến đấu kèn lệnh
+107324| Tuyết quái đại chùy
+107325| Đá đánh lửa
+107326| Lông vũ áo choàng
+107327| Lang Vương lợi trảo
+107401| Mộc thuẫn mảnh vỡ
+107402| Bất hủ cổ mộc mảnh vỡ
+107403| Gốm nồi mảnh vỡ
+107404| Cỏ xiên mảnh vỡ
+107405| Răng thú mặt dây chuyền mảnh vỡ
+107406| Cốt mâu mảnh vỡ
+107407| Cốt chất đại kiếm mảnh vỡ
+107408| Hài cốt mũ giáp mảnh vỡ
+107409| Da thú áo mảnh vỡ
+107410| Mộc cung mảnh vỡ
+107411| Búa nhỏ mảnh vỡ
+107412| Thạch chuỳ mảnh vỡ
+107413| Thạch xẻng mảnh vỡ
+107414| Làm bằng đá áo giáp mảnh vỡ
+108000| Cường hóa thạch
+108100| Sơ giai luyện khí thạch
+108101| Trung giai luyện khí thạch
+108102| Cao giai luyện khí thạch
+108200|1 Nặng chế tạo thạch
+108201|2 Nặng chế tạo thạch
+108202|3 Nặng chế tạo thạch
+108203|4 Nặng chế tạo thạch
+108204|5 Nặng chế tạo thạch
+108205|6 Nặng chế tạo thạch
+108206|7 Nặng chế tạo thạch
+108207|8 Nặng chế tạo thạch
+108208|9 Nặng chế tạo thạch
+108209|10 Nặng chế tạo thạch
+108210|11 Nặng chế tạo thạch
+108211|12 Nặng chế tạo thạch
+108212| Hợp thành thủy tinh
+108213| Thuộc tính thạch
+108300|1 Giai tiến giai thạch
+108301|2 Giai tiến giai thạch
+108302|3 Giai tiến giai thạch
+108303|4 Giai tiến giai thạch
+108304|5 Giai tiến giai thạch
+108305|6 Giai tiến giai thạch
+108306|7 Giai tiến giai thạch
+108307|8 Giai tiến giai thạch
+108308|9 Giai tiến giai thạch
+108309|10 Giai tiến giai thạch
+108400|1 Nặng thăng tinh thạch
+108401|2 Nặng thăng tinh thạch
+108402|3 Nặng thăng tinh thạch
+108403|4 Nặng thăng tinh thạch
+108404|5 Nặng thăng tinh thạch
+108405|6 Nặng thăng tinh thạch
+108406|7 Nặng thăng tinh thạch
+108407|8 Nặng thăng tinh thạch
+108408|9 Nặng thăng tinh thạch
+108409|10 Nặng thăng tinh thạch
+108410|11 Nặng thăng tinh thạch
+108411|12 Nặng thăng tinh thạch
+108500| Bồi dưỡng thạch
+109000|1 Cấp sinh mệnh bảo thạch
+109001|2 Cấp sinh mệnh bảo thạch
+109002|3 Cấp sinh mệnh bảo thạch
+109003|4 Cấp sinh mệnh bảo thạch
+109004|5 Cấp sinh mệnh bảo thạch
+109005|6 Cấp sinh mệnh bảo thạch
+109006|7 Cấp sinh mệnh bảo thạch
+109007|8 Cấp sinh mệnh bảo thạch
+109008|9 Cấp sinh mệnh bảo thạch
+109009|10 Cấp sinh mệnh bảo thạch
+109010|11 Cấp sinh mệnh bảo thạch
+109011|12 Cấp sinh mệnh bảo thạch
+109012|13 Cấp sinh mệnh bảo thạch
+109013|14 Cấp sinh mệnh bảo thạch
+109014|15 Cấp sinh mệnh bảo thạch
+109100|1 Cấp công kích bảo thạch
+109101|2 Cấp công kích bảo thạch
+109102|3 Cấp công kích bảo thạch
+109103|4 Cấp công kích bảo thạch
+109104|5 Cấp công kích bảo thạch
+109105|6 Cấp công kích bảo thạch
+109106|7 Cấp công kích bảo thạch
+109107|8 Cấp công kích bảo thạch
+109108|9 Cấp công kích bảo thạch
+109109|10 Cấp công kích bảo thạch
+109110|11 Cấp công kích bảo thạch
+109111|12 Cấp công kích bảo thạch
+109112|13 Cấp công kích bảo thạch
+109113|14 Cấp công kích bảo thạch
+109114|15 Cấp công kích bảo thạch
+109200|1 Cấp phòng ngự bảo thạch
+109201|2 Cấp phòng ngự bảo thạch
+109202|3 Cấp phòng ngự bảo thạch
+109203|4 Cấp phòng ngự bảo thạch
+109204|5 Cấp phòng ngự bảo thạch
+109205|6 Cấp phòng ngự bảo thạch
+109206|7 Cấp phòng ngự bảo thạch
+109207|8 Cấp phòng ngự bảo thạch
+109208|9 Cấp phòng ngự bảo thạch
+109209|10 Cấp phòng ngự bảo thạch
+109210|11 Cấp phòng ngự bảo thạch
+109211|12 Cấp phòng ngự bảo thạch
+109212|13 Cấp phòng ngự bảo thạch
+109213|14 Cấp phòng ngự bảo thạch
+109214|15 Cấp phòng ngự bảo thạch
+109301|1 Cấp bảo thạch bảo rương
+109302|2 Cấp bảo thạch bảo rương
+109303|3 Cấp bảo thạch bảo rương
+109304|4 Cấp bảo thạch bảo rương
+109305|5 Cấp bảo thạch bảo rương
+109306|6 Cấp bảo thạch bảo rương
+109307|7 Cấp bảo thạch bảo rương
+109308|8 Cấp bảo thạch bảo rương
+109309|9 Cấp bảo thạch bảo rương
+109310|10 Cấp bảo thạch bảo rương
+109311|11 Cấp bảo thạch bảo rương
+109312|12 Cấp bảo thạch bảo rương
+109313|13 Cấp bảo thạch bảo rương
+109314|14 Cấp bảo thạch bảo rương
+109315|15 Cấp bảo thạch bảo rương
+110010|1 Vũ khí hạng nặng mảnh vỡ
+110011|1 Nặng đồ phòng ngự mảnh vỡ
+110012|1 Nặng trang sức mảnh vỡ
+110020|2 Vũ khí hạng nặng mảnh vỡ
+110021|2 Nặng đồ phòng ngự mảnh vỡ
+110022|2 Nặng trang sức mảnh vỡ
+110030|3 Vũ khí hạng nặng mảnh vỡ
+110031|3 Nặng đồ phòng ngự mảnh vỡ
+110032|3 Nặng trang sức mảnh vỡ
+110040|4 Vũ khí hạng nặng mảnh vỡ
+110041|4 Nặng đồ phòng ngự mảnh vỡ
+110042|4 Nặng trang sức mảnh vỡ
+110050|5 Vũ khí hạng nặng mảnh vỡ
+110051|5 Nặng đồ phòng ngự mảnh vỡ
+110052|5 Nặng trang sức mảnh vỡ
+110060|6 Vũ khí hạng nặng mảnh vỡ
+110061|6 Nặng đồ phòng ngự mảnh vỡ
+110062|6 Nặng trang sức mảnh vỡ
+110070|7 Vũ khí hạng nặng mảnh vỡ
+110071|7 Nặng đồ phòng ngự mảnh vỡ
+110072|7 Nặng trang sức mảnh vỡ
+110080|8 Vũ khí hạng nặng mảnh vỡ
+110081|8 Nặng đồ phòng ngự mảnh vỡ
+110082|8 Nặng trang sức mảnh vỡ
+110090|9 Vũ khí hạng nặng mảnh vỡ
+110091|9 Nặng đồ phòng ngự mảnh vỡ
+110092|9 Nặng trang sức mảnh vỡ
+110100|10 Vũ khí hạng nặng mảnh vỡ
+110101|10 Nặng đồ phòng ngự mảnh vỡ
+110102|10 Nặng trang sức mảnh vỡ
+110110|11 Vũ khí hạng nặng mảnh vỡ
+110111|11 Nặng đồ phòng ngự mảnh vỡ
+110112|11 Nặng trang sức mảnh vỡ
+110120|12 Vũ khí hạng nặng mảnh vỡ
+110121|12 Nặng đồ phòng ngự mảnh vỡ
+110122|12 Nặng trang sức mảnh vỡ
+111000|1 Giai tọa kỵ trang bị mảnh vỡ
+111001|2 Giai tọa kỵ trang bị mảnh vỡ
+111002|3 Giai tọa kỵ trang bị mảnh vỡ
+111003|4 Giai tọa kỵ trang bị mảnh vỡ
+111004|5 Giai tọa kỵ trang bị mảnh vỡ
+111005|6 Giai tọa kỵ trang bị mảnh vỡ
+111006|7 Giai tọa kỵ trang bị mảnh vỡ
+111007|8 Giai tọa kỵ trang bị mảnh vỡ
+111008|9 Giai tọa kỵ trang bị mảnh vỡ
+111009|10 Giai tọa kỵ trang bị mảnh vỡ
+111010|1 Giai vũ khí trang bị mảnh vỡ
+111011|2 Giai vũ khí trang bị mảnh vỡ
+111012|3 Giai vũ khí trang bị mảnh vỡ
+111013|4 Giai vũ khí trang bị mảnh vỡ
+111014|5 Giai vũ khí trang bị mảnh vỡ
+111015|6 Giai vũ khí trang bị mảnh vỡ
+111016|7 Giai vũ khí trang bị mảnh vỡ
+111017|8 Giai vũ khí trang bị mảnh vỡ
+111018|9 Giai vũ khí trang bị mảnh vỡ
+111019|10 Giai vũ khí trang bị mảnh vỡ
+111020|1 Giai cánh trang bị mảnh vỡ
+111021|2 Giai cánh trang bị mảnh vỡ
+111022|3 Giai cánh trang bị mảnh vỡ
+111023|4 Giai cánh trang bị mảnh vỡ
+111024|5 Giai cánh trang bị mảnh vỡ
+111025|6 Giai cánh trang bị mảnh vỡ
+111026|7 Giai cánh trang bị mảnh vỡ
+111027|8 Giai cánh trang bị mảnh vỡ
+111028|9 Giai cánh trang bị mảnh vỡ
+111029|10 Giai cánh trang bị mảnh vỡ
+111030|1 Giai thánh linh trang bị mảnh vỡ
+111031|2 Giai thánh linh trang bị mảnh vỡ
+111032|3 Giai thánh linh trang bị mảnh vỡ
+111033|4 Giai thánh linh trang bị mảnh vỡ
+111034|5 Giai thánh linh trang bị mảnh vỡ
+111035|6 Giai thánh linh trang bị mảnh vỡ
+111036|7 Giai thánh linh trang bị mảnh vỡ
+111037|8 Giai thánh linh trang bị mảnh vỡ
+111038|9 Giai thánh linh trang bị mảnh vỡ
+111039|10 Giai thánh linh trang bị mảnh vỡ
+111040|1 Giai chiến tướng trang bị mảnh vỡ
+111041|2 Giai chiến tướng trang bị mảnh vỡ
+111042|3 Giai chiến tướng trang bị mảnh vỡ
+111043|4 Giai chiến tướng trang bị mảnh vỡ
+111044|5 Giai chiến tướng trang bị mảnh vỡ
+111045|6 Giai chiến tướng trang bị mảnh vỡ
+111046|7 Giai chiến tướng trang bị mảnh vỡ
+111047|8 Giai chiến tướng trang bị mảnh vỡ
+111048|9 Giai chiến tướng trang bị mảnh vỡ
+111049|10 Giai chiến tướng trang bị mảnh vỡ
+111050|1 Giai chiến kỵ trang bị mảnh vỡ
+111051|2 Giai chiến kỵ trang bị mảnh vỡ
+111052|3 Giai chiến kỵ trang bị mảnh vỡ
+111053|4 Giai chiến kỵ trang bị mảnh vỡ
+111054|5 Giai chiến kỵ trang bị mảnh vỡ
+111055|6 Giai chiến kỵ trang bị mảnh vỡ
+111056|7 Giai chiến kỵ trang bị mảnh vỡ
+111057|8 Giai chiến kỵ trang bị mảnh vỡ
+111058|9 Giai chiến kỵ trang bị mảnh vỡ
+111059|10 Giai chiến kỵ trang bị mảnh vỡ
+111060|1 Giai Chiến Linh trang bị mảnh vỡ
+111061|2 Giai Chiến Linh trang bị mảnh vỡ
+111062|3 Giai Chiến Linh trang bị mảnh vỡ
+111063|4 Giai Chiến Linh trang bị mảnh vỡ
+111064|5 Giai Chiến Linh trang bị mảnh vỡ
+111065|6 Giai Chiến Linh trang bị mảnh vỡ
+111066|7 Giai Chiến Linh trang bị mảnh vỡ
+111067|8 Giai Chiến Linh trang bị mảnh vỡ
+111068|9 Giai Chiến Linh trang bị mảnh vỡ
+111069|10 Giai Chiến Linh trang bị mảnh vỡ
+111070|1 Giai long tộc trang bị mảnh vỡ
+111071|2 Giai long tộc trang bị mảnh vỡ
+111072|3 Giai long tộc trang bị mảnh vỡ
+111073|4 Giai long tộc trang bị mảnh vỡ
+111074|5 Giai long tộc trang bị mảnh vỡ
+111075|6 Giai long tộc trang bị mảnh vỡ
+111076|7 Giai long tộc trang bị mảnh vỡ
+111077|8 Giai long tộc trang bị mảnh vỡ
+111078|9 Giai long tộc trang bị mảnh vỡ
+111079|10 Giai long tộc trang bị mảnh vỡ
+130000| Thủ hộ thạch
+130001| Thủ hộ ma văn
+130101| Đằng Dực chi lực
+130102| Cột trụ chi lực
+130103| Huyễn sơn chi lực
+130104| Tế Linh chi lực
+130105| Thần đồng chi lực
+130106| Đồ đằng xuất chiến đan
+131000| Bí dược
+131101|1 Cấp sinh mệnh bí dược
+131102|2 Cấp sinh mệnh bí dược
+131103|3 Cấp sinh mệnh bí dược
+131104|4 Cấp sinh mệnh bí dược
+131105|5 Cấp sinh mệnh bí dược
+131201|1 Cấp công kích bí dược
+131202|2 Cấp công kích bí dược
+131203|3 Cấp công kích bí dược
+131204|4 Cấp công kích bí dược
+131205|5 Cấp công kích bí dược
+131301|1 Cấp tốc độ đánh bí dược
+131302|2 Cấp tốc độ đánh bí dược
+131303|3 Cấp tốc độ đánh bí dược
+131304|4 Cấp tốc độ đánh bí dược
+131305|5 Cấp tốc độ đánh bí dược
+131401|1 Cấp phòng ngự bí dược
+131402|2 Cấp phòng ngự bí dược
+131403|3 Cấp phòng ngự bí dược
+131404|4 Cấp phòng ngự bí dược
+131405|5 Cấp phòng ngự bí dược
+131501|1 Cấp kháng bạo bí dược
+131502|2 Cấp kháng bạo bí dược
+131503|3 Cấp kháng bạo bí dược
+131504|4 Cấp kháng bạo bí dược
+131505|5 Cấp kháng bạo bí dược
+131601|1 Cấp bạo kích bí dược
+131602|2 Cấp bạo kích bí dược
+131603|3 Cấp bạo kích bí dược
+131604|4 Cấp bạo kích bí dược
+131605|5 Cấp bạo kích bí dược
+131701|1 Cấp né tránh bí dược
+131702|2 Cấp né tránh bí dược
+131703|3 Cấp né tránh bí dược
+131704|4 Cấp né tránh bí dược
+131705|5 Cấp né tránh bí dược
+131801|1 Cấp trúng đích bí dược
+131802|2 Cấp trúng đích bí dược
+131803|3 Cấp trúng đích bí dược
+131804|4 Cấp trúng đích bí dược
+131805|5 Cấp trúng đích bí dược
+132000| Vận mệnh tinh bàn
+132001| Nước Tinh Tinh Thạch
+132002| Kim Tinh Tinh Thạch
+132003| Lửa Tinh Tinh Thạch
+132004| Mộc Tinh Tinh Thạch
+132005| Thổ tinh tinh thạch
+132006| Thiên Vương tinh thạch
+133000| Bộ lạc sách kỹ năng
+133001|1 Cấp gia tộc khiến
+133002|2 Cấp gia tộc khiến
+133003|3 Cấp gia tộc khiến
+133004|4 Cấp gia tộc khiến
+133005|5 Cấp gia tộc khiến
+200301| Bố Lạc nhiều tư
+200302| Hồ nhổ nhổ
+200303| Oka Lạc Tư
+200401| Lạp Kỳ Lỗ ca
+200402| Thẻ lam kim bảo
+200403| Rộng Murs
+200404| Tam Giác Long
+200405| Cơ giáp khoa học kỹ thuật
+200406| Cân Đẩu Vân
+200501| Đeo lộ hạ
+200502| Tư trời nhiều tư
+200503| Cóc kiệt
+200504| U linh mã
+200505| Con nai
+200601| Thiên sứ bạo long
+200602| Ám kim thánh kỵ
+200603| Đường vân hắc ám báo
+200701| Đêm tối sát vương
+200702| Thiếp Lạp Kỳ nhiều tư
+200703| Kim loại hổ
+200704| Bang phổ Lạc Tư
+200705| Mã ân Molech tư
+200706| Khải Ân
+200707| Máy móc khủng long bạo chúa
+201301| Vòng rổ
+201302| Hàng hải kiếm ánh sáng
+201401| Nộ diễm chiến phủ
+201402| Khắc thạch trường thương
+201403| Năng lượng lưỡi kiếm
+201404| Kim Cô Bổng
+201501| Giao răng bổng
+201502| Đột thứ thương
+201503| Hỏa diễm phiến
+201504| Đen nát răng
+201505| Đại khảm đao
+201506| Đêm tối liêm đao
+201507| Mười hai công đêm
+201601| Thiên sứ đột kiếm
+201602| Tam Xoa Kích
+201603| Hắc ám ma đao
+201604| U Minh Huyết Phủ
+201605| Cửu Xỉ Đinh Ba
+201701| Sư tử đập
+201702| Thiên tuyển cự kiếm
+201703| Gió lốc chuyển
+201704| Hồng Anh thương
+201706| Tù trưởng cự phủ
+202301| Sân trường chi vũ
+202401| Viêm Ma chi dực
+202402| Diệu quang chi dực
+202403| Mị hoặc chi cánh
+202404| Cơ giáp chi dực
+202405| Đấu chiến thánh cờ
+202501| Con diều huyễn cánh
+202502| Huyễn thải khí cầu
+202503| Cửu Vĩ huyễn ảnh
+202504| Đêm tối ma dực
+202505| Tu La huyễn ảnh
+202601| Thiên sứ ác ma
+202602| Hoàng kim thánh rương
+202603| Hắc ám cánh lớn
+202701| Lấp lánh chi mang
+202702| Tín niệm chi dực
+202703| Thủy tinh chi dực
+202704| Ngàn giấy chi dực
+202705| Ác ma hỏa diễm
+202706| Ác Ma Chi Dực
+203301| Lá sen chi linh
+203302| Ác ma chi linh
+203401| Sắt thép thủ vệ
+203402| Tạp Khắc ngươi
+203403| Linh hầu
+203501| Udo Gordon
+203502| Sư tử thú bông
+203503| Nhẫn chó
+203504| Hàng hải thuyền nhỏ
+203601| Bướm chi linh
+203602| Chòm Thiên Bình
+203603| Thiên sứ tinh linh
+203604| Tử vong Dực Long
+203701| Lôi vân chi linh
+203702| Mặt trời chi linh
+203703| Hera chi linh
+204301| Hoa đạo quân","Hoa đạo quân
+204401| Khuyển yêu","Khuyển yêu
+204402| Mèo đen hiệp","Mèo đen hiệp
+204403| Cơ giáp anh hùng","Cơ giáp anh hùng
+204404| Tề Thiên Đại Thánh","Tề Thiên Đại Thánh
+204501| Hoàng vượn","Hoàng vượn
+204502| Áo đen sứ giả","Áo đen sứ giả
+204503| Siêu anh hùng","Siêu anh hùng
+204504| Ninja","Ninja
+204505| Dạ Ma","Dạ Ma
+204506| Lãng nhân kiếm khách","Lãng nhân kiếm khách
+204601| Thiên sứ","Thiên sứ
+204602| Hoàng kim đấu sĩ","Hoàng kim đấu sĩ
+204603| Hắc ám tinh linh","Hắc ám tinh linh
+204701| Xương trâu dũng sĩ","Xương trâu dũng sĩ
+204702| Văn minh biểu tượng","Văn minh biểu tượng
+204703| Zeus chi tử","Zeus chi tử
+204704| Đường đi lưu manh","Đường đi lưu manh
+204705| Bạch bào sứ giả","Bạch bào sứ giả
+204706| Tù trưởng áo giáp","Tù trưởng áo giáp
+204707| Trư Bát Giới","Trư Bát Giới
+204708| Con nhện hiệp","Con nhện hiệp
+204709| Đầu trọc ngạnh hán","Đầu trọc ngạnh hán
+204710| Thái thép máy móc","Thái thép máy móc
+205001| Đêm tối du hiệp mảnh vỡ
+205002| Thanh lam chi thủ mảnh vỡ
+205003| Lôi đình lãnh chúa mảnh vỡ
+205004| Đầu trâu hư mảnh vỡ
+205005| Xấu xấu hoàng mảnh vỡ
+205006| Chòm Xà Phu mảnh vỡ
+205007| Trầm mặc thuật sĩ mảnh vỡ
+205008| Xích hồng Viêm Đế mảnh vỡ
+205009| Thương chỉ riêng kỵ sĩ mảnh vỡ
+205010| Tai ách hóa thân mảnh vỡ
+205011| Phủ Vương mảnh vỡ
+205301| Đêm tối du hiệp
+205401| Thanh lam chi thủ
+205402| Lôi đình lãnh chúa
+205403| Dương Tiễn
+205501| Đầu trâu hư
+205601| Xấu xấu hoàng
+205602| Chòm Xà Phu
+205603| Trầm mặc thuật sĩ
+205604| Phủ Vương
+205701| Xích hồng Viêm Đế
+205702| Thương chỉ riêng kỵ sĩ
+205703| Tai ách hóa thân
+206001| Nhưng lợi Dolorus mảnh vỡ
+206002| Mang Wolf mảnh vỡ
+206003| Nặc Tư Dolorus mảnh vỡ
+206004| Cam · Kẹt kẹt kim bảo mảnh vỡ
+206005| Hỏa diễm sư mảnh vỡ
+206006| Sử Carue mảnh vỡ
+206007| Ngân giác trâu đỏ mảnh vỡ
+206008| Kỳ bảo mảnh vỡ
+206301| Nhưng lợi Dolorus
+206401| Mang Wolf
+206402| Nặc Tư Dolorus
+206403| Hạo Thiên Khuyển
+206501| Kẹt kẹt kim bảo
+206601| Sử Carue
+206602| Hỏa diễm sư
+206603| Ngân giác trâu đỏ
+206604| Sương trắng sói
+206701| Kỳ bảo
+207301| Ô Tạp lỗ
+207302| Hoa sen
+207401| Ô lực ô lực
+207402| Hoa tinh linh
+207501| Rewby
+207502| Nhỏ Blue
+207601| Dolo thêm
+207602| Bane Đạt Tư
+207603| Tạp La lệ
+207604| Tinh Linh Long
+207701| Khắc Kerr
+207702| Con sóc đao Cuite
+207703| La nhiều Kurei
+208001| Dũng cảm tiên phong mảnh vỡ
+208002| Nóng nảy tiểu tử mảnh vỡ
+208003| Dũng cảm tiên phong mảnh vỡ
+208004| Liệt hỏa chiến sĩ mảnh vỡ
+208005| Thanh hồng chi quang mảnh vỡ
+208006| Trung thành dũng sĩ mảnh vỡ
+208007| Thắng lợi sứ giả mảnh vỡ
+208008| Tiểu muội nhà bên mảnh vỡ
+208009| Rừng rậm công chúa mảnh vỡ
+208010| Valkyrie mảnh vỡ
+208011| Dã tính chi cắn nát phiến
+208012| Hỏa hồng hoa hồng mảnh vỡ
+208013| Thỏ thỏ nữ lang mảnh vỡ
+208014| Quỷ mã tinh linh mảnh vỡ
+208301| Thanh đầu nhỏ tử
+208401| Nóng nảy tiểu tử
+208501| Dũng cảm tiên phong
+208502| Liệt hỏa chiến sĩ
+208503| Tia chớp Đại tướng
+208601| Thanh hồng chi quang
+208602| Đại Đức Lỗ Y
+208701| Trung thành dũng sĩ
+208702| Thắng lợi sứ giả
+209301| Tiểu muội nhà bên
+209401| Rừng rậm công chúa
+209501| Valkyrie
+209502| Dã tính chi cắn
+209601| Hỏa hồng hoa hồng
+209701| Thỏ thỏ nữ lang
+209702| Quỷ mã tinh linh
+210000| Tọa kỵ làn da bảo rương
+210001| Vũ khí làn da bảo rương
+210002| Cánh làn da bảo rương
+210003| Thánh linh làn da bảo rương
+210004| Trân thú BOSS Bảo rương
+210005| Thời trang làn da bảo rương
+210006| Đỉnh cấp sủng vật sách kỹ năng
+210007| Cao cấp sủng vật sách kỹ năng
+210008| Sơ cấp sủng vật sách kỹ năng
+210009|BOSS Phá thuẫn bảo rương
+210010| Hi hữu long tộc bảo rương
+210011| Ngẫu nhiên chú linh quả
+210012| Ngẫu nhiên Luyện Thần Đan
+210013| Chiến tướng làn da bảo rương
+210014| Chiến kỵ làn da bảo rương
+210015| Chiến Linh làn da bảo rương
+210016| Ngẫu nhiên tiến giai quả
+210017|1 Tầng thuộc về bảo rương
+210018|2 Tầng thuộc về bảo rương
+210019|3 Tầng thuộc về bảo rương
+210020|4 Tầng thuộc về bảo rương
+210021|5 Tầng thuộc về bảo rương
+210022|6 Tầng thuộc về bảo rương
+210023|7 Tầng thuộc về bảo rương
+210024|8 Tầng thuộc về bảo rương
+210025|9 Tầng thuộc về bảo rương
+210026|10 Tầng thuộc về bảo rương
+210027|11 Tầng thuộc về bảo rương
+210028|12 Tầng thuộc về bảo rương
+210029|1 Tầng may mắn bảo rương
+210030|2 Tầng may mắn bảo rương
+210031|3 Tầng may mắn bảo rương
+210032|4 Tầng may mắn bảo rương
+210033|5 Tầng may mắn bảo rương
+210034|6 Tầng may mắn bảo rương
+210035|7 Tầng may mắn bảo rương
+210036|8 Tầng may mắn bảo rương
+210037|9 Tầng may mắn bảo rương
+210038|10 Tầng may mắn bảo rương
+210039|11 Tầng may mắn bảo rương
+210040|12 Tầng may mắn bảo rương
+210041| Ngẫu nhiên đồng bạn đan
+210042| Tử sắc mảnh vỡ cất giữ rương
+210043| Màu cam mảnh vỡ cất giữ rương
+210044| Màu đỏ mảnh vỡ cất giữ rương
+210045| Ngẫu nhiên sách kỹ năng
+210046|SR Làn da bảo rương
+210047|SSR Làn da bảo rương
+210048| Đi săn chi vương màu bảo rương
+210049| Cao cấp sủng vật rương
+210050| Màu lam 1 Giai tiến giai trang bị bảo rương
+210051| Tử sắc 1 Giai tiến giai trang bị bảo rương
+210052| Màu cam 1 Giai tiến giai trang bị bảo rương
+210053| Màu lam 2 Giai tiến giai trang bị bảo rương
+210054| Tử sắc 2 Giai tiến giai trang bị bảo rương
+210055| Màu cam 2 Giai tiến giai trang bị bảo rương
+210056| Màu lam 3 Giai tiến giai trang bị bảo rương
+210057| Tử sắc 3 Giai tiến giai trang bị bảo rương
+210058| Màu cam 3 Giai tiến giai trang bị bảo rương
+210059| Màu lam 4 Giai tiến giai trang bị bảo rương
+210060| Tử sắc 4 Giai tiến giai trang bị bảo rương
+210061| Màu cam 4 Giai tiến giai trang bị bảo rương
+210062| Màu lam 5 Giai tiến giai trang bị bảo rương
+210063| Tử sắc 5 Giai tiến giai trang bị bảo rương
+210064| Màu cam 5 Giai tiến giai trang bị bảo rương
+210065| Màu lam 6 Giai tiến giai trang bị bảo rương
+210066| Tử sắc 6 Giai tiến giai trang bị bảo rương
+210067| Màu cam 6 Giai tiến giai trang bị bảo rương
+210068| Màu lam 7 Giai tiến giai trang bị bảo rương
+210069| Tử sắc 7 Giai tiến giai trang bị bảo rương
+210070| Màu cam 7 Giai tiến giai trang bị bảo rương
+210071| Màu lam 8 Giai tiến giai trang bị bảo rương
+210072| Tử sắc 8 Giai tiến giai trang bị bảo rương
+210073| Màu cam 8 Giai tiến giai trang bị bảo rương
+210074| May mắn hộp quà
+210075| Sủng vật gói quà lớn
+210076| Sủng vật bắt giữ gói quà
+210077| Tiến giai gói quà lớn
+210078| Luyện khí gói quà lớn
+210079| Chế tạo gói quà lớn
+210080| Xa hoa gói quà
+210081| Đa Bảo rương
+210082| Đồ đằng kỹ năng bảo rương
+210083| Cực phẩm sủng vật sách kỹ năng
+210084| Trân phẩm sủng vật sách kỹ năng
+210085| Linh phẩm sủng vật sách kỹ năng
+210086| Tử sắc cất giữ rương
+210087| Màu cam cất giữ rương
+210088| Màu đỏ cất giữ rương
+210089| Kim sắc cất giữ rương
+210090| Thải sắc cất giữ rương
+210091| Truyền thuyết sủng vật mảnh vỡ bảo rương
+210092| Tử bảo điển bảo rương
+210093| Cam bảo điển bảo rương
+210094| Đỏ bảo điển bảo rương
+210095| Kim bảo điển bảo rương
+210096|6 Giai tọa kỵ trang bị tự do bảo rương
+210097|9 Giai tọa kỵ trang bị tự do bảo rương
+210098|6 Giai vũ khí trang bị tự do bảo rương
+210099|9 Giai vũ khí trang bị tự do bảo rương
+210100|6 Giai cánh trang bị tự do bảo rương
+210101|9 Giai cánh trang bị tự do bảo rương
+210102|6 Giai chiến kỵ trang bị tự do bảo rương
+210103|9 Giai chiến kỵ trang bị tự do bảo rương
+210104|6 Giai thánh linh trang bị tự do bảo rương
+210105|9 Giai thánh linh trang bị tự do bảo rương
+210106|6 Giai chiến giai trang bị tự do bảo rương
+210107|9 Giai chiến giai trang bị tự do bảo rương
+210108| Gia nhập bộ lạc bảo rương
+210109| Toàn bộ server đại lễ bảo rương
+210110| Đồ đằng trang bị ngẫu nhiên tử bảo rương
+210111| Đồ đằng trang bị ngẫu nhiên cam bảo rương
+210112| Đồ đằng trang bị ngẫu nhiên đỏ bảo rương
+210113| Đồ đằng trang bị ngẫu nhiên kim bảo rương
+210114| Đồ đằng trang bị tự do tử bảo rương
+210115| Đồ đằng trang bị tự do cam bảo rương
+210116| Đồ đằng trang bị tự do đỏ bảo rương
+210117| Đồ đằng trang bị tự do kim bảo rương
+210118| Con ếch đồ đằng trang bị bảo rương
+210119| Man ngưu đằng trang bị bảo rương
+210120| Dạ Thần đằng trang bị bảo rương
+210121| Ngẫu nhiên chúc phúc quyển trục
+210122|XR Làn da tự do bảo rương
+210123| Bát Hoang khiến bảo rương
+210124| Bát Hoang khiến kim bảo rương
+210125|SSSR Làn da bảo rương
+210126|9 Giai chiến bảo trang bị tự do
+210127|1 Cấp đan dược
+210128|2 Cấp đan dược
+210129|3 Cấp đan dược
+210130|4 Cấp đan dược
+210131|5 Cấp đan dược
+210132| Ngẫu nhiên đồ đằng kỹ năng chi lực
+210133| Đồ đằng trang bị tự do kim 2 Tinh bảo rương
+210134| Đằng trang bị tự do màu 3 Tinh bảo rương
+210135| Đồ đằng trang bị tự do màu 4 Tinh bảo rương
+211001| Khuyển yêu
+211002| Hoa đạo quân
+211003| Tề Thiên Đại Thánh
+211004| Ninja
+211005| Dạ Ma
+211006| Lãng nhân kiếm khách
+211007| Thiên sứ
+211008| Hoàng kim đấu sĩ
+211009| Trư Bát Giới
+211010| Thái thép máy móc
+212001| Ngưng kết băng tinh
+212002| Biển sâu chứng nhận
+212003| Tử Khí Đông Lai
+212004| Mị tử bảo thạch
+212005| Lộng lẫy lục chui
+212006| Có đôi có cặp
+212007| Thụy khí tường vân
+212008| Cát tường như ý
+212009| Long chi vương miện
+212010| Vĩnh hằng thánh hỏa
+213001| Thanh xuân gợn sóng
+213002| Xanh thẳm biểu tượng
+213003| Bụi gai đình viện
+213004| Chúng tinh liên kết
+213005| Viễn cổ đồ văn
+213006| Trăng sao chi thề
+213007| Liệt diễm liệu nguyên
+213008| Thắng lợi khế ước
+213009| Hoàng kim ý chí
+213010| Kim giáp vinh quang
+220000| Thi đấu chiến thần
+220001| Thi đấu dũng sĩ
+220002| Bộ lạc tù trưởng
+220003| Bộ lạc phó tù trưởng
+220004| Chiến đấu dũng sĩ
+220005| Tinh anh
+220006| Thuần thú chi vương
+220007| Hồng Hoang chi lực
+220008| Truyền nhân của rồng
+220009| Bầu trời chiến thần
+220010| Chiến tướng thủ lĩnh
+220011| Nhất kỵ đương thiên
+220012| Thánh linh đại sư
+220013| Nhân vật chính quang hoàn
+220014| Manh sủng tuần thú sư
+220015| Sủng vật đại sư
+220016| Đồng bạn đại sư
+220017| Chiến Linh đại sư
+220018| Xuân phong đắc ý
+230000| Giọt máu thạch
+230001| Tuyệt phẩm giọt máu thạch
+231000| Lục Mang Tinh Trận
+231001| Gợn sóng chi thủy
+231002| Băng sương ma trận
+231003| Ma linh chi mộc
+231004| Ám chi ngâm xướng
+231005| Ma Long gào thét
+232000| Thủy Chi Linh động
+232001| Lôi Long thổ tức
+232002| Phong long lấp lóe
+232003| Tuyệt đối Ám vực
+232004| Hắc ám ma trận
+232005| Cực trú lĩnh vực
+233000| Lục Mang Tinh đồ
+233001| Viêm múa vờn quanh
+233002| Ám chi cầu phúc
+233003| Quang minh ma trận
+233004| Tinh chi thủ hộ
+233005| Thổ Linh thành lũy
+240000| Tiến giai ngẫu nhiên mảnh vỡ
+240001| Tọa kỵ mảnh vỡ
+240002| Vũ khí mảnh vỡ
+240003| Cánh mảnh vỡ
+240004| Thánh linh mảnh vỡ
+240005| Ngẫu nhiên mảnh vỡ
+240006| Chiến tướng mảnh vỡ
+240007| Chiến kỵ mảnh vỡ
+240008| Chiến Linh mảnh vỡ
+240009| Thời trang mảnh vỡ
+240010|SR Làn da bảo rương mảnh vỡ
+240011|SSR Làn da bảo rương mảnh vỡ
+240012|SSR Long tộc mảnh vỡ bảo rương
+240013|SSSR Làn da bảo rương mảnh vỡ
+240014|XR Làn da bảo rương mảnh vỡ
+240015| Ngẫu nhiên thần thoại sủng vật mảnh vỡ
+240016| Màu đỏ đồ đằng bảo rương
+240017|XR Làn da bảo rương
+240018| Đồ đằng vật liệu bảo rương
+240019| Cực phẩm làn da bảo rương
+240020| Ngẫu nhiên XR Làn da bảo rương mảnh vỡ
+250001| Bổ ký đạo cụ
+260001| Điểm kim thủ
+260002| Chiến tranh kèn lệnh
+260003| Vận mệnh tinh bàn
+260004| Treo máy tinh linh
+260011| Tinh thạch bảo rương
+270001| Thanh đồng chén thánh
+270002| Bạch ngân chén thánh
+270003| Hoàng kim chén thánh
+270004| Kim cương chén thánh
+280001| Long tộc tầm bảo đồ
+280002| Sủng vật tầm bảo đồ
+280003| Kỹ năng tầm bảo đồ
+280004| Vạn thần tầm bảo đồ
+280005| Vật liệu tầm bảo đồ
+280006| Làn da tầm bảo đồ
+290001| Lục hành điểu
+290002| Hổ răng kiếm
+290003| Khai Sơn Phủ
+291001| Con ếch đằng
+291002| Man ngưu đằng
+291003| Dạ Thần đằng
+292001| Thời gian bối
+292002| May mắn la bàn
+292003| Lệnh bài
+292004| Mùa xuân hạt giống
+292005| Thế giới boss Thuộc về ban thưởng
+292006| Thế giới BOSS Đánh giết ban thưởng
+292007| Thuê khiến
+292008| Thần thánh thủy
+292009| Thần thú trứng
+1001000| Tân thủ chiến mâu
+1001010|1 Nặng đi săn trường mâu
+1001020|2 Nặng cường hóa trường mâu
+1001030|3 Nặng ưu lương trường mâu
+1001040|4 Nặng viễn chinh trường mâu
+1001050|5 Nặng trác tuyệt trường mâu
+1001060|6 Nặng sử thi trường mâu
+1001070|7 Nặng bất hủ trường mâu
+1001080|8 Nặng hoàn mỹ trường mâu
+1001090|9 Nặng thắng lợi trường mâu
+1001100|10 Nặng chiến tranh trường mâu
+1001110|11 Nặng truyền kỳ trường mâu
+1001120|12 Nặng đỉnh phong trường mâu
+1002000| Tân thủ chiến mâu
+1002010|1 Nặng đi săn trường mâu
+1002020|2 Nặng cường hóa trường mâu
+1002030|3 Nặng ưu lương trường mâu
+1002040|4 Nặng viễn chinh trường mâu
+1002050|5 Nặng trác tuyệt trường mâu
+1002060|6 Nặng sử thi trường mâu
+1002070|7 Nặng bất hủ trường mâu
+1002080|8 Nặng hoàn mỹ trường mâu
+1002090|9 Nặng thắng lợi trường mâu
+1002100|10 Nặng chiến tranh trường mâu
+1002110|11 Nặng truyền kỳ trường mâu
+1002120|12 Nặng đỉnh phong trường mâu
+1003000| Tân thủ chiến mâu
+1003010|1 Nặng đi săn trường mâu
+1003020|2 Nặng cường hóa trường mâu
+1003030|3 Nặng ưu lương trường mâu
+1003040|4 Nặng viễn chinh trường mâu
+1003050|5 Nặng trác tuyệt trường mâu
+1003060|6 Nặng sử thi trường mâu
+1003070|7 Nặng bất hủ trường mâu
+1003080|8 Nặng hoàn mỹ trường mâu
+1003090|9 Nặng thắng lợi trường mâu
+1003100|10 Nặng chiến tranh trường mâu
+1003110|11 Nặng truyền kỳ trường mâu
+1003120|12 Nặng đỉnh phong trường mâu
+1004000| Tân thủ chiến mâu
+1004010|1 Nặng đi săn trường mâu
+1004020|2 Nặng cường hóa trường mâu
+1004030|3 Nặng ưu lương trường mâu
+1004040|4 Nặng viễn chinh trường mâu
+1004050|5 Nặng trác tuyệt trường mâu
+1004060|6 Nặng sử thi trường mâu
+1004070|7 Nặng bất hủ trường mâu
+1004080|8 Nặng hoàn mỹ trường mâu
+1004090|9 Nặng thắng lợi trường mâu
+1004100|10 Nặng chiến tranh trường mâu
+1004110|11 Nặng truyền kỳ trường mâu
+1004120|12 Nặng đỉnh phong trường mâu
+1005001| Tân thủ chiến mâu
+1005002| Tân thủ 2 Tinh chiến mâu
+1005011|1 Nặng 1 Tinh đi săn trường mâu
+1005012|1 Nặng 2 Tinh đi săn trường mâu
+1005013|1 Nặng 3 Tinh đi săn trường mâu
+1005014|1 Nặng 4 Tinh đi săn trường mâu
+1005015|1 Nặng 5 Tinh đi săn trường mâu
+1005021|2 Nặng 1 Tinh cường hóa trường mâu
+1005022|2 Nặng 2 Tinh cường hóa trường mâu
+1005023|2 Nặng 3 Tinh cường hóa trường mâu
+1005024|2 Nặng 4 Tinh cường hóa trường mâu
+1005025|2 Nặng 5 Tinh cường hóa trường mâu
+1005031|3 Nặng 1 Tinh ưu lương trường mâu
+1005032|3 Nặng 2 Tinh ưu lương trường mâu
+1005033|3 Nặng 3 Tinh ưu lương trường mâu
+1005034|3 Nặng 4 Tinh ưu lương trường mâu
+1005035|3 Nặng 5 Tinh ưu lương trường mâu
+1005041|4 Nặng 1 Tinh viễn chinh trường mâu
+1005042|4 Nặng 2 Tinh viễn chinh trường mâu
+1005043|4 Nặng 3 Tinh viễn chinh trường mâu
+1005044|4 Nặng 4 Tinh viễn chinh trường mâu
+1005045|4 Nặng 5 Tinh viễn chinh trường mâu
+1005051|5 Nặng 1 Tinh trác tuyệt trường mâu
+1005052|5 Nặng 2 Tinh trác tuyệt trường mâu
+1005053|5 Nặng 3 Tinh trác tuyệt trường mâu
+1005054|5 Nặng 4 Tinh trác tuyệt trường mâu
+1005055|5 Nặng 5 Tinh trác tuyệt trường mâu
+1005061|6 Nặng 1 Tinh sử thi trường mâu
+1005062|6 Nặng 2 Tinh sử thi trường mâu
+1005063|6 Nặng 3 Tinh sử thi trường mâu
+1005064|6 Nặng 4 Tinh sử thi trường mâu
+1005065|6 Nặng 5 Tinh sử thi trường mâu
+1005071|7 Nặng 1 Tinh bất hủ trường mâu
+1005072|7 Nặng 2 Tinh bất hủ trường mâu
+1005073|7 Nặng 3 Tinh bất hủ trường mâu
+1005074|7 Nặng 4 Tinh bất hủ trường mâu
+1005075|7 Nặng 5 Tinh bất hủ trường mâu
+1005081|8 Nặng 1 Tinh hoàn mỹ trường mâu
+1005082|8 Nặng 2 Tinh hoàn mỹ trường mâu
+1005083|8 Nặng 3 Tinh hoàn mỹ trường mâu
+1005084|8 Nặng 4 Tinh hoàn mỹ trường mâu
+1005085|8 Nặng 5 Tinh hoàn mỹ trường mâu
+1005091|9 Nặng 1 Tinh thắng lợi trường mâu
+1005092|9 Nặng 2 Tinh thắng lợi trường mâu
+1005093|9 Nặng 3 Tinh thắng lợi trường mâu
+1005094|9 Nặng 4 Tinh thắng lợi trường mâu
+1005095|9 Nặng 5 Tinh thắng lợi trường mâu
+1005101|10 Nặng 1 Tinh chiến tranh trường mâu
+1005102|10 Nặng 2 Tinh chiến tranh trường mâu
+1005103|10 Nặng 3 Tinh chiến tranh trường mâu
+1005104|10 Nặng 4 Tinh chiến tranh trường mâu
+1005105|10 Nặng 5 Tinh chiến tranh trường mâu
+1005111|11 Nặng 1 Tinh truyền kỳ trường mâu
+1005112|11 Nặng 2 Tinh truyền kỳ trường mâu
+1005113|11 Nặng 3 Tinh truyền kỳ trường mâu
+1005114|11 Nặng 4 Tinh truyền kỳ trường mâu
+1005115|11 Nặng 5 Tinh truyền kỳ trường mâu
+1005121|12 Nặng 1 Tinh đỉnh phong trường mâu
+1005122|12 Nặng 2 Tinh đỉnh phong trường mâu
+1005123|12 Nặng 3 Tinh đỉnh phong trường mâu
+1005124|12 Nặng 4 Tinh đỉnh phong trường mâu
+1005125|12 Nặng 5 Tinh đỉnh phong trường mâu
+1011000| Tân thủ miếng lót vai
+1011010|1 Nặng đi săn miếng lót vai
+1011020|2 Nặng cường hóa miếng lót vai
+1011030|3 Nặng ưu lương miếng lót vai
+1011040|4 Nặng viễn chinh miếng lót vai
+1011050|5 Nặng trác tuyệt miếng lót vai
+1011060|6 Nặng sử thi miếng lót vai
+1011070|7 Nặng bất hủ miếng lót vai
+1011080|8 Nặng hoàn mỹ miếng lót vai
+1011090|9 Nặng thắng lợi miếng lót vai
+1011100|10 Nặng chiến tranh miếng lót vai
+1011110|11 Nặng truyền kỳ miếng lót vai
+1011120|12 Nặng đỉnh phong miếng lót vai
+1012000| Tân thủ miếng lót vai
+1012010|1 Nặng đi săn miếng lót vai
+1012020|2 Nặng cường hóa miếng lót vai
+1012030|3 Nặng ưu lương miếng lót vai
+1012040|4 Nặng viễn chinh miếng lót vai
+1012050|5 Nặng trác tuyệt miếng lót vai
+1012060|6 Nặng sử thi miếng lót vai
+1012070|7 Nặng bất hủ miếng lót vai
+1012080|8 Nặng hoàn mỹ miếng lót vai
+1012090|9 Nặng thắng lợi miếng lót vai
+1012100|10 Nặng chiến tranh miếng lót vai
+1012110|11 Nặng truyền kỳ miếng lót vai
+1012120|12 Nặng đỉnh phong miếng lót vai
+1013000| Tân thủ miếng lót vai
+1013010|1 Nặng đi săn miếng lót vai
+1013020|2 Nặng cường hóa miếng lót vai
+1013030|3 Nặng ưu lương miếng lót vai
+1013040|4 Nặng viễn chinh miếng lót vai
+1013050|5 Nặng trác tuyệt miếng lót vai
+1013060|6 Nặng sử thi miếng lót vai
+1013070|7 Nặng bất hủ miếng lót vai
+1013080|8 Nặng hoàn mỹ miếng lót vai
+1013090|9 Nặng thắng lợi miếng lót vai
+1013100|10 Nặng chiến tranh miếng lót vai
+1013110|11 Nặng truyền kỳ miếng lót vai
+1013120|12 Nặng đỉnh phong miếng lót vai
+1014000| Tân thủ miếng lót vai
+1014010|1 Nặng đi săn miếng lót vai
+1014020|2 Nặng cường hóa miếng lót vai
+1014030|3 Nặng ưu lương miếng lót vai
+1014040|4 Nặng viễn chinh miếng lót vai
+1014050|5 Nặng trác tuyệt miếng lót vai
+1014060|6 Nặng sử thi miếng lót vai
+1014070|7 Nặng bất hủ miếng lót vai
+1014080|8 Nặng hoàn mỹ miếng lót vai
+1014090|9 Nặng thắng lợi miếng lót vai
+1014100|10 Nặng chiến tranh miếng lót vai
+1014110|11 Nặng truyền kỳ miếng lót vai
+1014120|12 Nặng đỉnh phong miếng lót vai
+1015001| Tân thủ miếng lót vai
+1015011|1 Nặng 1 Tinh đi săn miếng lót vai
+1015012|1 Nặng 2 Tinh đi săn miếng lót vai
+1015013|1 Nặng 3 Tinh đi săn miếng lót vai
+1015014|1 Nặng 4 Tinh đi săn miếng lót vai
+1015015|1 Nặng 5 Tinh đi săn miếng lót vai
+1015021|2 Nặng 1 Tinh cường hóa miếng lót vai
+1015022|2 Nặng 2 Tinh cường hóa miếng lót vai
+1015023|2 Nặng 3 Tinh cường hóa miếng lót vai
+1015024|2 Nặng 4 Tinh cường hóa miếng lót vai
+1015025|2 Nặng 5 Tinh cường hóa miếng lót vai
+1015031|3 Nặng 1 Tinh ưu lương miếng lót vai
+1015032|3 Nặng 2 Tinh ưu lương miếng lót vai
+1015033|3 Nặng 3 Tinh ưu lương miếng lót vai
+1015034|3 Nặng 4 Tinh ưu lương miếng lót vai
+1015035|3 Nặng 5 Tinh ưu lương miếng lót vai
+1015041|4 Nặng 1 Tinh viễn chinh miếng lót vai
+1015042|4 Nặng 2 Tinh viễn chinh miếng lót vai
+1015043|4 Nặng 3 Tinh viễn chinh miếng lót vai
+1015044|4 Nặng 4 Tinh viễn chinh miếng lót vai
+1015045|4 Nặng 5 Tinh viễn chinh miếng lót vai
+1015051|5 Nặng 1 Tinh trác tuyệt miếng lót vai
+1015052|5 Nặng 2 Tinh trác tuyệt miếng lót vai
+1015053|5 Nặng 3 Tinh trác tuyệt miếng lót vai
+1015054|5 Nặng 4 Tinh trác tuyệt miếng lót vai
+1015055|5 Nặng 5 Tinh trác tuyệt miếng lót vai
+1015061|6 Nặng 1 Tinh sử thi miếng lót vai
+1015062|6 Nặng 2 Tinh sử thi miếng lót vai
+1015063|6 Nặng 3 Tinh sử thi miếng lót vai
+1015064|6 Nặng 4 Tinh sử thi miếng lót vai
+1015065|6 Nặng 5 Tinh sử thi miếng lót vai
+1015071|7 Nặng 1 Tinh bất hủ miếng lót vai
+1015072|7 Nặng 2 Tinh bất hủ miếng lót vai
+1015073|7 Nặng 3 Tinh bất hủ miếng lót vai
+1015074|7 Nặng 4 Tinh bất hủ miếng lót vai
+1015075|7 Nặng 5 Tinh bất hủ miếng lót vai
+1015081|8 Nặng 1 Tinh hoàn mỹ miếng lót vai
+1015082|8 Nặng 2 Tinh hoàn mỹ miếng lót vai
+1015083|8 Nặng 3 Tinh hoàn mỹ miếng lót vai
+1015084|8 Nặng 4 Tinh hoàn mỹ miếng lót vai
+1015085|8 Nặng 5 Tinh hoàn mỹ miếng lót vai
+1015091|9 Nặng 1 Tinh thắng lợi miếng lót vai
+1015092|9 Nặng 2 Tinh thắng lợi miếng lót vai
+1015093|9 Nặng 3 Tinh thắng lợi miếng lót vai
+1015094|9 Nặng 4 Tinh thắng lợi miếng lót vai
+1015095|9 Nặng 5 Tinh thắng lợi miếng lót vai
+1015101|10 Nặng 1 Tinh chiến tranh miếng lót vai
+1015102|10 Nặng 2 Tinh chiến tranh miếng lót vai
+1015103|10 Nặng 3 Tinh chiến tranh miếng lót vai
+1015104|10 Nặng 4 Tinh chiến tranh miếng lót vai
+1015105|10 Nặng 5 Tinh chiến tranh miếng lót vai
+1015111|11 Nặng 1 Tinh truyền kỳ miếng lót vai
+1015112|11 Nặng 2 Tinh truyền kỳ miếng lót vai
+1015113|11 Nặng 3 Tinh truyền kỳ miếng lót vai
+1015114|11 Nặng 4 Tinh truyền kỳ miếng lót vai
+1015115|11 Nặng 5 Tinh truyền kỳ miếng lót vai
+1015121|12 Nặng 1 Tinh đỉnh phong miếng lót vai
+1015122|12 Nặng 2 Tinh đỉnh phong miếng lót vai
+1015123|12 Nặng 3 Tinh đỉnh phong miếng lót vai
+1015124|12 Nặng 4 Tinh đỉnh phong miếng lót vai
+1015125|12 Nặng 5 Tinh đỉnh phong miếng lót vai
+1021000| Tân thủ hộ oản
+1021010|1 Nặng đi săn hộ oản
+1021020|2 Nặng cường hóa hộ oản
+1021030|3 Nặng ưu lương hộ oản
+1021040|4 Nặng viễn chinh hộ oản
+1021050|5 Nặng trác tuyệt hộ oản
+1021060|6 Nặng sử thi hộ oản
+1021070|7 Nặng bất hủ hộ oản
+1021080|8 Nặng hoàn mỹ hộ oản
+1021090|9 Nặng thắng lợi hộ oản
+1021100|10 Nặng chiến tranh hộ oản
+1021110|11 Nặng truyền kỳ hộ oản
+1021120|12 Nặng đỉnh phong hộ oản
+1022000| Tân thủ hộ oản
+1022010|1 Nặng đi săn hộ oản
+1022020|2 Nặng cường hóa hộ oản
+1022030|3 Nặng ưu lương hộ oản
+1022040|4 Nặng viễn chinh hộ oản
+1022050|5 Nặng trác tuyệt hộ oản
+1022060|6 Nặng sử thi hộ oản
+1022070|7 Nặng bất hủ hộ oản
+1022080|8 Nặng hoàn mỹ hộ oản
+1022090|9 Nặng thắng lợi hộ oản
+1022100|10 Nặng chiến tranh hộ oản
+1022110|11 Nặng truyền kỳ hộ oản
+1022120|12 Nặng đỉnh phong hộ oản
+1023000| Tân thủ hộ oản
+1023010|1 Nặng đi săn hộ oản
+1023020|2 Nặng cường hóa hộ oản
+1023030|3 Nặng ưu lương hộ oản
+1023040|4 Nặng viễn chinh hộ oản
+1023050|5 Nặng trác tuyệt hộ oản
+1023060|6 Nặng sử thi hộ oản
+1023070|7 Nặng bất hủ hộ oản
+1023080|8 Nặng hoàn mỹ hộ oản
+1023090|9 Nặng thắng lợi hộ oản
+1023100|10 Nặng chiến tranh hộ oản
+1023110|11 Nặng truyền kỳ hộ oản
+1023120|12 Nặng đỉnh phong hộ oản
+1024000| Tân thủ hộ oản
+1024010|1 Nặng đi săn hộ oản
+1024020|2 Nặng cường hóa hộ oản
+1024030|3 Nặng ưu lương hộ oản
+1024040|4 Nặng viễn chinh hộ oản
+1024050|5 Nặng trác tuyệt hộ oản
+1024060|6 Nặng sử thi hộ oản
+1024070|7 Nặng bất hủ hộ oản
+1024080|8 Nặng hoàn mỹ hộ oản
+1024090|9 Nặng thắng lợi hộ oản
+1024100|10 Nặng chiến tranh hộ oản
+1024110|11 Nặng truyền kỳ hộ oản
+1024120|12 Nặng đỉnh phong hộ oản
+1025001| Tân thủ hộ oản
+1025011|1 Nặng 1 Tinh đi săn hộ oản
+1025012|1 Nặng 2 Tinh đi săn hộ oản
+1025013|1 Nặng 3 Tinh đi săn hộ oản
+1025014|1 Nặng 4 Tinh đi săn hộ oản
+1025015|1 Nặng 5 Tinh đi săn hộ oản
+1025021|2 Nặng 1 Tinh cường hóa hộ oản
+1025022|2 Nặng 2 Tinh cường hóa hộ oản
+1025023|2 Nặng 3 Tinh cường hóa hộ oản
+1025024|2 Nặng 4 Tinh cường hóa hộ oản
+1025025|2 Nặng 5 Tinh cường hóa hộ oản
+1025031|3 Nặng 1 Tinh ưu lương hộ oản
+1025032|3 Nặng 2 Tinh ưu lương hộ oản
+1025033|3 Nặng 3 Tinh ưu lương hộ oản
+1025034|3 Nặng 4 Tinh ưu lương hộ oản
+1025035|3 Nặng 5 Tinh ưu lương hộ oản
+1025041|4 Nặng 1 Tinh viễn chinh hộ oản
+1025042|4 Nặng 2 Tinh viễn chinh hộ oản
+1025043|4 Nặng 3 Tinh viễn chinh hộ oản
+1025044|4 Nặng 4 Tinh viễn chinh hộ oản
+1025045|4 Nặng 5 Tinh viễn chinh hộ oản
+1025051|5 Nặng 1 Tinh trác tuyệt hộ oản
+1025052|5 Nặng 2 Tinh trác tuyệt hộ oản
+1025053|5 Nặng 3 Tinh trác tuyệt hộ oản
+1025054|5 Nặng 4 Tinh trác tuyệt hộ oản
+1025055|5 Nặng 5 Tinh trác tuyệt hộ oản
+1025061|6 Nặng 1 Tinh sử thi hộ oản
+1025062|6 Nặng 2 Tinh sử thi hộ oản
+1025063|6 Nặng 3 Tinh sử thi hộ oản
+1025064|6 Nặng 4 Tinh sử thi hộ oản
+1025065|6 Nặng 5 Tinh sử thi hộ oản
+1025071|7 Nặng 1 Tinh bất hủ hộ oản
+1025072|7 Nặng 2 Tinh bất hủ hộ oản
+1025073|7 Nặng 3 Tinh bất hủ hộ oản
+1025074|7 Nặng 4 Tinh bất hủ hộ oản
+1025075|7 Nặng 5 Tinh bất hủ hộ oản
+1025081|8 Nặng 1 Tinh hoàn mỹ hộ oản
+1025082|8 Nặng 2 Tinh hoàn mỹ hộ oản
+1025083|8 Nặng 3 Tinh hoàn mỹ hộ oản
+1025084|8 Nặng 4 Tinh hoàn mỹ hộ oản
+1025085|8 Nặng 5 Tinh hoàn mỹ hộ oản
+1025091|9 Nặng 1 Tinh thắng lợi hộ oản
+1025092|9 Nặng 2 Tinh thắng lợi hộ oản
+1025093|9 Nặng 3 Tinh thắng lợi hộ oản
+1025094|9 Nặng 4 Tinh thắng lợi hộ oản
+1025095|9 Nặng 5 Tinh thắng lợi hộ oản
+1025101|10 Nặng 1 Tinh chiến tranh hộ oản
+1025102|10 Nặng 2 Tinh chiến tranh hộ oản
+1025103|10 Nặng 3 Tinh chiến tranh hộ oản
+1025104|10 Nặng 4 Tinh chiến tranh hộ oản
+1025105|10 Nặng 5 Tinh chiến tranh hộ oản
+1025111|11 Nặng 1 Tinh truyền kỳ hộ oản
+1025112|11 Nặng 2 Tinh truyền kỳ hộ oản
+1025113|11 Nặng 3 Tinh truyền kỳ hộ oản
+1025114|11 Nặng 4 Tinh truyền kỳ hộ oản
+1025115|11 Nặng 5 Tinh truyền kỳ hộ oản
+1025121|12 Nặng 1 Tinh đỉnh phong hộ oản
+1025122|12 Nặng 2 Tinh đỉnh phong hộ oản
+1025123|12 Nặng 3 Tinh đỉnh phong hộ oản
+1025124|12 Nặng 4 Tinh đỉnh phong hộ oản
+1025125|12 Nặng 5 Tinh đỉnh phong hộ oản
+1031000| Tân thủ dây chuyền
+1031010|1 Nặng đi săn dây chuyền
+1031020|2 Nặng cường hóa dây chuyền
+1031030|3 Nặng ưu lương dây chuyền
+1031040|4 Nặng viễn chinh dây chuyền
+1031050|5 Nặng trác tuyệt dây chuyền
+1031060|6 Nặng sử thi dây chuyền
+1031070|7 Nặng bất hủ dây chuyền
+1031080|8 Nặng hoàn mỹ dây chuyền
+1031090|9 Nặng thắng lợi dây chuyền
+1031100|10 Nặng chiến tranh dây chuyền
+1031110|11 Nặng truyền kỳ dây chuyền
+1031120|12 Nặng đỉnh phong dây chuyền
+1032000| Tân thủ dây chuyền
+1032010|1 Nặng đi săn dây chuyền
+1032020|2 Nặng cường hóa dây chuyền
+1032030|3 Nặng ưu lương dây chuyền
+1032040|4 Nặng viễn chinh dây chuyền
+1032050|5 Nặng trác tuyệt dây chuyền
+1032060|6 Nặng sử thi dây chuyền
+1032070|7 Nặng bất hủ dây chuyền
+1032080|8 Nặng hoàn mỹ dây chuyền
+1032090|9 Nặng thắng lợi dây chuyền
+1032100|10 Nặng chiến tranh dây chuyền
+1032110|11 Nặng truyền kỳ dây chuyền
+1032120|12 Nặng đỉnh phong dây chuyền
+1033000| Tân thủ dây chuyền
+1033010|1 Nặng đi săn dây chuyền
+1033020|2 Nặng cường hóa dây chuyền
+1033030|3 Nặng ưu lương dây chuyền
+1033040|4 Nặng viễn chinh dây chuyền
+1033050|5 Nặng trác tuyệt dây chuyền
+1033060|6 Nặng sử thi dây chuyền
+1033070|7 Nặng bất hủ dây chuyền
+1033080|8 Nặng hoàn mỹ dây chuyền
+1033090|9 Nặng thắng lợi dây chuyền
+1033100|10 Nặng chiến tranh dây chuyền
+1033110|11 Nặng truyền kỳ dây chuyền
+1033120|12 Nặng đỉnh phong dây chuyền
+1034000| Tân thủ dây chuyền
+1034010|1 Nặng đi săn dây chuyền
+1034020|2 Nặng cường hóa dây chuyền
+1034030|3 Nặng ưu lương dây chuyền
+1034040|4 Nặng viễn chinh dây chuyền
+1034050|5 Nặng trác tuyệt dây chuyền
+1034060|6 Nặng sử thi dây chuyền
+1034070|7 Nặng bất hủ dây chuyền
+1034080|8 Nặng hoàn mỹ dây chuyền
+1034090|9 Nặng thắng lợi dây chuyền
+1034100|10 Nặng chiến tranh dây chuyền
+1034110|11 Nặng truyền kỳ dây chuyền
+1034120|12 Nặng đỉnh phong dây chuyền
+1035001| Tân thủ dây chuyền
+1035011|1 Nặng 1 Tinh đi săn dây chuyền
+1035012|1 Nặng 2 Tinh đi săn dây chuyền
+1035013|1 Nặng 3 Tinh đi săn dây chuyền
+1035014|1 Nặng 4 Tinh đi săn dây chuyền
+1035015|1 Nặng 5 Tinh đi săn dây chuyền
+1035021|2 Nặng 1 Tinh cường hóa dây chuyền
+1035022|2 Nặng 2 Tinh cường hóa dây chuyền
+1035023|2 Nặng 3 Tinh cường hóa dây chuyền
+1035024|2 Nặng 4 Tinh cường hóa dây chuyền
+1035025|2 Nặng 5 Tinh cường hóa dây chuyền
+1035031|3 Nặng 1 Tinh ưu lương dây chuyền
+1035032|3 Nặng 2 Tinh ưu lương dây chuyền
+1035033|3 Nặng 3 Tinh ưu lương dây chuyền
+1035034|3 Nặng 4 Tinh ưu lương dây chuyền
+1035035|3 Nặng 5 Tinh ưu lương dây chuyền
+1035041|4 Nặng 1 Tinh viễn chinh dây chuyền
+1035042|4 Nặng 2 Tinh viễn chinh dây chuyền
+1035043|4 Nặng 3 Tinh viễn chinh dây chuyền
+1035044|4 Nặng 4 Tinh viễn chinh dây chuyền
+1035045|4 Nặng 5 Tinh viễn chinh dây chuyền
+1035051|5 Nặng 1 Tinh trác tuyệt dây chuyền
+1035052|5 Nặng 2 Tinh trác tuyệt dây chuyền
+1035053|5 Nặng 3 Tinh trác tuyệt dây chuyền
+1035054|5 Nặng 4 Tinh trác tuyệt dây chuyền
+1035055|5 Nặng 5 Tinh trác tuyệt dây chuyền
+1035061|6 Nặng 1 Tinh sử thi dây chuyền
+1035062|6 Nặng 2 Tinh sử thi dây chuyền
+1035063|6 Nặng 3 Tinh sử thi dây chuyền
+1035064|6 Nặng 4 Tinh sử thi dây chuyền
+1035065|6 Nặng 5 Tinh sử thi dây chuyền
+1035071|7 Nặng 1 Tinh bất hủ dây chuyền
+1035072|7 Nặng 2 Tinh bất hủ dây chuyền
+1035073|7 Nặng 3 Tinh bất hủ dây chuyền
+1035074|7 Nặng 4 Tinh bất hủ dây chuyền
+1035075|7 Nặng 5 Tinh bất hủ dây chuyền
+1035081|8 Nặng 1 Tinh hoàn mỹ dây chuyền
+1035082|8 Nặng 2 Tinh hoàn mỹ dây chuyền
+1035083|8 Nặng 3 Tinh hoàn mỹ dây chuyền
+1035084|8 Nặng 4 Tinh hoàn mỹ dây chuyền
+1035085|8 Nặng 5 Tinh hoàn mỹ dây chuyền
+1035091|9 Nặng 1 Tinh thắng lợi dây chuyền
+1035092|9 Nặng 2 Tinh thắng lợi dây chuyền
+1035093|9 Nặng 3 Tinh thắng lợi dây chuyền
+1035094|9 Nặng 4 Tinh thắng lợi dây chuyền
+1035095|9 Nặng 5 Tinh thắng lợi dây chuyền
+1035101|10 Nặng 1 Tinh chiến tranh dây chuyền
+1035102|10 Nặng 2 Tinh chiến tranh dây chuyền
+1035103|10 Nặng 3 Tinh chiến tranh dây chuyền
+1035104|10 Nặng 4 Tinh chiến tranh dây chuyền
+1035105|10 Nặng 5 Tinh chiến tranh dây chuyền
+1035111|11 Nặng 1 Tinh truyền kỳ dây chuyền
+1035112|11 Nặng 2 Tinh truyền kỳ dây chuyền
+1035113|11 Nặng 3 Tinh truyền kỳ dây chuyền
+1035114|11 Nặng 4 Tinh truyền kỳ dây chuyền
+1035115|11 Nặng 5 Tinh truyền kỳ dây chuyền
+1035121|12 Nặng 1 Tinh đỉnh phong dây chuyền
+1035122|12 Nặng 2 Tinh đỉnh phong dây chuyền
+1035123|12 Nặng 3 Tinh đỉnh phong dây chuyền
+1035124|12 Nặng 4 Tinh đỉnh phong dây chuyền
+1035125|12 Nặng 5 Tinh đỉnh phong dây chuyền
+1041000| Tân thủ chiếc nhẫn
+1041010|1 Nặng đi săn chiếc nhẫn
+1041020|2 Nặng cường hóa chiếc nhẫn
+1041030|3 Nặng ưu lương chiếc nhẫn
+1041040|4 Nặng viễn chinh chiếc nhẫn
+1041050|5 Nặng trác tuyệt chiếc nhẫn
+1041060|6 Nặng sử thi chiếc nhẫn
+1041070|7 Nặng bất hủ chiếc nhẫn
+1041080|8 Nặng hoàn mỹ chiếc nhẫn
+1041090|9 Nặng thắng lợi chiếc nhẫn
+1041100|10 Nặng chiến tranh chiếc nhẫn
+1041110|11 Nặng truyền kỳ chiếc nhẫn
+1041120|12 Nặng đỉnh phong chiếc nhẫn
+1042000| Tân thủ chiếc nhẫn
+1042010|1 Nặng đi săn chiếc nhẫn
+1042020|2 Nặng cường hóa chiếc nhẫn
+1042030|3 Nặng ưu lương chiếc nhẫn
+1042040|4 Nặng viễn chinh chiếc nhẫn
+1042050|5 Nặng trác tuyệt chiếc nhẫn
+1042060|6 Nặng sử thi chiếc nhẫn
+1042070|7 Nặng bất hủ chiếc nhẫn
+1042080|8 Nặng hoàn mỹ chiếc nhẫn
+1042090|9 Nặng thắng lợi chiếc nhẫn
+1042100|10 Nặng chiến tranh chiếc nhẫn
+1042110|11 Nặng truyền kỳ chiếc nhẫn
+1042120|12 Nặng đỉnh phong chiếc nhẫn
+1043000| Tân thủ chiếc nhẫn
+1043010|1 Nặng đi săn chiếc nhẫn
+1043020|2 Nặng cường hóa chiếc nhẫn
+1043030|3 Nặng ưu lương chiếc nhẫn
+1043040|4 Nặng viễn chinh chiếc nhẫn
+1043050|5 Nặng trác tuyệt chiếc nhẫn
+1043060|6 Nặng sử thi chiếc nhẫn
+1043070|7 Nặng bất hủ chiếc nhẫn
+1043080|8 Nặng hoàn mỹ chiếc nhẫn
+1043090|9 Nặng thắng lợi chiếc nhẫn
+1043100|10 Nặng chiến tranh chiếc nhẫn
+1043110|11 Nặng truyền kỳ chiếc nhẫn
+1043120|12 Nặng đỉnh phong chiếc nhẫn
+1044000| Tân thủ chiếc nhẫn
+1044010|1 Nặng đi săn chiếc nhẫn
+1044020|2 Nặng cường hóa chiếc nhẫn
+1044030|3 Nặng ưu lương chiếc nhẫn
+1044040|4 Nặng viễn chinh chiếc nhẫn
+1044050|5 Nặng trác tuyệt chiếc nhẫn
+1044060|6 Nặng sử thi chiếc nhẫn
+1044070|7 Nặng bất hủ chiếc nhẫn
+1044080|8 Nặng hoàn mỹ chiếc nhẫn
+1044090|9 Nặng thắng lợi chiếc nhẫn
+1044100|10 Nặng chiến tranh chiếc nhẫn
+1044110|11 Nặng truyền kỳ chiếc nhẫn
+1044120|12 Nặng đỉnh phong chiếc nhẫn
+1045001| Tân thủ chiếc nhẫn
+1045011|1 Nặng 1 Tinh đi săn chiếc nhẫn
+1045012|1 Nặng 2 Tinh đi săn chiếc nhẫn
+1045013|1 Nặng 3 Tinh đi săn chiếc nhẫn
+1045014|1 Nặng 4 Tinh đi săn chiếc nhẫn
+1045015|1 Nặng 5 Tinh đi săn chiếc nhẫn
+1045021|2 Nặng 1 Tinh cường hóa chiếc nhẫn
+1045022|2 Nặng 2 Tinh cường hóa chiếc nhẫn
+1045023|2 Nặng 3 Tinh cường hóa chiếc nhẫn
+1045024|2 Nặng 4 Tinh cường hóa chiếc nhẫn
+1045025|2 Nặng 5 Tinh cường hóa chiếc nhẫn
+1045031|3 Nặng 1 Tinh ưu lương chiếc nhẫn
+1045032|3 Nặng 2 Tinh ưu lương chiếc nhẫn
+1045033|3 Nặng 3 Tinh ưu lương chiếc nhẫn
+1045034|3 Nặng 4 Tinh ưu lương chiếc nhẫn
+1045035|3 Nặng 5 Tinh ưu lương chiếc nhẫn
+1045041|4 Nặng 1 Tinh viễn chinh chiếc nhẫn
+1045042|4 Nặng 2 Tinh viễn chinh chiếc nhẫn
+1045043|4 Nặng 3 Tinh viễn chinh chiếc nhẫn
+1045044|4 Nặng 4 Tinh viễn chinh chiếc nhẫn
+1045045|4 Nặng 5 Tinh viễn chinh chiếc nhẫn
+1045051|5 Nặng 1 Tinh trác tuyệt chiếc nhẫn
+1045052|5 Nặng 2 Tinh trác tuyệt chiếc nhẫn
+1045053|5 Nặng 3 Tinh trác tuyệt chiếc nhẫn
+1045054|5 Nặng 4 Tinh trác tuyệt chiếc nhẫn
+1045055|5 Nặng 5 Tinh trác tuyệt chiếc nhẫn
+1045061|6 Nặng 1 Tinh sử thi chiếc nhẫn
+1045062|6 Nặng 2 Tinh sử thi chiếc nhẫn
+1045063|6 Nặng 3 Tinh sử thi chiếc nhẫn
+1045064|6 Nặng 4 Tinh sử thi chiếc nhẫn
+1045065|6 Nặng 5 Tinh sử thi chiếc nhẫn
+1045071|7 Nặng 1 Tinh bất hủ chiếc nhẫn
+1045072|7 Nặng 2 Tinh bất hủ chiếc nhẫn
+1045073|7 Nặng 3 Tinh bất hủ chiếc nhẫn
+1045074|7 Nặng 4 Tinh bất hủ chiếc nhẫn
+1045075|7 Nặng 5 Tinh bất hủ chiếc nhẫn
+1045081|8 Nặng 1 Tinh hoàn mỹ chiếc nhẫn
+1045082|8 Nặng 2 Tinh hoàn mỹ chiếc nhẫn
+1045083|8 Nặng 3 Tinh hoàn mỹ chiếc nhẫn
+1045084|8 Nặng 4 Tinh hoàn mỹ chiếc nhẫn
+1045085|8 Nặng 5 Tinh hoàn mỹ chiếc nhẫn
+1045091|9 Nặng 1 Tinh thắng lợi chiếc nhẫn
+1045092|9 Nặng 2 Tinh thắng lợi chiếc nhẫn
+1045093|9 Nặng 3 Tinh thắng lợi chiếc nhẫn
+1045094|9 Nặng 4 Tinh thắng lợi chiếc nhẫn
+1045095|9 Nặng 5 Tinh thắng lợi chiếc nhẫn
+1045101|10 Nặng 1 Tinh chiến tranh chiếc nhẫn
+1045102|10 Nặng 2 Tinh chiến tranh chiếc nhẫn
+1045103|10 Nặng 3 Tinh chiến tranh chiếc nhẫn
+1045104|10 Nặng 4 Tinh chiến tranh chiếc nhẫn
+1045105|10 Nặng 5 Tinh chiến tranh chiếc nhẫn
+1045111|11 Nặng 1 Tinh truyền kỳ chiếc nhẫn
+1045112|11 Nặng 2 Tinh truyền kỳ chiếc nhẫn
+1045113|11 Nặng 3 Tinh truyền kỳ chiếc nhẫn
+1045114|11 Nặng 4 Tinh truyền kỳ chiếc nhẫn
+1045115|11 Nặng 5 Tinh truyền kỳ chiếc nhẫn
+1045121|12 Nặng 1 Tinh đỉnh phong chiếc nhẫn
+1045122|12 Nặng 2 Tinh đỉnh phong chiếc nhẫn
+1045123|12 Nặng 3 Tinh đỉnh phong chiếc nhẫn
+1045124|12 Nặng 4 Tinh đỉnh phong chiếc nhẫn
+1045125|12 Nặng 5 Tinh đỉnh phong chiếc nhẫn
+1051000| Tân thủ mũ giáp
+1051010|1 Nặng đi săn mũ giáp
+1051020|2 Nặng cường hóa mũ giáp
+1051030|3 Nặng ưu lương mũ giáp
+1051040|4 Nặng viễn chinh mũ giáp
+1051050|5 Nặng trác tuyệt mũ giáp
+1051060|6 Nặng sử thi mũ giáp
+1051070|7 Nặng bất hủ mũ giáp
+1051080|8 Nặng hoàn mỹ mũ giáp
+1051090|9 Nặng thắng lợi mũ giáp
+1051100|10 Nặng chiến tranh mũ giáp
+1051110|11 Nặng truyền kỳ mũ giáp
+1051120|12 Nặng đỉnh phong mũ giáp
+1052000| Tân thủ mũ giáp
+1052010|1 Nặng đi săn mũ giáp
+1052020|2 Nặng cường hóa mũ giáp
+1052030|3 Nặng ưu lương mũ giáp
+1052040|4 Nặng viễn chinh mũ giáp
+1052050|5 Nặng trác tuyệt mũ giáp
+1052060|6 Nặng sử thi mũ giáp
+1052070|7 Nặng bất hủ mũ giáp
+1052080|8 Nặng hoàn mỹ mũ giáp
+1052090|9 Nặng thắng lợi mũ giáp
+1052100|10 Nặng chiến tranh mũ giáp
+1052110|11 Nặng truyền kỳ mũ giáp
+1052120|12 Nặng đỉnh phong mũ giáp
+1053000| Tân thủ mũ giáp
+1053010|1 Nặng đi săn mũ giáp
+1053020|2 Nặng cường hóa mũ giáp
+1053030|3 Nặng ưu lương mũ giáp
+1053040|4 Nặng viễn chinh mũ giáp
+1053050|5 Nặng trác tuyệt mũ giáp
+1053060|6 Nặng sử thi mũ giáp
+1053070|7 Nặng bất hủ mũ giáp
+1053080|8 Nặng hoàn mỹ mũ giáp
+1053090|9 Nặng thắng lợi mũ giáp
+1053100|10 Nặng chiến tranh mũ giáp
+1053110|11 Nặng truyền kỳ mũ giáp
+1053120|12 Nặng đỉnh phong mũ giáp
+1054000| Tân thủ mũ giáp
+1054010|1 Nặng đi săn mũ giáp
+1054020|2 Nặng cường hóa mũ giáp
+1054030|3 Nặng ưu lương mũ giáp
+1054040|4 Nặng viễn chinh mũ giáp
+1054050|5 Nặng trác tuyệt mũ giáp
+1054060|6 Nặng sử thi mũ giáp
+1054070|7 Nặng bất hủ mũ giáp
+1054080|8 Nặng hoàn mỹ mũ giáp
+1054090|9 Nặng thắng lợi mũ giáp
+1054100|10 Nặng chiến tranh mũ giáp
+1054110|11 Nặng truyền kỳ mũ giáp
+1054120|12 Nặng đỉnh phong mũ giáp
+1055001| Tân thủ mũ giáp
+1055011|1 Nặng 1 Tinh đi săn mũ giáp
+1055012|1 Nặng 2 Tinh đi săn mũ giáp
+1055013|1 Nặng 3 Tinh đi săn mũ giáp
+1055014|1 Nặng 4 Tinh đi săn mũ giáp
+1055015|1 Nặng 5 Tinh đi săn mũ giáp
+1055021|2 Nặng 1 Tinh cường hóa mũ giáp
+1055022|2 Nặng 2 Tinh cường hóa mũ giáp
+1055023|2 Nặng 3 Tinh cường hóa mũ giáp
+1055024|2 Nặng 4 Tinh cường hóa mũ giáp
+1055025|2 Nặng 5 Tinh cường hóa mũ giáp
+1055031|3 Nặng 1 Tinh ưu lương mũ giáp
+1055032|3 Nặng 2 Tinh ưu lương mũ giáp
+1055033|3 Nặng 3 Tinh ưu lương mũ giáp
+1055034|3 Nặng 4 Tinh ưu lương mũ giáp
+1055035|3 Nặng 5 Tinh ưu lương mũ giáp
+1055041|4 Nặng 1 Tinh viễn chinh mũ giáp
+1055042|4 Nặng 2 Tinh viễn chinh mũ giáp
+1055043|4 Nặng 3 Tinh viễn chinh mũ giáp
+1055044|4 Nặng 4 Tinh viễn chinh mũ giáp
+1055045|4 Nặng 5 Tinh viễn chinh mũ giáp
+1055051|5 Nặng 1 Tinh trác tuyệt mũ giáp
+1055052|5 Nặng 2 Tinh trác tuyệt mũ giáp
+1055053|5 Nặng 3 Tinh trác tuyệt mũ giáp
+1055054|5 Nặng 4 Tinh trác tuyệt mũ giáp
+1055055|5 Nặng 5 Tinh trác tuyệt mũ giáp
+1055061|6 Nặng 1 Tinh sử thi mũ giáp
+1055062|6 Nặng 2 Tinh sử thi mũ giáp
+1055063|6 Nặng 3 Tinh sử thi mũ giáp
+1055064|6 Nặng 4 Tinh sử thi mũ giáp
+1055065|6 Nặng 5 Tinh sử thi mũ giáp
+1055071|7 Nặng 1 Tinh bất hủ mũ giáp
+1055072|7 Nặng 2 Tinh bất hủ mũ giáp
+1055073|7 Nặng 3 Tinh bất hủ mũ giáp
+1055074|7 Nặng 4 Tinh bất hủ mũ giáp
+1055075|7 Nặng 5 Tinh bất hủ mũ giáp
+1055081|8 Nặng 1 Tinh hoàn mỹ mũ giáp
+1055082|8 Nặng 2 Tinh hoàn mỹ mũ giáp
+1055083|8 Nặng 3 Tinh hoàn mỹ mũ giáp
+1055084|8 Nặng 4 Tinh hoàn mỹ mũ giáp
+1055085|8 Nặng 5 Tinh hoàn mỹ mũ giáp
+1055091|9 Nặng 1 Tinh thắng lợi mũ giáp
+1055092|9 Nặng 2 Tinh thắng lợi mũ giáp
+1055093|9 Nặng 3 Tinh thắng lợi mũ giáp
+1055094|9 Nặng 4 Tinh thắng lợi mũ giáp
+1055095|9 Nặng 5 Tinh thắng lợi mũ giáp
+1055101|10 Nặng 1 Tinh chiến tranh mũ giáp
+1055102|10 Nặng 2 Tinh chiến tranh mũ giáp
+1055103|10 Nặng 3 Tinh chiến tranh mũ giáp
+1055104|10 Nặng 4 Tinh chiến tranh mũ giáp
+1055105|10 Nặng 5 Tinh chiến tranh mũ giáp
+1055111|11 Nặng 1 Tinh truyền kỳ mũ giáp
+1055112|11 Nặng 2 Tinh truyền kỳ mũ giáp
+1055113|11 Nặng 3 Tinh truyền kỳ mũ giáp
+1055114|11 Nặng 4 Tinh truyền kỳ mũ giáp
+1055115|11 Nặng 5 Tinh truyền kỳ mũ giáp
+1055121|12 Nặng 1 Tinh đỉnh phong mũ giáp
+1055122|12 Nặng 2 Tinh đỉnh phong mũ giáp
+1055123|12 Nặng 3 Tinh đỉnh phong mũ giáp
+1055124|12 Nặng 4 Tinh đỉnh phong mũ giáp
+1055125|12 Nặng 5 Tinh đỉnh phong mũ giáp
+1061000| Tân thủ hộ giáp
+1061010|1 Nặng đi săn hộ giáp
+1061020|2 Nặng cường hóa hộ giáp
+1061030|3 Nặng ưu lương hộ giáp
+1061040|4 Nặng viễn chinh hộ giáp
+1061050|5 Nặng trác tuyệt hộ giáp
+1061060|6 Nặng sử thi hộ giáp
+1061070|7 Nặng bất hủ hộ giáp
+1061080|8 Nặng hoàn mỹ hộ giáp
+1061090|9 Nặng thắng lợi hộ giáp
+1061100|10 Nặng chiến tranh hộ giáp
+1061110|11 Nặng truyền kỳ hộ giáp
+1061120|12 Nặng đỉnh phong hộ giáp
+1062000| Tân thủ hộ giáp
+1062010|1 Nặng đi săn hộ giáp
+1062020|2 Nặng cường hóa hộ giáp
+1062030|3 Nặng ưu lương hộ giáp
+1062040|4 Nặng viễn chinh hộ giáp
+1062050|5 Nặng trác tuyệt hộ giáp
+1062060|6 Nặng sử thi hộ giáp
+1062070|7 Nặng bất hủ hộ giáp
+1062080|8 Nặng hoàn mỹ hộ giáp
+1062090|9 Nặng thắng lợi hộ giáp
+1062100|10 Nặng chiến tranh hộ giáp
+1062110|11 Nặng truyền kỳ hộ giáp
+1062120|12 Nặng đỉnh phong hộ giáp
+1063000| Tân thủ hộ giáp
+1063010|1 Nặng đi săn hộ giáp
+1063020|2 Nặng cường hóa hộ giáp
+1063030|3 Nặng ưu lương hộ giáp
+1063040|4 Nặng viễn chinh hộ giáp
+1063050|5 Nặng trác tuyệt hộ giáp
+1063060|6 Nặng sử thi hộ giáp
+1063070|7 Nặng bất hủ hộ giáp
+1063080|8 Nặng hoàn mỹ hộ giáp
+1063090|9 Nặng thắng lợi hộ giáp
+1063100|10 Nặng chiến tranh hộ giáp
+1063110|11 Nặng truyền kỳ hộ giáp
+1063120|12 Nặng đỉnh phong hộ giáp
+1064000| Tân thủ hộ giáp
+1064010|1 Nặng đi săn hộ giáp
+1064020|2 Nặng cường hóa hộ giáp
+1064030|3 Nặng ưu lương hộ giáp
+1064040|4 Nặng viễn chinh hộ giáp
+1064050|5 Nặng trác tuyệt hộ giáp
+1064060|6 Nặng sử thi hộ giáp
+1064070|7 Nặng bất hủ hộ giáp
+1064080|8 Nặng hoàn mỹ hộ giáp
+1064090|9 Nặng thắng lợi hộ giáp
+1064100|10 Nặng chiến tranh hộ giáp
+1064110|11 Nặng truyền kỳ hộ giáp
+1064120|12 Nặng đỉnh phong hộ giáp
+1065001| Tân thủ hộ giáp
+1065011|1 Nặng 1 Tinh đi săn hộ giáp
+1065012|1 Nặng 2 Tinh đi săn hộ giáp
+1065013|1 Nặng 3 Tinh đi săn hộ giáp
+1065014|1 Nặng 4 Tinh đi săn hộ giáp
+1065015|1 Nặng 5 Tinh đi săn hộ giáp
+1065021|2 Nặng 1 Tinh cường hóa hộ giáp
+1065022|2 Nặng 2 Tinh cường hóa hộ giáp
+1065023|2 Nặng 3 Tinh cường hóa hộ giáp
+1065024|2 Nặng 4 Tinh cường hóa hộ giáp
+1065025|2 Nặng 5 Tinh cường hóa hộ giáp
+1065031|3 Nặng 1 Tinh ưu lương hộ giáp
+1065032|3 Nặng 2 Tinh ưu lương hộ giáp
+1065033|3 Nặng 3 Tinh ưu lương hộ giáp
+1065034|3 Nặng 4 Tinh ưu lương hộ giáp
+1065035|3 Nặng 5 Tinh ưu lương hộ giáp
+1065041|4 Nặng 1 Tinh viễn chinh hộ giáp
+1065042|4 Nặng 2 Tinh viễn chinh hộ giáp
+1065043|4 Nặng 3 Tinh viễn chinh hộ giáp
+1065044|4 Nặng 4 Tinh viễn chinh hộ giáp
+1065045|4 Nặng 5 Tinh viễn chinh hộ giáp
+1065051|5 Nặng 1 Tinh trác tuyệt hộ giáp
+1065052|5 Nặng 2 Tinh trác tuyệt hộ giáp
+1065053|5 Nặng 3 Tinh trác tuyệt hộ giáp
+1065054|5 Nặng 4 Tinh trác tuyệt hộ giáp
+1065055|5 Nặng 5 Tinh trác tuyệt hộ giáp
+1065061|6 Nặng 1 Tinh sử thi hộ giáp
+1065062|6 Nặng 2 Tinh sử thi hộ giáp
+1065063|6 Nặng 3 Tinh sử thi hộ giáp
+1065064|6 Nặng 4 Tinh sử thi hộ giáp
+1065065|6 Nặng 5 Tinh sử thi hộ giáp
+1065071|7 Nặng 1 Tinh bất hủ hộ giáp
+1065072|7 Nặng 2 Tinh bất hủ hộ giáp
+1065073|7 Nặng 3 Tinh bất hủ hộ giáp
+1065074|7 Nặng 4 Tinh bất hủ hộ giáp
+1065075|7 Nặng 5 Tinh bất hủ hộ giáp
+1065081|8 Nặng 1 Tinh hoàn mỹ hộ giáp
+1065082|8 Nặng 2 Tinh hoàn mỹ hộ giáp
+1065083|8 Nặng 3 Tinh hoàn mỹ hộ giáp
+1065084|8 Nặng 4 Tinh hoàn mỹ hộ giáp
+1065085|8 Nặng 5 Tinh hoàn mỹ hộ giáp
+1065091|9 Nặng 1 Tinh thắng lợi hộ giáp
+1065092|9 Nặng 2 Tinh thắng lợi hộ giáp
+1065093|9 Nặng 3 Tinh thắng lợi hộ giáp
+1065094|9 Nặng 4 Tinh thắng lợi hộ giáp
+1065095|9 Nặng 5 Tinh thắng lợi hộ giáp
+1065101|10 Nặng 1 Tinh chiến tranh hộ giáp
+1065102|10 Nặng 2 Tinh chiến tranh hộ giáp
+1065103|10 Nặng 3 Tinh chiến tranh hộ giáp
+1065104|10 Nặng 4 Tinh chiến tranh hộ giáp
+1065105|10 Nặng 5 Tinh chiến tranh hộ giáp
+1065111|11 Nặng 1 Tinh truyền kỳ hộ giáp
+1065112|11 Nặng 2 Tinh truyền kỳ hộ giáp
+1065113|11 Nặng 3 Tinh truyền kỳ hộ giáp
+1065114|11 Nặng 4 Tinh truyền kỳ hộ giáp
+1065115|11 Nặng 5 Tinh truyền kỳ hộ giáp
+1065121|12 Nặng 1 Tinh đỉnh phong hộ giáp
+1065122|12 Nặng 2 Tinh đỉnh phong hộ giáp
+1065123|12 Nặng 3 Tinh đỉnh phong hộ giáp
+1065124|12 Nặng 4 Tinh đỉnh phong hộ giáp
+1065125|12 Nặng 5 Tinh đỉnh phong hộ giáp
+1071000| Tân thủ đai lưng
+1071010|1 Nặng đi săn đai lưng
+1071020|2 Nặng cường hóa đai lưng
+1071030|3 Nặng ưu lương đai lưng
+1071040|4 Nặng viễn chinh đai lưng
+1071050|5 Nặng trác tuyệt đai lưng
+1071060|6 Nặng sử thi đai lưng
+1071070|7 Nặng bất hủ đai lưng
+1071080|8 Nặng hoàn mỹ đai lưng
+1071090|9 Nặng thắng lợi đai lưng
+1071100|10 Nặng chiến tranh đai lưng
+1071110|11 Nặng truyền kỳ đai lưng
+1071120|12 Nặng đỉnh phong đai lưng
+1072000| Tân thủ đai lưng
+1072010|1 Nặng đi săn đai lưng
+1072020|2 Nặng cường hóa đai lưng
+1072030|3 Nặng ưu lương đai lưng
+1072040|4 Nặng viễn chinh đai lưng
+1072050|5 Nặng trác tuyệt đai lưng
+1072060|6 Nặng sử thi đai lưng
+1072070|7 Nặng bất hủ đai lưng
+1072080|8 Nặng hoàn mỹ đai lưng
+1072090|9 Nặng thắng lợi đai lưng
+1072100|10 Nặng chiến tranh đai lưng
+1072110|11 Nặng truyền kỳ đai lưng
+1072120|12 Nặng đỉnh phong đai lưng
+1073000| Tân thủ đai lưng
+1073010|1 Nặng đi săn đai lưng
+1073020|2 Nặng cường hóa đai lưng
+1073030|3 Nặng ưu lương đai lưng
+1073040|4 Nặng viễn chinh đai lưng
+1073050|5 Nặng trác tuyệt đai lưng
+1073060|6 Nặng sử thi đai lưng
+1073070|7 Nặng bất hủ đai lưng
+1073080|8 Nặng hoàn mỹ đai lưng
+1073090|9 Nặng thắng lợi đai lưng
+1073100|10 Nặng chiến tranh đai lưng
+1073110|11 Nặng truyền kỳ đai lưng
+1073120|12 Nặng đỉnh phong đai lưng
+1074000| Tân thủ đai lưng
+1074010|1 Nặng đi săn đai lưng
+1074020|2 Nặng cường hóa đai lưng
+1074030|3 Nặng ưu lương đai lưng
+1074040|4 Nặng viễn chinh đai lưng
+1074050|5 Nặng trác tuyệt đai lưng
+1074060|6 Nặng sử thi đai lưng
+1074070|7 Nặng bất hủ đai lưng
+1074080|8 Nặng hoàn mỹ đai lưng
+1074090|9 Nặng thắng lợi đai lưng
+1074100|10 Nặng chiến tranh đai lưng
+1074110|11 Nặng truyền kỳ đai lưng
+1074120|12 Nặng đỉnh phong đai lưng
+1075001| Tân thủ đai lưng
+1075011|1 Nặng 1 Tinh đi săn đai lưng
+1075012|1 Nặng 2 Tinh đi săn đai lưng
+1075013|1 Nặng 3 Tinh đi săn đai lưng
+1075014|1 Nặng 4 Tinh đi săn đai lưng
+1075015|1 Nặng 5 Tinh đi săn đai lưng
+1075021|2 Nặng 1 Tinh cường hóa đai lưng
+1075022|2 Nặng 2 Tinh cường hóa đai lưng
+1075023|2 Nặng 3 Tinh cường hóa đai lưng
+1075024|2 Nặng 4 Tinh cường hóa đai lưng
+1075025|2 Nặng 5 Tinh cường hóa đai lưng
+1075031|3 Nặng 1 Tinh ưu lương đai lưng
+1075032|3 Nặng 2 Tinh ưu lương đai lưng
+1075033|3 Nặng 3 Tinh ưu lương đai lưng
+1075034|3 Nặng 4 Tinh ưu lương đai lưng
+1075035|3 Nặng 5 Tinh ưu lương đai lưng
+1075041|4 Nặng 1 Tinh viễn chinh đai lưng
+1075042|4 Nặng 2 Tinh viễn chinh đai lưng
+1075043|4 Nặng 3 Tinh viễn chinh đai lưng
+1075044|4 Nặng 4 Tinh viễn chinh đai lưng
+1075045|4 Nặng 5 Tinh viễn chinh đai lưng
+1075051|5 Nặng 1 Tinh trác tuyệt đai lưng
+1075052|5 Nặng 2 Tinh trác tuyệt đai lưng
+1075053|5 Nặng 3 Tinh trác tuyệt đai lưng
+1075054|5 Nặng 4 Tinh trác tuyệt đai lưng
+1075055|5 Nặng 5 Tinh trác tuyệt đai lưng
+1075061|6 Nặng 1 Tinh sử thi đai lưng
+1075062|6 Nặng 2 Tinh sử thi đai lưng
+1075063|6 Nặng 3 Tinh sử thi đai lưng
+1075064|6 Nặng 4 Tinh sử thi đai lưng
+1075065|6 Nặng 5 Tinh sử thi đai lưng
+1075071|7 Nặng 1 Tinh bất hủ đai lưng
+1075072|7 Nặng 2 Tinh bất hủ đai lưng
+1075073|7 Nặng 3 Tinh bất hủ đai lưng
+1075074|7 Nặng 4 Tinh bất hủ đai lưng
+1075075|7 Nặng 5 Tinh bất hủ đai lưng
+1075081|8 Nặng 1 Tinh hoàn mỹ đai lưng
+1075082|8 Nặng 2 Tinh hoàn mỹ đai lưng
+1075083|8 Nặng 3 Tinh hoàn mỹ đai lưng
+1075084|8 Nặng 4 Tinh hoàn mỹ đai lưng
+1075085|8 Nặng 5 Tinh hoàn mỹ đai lưng
+1075091|9 Nặng 1 Tinh thắng lợi đai lưng
+1075092|9 Nặng 2 Tinh thắng lợi đai lưng
+1075093|9 Nặng 3 Tinh thắng lợi đai lưng
+1075094|9 Nặng 4 Tinh thắng lợi đai lưng
+1075095|9 Nặng 5 Tinh thắng lợi đai lưng
+1075101|10 Nặng 1 Tinh chiến tranh đai lưng
+1075102|10 Nặng 2 Tinh chiến tranh đai lưng
+1075103|10 Nặng 3 Tinh chiến tranh đai lưng
+1075104|10 Nặng 4 Tinh chiến tranh đai lưng
+1075105|10 Nặng 5 Tinh chiến tranh đai lưng
+1075111|11 Nặng 1 Tinh truyền kỳ đai lưng
+1075112|11 Nặng 2 Tinh truyền kỳ đai lưng
+1075113|11 Nặng 3 Tinh truyền kỳ đai lưng
+1075114|11 Nặng 4 Tinh truyền kỳ đai lưng
+1075115|11 Nặng 5 Tinh truyền kỳ đai lưng
+1075121|12 Nặng 1 Tinh đỉnh phong đai lưng
+1075122|12 Nặng 2 Tinh đỉnh phong đai lưng
+1075123|12 Nặng 3 Tinh đỉnh phong đai lưng
+1075124|12 Nặng 4 Tinh đỉnh phong đai lưng
+1075125|12 Nặng 5 Tinh đỉnh phong đai lưng
+1081000| Tân thủ hộ thối
+1081010|1 Nặng đi săn hộ thối
+1081020|2 Nặng cường hóa hộ thối
+1081030|3 Nặng ưu lương hộ thối
+1081040|4 Nặng viễn chinh hộ thối
+1081050|5 Nặng trác tuyệt hộ thối
+1081060|6 Nặng sử thi hộ thối
+1081070|7 Nặng bất hủ hộ thối
+1081080|8 Nặng hoàn mỹ hộ thối
+1081090|9 Nặng thắng lợi hộ thối
+1081100|10 Nặng chiến tranh hộ thối
+1081110|11 Nặng truyền kỳ hộ thối
+1081120|12 Nặng đỉnh phong hộ thối
+1082000| Tân thủ hộ thối
+1082010|1 Nặng đi săn hộ thối
+1082020|2 Nặng cường hóa hộ thối
+1082030|3 Nặng ưu lương hộ thối
+1082040|4 Nặng viễn chinh hộ thối
+1082050|5 Nặng trác tuyệt hộ thối
+1082060|6 Nặng sử thi hộ thối
+1082070|7 Nặng bất hủ hộ thối
+1082080|8 Nặng hoàn mỹ hộ thối
+1082090|9 Nặng thắng lợi hộ thối
+1082100|10 Nặng chiến tranh hộ thối
+1082110|11 Nặng truyền kỳ hộ thối
+1082120|12 Nặng đỉnh phong hộ thối
+1083000| Tân thủ hộ thối
+1083010|1 Nặng đi săn hộ thối
+1083020|2 Nặng cường hóa hộ thối
+1083030|3 Nặng ưu lương hộ thối
+1083040|4 Nặng viễn chinh hộ thối
+1083050|5 Nặng trác tuyệt hộ thối
+1083060|6 Nặng sử thi hộ thối
+1083070|7 Nặng bất hủ hộ thối
+1083080|8 Nặng hoàn mỹ hộ thối
+1083090|9 Nặng thắng lợi hộ thối
+1083100|10 Nặng chiến tranh hộ thối
+1083110|11 Nặng truyền kỳ hộ thối
+1083120|12 Nặng đỉnh phong hộ thối
+1084000| Tân thủ hộ thối
+1084010|1 Nặng đi săn hộ thối
+1084020|2 Nặng cường hóa hộ thối
+1084030|3 Nặng ưu lương hộ thối
+1084040|4 Nặng viễn chinh hộ thối
+1084050|5 Nặng trác tuyệt hộ thối
+1084060|6 Nặng sử thi hộ thối
+1084070|7 Nặng bất hủ hộ thối
+1084080|8 Nặng hoàn mỹ hộ thối
+1084090|9 Nặng thắng lợi hộ thối
+1084100|10 Nặng chiến tranh hộ thối
+1084110|11 Nặng truyền kỳ hộ thối
+1084120|12 Nặng đỉnh phong hộ thối
+1085001| Tân thủ hộ thối
+1085011|1 Nặng 1 Tinh đi săn hộ thối
+1085012|1 Nặng 2 Tinh đi săn hộ thối
+1085013|1 Nặng 3 Tinh đi săn hộ thối
+1085014|1 Nặng 4 Tinh đi săn hộ thối
+1085015|1 Nặng 5 Tinh đi săn hộ thối
+1085021|2 Nặng 1 Tinh cường hóa hộ thối
+1085022|2 Nặng 2 Tinh cường hóa hộ thối
+1085023|2 Nặng 3 Tinh cường hóa hộ thối
+1085024|2 Nặng 4 Tinh cường hóa hộ thối
+1085025|2 Nặng 5 Tinh cường hóa hộ thối
+1085031|3 Nặng 1 Tinh ưu lương hộ thối
+1085032|3 Nặng 2 Tinh ưu lương hộ thối
+1085033|3 Nặng 3 Tinh ưu lương hộ thối
+1085034|3 Nặng 4 Tinh ưu lương hộ thối
+1085035|3 Nặng 5 Tinh ưu lương hộ thối
+1085041|4 Nặng 1 Tinh viễn chinh hộ thối
+1085042|4 Nặng 2 Tinh viễn chinh hộ thối
+1085043|4 Nặng 3 Tinh viễn chinh hộ thối
+1085044|4 Nặng 4 Tinh viễn chinh hộ thối
+1085045|4 Nặng 5 Tinh viễn chinh hộ thối
+1085051|5 Nặng 1 Tinh trác tuyệt hộ thối
+1085052|5 Nặng 2 Tinh trác tuyệt hộ thối
+1085053|5 Nặng 3 Tinh trác tuyệt hộ thối
+1085054|5 Nặng 4 Tinh trác tuyệt hộ thối
+1085055|5 Nặng 5 Tinh trác tuyệt hộ thối
+1085061|6 Nặng 1 Tinh sử thi hộ thối
+1085062|6 Nặng 2 Tinh sử thi hộ thối
+1085063|6 Nặng 3 Tinh sử thi hộ thối
+1085064|6 Nặng 4 Tinh sử thi hộ thối
+1085065|6 Nặng 5 Tinh sử thi hộ thối
+1085071|7 Nặng 1 Tinh bất hủ hộ thối
+1085072|7 Nặng 2 Tinh bất hủ hộ thối
+1085073|7 Nặng 3 Tinh bất hủ hộ thối
+1085074|7 Nặng 4 Tinh bất hủ hộ thối
+1085075|7 Nặng 5 Tinh bất hủ hộ thối
+1085081|8 Nặng 1 Tinh hoàn mỹ hộ thối
+1085082|8 Nặng 2 Tinh hoàn mỹ hộ thối
+1085083|8 Nặng 3 Tinh hoàn mỹ hộ thối
+1085084|8 Nặng 4 Tinh hoàn mỹ hộ thối
+1085085|8 Nặng 5 Tinh hoàn mỹ hộ thối
+1085091|9 Nặng 1 Tinh thắng lợi hộ thối
+1085092|9 Nặng 2 Tinh thắng lợi hộ thối
+1085093|9 Nặng 3 Tinh thắng lợi hộ thối
+1085094|9 Nặng 4 Tinh thắng lợi hộ thối
+1085095|9 Nặng 5 Tinh thắng lợi hộ thối
+1085101|10 Nặng 1 Tinh chiến tranh hộ thối
+1085102|10 Nặng 2 Tinh chiến tranh hộ thối
+1085103|10 Nặng 3 Tinh chiến tranh hộ thối
+1085104|10 Nặng 4 Tinh chiến tranh hộ thối
+1085105|10 Nặng 5 Tinh chiến tranh hộ thối
+1085111|11 Nặng 1 Tinh truyền kỳ hộ thối
+1085112|11 Nặng 2 Tinh truyền kỳ hộ thối
+1085113|11 Nặng 3 Tinh truyền kỳ hộ thối
+1085114|11 Nặng 4 Tinh truyền kỳ hộ thối
+1085115|11 Nặng 5 Tinh truyền kỳ hộ thối
+1085121|12 Nặng 1 Tinh đỉnh phong hộ thối
+1085122|12 Nặng 2 Tinh đỉnh phong hộ thối
+1085123|12 Nặng 3 Tinh đỉnh phong hộ thối
+1085124|12 Nặng 4 Tinh đỉnh phong hộ thối
+1085125|12 Nặng 5 Tinh đỉnh phong hộ thối
+1091000| Tân thủ giày chiến
+1091010|1 Nặng Thú Liệp chiến giày
+1091020|2 Nặng cường hóa giày chiến
+1091030|3 Nặng ưu lương giày chiến
+1091040|4 Nặng viễn chinh giày chiến
+1091050|5 Nặng trác tuyệt giày chiến
+1091060|6 Nặng sử thi giày chiến
+1091070|7 Nặng bất hủ giày chiến
+1091080|8 Nặng hoàn mỹ giày chiến
+1091090|9 Nặng thắng lợi giày chiến
+1091100|10 Nặng chiến tranh giày chiến
+1091110|11 Nặng truyền kỳ giày chiến
+1091120|12 Nặng đỉnh phong giày chiến
+1092000| Tân thủ giày chiến
+1092010|1 Nặng Thú Liệp chiến giày
+1092020|2 Nặng cường hóa giày chiến
+1092030|3 Nặng ưu lương giày chiến
+1092040|4 Nặng viễn chinh giày chiến
+1092050|5 Nặng trác tuyệt giày chiến
+1092060|6 Nặng sử thi giày chiến
+1092070|7 Nặng bất hủ giày chiến
+1092080|8 Nặng hoàn mỹ giày chiến
+1092090|9 Nặng thắng lợi giày chiến
+1092100|10 Nặng chiến tranh giày chiến
+1092110|11 Nặng truyền kỳ giày chiến
+1092120|12 Nặng đỉnh phong giày chiến
+1093000| Tân thủ giày chiến
+1093010|1 Nặng Thú Liệp chiến giày
+1093020|2 Nặng cường hóa giày chiến
+1093030|3 Nặng ưu lương giày chiến
+1093040|4 Nặng viễn chinh giày chiến
+1093050|5 Nặng trác tuyệt giày chiến
+1093060|6 Nặng sử thi giày chiến
+1093070|7 Nặng bất hủ giày chiến
+1093080|8 Nặng hoàn mỹ giày chiến
+1093090|9 Nặng thắng lợi giày chiến
+1093100|10 Nặng chiến tranh giày chiến
+1093110|11 Nặng truyền kỳ giày chiến
+1093120|12 Nặng đỉnh phong giày chiến
+1094000| Tân thủ giày chiến
+1094010|1 Nặng Thú Liệp chiến giày
+1094020|2 Nặng cường hóa giày chiến
+1094030|3 Nặng ưu lương giày chiến
+1094040|4 Nặng viễn chinh giày chiến
+1094050|5 Nặng trác tuyệt giày chiến
+1094060|6 Nặng sử thi giày chiến
+1094070|7 Nặng bất hủ giày chiến
+1094080|8 Nặng hoàn mỹ giày chiến
+1094090|9 Nặng thắng lợi giày chiến
+1094100|10 Nặng chiến tranh giày chiến
+1094110|11 Nặng truyền kỳ giày chiến
+1094120|12 Nặng đỉnh phong giày chiến
+1095001| Tân thủ giày chiến
+1095011|1 Nặng 1 Tinh Thú Liệp chiến giày
+1095012|1 Nặng 2 Tinh Thú Liệp chiến giày
+1095013|1 Nặng 3 Tinh Thú Liệp chiến giày
+1095014|1 Nặng 4 Tinh Thú Liệp chiến giày
+1095015|1 Nặng 5 Tinh Thú Liệp chiến giày
+1095021|2 Nặng 1 Tinh cường hóa giày chiến
+1095022|2 Nặng 2 Tinh cường hóa giày chiến
+1095023|2 Nặng 3 Tinh cường hóa giày chiến
+1095024|2 Nặng 4 Tinh cường hóa giày chiến
+1095025|2 Nặng 5 Tinh cường hóa giày chiến
+1095031|3 Nặng 1 Tinh ưu lương giày chiến
+1095032|3 Nặng 2 Tinh ưu lương giày chiến
+1095033|3 Nặng 3 Tinh ưu lương giày chiến
+1095034|3 Nặng 4 Tinh ưu lương giày chiến
+1095035|3 Nặng 5 Tinh ưu lương giày chiến
+1095041|4 Nặng 1 Tinh viễn chinh giày chiến
+1095042|4 Nặng 2 Tinh viễn chinh giày chiến
+1095043|4 Nặng 3 Tinh viễn chinh giày chiến
+1095044|4 Nặng 4 Tinh viễn chinh giày chiến
+1095045|4 Nặng 5 Tinh viễn chinh giày chiến
+1095051|5 Nặng 1 Tinh trác tuyệt giày chiến
+1095052|5 Nặng 2 Tinh trác tuyệt giày chiến
+1095053|5 Nặng 3 Tinh trác tuyệt giày chiến
+1095054|5 Nặng 4 Tinh trác tuyệt giày chiến
+1095055|5 Nặng 5 Tinh trác tuyệt giày chiến
+1095061|6 Nặng 1 Tinh sử thi giày chiến
+1095062|6 Nặng 2 Tinh sử thi giày chiến
+1095063|6 Nặng 3 Tinh sử thi giày chiến
+1095064|6 Nặng 4 Tinh sử thi giày chiến
+1095065|6 Nặng 5 Tinh sử thi giày chiến
+1095071|7 Nặng 1 Tinh bất hủ giày chiến
+1095072|7 Nặng 2 Tinh bất hủ giày chiến
+1095073|7 Nặng 3 Tinh bất hủ giày chiến
+1095074|7 Nặng 4 Tinh bất hủ giày chiến
+1095075|7 Nặng 5 Tinh bất hủ giày chiến
+1095081|8 Nặng 1 Tinh hoàn mỹ giày chiến
+1095082|8 Nặng 2 Tinh hoàn mỹ giày chiến
+1095083|8 Nặng 3 Tinh hoàn mỹ giày chiến
+1095084|8 Nặng 4 Tinh hoàn mỹ giày chiến
+1095085|8 Nặng 5 Tinh hoàn mỹ giày chiến
+1095091|9 Nặng 1 Tinh thắng lợi giày chiến
+1095092|9 Nặng 2 Tinh thắng lợi giày chiến
+1095093|9 Nặng 3 Tinh thắng lợi giày chiến
+1095094|9 Nặng 4 Tinh thắng lợi giày chiến
+1095095|9 Nặng 5 Tinh thắng lợi giày chiến
+1095101|10 Nặng 1 Tinh chiến đánh trận giày
+1095102|10 Nặng 2 Tinh chiến đánh trận giày
+1095103|10 Nặng 3 Tinh chiến đánh trận giày
+1095104|10 Nặng 4 Tinh chiến đánh trận giày
+1095105|10 Nặng 5 Tinh chiến đánh trận giày
+1095111|11 Nặng 1 Tinh truyền kỳ giày chiến
+1095112|11 Nặng 2 Tinh truyền kỳ giày chiến
+1095113|11 Nặng 3 Tinh truyền kỳ giày chiến
+1095114|11 Nặng 4 Tinh truyền kỳ giày chiến
+1095115|11 Nặng 5 Tinh truyền kỳ giày chiến
+1095121|12 Nặng 1 Tinh đỉnh phong giày chiến
+1095122|12 Nặng 2 Tinh đỉnh phong giày chiến
+1095123|12 Nặng 3 Tinh đỉnh phong giày chiến
+1095124|12 Nặng 4 Tinh đỉnh phong giày chiến
+1095125|12 Nặng 5 Tinh đỉnh phong giày chiến
+1102010|1 Giai bàn đạp
+1102020|2 Giai bàn đạp
+1102030|3 Giai bàn đạp
+1102040|4 Giai bàn đạp
+1102050|5 Giai bàn đạp
+1102060|6 Giai bàn đạp
+1102070|7 Giai bàn đạp
+1102080|8 Giai bàn đạp
+1102090|9 Giai bàn đạp
+1102100|10 Giai bàn đạp
+1103010|1 Giai bàn đạp
+1103020|2 Giai bàn đạp
+1103030|3 Giai bàn đạp
+1103040|4 Giai bàn đạp
+1103050|5 Giai bàn đạp
+1103060|6 Giai bàn đạp
+1103070|7 Giai bàn đạp
+1103080|8 Giai bàn đạp
+1103090|9 Giai bàn đạp
+1103100|10 Giai bàn đạp
+1104010|1 Giai bàn đạp
+1104020|2 Giai bàn đạp
+1104030|3 Giai bàn đạp
+1104040|4 Giai bàn đạp
+1104050|5 Giai bàn đạp
+1104060|6 Giai bàn đạp
+1104070|7 Giai bàn đạp
+1104080|8 Giai bàn đạp
+1104090|9 Giai bàn đạp
+1104100|10 Giai bàn đạp
+1105010|1 Giai bàn đạp
+1105020|2 Giai bàn đạp
+1105030|3 Giai bàn đạp
+1105040|4 Giai bàn đạp
+1105050|5 Giai bàn đạp
+1105060|6 Giai bàn đạp
+1105070|7 Giai bàn đạp
+1105080|8 Giai bàn đạp
+1105090|9 Giai bàn đạp
+1105100|10 Giai bàn đạp
+1112010|1 Giai vòng cổ
+1112020|2 Giai vòng cổ
+1112030|3 Giai vòng cổ
+1112040|4 Giai vòng cổ
+1112050|5 Giai vòng cổ
+1112060|6 Giai vòng cổ
+1112070|7 Giai vòng cổ
+1112080|8 Giai vòng cổ
+1112090|9 Giai vòng cổ
+1112100|10 Giai vòng cổ
+1113010|1 Giai vòng cổ
+1113020|2 Giai vòng cổ
+1113030|3 Giai vòng cổ
+1113040|4 Giai vòng cổ
+1113050|5 Giai vòng cổ
+1113060|6 Giai vòng cổ
+1113070|7 Giai vòng cổ
+1113080|8 Giai vòng cổ
+1113090|9 Giai vòng cổ
+1113100|10 Giai vòng cổ
+1114010|1 Giai vòng cổ
+1114020|2 Giai vòng cổ
+1114030|3 Giai vòng cổ
+1114040|4 Giai vòng cổ
+1114050|5 Giai vòng cổ
+1114060|6 Giai vòng cổ
+1114070|7 Giai vòng cổ
+1114080|8 Giai vòng cổ
+1114090|9 Giai vòng cổ
+1114100|10 Giai vòng cổ
+1115010|1 Giai vòng cổ
+1115020|2 Giai vòng cổ
+1115030|3 Giai vòng cổ
+1115040|4 Giai vòng cổ
+1115050|5 Giai vòng cổ
+1115060|6 Giai vòng cổ
+1115070|7 Giai vòng cổ
+1115080|8 Giai vòng cổ
+1115090|9 Giai vòng cổ
+1115100|10 Giai vòng cổ
+1122010|1 Giai cưỡi nón trụ
+1122020|2 Giai cưỡi nón trụ
+1122030|3 Giai cưỡi nón trụ
+1122040|4 Giai cưỡi nón trụ
+1122050|5 Giai cưỡi nón trụ
+1122060|6 Giai cưỡi nón trụ
+1122070|7 Giai cưỡi nón trụ
+1122080|8 Giai cưỡi nón trụ
+1122090|9 Giai cưỡi nón trụ
+1122100|10 Giai cưỡi nón trụ
+1123010|1 Giai cưỡi nón trụ
+1123020|2 Giai cưỡi nón trụ
+1123030|3 Giai cưỡi nón trụ
+1123040|4 Giai cưỡi nón trụ
+1123050|5 Giai cưỡi nón trụ
+1123060|6 Giai cưỡi nón trụ
+1123070|7 Giai cưỡi nón trụ
+1123080|8 Giai cưỡi nón trụ
+1123090|9 Giai cưỡi nón trụ
+1123100|10 Giai cưỡi nón trụ
+1124010|1 Giai cưỡi nón trụ
+1124020|2 Giai cưỡi nón trụ
+1124030|3 Giai cưỡi nón trụ
+1124040|4 Giai cưỡi nón trụ
+1124050|5 Giai cưỡi nón trụ
+1124060|6 Giai cưỡi nón trụ
+1124070|7 Giai cưỡi nón trụ
+1124080|8 Giai cưỡi nón trụ
+1124090|9 Giai cưỡi nón trụ
+1124100|10 Giai cưỡi nón trụ
+1125010|1 Giai cưỡi nón trụ
+1125020|2 Giai cưỡi nón trụ
+1125030|3 Giai cưỡi nón trụ
+1125040|4 Giai cưỡi nón trụ
+1125050|5 Giai cưỡi nón trụ
+1125060|6 Giai cưỡi nón trụ
+1125070|7 Giai cưỡi nón trụ
+1125080|8 Giai cưỡi nón trụ
+1125090|9 Giai cưỡi nón trụ
+1125100|10 Giai cưỡi nón trụ
+1132010|1 Giai lợi trảo
+1132020|2 Giai lợi trảo
+1132030|3 Giai lợi trảo
+1132040|4 Giai lợi trảo
+1132050|5 Giai lợi trảo
+1132060|6 Giai lợi trảo
+1132070|7 Giai lợi trảo
+1132080|8 Giai lợi trảo
+1132090|9 Giai lợi trảo
+1132100|10 Giai lợi trảo
+1133010|1 Giai lợi trảo
+1133020|2 Giai lợi trảo
+1133030|3 Giai lợi trảo
+1133040|4 Giai lợi trảo
+1133050|5 Giai lợi trảo
+1133060|6 Giai lợi trảo
+1133070|7 Giai lợi trảo
+1133080|8 Giai lợi trảo
+1133090|9 Giai lợi trảo
+1133100|10 Giai lợi trảo
+1134010|1 Giai lợi trảo
+1134020|2 Giai lợi trảo
+1134030|3 Giai lợi trảo
+1134040|4 Giai lợi trảo
+1134050|5 Giai lợi trảo
+1134060|6 Giai lợi trảo
+1134070|7 Giai lợi trảo
+1134080|8 Giai lợi trảo
+1134090|9 Giai lợi trảo
+1134100|10 Giai lợi trảo
+1135010|1 Giai lợi trảo
+1135020|2 Giai lợi trảo
+1135030|3 Giai lợi trảo
+1135040|4 Giai lợi trảo
+1135050|5 Giai lợi trảo
+1135060|6 Giai lợi trảo
+1135070|7 Giai lợi trảo
+1135080|8 Giai lợi trảo
+1135090|9 Giai lợi trảo
+1135100|10 Giai lợi trảo
+1202010|1 Giai mũi kiếm
+1202020|2 Giai mũi kiếm
+1202030|3 Giai mũi kiếm
+1202040|4 Giai mũi kiếm
+1202050|5 Giai mũi kiếm
+1202060|6 Giai mũi kiếm
+1202070|7 Giai mũi kiếm
+1202080|8 Giai mũi kiếm
+1202090|9 Giai mũi kiếm
+1202100|10 Giai mũi kiếm
+1203010|1 Giai mũi kiếm
+1203020|2 Giai mũi kiếm
+1203030|3 Giai mũi kiếm
+1203040|4 Giai mũi kiếm
+1203050|5 Giai mũi kiếm
+1203060|6 Giai mũi kiếm
+1203070|7 Giai mũi kiếm
+1203080|8 Giai mũi kiếm
+1203090|9 Giai mũi kiếm
+1203100|10 Giai mũi kiếm
+1204010|1 Giai mũi kiếm
+1204020|2 Giai mũi kiếm
+1204030|3 Giai mũi kiếm
+1204040|4 Giai mũi kiếm
+1204050|5 Giai mũi kiếm
+1204060|6 Giai mũi kiếm
+1204070|7 Giai mũi kiếm
+1204080|8 Giai mũi kiếm
+1204090|9 Giai mũi kiếm
+1204100|10 Giai mũi kiếm
+1205010|1 Giai mũi kiếm
+1205020|2 Giai mũi kiếm
+1205030|3 Giai mũi kiếm
+1205040|4 Giai mũi kiếm
+1205050|5 Giai mũi kiếm
+1205060|6 Giai mũi kiếm
+1205070|7 Giai mũi kiếm
+1205080|8 Giai mũi kiếm
+1205090|9 Giai mũi kiếm
+1205100|10 Giai mũi kiếm
+1212010|1 Giai chuôi kiếm
+1212020|2 Giai chuôi kiếm
+1212030|3 Giai chuôi kiếm
+1212040|4 Giai chuôi kiếm
+1212050|5 Giai chuôi kiếm
+1212060|6 Giai chuôi kiếm
+1212070|7 Giai chuôi kiếm
+1212080|8 Giai chuôi kiếm
+1212090|9 Giai chuôi kiếm
+1212100|10 Giai chuôi kiếm
+1213010|1 Giai chuôi kiếm
+1213020|2 Giai chuôi kiếm
+1213030|3 Giai chuôi kiếm
+1213040|4 Giai chuôi kiếm
+1213050|5 Giai chuôi kiếm
+1213060|6 Giai chuôi kiếm
+1213070|7 Giai chuôi kiếm
+1213080|8 Giai chuôi kiếm
+1213090|9 Giai chuôi kiếm
+1213100|10 Giai chuôi kiếm
+1214010|1 Giai chuôi kiếm
+1214020|2 Giai chuôi kiếm
+1214030|3 Giai chuôi kiếm
+1214040|4 Giai chuôi kiếm
+1214050|5 Giai chuôi kiếm
+1214060|6 Giai chuôi kiếm
+1214070|7 Giai chuôi kiếm
+1214080|8 Giai chuôi kiếm
+1214090|9 Giai chuôi kiếm
+1214100|10 Giai chuôi kiếm
+1215010|1 Giai chuôi kiếm
+1215020|2 Giai chuôi kiếm
+1215030|3 Giai chuôi kiếm
+1215040|4 Giai chuôi kiếm
+1215050|5 Giai chuôi kiếm
+1215060|6 Giai chuôi kiếm
+1215070|7 Giai chuôi kiếm
+1215080|8 Giai chuôi kiếm
+1215090|9 Giai chuôi kiếm
+1215100|10 Giai chuôi kiếm
+1222010|1 Giai kiếm tích
+1222020|2 Giai kiếm tích
+1222030|3 Giai kiếm tích
+1222040|4 Giai kiếm tích
+1222050|5 Giai kiếm tích
+1222060|6 Giai kiếm tích
+1222070|7 Giai kiếm tích
+1222080|8 Giai kiếm tích
+1222090|9 Giai kiếm tích
+1222100|10 Giai kiếm tích
+1223010|1 Giai kiếm tích
+1223020|2 Giai kiếm tích
+1223030|3 Giai kiếm tích
+1223040|4 Giai kiếm tích
+1223050|5 Giai kiếm tích
+1223060|6 Giai kiếm tích
+1223070|7 Giai kiếm tích
+1223080|8 Giai kiếm tích
+1223090|9 Giai kiếm tích
+1223100|10 Giai kiếm tích
+1224010|1 Giai kiếm tích
+1224020|2 Giai kiếm tích
+1224030|3 Giai kiếm tích
+1224040|4 Giai kiếm tích
+1224050|5 Giai kiếm tích
+1224060|6 Giai kiếm tích
+1224070|7 Giai kiếm tích
+1224080|8 Giai kiếm tích
+1224090|9 Giai kiếm tích
+1224100|10 Giai kiếm tích
+1225010|1 Giai kiếm tích
+1225020|2 Giai kiếm tích
+1225030|3 Giai kiếm tích
+1225040|4 Giai kiếm tích
+1225050|5 Giai kiếm tích
+1225060|6 Giai kiếm tích
+1225070|7 Giai kiếm tích
+1225080|8 Giai kiếm tích
+1225090|9 Giai kiếm tích
+1225100|10 Giai kiếm tích
+1232010|1 Giai hộ thủ
+1232020|2 Giai hộ thủ
+1232030|3 Giai hộ thủ
+1232040|4 Giai hộ thủ
+1232050|5 Giai hộ thủ
+1232060|6 Giai hộ thủ
+1232070|7 Giai hộ thủ
+1232080|8 Giai hộ thủ
+1232090|9 Giai hộ thủ
+1232100|10 Giai hộ thủ
+1233010|1 Giai hộ thủ
+1233020|2 Giai hộ thủ
+1233030|3 Giai hộ thủ
+1233040|4 Giai hộ thủ
+1233050|5 Giai hộ thủ
+1233060|6 Giai hộ thủ
+1233070|7 Giai hộ thủ
+1233080|8 Giai hộ thủ
+1233090|9 Giai hộ thủ
+1233100|10 Giai hộ thủ
+1234010|1 Giai hộ thủ
+1234020|2 Giai hộ thủ
+1234030|3 Giai hộ thủ
+1234040|4 Giai hộ thủ
+1234050|5 Giai hộ thủ
+1234060|6 Giai hộ thủ
+1234070|7 Giai hộ thủ
+1234080|8 Giai hộ thủ
+1234090|9 Giai hộ thủ
+1234100|10 Giai hộ thủ
+1235010|1 Giai hộ thủ
+1235020|2 Giai hộ thủ
+1235030|3 Giai hộ thủ
+1235040|4 Giai hộ thủ
+1235050|5 Giai hộ thủ
+1235060|6 Giai hộ thủ
+1235070|7 Giai hộ thủ
+1235080|8 Giai hộ thủ
+1235090|9 Giai hộ thủ
+1235100|10 Giai hộ thủ
+1302010|1 Giai lông vũ
+1302020|2 Giai lông vũ
+1302030|3 Giai lông vũ
+1302040|4 Giai lông vũ
+1302050|5 Giai lông vũ
+1302060|6 Giai lông vũ
+1302070|7 Giai lông vũ
+1302080|8 Giai lông vũ
+1302090|9 Giai lông vũ
+1302100|10 Giai lông vũ
+1303010|1 Giai lông vũ
+1303020|2 Giai lông vũ
+1303030|3 Giai lông vũ
+1303040|4 Giai lông vũ
+1303050|5 Giai lông vũ
+1303060|6 Giai lông vũ
+1303070|7 Giai lông vũ
+1303080|8 Giai lông vũ
+1303090|9 Giai lông vũ
+1303100|10 Giai lông vũ
+1304010|1 Giai lông vũ
+1304020|2 Giai lông vũ
+1304030|3 Giai lông vũ
+1304040|4 Giai lông vũ
+1304050|5 Giai lông vũ
+1304060|6 Giai lông vũ
+1304070|7 Giai lông vũ
+1304080|8 Giai lông vũ
+1304090|9 Giai lông vũ
+1304100|10 Giai lông vũ
+1305010|1 Giai lông vũ
+1305020|2 Giai lông vũ
+1305030|3 Giai lông vũ
+1305040|4 Giai lông vũ
+1305050|5 Giai lông vũ
+1305060|6 Giai lông vũ
+1305070|7 Giai lông vũ
+1305080|8 Giai lông vũ
+1305090|9 Giai lông vũ
+1305100|10 Giai lông vũ
+1312010|1 Giai giáp cánh
+1312020|2 Giai giáp cánh
+1312030|3 Giai giáp cánh
+1312040|4 Giai giáp cánh
+1312050|5 Giai giáp cánh
+1312060|6 Giai giáp cánh
+1312070|7 Giai giáp cánh
+1312080|8 Giai giáp cánh
+1312090|9 Giai giáp cánh
+1312100|10 Giai giáp cánh
+1313010|1 Giai giáp cánh
+1313020|2 Giai giáp cánh
+1313030|3 Giai giáp cánh
+1313040|4 Giai giáp cánh
+1313050|5 Giai giáp cánh
+1313060|6 Giai giáp cánh
+1313070|7 Giai giáp cánh
+1313080|8 Giai giáp cánh
+1313090|9 Giai giáp cánh
+1313100|10 Giai giáp cánh
+1314010|1 Giai giáp cánh
+1314020|2 Giai giáp cánh
+1314030|3 Giai giáp cánh
+1314040|4 Giai giáp cánh
+1314050|5 Giai giáp cánh
+1314060|6 Giai giáp cánh
+1314070|7 Giai giáp cánh
+1314080|8 Giai giáp cánh
+1314090|9 Giai giáp cánh
+1314100|10 Giai giáp cánh
+1315010|1 Giai giáp cánh
+1315020|2 Giai giáp cánh
+1315030|3 Giai giáp cánh
+1315040|4 Giai giáp cánh
+1315050|5 Giai giáp cánh
+1315060|6 Giai giáp cánh
+1315070|7 Giai giáp cánh
+1315080|8 Giai giáp cánh
+1315090|9 Giai giáp cánh
+1315100|10 Giai giáp cánh
+1322010|1 Giai che chở
+1322020|2 Giai che chở
+1322030|3 Giai che chở
+1322040|4 Giai che chở
+1322050|5 Giai che chở
+1322060|6 Giai che chở
+1322070|7 Giai che chở
+1322080|8 Giai che chở
+1322090|9 Giai che chở
+1322100|10 Giai che chở
+1323010|1 Giai che chở
+1323020|2 Giai che chở
+1323030|3 Giai che chở
+1323040|4 Giai che chở
+1323050|5 Giai che chở
+1323060|6 Giai che chở
+1323070|7 Giai che chở
+1323080|8 Giai che chở
+1323090|9 Giai che chở
+1323100|10 Giai che chở
+1324010|1 Giai che chở
+1324020|2 Giai che chở
+1324030|3 Giai che chở
+1324040|4 Giai che chở
+1324050|5 Giai che chở
+1324060|6 Giai che chở
+1324070|7 Giai che chở
+1324080|8 Giai che chở
+1324090|9 Giai che chở
+1324100|10 Giai che chở
+1325010|1 Giai che chở
+1325020|2 Giai che chở
+1325030|3 Giai che chở
+1325040|4 Giai che chở
+1325050|5 Giai che chở
+1325060|6 Giai che chở
+1325070|7 Giai che chở
+1325080|8 Giai che chở
+1325090|9 Giai che chở
+1325100|10 Giai che chở
+1332010|1 Giai phi vũ
+1332020|2 Giai phi vũ
+1332030|3 Giai phi vũ
+1332040|4 Giai phi vũ
+1332050|5 Giai phi vũ
+1332060|6 Giai phi vũ
+1332070|7 Giai phi vũ
+1332080|8 Giai phi vũ
+1332090|9 Giai phi vũ
+1332100|10 Giai phi vũ
+1333010|1 Giai phi vũ
+1333020|2 Giai phi vũ
+1333030|3 Giai phi vũ
+1333040|4 Giai phi vũ
+1333050|5 Giai phi vũ
+1333060|6 Giai phi vũ
+1333070|7 Giai phi vũ
+1333080|8 Giai phi vũ
+1333090|9 Giai phi vũ
+1333100|10 Giai phi vũ
+1334010|1 Giai phi vũ
+1334020|2 Giai phi vũ
+1334030|3 Giai phi vũ
+1334040|4 Giai phi vũ
+1334050|5 Giai phi vũ
+1334060|6 Giai phi vũ
+1334070|7 Giai phi vũ
+1334080|8 Giai phi vũ
+1334090|9 Giai phi vũ
+1334100|10 Giai phi vũ
+1335010|1 Giai phi vũ
+1335020|2 Giai phi vũ
+1335030|3 Giai phi vũ
+1335040|4 Giai phi vũ
+1335050|5 Giai phi vũ
+1335060|6 Giai phi vũ
+1335070|7 Giai phi vũ
+1335080|8 Giai phi vũ
+1335090|9 Giai phi vũ
+1335100|10 Giai phi vũ
+1402010|1 Giai linh châu
+1402020|2 Giai linh châu
+1402030|3 Giai linh châu
+1402040|4 Giai linh châu
+1402050|5 Giai linh châu
+1402060|6 Giai linh châu
+1402070|7 Giai linh châu
+1402080|8 Giai linh châu
+1402090|9 Giai linh châu
+1402100|10 Giai linh châu
+1403010|1 Giai linh châu
+1403020|2 Giai linh châu
+1403030|3 Giai linh châu
+1403040|4 Giai linh châu
+1403050|5 Giai linh châu
+1403060|6 Giai linh châu
+1403070|7 Giai linh châu
+1403080|8 Giai linh châu
+1403090|9 Giai linh châu
+1403100|10 Giai linh châu
+1404010|1 Giai linh châu
+1404020|2 Giai linh châu
+1404030|3 Giai linh châu
+1404040|4 Giai linh châu
+1404050|5 Giai linh châu
+1404060|6 Giai linh châu
+1404070|7 Giai linh châu
+1404080|8 Giai linh châu
+1404090|9 Giai linh châu
+1404100|10 Giai linh châu
+1405010|1 Giai linh châu
+1405020|2 Giai linh châu
+1405030|3 Giai linh châu
+1405040|4 Giai linh châu
+1405050|5 Giai linh châu
+1405060|6 Giai linh châu
+1405070|7 Giai linh châu
+1405080|8 Giai linh châu
+1405090|9 Giai linh châu
+1405100|10 Giai linh châu
+1412010|1 Giai linh tâm
+1412020|2 Giai linh tâm
+1412030|3 Giai linh tâm
+1412040|4 Giai linh tâm
+1412050|5 Giai linh tâm
+1412060|6 Giai linh tâm
+1412070|7 Giai linh tâm
+1412080|8 Giai linh tâm
+1412090|9 Giai linh tâm
+1412100|10 Giai linh tâm
+1413010|1 Giai linh tâm
+1413020|2 Giai linh tâm
+1413030|3 Giai linh tâm
+1413040|4 Giai linh tâm
+1413050|5 Giai linh tâm
+1413060|6 Giai linh tâm
+1413070|7 Giai linh tâm
+1413080|8 Giai linh tâm
+1413090|9 Giai linh tâm
+1413100|10 Giai linh tâm
+1414010|1 Giai linh tâm
+1414020|2 Giai linh tâm
+1414030|3 Giai linh tâm
+1414040|4 Giai linh tâm
+1414050|5 Giai linh tâm
+1414060|6 Giai linh tâm
+1414070|7 Giai linh tâm
+1414080|8 Giai linh tâm
+1414090|9 Giai linh tâm
+1414100|10 Giai linh tâm
+1415010|1 Giai linh tâm
+1415020|2 Giai linh tâm
+1415030|3 Giai linh tâm
+1415040|4 Giai linh tâm
+1415050|5 Giai linh tâm
+1415060|6 Giai linh tâm
+1415070|7 Giai linh tâm
+1415080|8 Giai linh tâm
+1415090|9 Giai linh tâm
+1415100|10 Giai linh tâm
+1422010|1 Giai Linh Bảo
+1422020|2 Giai Linh Bảo
+1422030|3 Giai Linh Bảo
+1422040|4 Giai Linh Bảo
+1422050|5 Giai Linh Bảo
+1422060|6 Giai Linh Bảo
+1422070|7 Giai Linh Bảo
+1422080|8 Giai Linh Bảo
+1422090|9 Giai Linh Bảo
+1422100|10 Giai Linh Bảo
+1423010|1 Giai Linh Bảo
+1423020|2 Giai Linh Bảo
+1423030|3 Giai Linh Bảo
+1423040|4 Giai Linh Bảo
+1423050|5 Giai Linh Bảo
+1423060|6 Giai Linh Bảo
+1423070|7 Giai Linh Bảo
+1423080|8 Giai Linh Bảo
+1423090|9 Giai Linh Bảo
+1423100|10 Giai Linh Bảo
+1424010|1 Giai Linh Bảo
+1424020|2 Giai Linh Bảo
+1424030|3 Giai Linh Bảo
+1424040|4 Giai Linh Bảo
+1424050|5 Giai Linh Bảo
+1424060|6 Giai Linh Bảo
+1424070|7 Giai Linh Bảo
+1424080|8 Giai Linh Bảo
+1424090|9 Giai Linh Bảo
+1424100|10 Giai Linh Bảo
+1425010|1 Giai Linh Bảo
+1425020|2 Giai Linh Bảo
+1425030|3 Giai Linh Bảo
+1425040|4 Giai Linh Bảo
+1425050|5 Giai Linh Bảo
+1425060|6 Giai Linh Bảo
+1425070|7 Giai Linh Bảo
+1425080|8 Giai Linh Bảo
+1425090|9 Giai Linh Bảo
+1425100|10 Giai Linh Bảo
+1432010|1 Giai linh thạch
+1432020|2 Giai linh thạch
+1432030|3 Giai linh thạch
+1432040|4 Giai linh thạch
+1432050|5 Giai linh thạch
+1432060|6 Giai linh thạch
+1432070|7 Giai linh thạch
+1432080|8 Giai linh thạch
+1432090|9 Giai linh thạch
+1432100|10 Giai linh thạch
+1433010|1 Giai linh thạch
+1433020|2 Giai linh thạch
+1433030|3 Giai linh thạch
+1433040|4 Giai linh thạch
+1433050|5 Giai linh thạch
+1433060|6 Giai linh thạch
+1433070|7 Giai linh thạch
+1433080|8 Giai linh thạch
+1433090|9 Giai linh thạch
+1433100|10 Giai linh thạch
+1434010|1 Giai linh thạch
+1434020|2 Giai linh thạch
+1434030|3 Giai linh thạch
+1434040|4 Giai linh thạch
+1434050|5 Giai linh thạch
+1434060|6 Giai linh thạch
+1434070|7 Giai linh thạch
+1434080|8 Giai linh thạch
+1434090|9 Giai linh thạch
+1434100|10 Giai linh thạch
+1435010|1 Giai linh thạch
+1435020|2 Giai linh thạch
+1435030|3 Giai linh thạch
+1435040|4 Giai linh thạch
+1435050|5 Giai linh thạch
+1435060|6 Giai linh thạch
+1435070|7 Giai linh thạch
+1435080|8 Giai linh thạch
+1435090|9 Giai linh thạch
+1435100|10 Giai linh thạch
+1502010|1 Giai hộ thuẫn
+1502020|2 Giai hộ thuẫn
+1502030|3 Giai hộ thuẫn
+1502040|4 Giai hộ thuẫn
+1502050|5 Giai hộ thuẫn
+1502060|6 Giai hộ thuẫn
+1502070|7 Giai hộ thuẫn
+1502080|8 Giai hộ thuẫn
+1502090|9 Giai hộ thuẫn
+1502100|10 Giai hộ thuẫn
+1503010|1 Giai hộ thuẫn
+1503020|2 Giai hộ thuẫn
+1503030|3 Giai hộ thuẫn
+1503040|4 Giai hộ thuẫn
+1503050|5 Giai hộ thuẫn
+1503060|6 Giai hộ thuẫn
+1503070|7 Giai hộ thuẫn
+1503080|8 Giai hộ thuẫn
+1503090|9 Giai hộ thuẫn
+1503100|10 Giai hộ thuẫn
+1504010|1 Giai hộ thuẫn
+1504020|2 Giai hộ thuẫn
+1504030|3 Giai hộ thuẫn
+1504040|4 Giai hộ thuẫn
+1504050|5 Giai hộ thuẫn
+1504060|6 Giai hộ thuẫn
+1504070|7 Giai hộ thuẫn
+1504080|8 Giai hộ thuẫn
+1504090|9 Giai hộ thuẫn
+1504100|10 Giai hộ thuẫn
+1505010|1 Giai hộ thuẫn
+1505020|2 Giai hộ thuẫn
+1505030|3 Giai hộ thuẫn
+1505040|4 Giai hộ thuẫn
+1505050|5 Giai hộ thuẫn
+1505060|6 Giai hộ thuẫn
+1505070|7 Giai hộ thuẫn
+1505080|8 Giai hộ thuẫn
+1505090|9 Giai hộ thuẫn
+1505100|10 Giai hộ thuẫn
+1512010|1 Giai mũ giáp
+1512020|2 Giai mũ giáp
+1512030|3 Giai mũ giáp
+1512040|4 Giai mũ giáp
+1512050|5 Giai mũ giáp
+1512060|6 Giai mũ giáp
+1512070|7 Giai mũ giáp
+1512080|8 Giai mũ giáp
+1512090|9 Giai mũ giáp
+1512100|10 Giai mũ giáp
+1513010|1 Giai mũ giáp
+1513020|2 Giai mũ giáp
+1513030|3 Giai mũ giáp
+1513040|4 Giai mũ giáp
+1513050|5 Giai mũ giáp
+1513060|6 Giai mũ giáp
+1513070|7 Giai mũ giáp
+1513080|8 Giai mũ giáp
+1513090|9 Giai mũ giáp
+1513100|10 Giai mũ giáp
+1514010|1 Giai mũ giáp
+1514020|2 Giai mũ giáp
+1514030|3 Giai mũ giáp
+1514040|4 Giai mũ giáp
+1514050|5 Giai mũ giáp
+1514060|6 Giai mũ giáp
+1514070|7 Giai mũ giáp
+1514080|8 Giai mũ giáp
+1514090|9 Giai mũ giáp
+1514100|10 Giai mũ giáp
+1515010|1 Giai mũ giáp
+1515020|2 Giai mũ giáp
+1515030|3 Giai mũ giáp
+1515040|4 Giai mũ giáp
+1515050|5 Giai mũ giáp
+1515060|6 Giai mũ giáp
+1515070|7 Giai mũ giáp
+1515080|8 Giai mũ giáp
+1515090|9 Giai mũ giáp
+1515100|10 Giai mũ giáp
+1522010|1 Giai chiến giáp
+1522020|2 Giai chiến giáp
+1522030|3 Giai chiến giáp
+1522040|4 Giai chiến giáp
+1522050|5 Giai chiến giáp
+1522060|6 Giai chiến giáp
+1522070|7 Giai chiến giáp
+1522080|8 Giai chiến giáp
+1522090|9 Giai chiến giáp
+1522100|10 Giai chiến giáp
+1523010|1 Giai chiến giáp
+1523020|2 Giai chiến giáp
+1523030|3 Giai chiến giáp
+1523040|4 Giai chiến giáp
+1523050|5 Giai chiến giáp
+1523060|6 Giai chiến giáp
+1523070|7 Giai chiến giáp
+1523080|8 Giai chiến giáp
+1523090|9 Giai chiến giáp
+1523100|10 Giai chiến giáp
+1524010|1 Giai chiến giáp
+1524020|2 Giai chiến giáp
+1524030|3 Giai chiến giáp
+1524040|4 Giai chiến giáp
+1524050|5 Giai chiến giáp
+1524060|6 Giai chiến giáp
+1524070|7 Giai chiến giáp
+1524080|8 Giai chiến giáp
+1524090|9 Giai chiến giáp
+1524100|10 Giai chiến giáp
+1525010|1 Giai chiến giáp
+1525020|2 Giai chiến giáp
+1525030|3 Giai chiến giáp
+1525040|4 Giai chiến giáp
+1525050|5 Giai chiến giáp
+1525060|6 Giai chiến giáp
+1525070|7 Giai chiến giáp
+1525080|8 Giai chiến giáp
+1525090|9 Giai chiến giáp
+1525100|10 Giai chiến giáp
+1532010|1 Giai giày chiến
+1532020|2 Giai giày chiến
+1532030|3 Giai giày chiến
+1532040|4 Giai giày chiến
+1532050|5 Giai giày chiến
+1532060|6 Giai giày chiến
+1532070|7 Giai giày chiến
+1532080|8 Giai giày chiến
+1532090|9 Giai giày chiến
+1532100|10 Giai giày chiến
+1533010|1 Giai giày chiến
+1533020|2 Giai giày chiến
+1533030|3 Giai giày chiến
+1533040|4 Giai giày chiến
+1533050|5 Giai giày chiến
+1533060|6 Giai giày chiến
+1533070|7 Giai giày chiến
+1533080|8 Giai giày chiến
+1533090|9 Giai giày chiến
+1533100|10 Giai giày chiến
+1534010|1 Giai giày chiến
+1534020|2 Giai giày chiến
+1534030|3 Giai giày chiến
+1534040|4 Giai giày chiến
+1534050|5 Giai giày chiến
+1534060|6 Giai giày chiến
+1534070|7 Giai giày chiến
+1534080|8 Giai giày chiến
+1534090|9 Giai giày chiến
+1534100|10 Giai giày chiến
+1535010|1 Giai giày chiến
+1535020|2 Giai giày chiến
+1535030|3 Giai giày chiến
+1535040|4 Giai giày chiến
+1535050|5 Giai giày chiến
+1535060|6 Giai giày chiến
+1535070|7 Giai giày chiến
+1535080|8 Giai giày chiến
+1535090|9 Giai giày chiến
+1535100|10 Giai giày chiến
+1602010|1 Giai chiến roi
+1602020|2 Giai chiến roi
+1602030|3 Giai chiến roi
+1602040|4 Giai chiến roi
+1602050|5 Giai chiến roi
+1602060|6 Giai chiến roi
+1602070|7 Giai chiến roi
+1602080|8 Giai chiến roi
+1602090|9 Giai chiến roi
+1602100|10 Giai chiến roi
+1603010|1 Giai chiến roi
+1603020|2 Giai chiến roi
+1603030|3 Giai chiến roi
+1603040|4 Giai chiến roi
+1603050|5 Giai chiến roi
+1603060|6 Giai chiến roi
+1603070|7 Giai chiến roi
+1603080|8 Giai chiến roi
+1603090|9 Giai chiến roi
+1603100|10 Giai chiến roi
+1604010|1 Giai chiến roi
+1604020|2 Giai chiến roi
+1604030|3 Giai chiến roi
+1604040|4 Giai chiến roi
+1604050|5 Giai chiến roi
+1604060|6 Giai chiến roi
+1604070|7 Giai chiến roi
+1604080|8 Giai chiến roi
+1604090|9 Giai chiến roi
+1604100|10 Giai chiến roi
+1605010|1 Giai chiến roi
+1605020|2 Giai chiến roi
+1605030|3 Giai chiến roi
+1605040|4 Giai chiến roi
+1605050|5 Giai chiến roi
+1605060|6 Giai chiến roi
+1605070|7 Giai chiến roi
+1605080|8 Giai chiến roi
+1605090|9 Giai chiến roi
+1605100|10 Giai chiến roi
+1612010|1 Giai săn yên
+1612020|2 Giai săn yên
+1612030|3 Giai săn yên
+1612040|4 Giai săn yên
+1612050|5 Giai săn yên
+1612060|6 Giai săn yên
+1612070|7 Giai săn yên
+1612080|8 Giai săn yên
+1612090|9 Giai săn yên
+1612100|10 Giai săn yên
+1613010|1 Giai săn yên
+1613020|2 Giai săn yên
+1613030|3 Giai săn yên
+1613040|4 Giai săn yên
+1613050|5 Giai săn yên
+1613060|6 Giai săn yên
+1613070|7 Giai săn yên
+1613080|8 Giai săn yên
+1613090|9 Giai săn yên
+1613100|10 Giai săn yên
+1614010|1 Giai săn yên
+1614020|2 Giai săn yên
+1614030|3 Giai săn yên
+1614040|4 Giai săn yên
+1614050|5 Giai săn yên
+1614060|6 Giai săn yên
+1614070|7 Giai săn yên
+1614080|8 Giai săn yên
+1614090|9 Giai săn yên
+1614100|10 Giai săn yên
+1615010|1 Giai săn yên
+1615020|2 Giai săn yên
+1615030|3 Giai săn yên
+1615040|4 Giai săn yên
+1615050|5 Giai săn yên
+1615060|6 Giai săn yên
+1615070|7 Giai săn yên
+1615080|8 Giai săn yên
+1615090|9 Giai săn yên
+1615100|10 Giai săn yên
+1622010|1 Giai đầu giáp
+1622020|2 Giai đầu giáp
+1622030|3 Giai đầu giáp
+1622040|4 Giai đầu giáp
+1622050|5 Giai đầu giáp
+1622060|6 Giai đầu giáp
+1622070|7 Giai đầu giáp
+1622080|8 Giai đầu giáp
+1622090|9 Giai đầu giáp
+1622100|10 Giai đầu giáp
+1623010|1 Giai đầu giáp
+1623020|2 Giai đầu giáp
+1623030|3 Giai đầu giáp
+1623040|4 Giai đầu giáp
+1623050|5 Giai đầu giáp
+1623060|6 Giai đầu giáp
+1623070|7 Giai đầu giáp
+1623080|8 Giai đầu giáp
+1623090|9 Giai đầu giáp
+1623100|10 Giai đầu giáp
+1624010|1 Giai đầu giáp
+1624020|2 Giai đầu giáp
+1624030|3 Giai đầu giáp
+1624040|4 Giai đầu giáp
+1624050|5 Giai đầu giáp
+1624060|6 Giai đầu giáp
+1624070|7 Giai đầu giáp
+1624080|8 Giai đầu giáp
+1624090|9 Giai đầu giáp
+1624100|10 Giai đầu giáp
+1625010|1 Giai đầu giáp
+1625020|2 Giai đầu giáp
+1625030|3 Giai đầu giáp
+1625040|4 Giai đầu giáp
+1625050|5 Giai đầu giáp
+1625060|6 Giai đầu giáp
+1625070|7 Giai đầu giáp
+1625080|8 Giai đầu giáp
+1625090|9 Giai đầu giáp
+1625100|10 Giai đầu giáp
+1632010|1 Giai kỵ giáp
+1632020|2 Giai kỵ giáp
+1632030|3 Giai kỵ giáp
+1632040|4 Giai kỵ giáp
+1632050|5 Giai kỵ giáp
+1632060|6 Giai kỵ giáp
+1632070|7 Giai kỵ giáp
+1632080|8 Giai kỵ giáp
+1632090|9 Giai kỵ giáp
+1632100|10 Giai kỵ giáp
+1633010|1 Giai kỵ giáp
+1633020|2 Giai kỵ giáp
+1633030|3 Giai kỵ giáp
+1633040|4 Giai kỵ giáp
+1633050|5 Giai kỵ giáp
+1633060|6 Giai kỵ giáp
+1633070|7 Giai kỵ giáp
+1633080|8 Giai kỵ giáp
+1633090|9 Giai kỵ giáp
+1633100|10 Giai kỵ giáp
+1634010|1 Giai kỵ giáp
+1634020|2 Giai kỵ giáp
+1634030|3 Giai kỵ giáp
+1634040|4 Giai kỵ giáp
+1634050|5 Giai kỵ giáp
+1634060|6 Giai kỵ giáp
+1634070|7 Giai kỵ giáp
+1634080|8 Giai kỵ giáp
+1634090|9 Giai kỵ giáp
+1634100|10 Giai kỵ giáp
+1635010|1 Giai kỵ giáp
+1635020|2 Giai kỵ giáp
+1635030|3 Giai kỵ giáp
+1635040|4 Giai kỵ giáp
+1635050|5 Giai kỵ giáp
+1635060|6 Giai kỵ giáp
+1635070|7 Giai kỵ giáp
+1635080|8 Giai kỵ giáp
+1635090|9 Giai kỵ giáp
+1635100|10 Giai kỵ giáp
+1702010|1 Giai chiếc nhẫn
+1702020|2 Giai chiếc nhẫn
+1702030|3 Giai chiếc nhẫn
+1702040|4 Giai chiếc nhẫn
+1702050|5 Giai chiếc nhẫn
+1702060|6 Giai chiếc nhẫn
+1702070|7 Giai chiếc nhẫn
+1702080|8 Giai chiếc nhẫn
+1702090|9 Giai chiếc nhẫn
+1702100|10 Giai chiếc nhẫn
+1703010|1 Giai chiếc nhẫn
+1703020|2 Giai chiếc nhẫn
+1703030|3 Giai chiếc nhẫn
+1703040|4 Giai chiếc nhẫn
+1703050|5 Giai chiếc nhẫn
+1703060|6 Giai chiếc nhẫn
+1703070|7 Giai chiếc nhẫn
+1703080|8 Giai chiếc nhẫn
+1703090|9 Giai chiếc nhẫn
+1703100|10 Giai chiếc nhẫn
+1704010|1 Giai chiếc nhẫn
+1704020|2 Giai chiếc nhẫn
+1704030|3 Giai chiếc nhẫn
+1704040|4 Giai chiếc nhẫn
+1704050|5 Giai chiếc nhẫn
+1704060|6 Giai chiếc nhẫn
+1704070|7 Giai chiếc nhẫn
+1704080|8 Giai chiếc nhẫn
+1704090|9 Giai chiếc nhẫn
+1704100|10 Giai chiếc nhẫn
+1705010|1 Giai chiếc nhẫn
+1705020|2 Giai chiếc nhẫn
+1705030|3 Giai chiếc nhẫn
+1705040|4 Giai chiếc nhẫn
+1705050|5 Giai chiếc nhẫn
+1705060|6 Giai chiếc nhẫn
+1705070|7 Giai chiếc nhẫn
+1705080|8 Giai chiếc nhẫn
+1705090|9 Giai chiếc nhẫn
+1705100|10 Giai chiếc nhẫn
+1712010|1 Giai thần phù
+1712020|2 Giai thần phù
+1712030|3 Giai thần phù
+1712040|4 Giai thần phù
+1712050|5 Giai thần phù
+1712060|6 Giai thần phù
+1712070|7 Giai thần phù
+1712080|8 Giai thần phù
+1712090|9 Giai thần phù
+1712100|10 Giai thần phù
+1713010|1 Giai thần phù
+1713020|2 Giai thần phù
+1713030|3 Giai thần phù
+1713040|4 Giai thần phù
+1713050|5 Giai thần phù
+1713060|6 Giai thần phù
+1713070|7 Giai thần phù
+1713080|8 Giai thần phù
+1713090|9 Giai thần phù
+1713100|10 Giai thần phù
+1714010|1 Giai thần phù
+1714020|2 Giai thần phù
+1714030|3 Giai thần phù
+1714040|4 Giai thần phù
+1714050|5 Giai thần phù
+1714060|6 Giai thần phù
+1714070|7 Giai thần phù
+1714080|8 Giai thần phù
+1714090|9 Giai thần phù
+1714100|10 Giai thần phù
+1715010|1 Giai thần phù
+1715020|2 Giai thần phù
+1715030|3 Giai thần phù
+1715040|4 Giai thần phù
+1715050|5 Giai thần phù
+1715060|6 Giai thần phù
+1715070|7 Giai thần phù
+1715080|8 Giai thần phù
+1715090|9 Giai thần phù
+1715100|10 Giai thần phù
+1722010|1 Giai dây chuyền
+1722020|2 Giai dây chuyền
+1722030|3 Giai dây chuyền
+1722040|4 Giai dây chuyền
+1722050|5 Giai dây chuyền
+1722060|6 Giai dây chuyền
+1722070|7 Giai dây chuyền
+1722080|8 Giai dây chuyền
+1722090|9 Giai dây chuyền
+1722100|10 Giai dây chuyền
+1723010|1 Giai dây chuyền
+1723020|2 Giai dây chuyền
+1723030|3 Giai dây chuyền
+1723040|4 Giai dây chuyền
+1723050|5 Giai dây chuyền
+1723060|6 Giai dây chuyền
+1723070|7 Giai dây chuyền
+1723080|8 Giai dây chuyền
+1723090|9 Giai dây chuyền
+1723100|10 Giai dây chuyền
+1724010|1 Giai dây chuyền
+1724020|2 Giai dây chuyền
+1724030|3 Giai dây chuyền
+1724040|4 Giai dây chuyền
+1724050|5 Giai dây chuyền
+1724060|6 Giai dây chuyền
+1724070|7 Giai dây chuyền
+1724080|8 Giai dây chuyền
+1724090|9 Giai dây chuyền
+1724100|10 Giai dây chuyền
+1725010|1 Giai dây chuyền
+1725020|2 Giai dây chuyền
+1725030|3 Giai dây chuyền
+1725040|4 Giai dây chuyền
+1725050|5 Giai dây chuyền
+1725060|6 Giai dây chuyền
+1725070|7 Giai dây chuyền
+1725080|8 Giai dây chuyền
+1725090|9 Giai dây chuyền
+1725100|10 Giai dây chuyền
+1732010|1 Giai đai lưng
+1732020|2 Giai đai lưng
+1732030|3 Giai đai lưng
+1732040|4 Giai đai lưng
+1732050|5 Giai đai lưng
+1732060|6 Giai đai lưng
+1732070|7 Giai đai lưng
+1732080|8 Giai đai lưng
+1732090|9 Giai đai lưng
+1732100|10 Giai đai lưng
+1733010|1 Giai đai lưng
+1733020|2 Giai đai lưng
+1733030|3 Giai đai lưng
+1733040|4 Giai đai lưng
+1733050|5 Giai đai lưng
+1733060|6 Giai đai lưng
+1733070|7 Giai đai lưng
+1733080|8 Giai đai lưng
+1733090|9 Giai đai lưng
+1733100|10 Giai đai lưng
+1734010|1 Giai đai lưng
+1734020|2 Giai đai lưng
+1734030|3 Giai đai lưng
+1734040|4 Giai đai lưng
+1734050|5 Giai đai lưng
+1734060|6 Giai đai lưng
+1734070|7 Giai đai lưng
+1734080|8 Giai đai lưng
+1734090|9 Giai đai lưng
+1734100|10 Giai đai lưng
+1735010|1 Giai đai lưng
+1735020|2 Giai đai lưng
+1735030|3 Giai đai lưng
+1735040|4 Giai đai lưng
+1735050|5 Giai đai lưng
+1735060|6 Giai đai lưng
+1735070|7 Giai đai lưng
+1735080|8 Giai đai lưng
+1735090|9 Giai đai lưng
+1735100|10 Giai đai lưng
+1802010|1 Giai sừng rồng
+1802020|2 Giai sừng rồng
+1802030|3 Giai sừng rồng
+1802040|4 Giai sừng rồng
+1802050|5 Giai sừng rồng
+1802060|6 Giai sừng rồng
+1802070|7 Giai sừng rồng
+1802080|8 Giai sừng rồng
+1802090|9 Giai sừng rồng
+1802100|10 Giai sừng rồng
+1803010|1 Giai sừng rồng
+1803020|2 Giai sừng rồng
+1803030|3 Giai sừng rồng
+1803040|4 Giai sừng rồng
+1803050|5 Giai sừng rồng
+1803060|6 Giai sừng rồng
+1803070|7 Giai sừng rồng
+1803080|8 Giai sừng rồng
+1803090|9 Giai sừng rồng
+1803100|10 Giai sừng rồng
+1804010|1 Giai sừng rồng
+1804020|2 Giai sừng rồng
+1804030|3 Giai sừng rồng
+1804040|4 Giai sừng rồng
+1804050|5 Giai sừng rồng
+1804060|6 Giai sừng rồng
+1804070|7 Giai sừng rồng
+1804080|8 Giai sừng rồng
+1804090|9 Giai sừng rồng
+1804100|10 Giai sừng rồng
+1805010|1 Giai sừng rồng
+1805020|2 Giai sừng rồng
+1805030|3 Giai sừng rồng
+1805040|4 Giai sừng rồng
+1805050|5 Giai sừng rồng
+1805060|6 Giai sừng rồng
+1805070|7 Giai sừng rồng
+1805080|8 Giai sừng rồng
+1805090|9 Giai sừng rồng
+1805100|10 Giai sừng rồng
+1812010|1 Giai long trảo
+1812020|2 Giai long trảo
+1812030|3 Giai long trảo
+1812040|4 Giai long trảo
+1812050|5 Giai long trảo
+1812060|6 Giai long trảo
+1812070|7 Giai long trảo
+1812080|8 Giai long trảo
+1812090|9 Giai long trảo
+1812100|10 Giai long trảo
+1813010|1 Giai long trảo
+1813020|2 Giai long trảo
+1813030|3 Giai long trảo
+1813040|4 Giai long trảo
+1813050|5 Giai long trảo
+1813060|6 Giai long trảo
+1813070|7 Giai long trảo
+1813080|8 Giai long trảo
+1813090|9 Giai long trảo
+1813100|10 Giai long trảo
+1814010|1 Giai long trảo
+1814020|2 Giai long trảo
+1814030|3 Giai long trảo
+1814040|4 Giai long trảo
+1814050|5 Giai long trảo
+1814060|6 Giai long trảo
+1814070|7 Giai long trảo
+1814080|8 Giai long trảo
+1814090|9 Giai long trảo
+1814100|10 Giai long trảo
+1815010|1 Giai long trảo
+1815020|2 Giai long trảo
+1815030|3 Giai long trảo
+1815040|4 Giai long trảo
+1815050|5 Giai long trảo
+1815060|6 Giai long trảo
+1815070|7 Giai long trảo
+1815080|8 Giai long trảo
+1815090|9 Giai long trảo
+1815100|10 Giai long trảo
+1822010|1 Giai long đồng
+1822020|2 Giai long đồng
+1822030|3 Giai long đồng
+1822040|4 Giai long đồng
+1822050|5 Giai long đồng
+1822060|6 Giai long đồng
+1822070|7 Giai long đồng
+1822080|8 Giai long đồng
+1822090|9 Giai long đồng
+1822100|10 Giai long đồng
+1823010|1 Giai long đồng
+1823020|2 Giai long đồng
+1823030|3 Giai long đồng
+1823040|4 Giai long đồng
+1823050|5 Giai long đồng
+1823060|6 Giai long đồng
+1823070|7 Giai long đồng
+1823080|8 Giai long đồng
+1823090|9 Giai long đồng
+1823100|10 Giai long đồng
+1824010|1 Giai long đồng
+1824020|2 Giai long đồng
+1824030|3 Giai long đồng
+1824040|4 Giai long đồng
+1824050|5 Giai long đồng
+1824060|6 Giai long đồng
+1824070|7 Giai long đồng
+1824080|8 Giai long đồng
+1824090|9 Giai long đồng
+1824100|10 Giai long đồng
+1825010|1 Giai long đồng
+1825020|2 Giai long đồng
+1825030|3 Giai long đồng
+1825040|4 Giai long đồng
+1825050|5 Giai long đồng
+1825060|6 Giai long đồng
+1825070|7 Giai long đồng
+1825080|8 Giai long đồng
+1825090|9 Giai long đồng
+1825100|10 Giai long đồng
+1832010|1 Giai vảy rồng
+1832020|2 Giai vảy rồng
+1832030|3 Giai vảy rồng
+1832040|4 Giai vảy rồng
+1832050|5 Giai vảy rồng
+1832060|6 Giai vảy rồng
+1832070|7 Giai vảy rồng
+1832080|8 Giai vảy rồng
+1832090|9 Giai vảy rồng
+1832100|10 Giai vảy rồng
+1833010|1 Giai vảy rồng
+1833020|2 Giai vảy rồng
+1833030|3 Giai vảy rồng
+1833040|4 Giai vảy rồng
+1833050|5 Giai vảy rồng
+1833060|6 Giai vảy rồng
+1833070|7 Giai vảy rồng
+1833080|8 Giai vảy rồng
+1833090|9 Giai vảy rồng
+1833100|10 Giai vảy rồng
+1834010|1 Giai vảy rồng
+1834020|2 Giai vảy rồng
+1834030|3 Giai vảy rồng
+1834040|4 Giai vảy rồng
+1834050|5 Giai vảy rồng
+1834060|6 Giai vảy rồng
+1834070|7 Giai vảy rồng
+1834080|8 Giai vảy rồng
+1834090|9 Giai vảy rồng
+1834100|10 Giai vảy rồng
+1835010|1 Giai vảy rồng
+1835020|2 Giai vảy rồng
+1835030|3 Giai vảy rồng
+1835040|4 Giai vảy rồng
+1835050|5 Giai vảy rồng
+1835060|6 Giai vảy rồng
+1835070|7 Giai vảy rồng
+1835080|8 Giai vảy rồng
+1835090|9 Giai vảy rồng
+1835100|10 Giai vảy rồng
+1903010| Tử phẩm Đằng Dực
+1904010| Cam phẩm Đằng Dực
+1905010| Đỏ phẩm Đằng Dực
+1906011| Kim phẩm 1 Tinh Đằng Dực
+1906012| Kim phẩm 2 Tinh Đằng Dực
+1906013| Màu phẩm 3 Tinh Đằng Dực
+1906014| Màu phẩm 4 Tinh Đằng Dực
+1913010| Tử phẩm cột trụ
+1914010| Cam phẩm cột trụ
+1915010| Đỏ phẩm cột trụ
+1916011| Kim phẩm 1 Tinh cột trụ
+1916012| Kim phẩm 2 Tinh cột trụ
+1916013| Màu phẩm 3 Tinh cột trụ
+1916014| Màu phẩm 4 Tinh cột trụ
+1923010| Tử phẩm huyễn sơn
+1924010| Cam phẩm huyễn sơn
+1925010| Đỏ phẩm huyễn sơn
+1926011| Kim phẩm 1 Tinh huyễn sơn
+1926012| Kim phẩm 2 Tinh huyễn sơn
+1926013| Màu phẩm 3 Tinh huyễn sơn
+1926014| Màu phẩm 4 Tinh huyễn sơn
+1933010| Tử phẩm Tế Linh
+1934010| Cam phẩm Tế Linh
+1935010| Đỏ phẩm Tế Linh
+1936011| Kim phẩm 1 Tinh Tế Linh
+1936012| Kim phẩm 2 Tinh Tế Linh
+1936013| Màu phẩm 3 Tinh Tế Linh
+1936014| Màu phẩm 4 Tinh Tế Linh
+1943010| Tử phẩm thần đồng
+1944010| Cam phẩm thần đồng
+1945010| Đỏ phẩm thần đồng
+1946011| Kim phẩm 1 Tinh Thần đồng
+1946012| Kim phẩm 2 Tinh Thần đồng
+1946013| Màu phẩm 3 Tinh Thần đồng
+1946014| Màu phẩm 4 Tinh Thần đồng

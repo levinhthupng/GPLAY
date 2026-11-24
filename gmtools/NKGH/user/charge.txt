@@ -1,0 +1,137 @@
+1;Thẻ Tuần
+2;Thẻ Tháng
+3;Gói 50.000 KNB
+4;Gói 100.000 KNB
+5;Gói 500.000 KNB
+6;Gói 1.000.000 KNB
+7;Gói 5.000.000 KNB
+8;Gói 10.000.000 KNB
+9;Gói bảo thạch 20K
+10;Gói bảo thạch 50K
+11;Gói bảo thạch 100K
+12;Trưởng thành quỹ ngân sách · Một
+13;Trưởng thành quỹ ngân sách · Hai
+14;Trưởng thành quỹ ngân sách · Ba
+15;Trưởng thành quỹ ngân sách · Bốn
+16;Một khóa mua bảo thạch đặc biệt ưu đãi
+17;7 Thiên Bảo thạch đặc biệt ưu đãi
+18;Gói PET 10K
+19;Gói PET 20K
+20;Gói PET 50K
+21;Một khóa mua sủng vật đặc biệt ưu đãi
+22;7 Trời sủng vật đặc biệt ưu đãi
+23;Lắc 10k VNĐ, nạp thành công!
+24;Lắc 20k VNĐ, nạp thành công!
+25;Lắc 20k VNĐ, nạp thành công!
+26;Lắc 50k VNĐ, nạp thành công!
+27;Mua Một Vốn Bốn Lời
+28;Tuần thẻ ( Lần đầu 3.3 Gãy )
+29;Nguyệt thẻ ( Lần đầu 6 Gãy )
+30;Một khóa cây rụng tiền
+31;Hạn lúc Lôi Linh vương
+32;Hạn lúc Hắc vô thường
+33;Trưởng thành quỹ ngân sách · Năm
+34;Trưởng thành quỹ ngân sách · Sáu
+35;Trưởng thành quỹ ngân sách · Bảy
+101;Gói 50.000 KNB
+102;Gói 100.000 KNB
+103;Gói 500.000 KNB
+104;Gói 1.000.000 KNB
+106;Gói 2.000.000 KNB
+107;Gói 3.000.000 KNB
+108;Gói 4.000.000 KNB
+111;Gói 5.000.000 KNB
+112;Gói 10.000.000 KNB
+113;Gói 15.000.000 KNB
+114;Gói 30.000.000 KNB
+115;Gói 40.000.000 KNB
+116;Gói 50.000.000 KNB
+117;Gói 60.000.000 KNB
+118;Gói 70.000.000 KNB
+119;Gói 80.000.000 KNB
+120;Gói 90.000.000 KNB
+121;Gói 100.000.000 KNB
+301;Quỹ Tân Thủ-1
+302;Quỹ Tân Thủ-2
+303;Quỹ Tân Thủ-3
+304;Quỹ Tân Thủ-4
+305;Quỹ Tân Thủ-5
+306;Quỹ Tân Thủ-6
+307;Quỹ Tân Thủ-7
+701;3980 Nguyên bảo
+702;5980 Nguyên bảo
+704;12480 Nguyên bảo
+705;120 Nguyên bảo
+706;60 Nguyên bảo
+801;FB Mỗi ngày chia sẻ gói quà
+802;Tích lũy 3 Nhật chia sẻ gói quà
+803;Tích lũy 7 Nhật chia sẻ gói quà
+804;Tích lũy 15 Nhật chia sẻ gói quà
+805;Tích lũy 30 Nhật chia sẻ gói quà
+806;Hội fan hâm mộ theo tán 1000 Ban thưởng
+807;Hội fan hâm mộ theo tán 2000 Ban thưởng
+808;Hội fan hâm mộ theo tán 5000 Ban thưởng
+809;Hội fan hâm mộ theo tán 8000 Ban thưởng
+810;Hội fan hâm mộ theo tán 11000 Ban thưởng
+811;Hội fan hâm mộ theo tán 15000 Ban thưởng
+812;Hồng bao 60 Nguyên bảo
+813;Hồng bao 180 Nguyên bảo
+814;Hồng bao 300 Nguyên bảo
+815;Hồng bao 600 Nguyên bảo
+816;Hồng bao 980 Nguyên bảo
+817;Hồng bao 1580 Nguyên bảo
+818;Dẫn chương trình tặng lễ 60 Lễ quyển
+819;Dẫn chương trình tặng lễ 180 Lễ quyển
+820;Dẫn chương trình tặng lễ 300 Lễ quyển
+821;Dẫn chương trình tặng lễ 600 Lễ quyển
+822;Dẫn chương trình tặng lễ 980 Lễ quyển
+823;Dẫn chương trình tặng lễ 1580 Lễ quyển
+10001;Tuần thẻ
+10002;Nguyệt thẻ
+10003;60 Nguyên bảo
+10004;180 Nguyên bảo
+10005;300 Nguyên bảo
+10006;600 Nguyên bảo
+10007;980 Nguyên bảo
+10008;1980 Nguyên bảo
+10009;2980 Nguyên bảo
+10010;3980 Nguyên bảo
+10011;5980 Nguyên bảo
+10012;Bảo thạch đặc biệt ưu đãi 90 Nguyên
+10013;Bảo thạch đặc biệt ưu đãi 150 Nguyên
+10014;Bảo thạch đặc biệt ưu đãi 300 Nguyên
+10015;490 Nguyên may mắn lễ
+10016;490 Nguyên may mắn hảo lễ
+10017;490 Nguyên may mắn đại lễ
+10018;990 Nguyên may mắn đại lễ
+10019;Bảo thạch đặc biệt ưu đãi 490 Nguyên
+10020;Bảo thạch đặc biệt ưu đãi 2990 Nguyên
+10021;Sủng vật đặc biệt ưu đãi 90 Nguyên
+10022;Sủng vật đặc biệt ưu đãi 150 Nguyên
+10023;Sủng vật đặc biệt ưu đãi 300 Nguyên
+10024;Sủng vật đặc biệt ưu đãi 490 Nguyên
+10025;Sủng vật đặc biệt ưu đãi 2990 Nguyên
+10026;Cây rụng tiền 30 Nguyên
+10027;Cây rụng tiền 90 Nguyên
+10028;Cây rụng tiền 150 Nguyên
+10029;Cây rụng tiền 300 Nguyên
+10030;Một vốn bốn lời 300 Nguyên
+10031;Tuần thẻ ( Lần đầu 3.3 Gãy )
+10032;Nguyệt thẻ ( Lần đầu 6 Gãy )
+10033;Hạn lúc Lôi Linh vương
+10034;Hạn lúc Hắc vô thường
+10035;990 Nguyên may mắn lễ
+10036;990 Nguyên hảo lễ
+10037;990 Nguyên chiết khấu gói quà
+10038;30 Nguyên hảo lễ
+10039;90 Nguyên hảo lễ
+10040;150 Nguyên hảo lễ
+10041;300 Nguyên hảo lễ
+10042;490 Nguyên hảo lễ
+10043;750 Nguyên hảo lễ
+10044;30 Nguyên chiết khấu gói quà
+10045;90 Nguyên chiết khấu gói quà
+10046;150 Nguyên chiết khấu gói quà
+10047;300 Nguyên chiết khấu gói quà
+10048;490 Nguyên chiết khấu gói quà
+10049;750 Nguyên chiết khấu gói quà

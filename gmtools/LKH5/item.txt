@@ -1,0 +1,1432 @@
+1000; Mã cơ Jana 998 Nguyệt thẻ gói quà
+1001;Kim tệ
+1002;Kim cương
+1003;Vẫn thiết
+1004;Kỹ năng bảo rương
+1005;10 phần chung gia tốc quyển
+1006;Hoạt dược tích phần
+1007;Vinh dự
+1008;Công huân
+1009;Phổ thông pháo đạn
+1010;Nhiên thiêu đạn
+1011;Định thì tạc đạn
+1012;Đầu tử
+1013;Hạnh vận đầu tử
+1014;Pháo đạn thăng cấp đồ chỉ
+1015;Ban thủ
+1016;Năng lượng cầu
+1017;Thiêu chiến khoán
+1018;Bí ngân
+1019;Kinh nghiệm trị
+101; Xuyên Sơn Thử
+1020;1 giai sinh mệnh quả
+1021;2 giai sinh mệnh quả
+1022;3 giai sinh mệnh quả
+1023;1 giai lực lượng quả
+1024;2 giai lực lượng quả
+1025;3 giai lực lượng quả
+1026;1 giai thể chất quả
+1027;2 giai thể chất quả
+1028;3 giai thể chất quả
+1029;1 giai mẫn tiệp quả
+102; Xuyên Sơn Vương
+1030;2 giai mẫn tiệp quả
+1031;3 giai mẫn tiệp quả
+1031; Thiên hạt
+1032;Khẩn cấp triệt ly truyện tống trận
+1032; Thiên hạt vương
+1033;Ma thạch toái phiến
+1034;Quang hoàn phù văn
+1035;Nhục cán
+1036;Ti tửu
+1037;Mỹ tửu
+1038;Cán lương
+1039;Cải danh tạp
+1040;Thể lực
+1041;Dụ nhị
+1042;Tích phần
+1043;Điên phong thiêu chiến khoán
+1044;Công hội hoạt dược
+1045;Công hội kinh nghiệm
+1046;Cá nhân cống hiến
+1047;Trừu tưởng khoán
+1071; Hera Kroos
+1072; Siêu cấp Hera Kroos
+1081; Nữu kéo
+1082; Mã nữu kéo
+111; Khắc ấn tinh thạch
+111; Ni nhiều lan
+112; Khắc ấn đột phá ngọc thạch
+112; Ni nhiều na
+113; Ni nhiều sau
+1171; Mang Rewby
+1172; Hắc Lỗ thêm
+1173; Siêu cấp Hắc Lỗ thêm
+11; Tiểu hỏa long
+121; Ni nhiều lãng
+1221; Lôi Công
+122; Ni nhiều lực nặc
+1231; Viêm Đế
+123; Ni nhiều vương
+1241; Thủy quân
+1251; Ấu Kira tư
+1252; Cát Kira tư
+1253; Ban Kira tư
+1254; Tia chớp siêu cấp ban Kira tư
+1261; Lạc Kỳ á
+1271; Phượng vương
+1281; Lúc Labie
+1291; Mộc thạch sùng
+1292; Rừng rậm thằn lằn
+1293; Thằn lằn vương
+12; Lửa khủng long
+1301; Hỏa Trĩ gà
+1302; Khỏe mạnh cường tráng gà
+1303; Hỏa diễm gà
+1304; Siêu cấp hỏa diễm gà
+1311; Nước vọt cá
+1312; Chiểu vọt cá
+1313; Cự chiểu quái
+1314; Siêu cấp cự chiểu quái
+131; Da Bảo Bảo
+132; Bì Bì
+133; Da nhưng tây
+1351; Sen Diệp Đồng tử
+1352; Sen mũ tiểu đồng
+1353; Vui Thiên Hà đồng
+1391; Kéo lỗ kéo
+1392; Kỳ Lỗ lỵ an
+1393; Chanay đóa
+1394; Ngải đường lôi đóa
+1396; Siêu cấp Chanay đóa
+1397; Siêu cấp ngải đường lôi đóa
+13; Rồng phun lửa
+1421; Người lười rái cá
+1422; Qua động vượn
+1423; Xin phép nghỉ vương
+1441; Cô Nữu Nữu
+1442; Rống bạo đạn
+1443; Tiếng nổ quái
+14; Siêu cấp rồng phun lửa X
+1501; Nhưng có thể nhiều kéo
+1502; Nhưng nhiều kéo
+1503; Sóng sĩ nhưng nhiều kéo
+1504; Siêu cấp sóng sĩ nhưng nhiều kéo
+151; Bảo Bảo đinh
+151; Huy chương mảnh vỡ
+152; Cầu vồng xì sơn
+152; Béo đinh
+153; Béo nhưng đinh
+15; Siêu cấp rồng phun lửa Y
+1611; Ngốc lửa còng
+1612; Phun lửa còng
+161; Siêu âm Bức
+162; Miệng rộng Bức
+163; Xiên chữ Bức
+1641; Lắc lắc ban
+16; Cây nước trái cây
+171; Đi đường cỏ
+172; Xú xú hoa
+173; Bá vương hoa
+1771; Xấu xấu cá
+1772; Đẹp nạp tư
+1801; Oán ảnh bé con
+1802; Nguyền rủa bé con
+1811; Đêm tuần linh
+1812; Bàng hoàng dạ linh
+1813; Đêm tối ma linh
+1841; A đột nhiên toa lỗ
+1851; Tuyết Đồng tử
+1852; Băng quỷ hộ
+1853; Tuyết yêu nữ
+1861; Báo biển cầu
+1862; Hải Ma sư
+1863; Đế răng sư tử biển
+1891; Bảo bối rồng
+1892; Giáp xác rồng
+1893; Bạo Phi Long
+1901; Sắt tạ tay
+1902; Kim loại quái
+1903; Cự kim quái
+1911; Lôi Cát Locke
+191; Mao cầu
+1921; Lôi Cát Ace
+192; Ma lỗ nga
+1931; Régis Kỳ Lỗ
+1941; Latias
+1951; Kéo đế Oars
+1961; Đóng Âu thẻ
+1962; Nguyên thủy đóng Âu thẻ
+1971; Cố kéo nhiều
+1972; Nguyên thủy cố kéo nhiều
+1981; Liệt không tòa
+1982; Siêu cấp liệt không tòa
+1991; Kira cầu
+1; Diệu con ếch hạt giống
+20001; Diệu con ếch hạt giống mảnh vỡ
+2000; Hoàng kim huấn luyện nhà ảnh chân dung khung
+20011; Tiểu hỏa long mảnh vỡ
+2001;Lôi đình nhất kích
+2001; Cỏ mầm quy đầu khung ảnh
+20021; Denis rùa mảnh vỡ
+2002;Trị dũ thuật
+2002; Sen Diệp Đồng tử ảnh chân dung khung
+20031; Lông xanh trùng mảnh vỡ
+2003;Vô kiên bất tồi
+2003; Pikachu ảnh chân dung khung
+20041; Lớn châm ong mảnh vỡ
+2004;Phong ma thuật
+2004; Hỏa diễm đầu gà khung ảnh
+20051; Sóng sóng mảnh vỡ
+2005;Cuồng loạn thuật
+2005; Giáp Hạ nhẫn con ếch ảnh chân dung khung
+20061; Nhỏ Lada mảnh vỡ
+2006;Cường tập đả kích
+2006; Siêu mộng ảnh chân dung khung
+20071; Lie Sparrow mảnh vỡ
+2007;Thi độc thuật
+2007; Phượng vương ảnh chân dung khung
+20081; A Bách rắn mảnh vỡ
+2008;Hộ thuẫn thuật
+2008; Giáng Sinh chuyên môn ảnh chân dung khung
+20091; Da đồi mảnh vỡ
+2009;Sinh mệnh liên hoa
+2009; Tân xuân chuyên môn ảnh chân dung khung
+20101; Xuyên Sơn Thử mảnh vỡ
+2010;Toàn thần quán chú
+2010; Lạc Kỳ á ảnh chân dung khung
+20111; Ni nhiều lan mảnh vỡ
+2011;S1 Giấy thông hành ảnh chân dung khung
+2011;Đột tập
+2011; Cỏ mầm rùa
+20121; Ni nhiều lãng mảnh vỡ
+2012;Cuồng bạo
+2012; Lao động vinh quang nhất
+2012; Rừng cây rùa
+20131; Da Bảo Bảo mảnh vỡ
+2013;Phá giáp thuật
+2013; Đài đất rùa
+2013; Liệt không tòa ảnh chân dung khung
+2014;Phá thuẫn phong ma
+2014; Tính trẻ con đồng thú
+20151; Bảo Bảo đinh mảnh vỡ
+2015;Thần hồn đả kích
+2015; Đóng Âu thẻ ảnh chân dung khung
+20161; Siêu âm Bức mảnh vỡ
+2016;Hoành tảo thiên quân
+2016; Tống tình Đoan Ngọ
+20171; Đi đường cỏ mảnh vỡ
+2017;Hư nhược xạ tuyến
+2017; Trung thu nguyệt thỏ
+2018;Thần thánh chúc phúc
+2018; Khánh điển
+20191; Mao cầu mảnh vỡ
+2019;Quang chi chúc phúc
+2019; Vạn thánh ác ma
+2020;Quang chi thiểm diệu
+2020; Giáng Sinh con nai 2020
+2021;Liên tập
+2021; Lửa nhỏ diễm khỉ
+2021; Múa sư khánh tết nguyên đán
+20221; Có thể đạt tới vịt mảnh vỡ
+2022;Sinh mệnh chi chủng
+2022; Nguyên Tiêu chúc tuổi
+2022; Lửa mạnh khỉ
+20231; Khỉ quái mảnh vỡ
+2023;Đồng tường thiết bích
+2023; Chúc mừng phát đại tài
+2023; Liệt diễm khỉ
+20241; Kathi chó mảnh vỡ
+2024;Thiên tung chi dũng
+2024; Yêu liền ở cùng nhau
+20251; Nhang muỗi con ếch hoàng mảnh vỡ
+2025;1 Tròn năm ăn mừng
+2025;Tiên phát chế nhân
+20261; Cathy mảnh vỡ
+2026;Tỏa địch duệ khí
+2026; Siêu cấp liệt ghế trống ảnh chân dung khung
+20271; Bắp thịt mảnh vỡ
+2027;Duệ bất khả đương
+2027; Ngày Quốc Tế Lao Động 2021 Hạn định
+20281; Loa mầm mảnh vỡ
+2028;Phấn dũng tranh tiên
+2028; Sung sướng sáu một
+2029;Liêu sự như thần
+2029; Tống du lịch Đoan Ngọ
+20301; Tiểu Quyền Thạch mảnh vỡ
+2030;Thúc phược tỏa liên
+2030; Ngày mùa hè Nhạc Du du lịch
+2031; Đoàn viên Trung thu
+2031; Sóng Gia Mạn
+20321; Ngơ ngác vương mảnh vỡ
+2032; Sóng hoàng tử
+2032; Tết mừng năm mới nhật
+20331; Nhỏ từ quái mảnh vỡ
+2033; Nguyên thủy cố kéo nhiều mặt khung ảnh
+2033; Đế vương cầm sóng
+20341; Hành tây vịt mảnh vỡ
+2034; Ảnh chân dung khung
+20351; Tút tút mảnh vỡ
+20371; Thối bùn mảnh vỡ
+20381; Lưỡi to bối mảnh vỡ
+20391; Quỷ tư mảnh vỡ
+20401; Đại nham rắn mảnh vỡ
+2040; Đạt Clay y ảnh chân dung khung
+2041; Lôi Cát kỳ Kaz ảnh chân dung khung
+2042; Đế răng Luka ảnh chân dung khung
+2043; Khăn Lucci á ảnh chân dung khung
+20441; Dừa trứng cây mảnh vỡ
+2044; Cưỡi kéo đế cúi đầu khung ảnh
+20451; Tạp lạp Tạp lạp mảnh vỡ
+2045; Tạ gạo ảnh chân dung khung
+20461; Không sợ tiểu tử mảnh vỡ
+2046; Trừng trị Hồ khăn ảnh chân dung khung
+20471; Đầu lưỡi lớn mảnh vỡ
+2047; Lai Hi Lạp mẫu ảnh chân dung khung
+20481; Gas bắn nát phiến
+2048; Tiệp Khắc Rom ảnh chân dung khung
+20491; Độc giác tê giác mảnh vỡ
+2049; Tù Rem ảnh chân dung khung
+20501; Tiểu Phúc trứng mảnh vỡ
+2050; Đẹp Lạc a tháp · Tiếng ca ảnh chân dung khung
+2051; Đẹp Lạc a tháp · Vũ bộ ảnh chân dung khung
+2052; Kira cầu ảnh chân dung khung
+2053; Đẹp ghi chép Meta ảnh chân dung khung
+20541; Sừng cá vàng mảnh vỡ
+2054; Y Bùi ngươi Thel ảnh chân dung khung
+20551; Hải tinh tinh toái phiến
+2055; Lúc Labie ảnh chân dung khung
+20561; Ma tường con rối mảnh vỡ
+2056; Đóng nặc thi đấu Kurt ảnh chân dung khung
+20571; Phi Thiên Đường Lang mảnh vỡ
+2057; Triết ngươi ni Á Tư ảnh chân dung khung
+2058; Nhanh kéo Aora ảnh chân dung khung
+20591; Điện giật quái mảnh vỡ
+20601; Vịt miệng Bảo Bảo mảnh vỡ
+20611; Khải La tư mảnh vỡ
+20631; Bạo Lý Long mảnh vỡ
+20641; Laplace mảnh vỡ
+20691; Hoá thạch nón trụ mảnh vỡ
+20701; Hoá thạch Dực Long mảnh vỡ
+20711; Nhỏ thẻ so thú mảnh vỡ
+2071;S2 Giấy thông hành ảnh chân dung khung
+2071; Mèo con quái
+20721; Cấp đống chim mảnh vỡ
+2072;S3 Giấy thông hành ảnh chân dung khung
+2072; Siết khắc mèo
+20731; Thiểm Điện điểu mảnh vỡ
+2073;S4 Giấy thông hành ảnh chân dung khung
+2073; Röntgen mèo
+20741; Hỏa Diễm Điểu mảnh vỡ
+2074;S5 Giấy thông hành ảnh chân dung khung
+20751; Nhanh rồng mảnh vỡ
+2075;S6 Giấy thông hành ảnh chân dung khung
+20761; Siêu mộng mảnh vỡ
+2076;S7 Giấy thông hành ảnh chân dung khung
+20771; Mộng ảo mảnh vỡ
+2077;S8 Giấy thông hành ảnh chân dung khung
+20781; Cúc cây cỏ mảnh vỡ
+2078;S9 Giấy thông hành ảnh chân dung khung
+20791; Hỏa cầu chuột mảnh vỡ
+2079;S10 Giấy thông hành ảnh chân dung khung
+20801; Nhỏ cưa ngạc mảnh vỡ
+20861; Ba Khắc so mảnh vỡ
+20881; Be lợi dê mảnh vỡ
+20891; Lộ lực lệ mảnh vỡ
+20971; Mộng yêu mảnh vỡ
+2101; Sơ cấp cường hóa thạch
+2102; Trung cấp cường hóa thạch
+21031; Thiên hạt mảnh vỡ
+2103; Cao cấp cường hóa thạch
+2103; Cao cấp cường hóa thạch
+21071; Hera Kroos mảnh vỡ
+21081; Nữu kéo mảnh vỡ
+21171; Mang Rewby mảnh vỡ
+21221; Lôi Công mảnh vỡ
+21231; Viêm Đế mảnh vỡ
+21241; Thủy quân mảnh vỡ
+21251; Ấu Kira tư mảnh vỡ
+21254; Tia chớp siêu cấp ban Kira tư mảnh vỡ
+21261; Lạc Kỳ á mảnh vỡ
+21271; Phượng vương mảnh vỡ
+21281; Lúc Labie mảnh vỡ
+21291; Mộc thạch sùng mảnh vỡ
+21301; Hỏa Trĩ gà mảnh vỡ
+21311; Nước vọt cá mảnh vỡ
+21351; Sen Diệp Đồng tử mảnh vỡ
+21391; Kéo lỗ kéo mảnh vỡ
+21421; Người lười rái cá mảnh vỡ
+21441; Cô Nữu Nữu mảnh vỡ
+21501; Nhưng có thể nhiều kéo mảnh vỡ
+2151; Màu lam vạn năng thạch
+2152; Tử sắc vạn năng thạch
+2153; Màu cam vạn năng thạch
+21611; Ngốc lửa còng mảnh vỡ
+21641; Lắc lắc ban mảnh vỡ
+21771; Xấu xấu cá mảnh vỡ
+21801; Oán ảnh bé con mảnh vỡ
+21811; Đêm tuần linh mảnh vỡ
+21841; A đột nhiên toa lỗ mảnh vỡ
+21851; Tuyết Đồng tử mảnh vỡ
+21861; Báo biển cầu mảnh vỡ
+21891; Bảo bối rồng mảnh vỡ
+21901; Sắt tạ tay mảnh vỡ
+2190; Giấy thông hành hình tượng lựa chọn cái rương
+21911; Lôi Cát Locke mảnh vỡ
+21921; Lôi Cát Ace mảnh vỡ
+21931; Régis Kỳ Lỗ mảnh vỡ
+21941; Latias mảnh vỡ
+21951; Kéo đế Oars mảnh vỡ
+21961; Đóng Âu thẻ mảnh vỡ
+21971; Cố kéo nhiều mảnh vỡ
+21981; Liệt không tòa mảnh vỡ
+21991; Kira cầu mảnh vỡ
+21; Denis rùa
+22011; Cỏ mầm rùa mảnh vỡ
+2201; Tiểu Trí tín vật
+22021; Lửa nhỏ diễm khỉ mảnh vỡ
+2202; Tiểu Hà tín vật
+22031; Sóng Gia Mạn mảnh vỡ
+2203; Kéo phổ tín vật
+2204; Borr mỹ lệ tín vật
+2205; Lộ đẹp sáng tín vật
+2206; Mai nhã lệ tín vật
+22071; Mèo con quái mảnh vỡ
+2207; Hoa hồ điệp tín vật
+2208; Tử La Lan tín vật
+2209; Tây tử y tín vật
+2210; Đỗ quyên tín vật
+2211; Acker la mã tín vật
+2212; Asha tín vật
+2213; Tu tín vật
+2214; Hoắc gạo thêm tín vật
+2215; Bạch lộ tín vật
+2216; Nhưng ngươi ny tín vật
+2217; Lan ban ngày ny tín vật
+2218; Lộ tịch hoa tín vật
+2219; Lan cô nàng đêm tín vật
+221; Có thể đạt tới vịt
+2220; Lô hội tín vật
+2221; Thùng đựng than tín vật
+2222; Mầm áo tín vật
+22231; Tròn lục cá mập mảnh vỡ
+2223; Di lỵ tia tín vật
+22241; Lợi Âu đường mảnh vỡ
+2224; Phù dung tín vật
+2225; Thủy liên tín vật
+2226; Xanh lam tín vật
+22271; Không tốt con ếch mảnh vỡ
+2227; Tiểu Cương tín vật
+2228; Bích kha tín vật
+2229; Đạt khăn tín vật
+222; Ca đạt vịt
+22301; Tuyết nón lá quái mảnh vỡ
+2231; Tròn lục cá mập
+2231; Ngải lam tín vật
+2232; Đại mộc tiến sĩ tín vật
+2232; Răng nanh lục cá mập
+2233; Liệt cắn lục cá mập
+22351; Đế răng Luka mảnh vỡ
+22361; Khăn Lucci á mảnh vỡ
+22371; Tịch nhiều lam ân mảnh vỡ
+2237; Tiểu Trí ( Giáng Sinh hạn định ) Tín vật
+22381; Lôi Cát kỳ Kaz mảnh vỡ
+2238; Tiểu Hà ( Giáng Sinh hạn định ) Tín vật
+22391; Cưỡi kéo đế nạp mảnh vỡ
+2239; Lãng nhật tín vật
+22401; Kurei sắc Lợi Á mảnh vỡ
+2240; Mỹ Nguyệt tín vật
+22411; Fiona mảnh vỡ
+2241; Lợi Âu đường
+2241; Kojirō tín vật
+22421; Mana Phỉ mảnh vỡ
+2242; Vũ Tàng tín vật
+2242; Đường Cali Âu
+22431; Đạt Clay y mảnh vỡ
+2243; Thủy liên ( Ngày mùa hè hạn định ) Tín vật
+2243; Siêu cấp đường Cali Âu
+22441; Tạ gạo mảnh vỡ
+2244; Mai nhã lợi tín vật
+2245; Cách Lạp Cát Âu tín vật
+22461; Pick xách ni mảnh vỡ
+2246; Mã áo tín vật
+22471; Dây leo dây leo rắn mảnh vỡ
+2247; Lily ngải tín vật
+22481; Ủ ấm heo mảnh vỡ
+2248; Assey Laura tín vật
+22591; Thạch viên thuốc mảnh vỡ
+22611; Đinh ốc chuột đất mảnh vỡ
+22631; Vận chuyển nhỏ tượng mảnh vỡ
+22681; Bách Túc Ngô Công mảnh vỡ
+2271; Không tốt con ếch
+22721; Mắt đen ngạc mảnh vỡ
+2272; Độc khô con ếch
+22821; Solo á mảnh vỡ
+22831; Bọt biển lật chuột mảnh vỡ
+22841; Gogh Bảo Bảo mảnh vỡ
+22871; Mini băng mảnh vỡ
+22891; Điện chuột bay mảnh vỡ
+22921; Nhẹ nhàng · Thư mảnh vỡ
+22922; Nhẹ nhàng · Hùng mảnh vỡ
+22961; Bánh răng mà mảnh vỡ
+22991; Ánh nến linh mảnh vỡ
+22; Thẻ meo rùa
+23001; Bập bẹ mảnh vỡ
+2300; Pikachu Giáng Sinh bản
+23011; Hắt xì gấu mảnh vỡ
+2301; Điện điện chuột tân xuân bản
+2301; Tuyết nón lá quái
+23021; Bao nhiêu bông tuyết mảnh vỡ
+2302; Bạo tuyết vương
+2302; Sóng Gia Mạn
+2303; Cảnh quỷ
+2303; Siêu cấp bạo tuyết vương
+2304; Denis rùa
+2305; Meo meo
+2306; Mộc mộc kiêu
+2307; Diệu con ếch hạt giống
+2308; Pikachu
+2309; Tiểu hỏa long
+2310; Y Bố
+2311; Nguyệt Tinh Linh
+2312; Chiểu vọt cá
+2313; Thẻ so thú ngày Quốc Tế Lao Động hạn định
+23141; Đơn thủ rồng mảnh vỡ
+2314; Goethe Bảo Bảo 61 Hạn định
+23151; Thiêu đốt trùng mảnh vỡ
+2315; Diệu con ếch bánh chưng
+23161; Câu khăn đường ông mảnh vỡ
+2316; Ăn bánh mà
+23171; Thay mặt Raki ông mảnh vỡ
+2317; So tâm
+23181; Nỗ lực cát ông mảnh vỡ
+2318; Ngụy trang
+23191; Vòi rồng mây mảnh vỡ
+2319; Xuyên gấu 2020 Giáng Sinh hạn định
+231; Khỉ quái
+23201; Lôi điện mây mảnh vỡ
+2320; May mắn trứng 2021 Tết nguyên đán hạn định
+23211; Lai Hi Lạp mẫu mảnh vỡ
+2321; Vú lớn bình ·2021
+23221; Tiệp Khắc Rom mảnh vỡ
+2322; Hồng bao lấy ra
+23231; Thổ địa mây mảnh vỡ
+2323; Cuối cùng thành thân thuộc ·2021
+23241; Tù Rem mảnh vỡ
+2324;1 Tròn năm · Pikachu
+23251; Khải đường Địch Âu mảnh vỡ
+2325; Dời gạch meo meo
+23261; Đẹp Lạc a tháp · Tiếng ca mảnh vỡ
+2326; Sáu một · Tinh nghịch gấu trúc
+23271; Đóng nặc thi đấu Kurt mảnh vỡ
+2327; Tống Diệp Đồng tử
+23281; A lực lật mảnh vỡ
+2328; Ngày mùa hè · Pikachu
+23291; Hỏa Hồ ly mảnh vỡ
+2329; Ngày mùa hè · Denis rùa
+232; Hỏa Bạo Hầu
+23301; Oa oa ngâm con ếch mảnh vỡ
+2330; Hỏa cầu chuột · Trung thu
+2331; Thịnh điển · Tạp lạp Tạp lạp
+2332; Ảnh chân dung
+23341; Nhỏ sư sư mảnh vỡ
+23351; Hoa bội bội mảnh vỡ
+23411; Độc vỏ kiếm mảnh vỡ
+23431; Rả rích bánh su kem mảnh vỡ
+23471; Thiết tí thương tôm mảnh vỡ
+23501; Băng Tuyết Long mảnh vỡ
+23511; Quẳng Giác Ưng người mảnh vỡ
+2351; Đế răng Luka
+23541; Dinh dính bảo mảnh vỡ
+23561; Tiểu Mộc linh mảnh vỡ
+23591; Ông Bức mảnh vỡ
+23601; Triết ngươi ni Á Tư mảnh vỡ
+23611; Y Bùi ngươi Thel mảnh vỡ
+2361; Khăn Lucci á
+23621; Cơ Gerd 100% Mảnh vỡ
+23631; Tien vỡ nát phiến
+23641; Trừng trị Hồ khăn mảnh vỡ
+23651; Pol Khải Ni Ân mảnh vỡ
+23661; Mộc mộc kiêu mảnh vỡ
+23671; Sí diễm gào thét hổ mảnh vỡ
+23681; Cầu Cầu sư tử biển mảnh vỡ
+2371; Tịch nhiều lam ân
+23771; Tốt xấu tinh toái phiến
+2381; Lôi Cát kỳ Kaz
+23841; Ngọt trúc trúc mảnh vỡ
+2391; Cưỡi kéo đế nạp
+23961; Mê mô phỏng Q Mảnh vỡ
+23; Thủy tiễn rùa
+2400; Giáng Sinh vui vẻ
+2401; Kurei sắc Lợi Á
+2401; Tân xuân vui vẻ
+24023; Thor già Leo mảnh vỡ
+24024; Lộ Netia kéo mảnh vỡ
+2402; Giấy thông hành S1
+24031; Hư ta y đức mảnh vỡ
+2403; Lao động vinh quang nhất
+2404; Hùng hài tử
+2405; Tống tình Đoan Ngọ
+2406; Trăng tròn tốt lúc
+24071; Sắt lửa Kaguya mảnh vỡ
+2407; Khánh điển người chứng kiến
+24081; Giấy ngự kiếm mảnh vỡ
+2408;Skr Tiểu cơ linh quỷ
+2409;2020 Giáng Sinh hạn định
+2410;2021 Tết nguyên đán vui vẻ
+24111; Mã cơ Jana mảnh vỡ
+2411; Mỹ mãn
+2411; Phi Âu nạp
+24121; Mã Hạ Đa mảnh vỡ
+2412; Năm mới bắt đầu
+24131; Độc bối so mảnh vỡ
+2413; Vung lương hộ chuyên nghiệp
+24141; Lũy lỗi đá bể phiến
+2414; Cảm ân có ngươi
+24151; Phanh đầu nhỏ xấu mảnh vỡ
+2415; Dũng giả thức tỉnh
+24161; Nhanh kéo Aora mảnh vỡ
+2416; Làm công người đáng yêu nhất
+24171; Đẹp ghi chép thản mảnh vỡ
+2417; Tính trẻ con chưa mẫn
+2418; Thả tống một hạ
+2419; Bảo tàng thợ săn
+241; Kathi chó
+2420; Giữa hè năm ánh sáng
+2421; Mã nạp phi
+2421; Bỏ trốn đến mặt trăng
+2422; Cuồng hoan thịnh yến
+2423; Xưng hào
+242; Tốc độ gió chó
+2431; Đạt Clay y
+2441; Tạ gạo
+2442; Tạ gạo · Bầu trời
+2461; Pick xách ni
+2471; Dây leo dây leo rắn
+2471; Giấy thông hành S2
+2472; Giấy thông hành S3
+2472; Dây leo rắn
+2473; Quân chủ rắn
+2473; Giấy thông hành S4
+2474; Giấy thông hành S5
+2475; Giấy thông hành S6
+2476; Giấy thông hành S7
+2477; Giấy thông hành S8
+2478; Giấy thông hành S9
+2479; Giấy thông hành S10
+2481; Ủ ấm heo
+2482; Xào xào heo
+2483; Viêm Võ Vương
+24; Siêu cấp thủy tiễn rùa
+2501; Thiên phú dị bẩm
+2502; Tinh lộ xa xôi
+2503; Tinh cấp đạt nhân
+2504; Thăng tinh cuồng nhân
+2505; Hoàn mỹ thức tỉnh
+2506; Hi hữu bảo vật
+2507; Không có khả năng nhiệm vụ
+2508; Chỉ là truyền thuyết
+2509; Sparta dũng sĩ
+2510; Tặng người hoa hồng
+2511; Đại lực xuất kỳ tích
+2512; Song hoàng trứng
+2513; Mũ ảo thuật
+2514; Trong nhà có mỏ
+2515; Long Vương phun nước
+2516; Không thể tưởng tượng nổi の
+2517; Chinh phục giả
+2518; Ngư dân
+2519; Thả câu cao thủ
+251; Nhang muỗi con ếch hoàng
+2520; Thả câu đạt nhân
+2521; Thả câu tông sư
+2522; Lão nhân cùng biển
+2523; Đạo quán người khiêu chiến
+2524; Nhân vật chính quang hoàn
+2525; Vua Mạo Hiểm tử
+2591; Thạch viên thuốc
+2592; Lòng đất nham
+2593; Bàng nham quái
+2611; Đinh ốc chuột đất
+2612; Long đầu chuột đất
+261; Cathy
+262; Dũng Kira
+2631; Vận chuyển nhỏ tượng
+2632; Thiết cốt thổ dân
+2633; Tu kiến già tượng
+263; Hồ
+264; Siêu cấp Hồ
+2681; Bách Túc Ngô Công
+2682; Bánh xe cầu
+2683; Con rết vương
+27001; Tiểu Trí bản Pikachu mảnh vỡ
+27021; Tia chớp cảnh quỷ mảnh vỡ
+27031; Viễn cổ dị thú
+27041; Viễn cổ dị thú
+27051; Viễn cổ dị thú
+27061; Biến dị thể
+271; Bắp thịt
+2721; Mắt đen ngạc
+2722; Lưu manh ngạc
+2723; Lưu manh ngạc
+272; Hào lực
+273; Quái lực
+28001; Ăn thừa quả táo mảnh vỡ
+28002; Dung nham tăng phúc khí mảnh vỡ
+28003; Điện lực tăng phúc khí mảnh vỡ
+28004; Vương giả chứng nhận mảnh vỡ
+28005; Tâm linh hương thảo mảnh vỡ
+28006; Khí thế băng cột đầu mảnh vỡ
+28007; Mềm mại hạt cát mảnh vỡ
+28008; Tơ lụa khăn quàng cổ mảnh vỡ
+28009; Nguyền rủa chi phù mảnh vỡ
+28010; Long chi răng mảnh vỡ
+28011; Cục đá cứng mảnh vỡ
+28012; Đai đen mảnh vỡ
+28013; Kim loại màng mảnh vỡ
+28014; Yêu tinh bộ nhớ mảnh vỡ
+28015; Lực lượng phụ trọng mảnh vỡ
+28016; Kỳ dị huân hương mảnh vỡ
+28017; Tâm chi thủy giọt mảnh vỡ
+28018; Đối chiến máy truyền tin mảnh vỡ
+28019; Tiểu Trí mũ mảnh vỡ
+28101; Bất hủ chi kiếm mảnh vỡ
+28102; Xích diễm chi trảo mảnh vỡ
+28103; Bất hủ chi thuẫn mảnh vỡ
+28104; Cao năng hộ oản mảnh vỡ
+28105; Cường lực vòng tay mảnh vỡ
+28106; Tinh linh chi địch mảnh vỡ
+28107; Cộng minh nguyên tố mảnh vỡ
+28108; Cực lớn cổ tay mang mảnh vỡ
+28109; Cyr phật kiểm tra kính mảnh vỡ
+28110; Tiến sĩ mặt nạ mảnh vỡ
+28111; Bảo thạch vòng tay mảnh vỡ
+28112; Siêu cấp kính mắt mảnh vỡ
+28113; Siêu cấp lĩnh châm mảnh vỡ
+28114; Chống bụi kính bảo hộ mảnh vỡ
+28115; Siêu năng đồng hồ mảnh vỡ
+28116; Dò xét Bảo khí mảnh vỡ
+28117; Hiện hình kính mảnh vỡ
+28118; Thần bí dây chuyền mảnh vỡ
+28119; Siêu năng vòng trượt giày mảnh vỡ
+28120; Võ sĩ mũ giáp mảnh vỡ
+28121; Thống khổ mặt nạ mảnh vỡ
+28123; Thor hợp thể khí mảnh vỡ
+28124; Gen chi tiết mảnh vỡ
+28125; Nhìn rõ vương miện mảnh vỡ
+281; Loa mầm
+2821; Solo á
+2822; Solo Á Khắc
+282; Ngây mồm hoa
+2831; Bọt biển lật chuột
+2832; Kỳ nặc lật chuột
+283; Đại thực hoa
+2841; Gogh Bảo Bảo
+2842; Gogh tiểu đồng
+2843; Gogh tiểu thư
+28501; Màu lam vạn năng đá bể phiến
+28502; Tử sắc vạn năng đá bể phiến
+28503; Màu cam vạn năng đá bể phiến
+28504; Màu cam thám hiểm khí tự do bảo rương mảnh vỡ
+28505; Tử sắc mang theo đạo cụ tự do bảo rương mảnh vỡ
+28506; Ngẫu nhiên màu cam phù thạch bảo rương mảnh vỡ
+2871; Mini băng
+2872; Nhiều hơn băng
+2873; Gấp đôi nhiều hơn băng
+2891; Điện chuột bay
+29001; Tử sắc bách biến quái mảnh vỡ
+29002; Màu cam bách biến quái mảnh vỡ
+29003; Màu đỏ bách biến quái mảnh vỡ
+2921; Nhẹ nhàng · Thư
+2922; Nhẹ nhàng · Hùng
+2923; Béo ị · Thư
+2924; Béo ị · Hùng
+2961; Bánh răng mà
+2962; Bánh răng tổ
+2963; Bánh răng quái
+2991; Ánh nến linh
+2992; Đèn đuốc u linh
+2993; Đèn thủy tinh hỏa linh
+2; Diệu con ếch cỏ
+3001;Chiến hổ
+3001; Hỏa chi thạch
+3001; Bập bẹ
+3002;Bạch hùng
+3002; Búa răng rồng
+3002; Thủy chi thạch
+3003;Chiến hùng
+3003; Hai lưỡi búa chiến long
+3003; Lôi chi thạch
+3004;Bạch sư
+3004; Lá chi thạch
+3005;Ban mã
+3005; Nguyệt chi thạch
+3006;U linh chiến điêu
+3006; Nhật chi thạch
+3007;Tuyết báo
+3007; Quang chi thạch
+3008;Trường cảnh lộc
+3008; Ám chi thạch
+3009;U minh hổ
+3009; Thức tỉnh chi thạch
+3010;Vinh dự chiến long
+3010; Băng chi thạch
+3011;Tinh không hùng
+3011; Tiến Hóa Thạch
+3011; Hắt xì gấu
+3012;Sa thạch chiến long
+3012; Lãnh nguyên gấu
+3012; Lửa Tiến Hóa Thạch
+3013;Tinh linh long
+3013; Nước Tiến Hóa Thạch
+3014;U linh long
+3014; Cỏ Tiến Hóa Thạch
+3015;Thâm lam tê ngưu
+3015; Điện Tiến Hóa Thạch
+3016;Hàn băng chiến long
+3016; Băng Tiến Hóa Thạch
+3017;Lôi hệ chiến tích
+3017; Cách đấu Tiến Hóa Thạch
+3018;U linh thú vương
+3018; Độc Tiến Hóa Thạch
+3019;Công huân chiến mã
+3019; Mặt đất Tiến Hóa Thạch
+301; Tiểu Quyền Thạch
+3020;Hoàng gia chiến sư
+3020; Phi hành vào hoá thạch
+3021;Tuyết lang vương
+3021; Bao nhiêu bông tuyết
+3021; Siêu năng Tiến Hóa Thạch
+3022;Triều lưu dã trư
+3022; Trùng Tiến Hóa Thạch
+3023;Nham rương liệp khuyển
+3023; Nham thạch Tiến Hóa Thạch
+3024;Hắc sư vương
+3024; U linh Tiến Hóa Thạch
+3025;Tấn mãnh long
+3025; Rồng Tiến Hóa Thạch
+3026;Tiểu dã trư
+3026; Ác Tiến Hóa Thạch
+3027;Tật hành điểu
+3027; Thép Tiến Hóa Thạch
+3028;Lục địa lục quy
+3028; Yêu tinh Tiến Hóa Thạch
+3029;Liệp cẩu
+3029; Tử sắc tiến hóa chìa thạch
+302; Ù ù thạch
+3030;Liệp cẩu vương
+3030; Màu cam tiến hóa chìa thạch
+3031;Hắc lang
+3031; Màu đỏ tiến hóa chìa thạch
+3032;Tinh quang liệp vương
+3032; Không hoàn mỹ chìa thạch
+3033; Thần kỳ Tiến Hóa Thạch
+3034; Cứu cực tiến hóa chìa thạch
+303; Ù ù nham
+3101; Diệu con ếch hoa Tiến Hóa Thạch
+3102; Rồng phun lửa Tiến Hóa Thạch X
+3103; Rồng phun lửa Tiến Hóa Thạch Y
+3104; Thủy tiễn rùa Tiến Hóa Thạch
+3105; Lớn châm ong Tiến Hóa Thạch
+3106; Bạo tuyết vương Tiến Hóa Thạch
+3107; Cảnh quỷ Tiến Hóa Thạch
+3108; Hồ Tiến Hóa Thạch
+3109; Điện Long Tiến Hóa Thạch
+3110; Liệt không tòa Tiến Hóa Thạch
+3111; Cự kim quái Tiến Hóa Thạch
+3112; Cự chiểu quái Tiến Hóa Thạch
+3113; Cự kìm bọ ngựa Tiến Hóa Thạch
+3114; Chanay đóa Tiến Hóa Thạch
+3115; Ngải đường lôi đóa Tiến Hóa Thạch
+3116; Sóng sĩ nhưng nhiều kéo vào hoá thạch
+3117; Cố kéo nhiều Tiến Hóa Thạch
+3118; Giáp Hạ nhẫn con ếch Tiến Hóa Thạch
+3119; Đường Cali Âu Tiến Hóa Thạch
+3120; Bạo Lý Long Tiến Hóa Thạch
+3121; Hỏa diễm gà Tiến Hóa Thạch
+3122; Hera Kroos Tiến Hóa Thạch
+3123; Hắc Lỗ thêm Tiến Hóa Thạch
+3124; Đóng Âu thẻ Tiến Hóa Thạch
+3125; Lớn cương xà Tiến Hóa Thạch
+3126; So tài một chút chim Tiến Hóa Thạch
+3127; Tien hi Tiến Hóa Thạch
+3141; Đơn thủ rồng
+3142; Hai đầu bạo long
+3143; Ba đầu đảng tội ác rồng
+3151; Thiêu đốt trùng
+3152; Hỏa Thần nga
+3161; Câu khăn đường ông
+3171; Thay mặt Raki ông
+3181; Nỗ lực cát ông
+3191; Vòi rồng mây
+31; Lông xanh trùng
+3201; Lôi điện mây
+3211; Lai Hi Lạp mẫu
+321; Ngơ ngác vương
+3221; Tiệp Khắc Rom
+3231; Thổ địa mây
+3241; Tù Rem
+3251; Khải đường Địch Âu
+3261; Đẹp Lạc a tháp · Tiếng ca
+3262; Đẹp Lạc a tháp · Vũ bộ
+3271; Đóng nặc thi đấu Kurt
+3281; A lực lật
+3282; Mập mạp a lực
+3283; Bố Lý Karon
+3291; Hỏa Hồ ly
+3292; Đuôi dài Hỏa Hồ
+3293; Yêu lửa Hồng Hồ
+3301; Oa oa ngâm con ếch
+3302; Oa đầu con ếch
+3303; Giáp Hạ nhẫn con ếch
+3304; Tiểu Trí bản Giáp Hạ nhẫn con ếch
+331; Nhỏ từ quái
+332; Ba hợp một từ quái
+333; Tự bạo từ quái
+3341; Nhỏ sư sư
+3342; Hỏa viêm sư
+3351; Hoa bội bội
+3352; Hoa lá cuống
+3353; Hoa khiết phu nhân
+33; Ba lớn bướm
+3411; Độc vỏ kiếm
+3412; Song kiếm vỏ
+3413; Kiên thuẫn kiếm quái · Tấm thuẫn
+341; Hành tây vịt
+3431; Rả rích bánh su kem
+3432; Béo ngọt ny
+3471; Thiết tí thương tôm
+3472; Đại bác cánh tay tôm
+3501; Băng Tuyết Long
+3502; Băng tuyết cự long
+3511; Quẳng Giác Ưng người
+351; Tút tút
+352; Tút tút lợi
+3541; Dinh dính bảo
+3542; Dính đẹp mà
+3543; Dính mỹ long
+3561; Tiểu Mộc linh
+3562; Gỗ mục yêu
+3591; Ông Bức
+3592; Sóng âm rồng
+3601; Triết ngươi ni Á Tư
+3611; Y Bùi ngươi Thel
+3621; Cơ Gerd
+3631; Tien hi
+3632; Siêu cấp Tien hi
+3641; Trừng trị Hồ khăn
+3642; Giải phóng Hồ khăn
+3651; Pol Khải Ni Ân
+3661; Mộc mộc kiêu
+3662; Ném vũ kiêu
+3663; Thư bắn cây kiêu
+3671; Sí diễm gào thét hổ
+3681; Cầu Cầu sư tử biển
+3682; Hoa dạng sư tử biển
+3683; Tây sư biển nhâm
+371; Thối bùn
+372; Xú xú bùn
+3771; Tốt xấu tinh
+3772; Siêu xấu tinh
+381; Lưỡi to bối
+382; Đâm giáp bối
+3841; Ngọt trúc trúc
+3842; Ngọt múa ny
+3843; Ngọt lạnh đẹp sau
+391; Quỷ tư
+392; Quỷ Stone
+393; Cảnh quỷ
+394; Siêu cấp cảnh quỷ
+3961; Mê mô phỏng Q
+3; Diệu con ếch hoa
+4000; Thám hiểm linh kiện
+4001;Liên kích
+4002;Liên kích
+4003;Liên kích
+4004;Liên kích
+4005;Liên kích
+4011;Hốt thị liên kích
+4012;Hốt thị liên kích
+4013;Hốt thị liên kích
+4014;Hốt thị liên kích
+4015;Hốt thị liên kích
+401; Đại nham rắn
+4021;Phản kích
+4022;Phản kích
+4023;Phản kích
+4024;Phản kích
+4024; Lộ Netia kéo
+4025;Phản kích
+4025; Cứu cực dị thú
+402; Lớn cương xà
+4031;Hốt thị phản kích
+4031; Hư ta y đức
+4032;Hốt thị phản kích
+4033;Hốt thị phản kích
+4034;Hốt thị phản kích
+4035;Hốt thị phản kích
+403; Siêu cấp lớn cương xà
+4041;Thiểm tị
+4042;Thiểm tị
+4043;Thiểm tị
+4044;Thiểm tị
+4045;Thiểm tị
+4051;Hốt thị thiểm tị
+4052;Hốt thị thiểm tị
+4053;Hốt thị thiểm tị
+4054;Hốt thị thiểm tị
+4055;Hốt thị thiểm tị
+4061;Bạo kích
+4062;Bạo kích
+4063;Bạo kích
+4064;Bạo kích
+4065;Bạo kích
+4071;Hốt thị bạo kích
+4071; Sắt lửa Kaguya
+4072;Hốt thị bạo kích
+4073;Hốt thị bạo kích
+4074;Hốt thị bạo kích
+4075;Hốt thị bạo kích
+4081;Kỹ năng thương hại
+4081; Giấy ngự kiếm
+4082;Kỹ năng thương hại
+4083;Kỹ năng thương hại
+4084;Kỹ năng thương hại
+4085;Kỹ năng thương hại
+4091;Truy kích thương hại
+4092;Truy kích thương hại
+4093;Truy kích thương hại
+4094;Truy kích thương hại
+4095;Truy kích thương hại
+4102;Kỹ năng khái suất
+4103;Kỹ năng khái suất
+4104;Kỹ năng khái suất
+4105;Kỹ năng khái suất
+4111; Mã cơ Jana
+4112;Truy kích khái suất
+4113;Truy kích khái suất
+4114;Truy kích khái suất
+4115;Truy kích khái suất
+4121; Mã Hạ Đa
+4123;Đại sư tạp
+4124;Đại sư tạp
+4125;Đại sư tạp
+412; Aether quỹ ngân sách
+4131; Độc bối so
+4132; Bốn hàm châm rồng
+4133;Tông sư tạp
+4134;Tông sư tạp
+4135;Tông sư tạp
+4141; Lũy lỗi thạch
+4143;Vương giả tạp
+4144;Vương giả tạp
+4145;Vương giả tạp
+4151;Trị liệu
+4151; Phanh đầu nhỏ xấu
+4152;Trị liệu
+4153;Trị liệu
+4154;Trị liệu
+4155;Trị liệu
+4161; Nhanh kéo Aora
+4171; Đẹp ghi chép thản
+4172; Đẹp ghi chép Meta
+41; Lớn châm ong
+422; Công hội chiến huân kim tệ
+4401;1 tinh tùy cơ tạp
+4402;2 tinh tùy cơ tạp
+4403;3 tinh tùy cơ tạp
+4404;4 tinh tùy cơ tạp
+4405;5 tinh tùy cơ tạp
+441; Dừa trứng cây
+44; Siêu cấp lớn châm ong
+451; Tạp lạp Tạp lạp
+452; Ầm ầm ầm ầm
+461; Không sợ tiểu tử
+462; Phi cước lang
+463; Khoái quyền lang
+464; Chiến múa lang
+471; Đầu lưỡi lớn
+472; Lưỡi to liếm
+481; Gas đạn
+482; Song đạn gas
+491; Độc giác tê giác
+492; Chui tê giác thú
+493; Siêu giáp cuồng tê
+4; Siêu cấp diệu con ếch hoa
+50001; Diệu con ếch hạt giống ·Z Thức tỉnh mảnh vỡ
+5000; Năng lượng hạch tâm
+50011; Tiểu hỏa long ·Z Thức tỉnh mảnh vỡ
+5001;Chiến đấu thiên tài
+50021; Denis rùa ·Z Thức tỉnh mảnh vỡ
+5002;Chiến đấu tông sư
+50031; Lông xanh trùng ·Z Thức tỉnh mảnh vỡ
+5003;Chiến đấu anh hùng
+50051; Sóng sóng ·Z Thức tỉnh mảnh vỡ
+50054; Siêu cấp thi đấu chim Z Thức tỉnh mảnh vỡ
+50061; Nhỏ Lada ·Z Thức tỉnh mảnh vỡ
+50071; Lie Sparrow ·Z Thức tỉnh mảnh vỡ
+50081; A Bách rắn ·Z Thức tỉnh mảnh vỡ
+50091; Da đồi ·Z Thức tỉnh mảnh vỡ
+50101; Xuyên Sơn Thử ·Z Thức tỉnh mảnh vỡ
+50111; Ni nhiều lan ·Z Thức tỉnh mảnh vỡ
+50121; Ni nhiều lãng ·Z Thức tỉnh mảnh vỡ
+50131; Da Bảo Bảo ·Z Thức tỉnh mảnh vỡ
+50151; Bảo Bảo đinh ·Z Thức tỉnh mảnh vỡ
+50161; Siêu âm Bức ·Z Thức tỉnh mảnh vỡ
+50171; Đi đường cỏ ·Z Thức tỉnh mảnh vỡ
+50191; Mao cầu ·Z Thức tỉnh mảnh vỡ
+501; Tiểu Phúc trứng
+501; Phỉ Suiseiseki
+50221; Có thể đạt tới vịt ·Z Thức tỉnh mảnh vỡ
+50231; Khỉ quái ·Z Thức tỉnh mảnh vỡ
+50241; Kathi chó ·Z Thức tỉnh mảnh vỡ
+50251; Nhang muỗi con ếch hoàng Z Thức tỉnh mảnh vỡ
+50261; Cathy ·Z Thức tỉnh mảnh vỡ
+50271; Bắp thịt ·Z Thức tỉnh mảnh vỡ
+50281; Loa mầm ·Z Thức tỉnh mảnh vỡ
+502; May mắn trứng
+502; Phổ thông vạn năng mảnh vỡ
+50301; Tiểu Quyền Thạch ·Z Thức tỉnh mảnh vỡ
+50321; Ngơ ngác vương Z Thức tỉnh mảnh vỡ
+50331; Nhỏ từ quái ·Z Thức tỉnh mảnh vỡ
+50341; Hành tây vịt ·Z Thức tỉnh mảnh vỡ
+50351; Tút tút ·Z Thức tỉnh mảnh vỡ
+50371; Thối bùn ·Z Thức tỉnh mảnh vỡ
+5037; Cây lựu cỏ Nguyên bảo thạch
+50381; Lưỡi to bối ·Z Thức tỉnh mảnh vỡ
+5038; Cây lựu Hỏa nguyên bảo thạch
+50391; Quỷ tư ·Z Thức tỉnh mảnh vỡ
+5039; Cây lựu Thủy nguyên bảo thạch
+503; Hạnh phúc trứng
+50401; Đại nham rắn ·Z Thức tỉnh mảnh vỡ
+50403; Siêu cấp lớn cương xà Z Thức tỉnh mảnh vỡ
+50441; Dừa trứng cây Z Thức tỉnh mảnh vỡ
+50451; Tạp lạp Tạp lạp ·Z Thức tỉnh mảnh vỡ
+50461; Không sợ tiểu tử ·Z Thức tỉnh mảnh vỡ
+50471; Đầu lưỡi lớn ·Z Thức tỉnh mảnh vỡ
+50481; Gas đạn ·Z Thức tỉnh mảnh vỡ
+50491; Độc giác tê giác ·Z Thức tỉnh mảnh vỡ
+50541; Sừng cá vàng ·Z Thức tỉnh mảnh vỡ
+50551; Hải tinh tinh ·Z Thức tỉnh mảnh vỡ
+50561; Ma tường con rối Z Thức tỉnh mảnh vỡ
+50571; Phi Thiên Đường Lang ·Z Thức tỉnh mảnh vỡ
+50591; Điện giật quái ·Z Thức tỉnh mảnh vỡ
+50601; Vịt miệng Bảo Bảo ·Z Thức tỉnh mảnh vỡ
+50631; Bạo Lý Long ·Z Thức tỉnh mảnh vỡ
+50632; Siêu cấp bạo Lý Long Z Thức tỉnh mảnh vỡ
+50641; Laplace ·Z Thức tỉnh mảnh vỡ
+50691; Hoá thạch nón trụ ·Z Thức tỉnh mảnh vỡ
+50701; Hoá thạch Dực Long ·Z Thức tỉnh mảnh vỡ
+50711; Nhỏ thẻ so thú ·Z Thức tỉnh mảnh vỡ
+50721; Cấp đống chim ·Z Thức tỉnh mảnh vỡ
+50731; Thiểm Điện điểu ·Z Thức tỉnh mảnh vỡ
+50741; Hỏa Diễm Điểu ·Z Thức tỉnh mảnh vỡ
+50751; Rồng tí hon ·Z Thức tỉnh mảnh vỡ
+50761; Siêu mộng ·Z Thức tỉnh mảnh vỡ
+50771; Mộng ảo ·Z Thức tỉnh mảnh vỡ
+50781; Cúc cây cỏ ·Z Thức tỉnh mảnh vỡ
+50791; Hỏa cầu chuột ·Z Thức tỉnh mảnh vỡ
+50801; Nhỏ cưa ngạc ·Z Thức tỉnh mảnh vỡ
+50861; Ba Khắc so ·Z Thức tỉnh mảnh vỡ
+50881; Be lợi dê ·Z Thức tỉnh mảnh vỡ
+50891; Lộ lực lệ ·Z Thức tỉnh mảnh vỡ
+51031; Thiên hạt ·Z Thức tỉnh mảnh vỡ
+51071; Hera Kroos ·Z Thức tỉnh mảnh vỡ
+51072; Siêu cấp Hera Kroos Z Thức tỉnh mảnh vỡ
+51081; Nữu kéo ·Z Thức tỉnh mảnh vỡ
+51171; Mang Rewby ·Z Thức tỉnh mảnh vỡ
+51173; Siêu cấp Hắc Lỗ thêm Z Thức tỉnh mảnh vỡ
+51221; Lôi Công ·Z Thức tỉnh mảnh vỡ
+51231; Viêm Đế ·Z Thức tỉnh mảnh vỡ
+51241; Thủy quân ·Z Thức tỉnh mảnh vỡ
+51251; Ấu Kira tư ·Z Thức tỉnh mảnh vỡ
+51254; Tia chớp siêu cấp ban Kira tư Z Thức tỉnh mảnh vỡ
+51261; Lạc Kỳ á ·Z Thức tỉnh mảnh vỡ
+51271; Phượng vương ·Z Thức tỉnh mảnh vỡ
+51291; Mộc thạch sùng ·Z Thức tỉnh mảnh vỡ
+51301; Hỏa Trĩ gà ·Z Thức tỉnh mảnh vỡ
+51304; Siêu cấp hỏa diễm gà Z Thức tỉnh mảnh vỡ
+51311; Nước vọt cá ·Z Thức tỉnh mảnh vỡ
+51351; Sen Diệp Đồng tử ·Z Thức tỉnh mảnh vỡ
+51391; Kéo lỗ kéo ·Z Thức tỉnh mảnh vỡ
+51397; Siêu cấp ngải đường lôi đóa Z Thức tỉnh mảnh vỡ
+51421; Người lười rái cá ·Z Thức tỉnh mảnh vỡ
+51441; Cô Nữu Nữu ·Z Thức tỉnh mảnh vỡ
+51481; Câu hồn mắt Z Thức tỉnh mảnh vỡ
+514; Sao chổi mảnh vỡ
+51501; Nhưng có thể nhiều kéo ·Z Thức tỉnh mảnh vỡ
+51611; Ngốc lửa còng ·Z Thức tỉnh mảnh vỡ
+51801; Oán ảnh bé con ·Z Thức tỉnh mảnh vỡ
+51811; Đêm tuần linh ·Z Thức tỉnh mảnh vỡ
+51841; A đột nhiên toa lỗ ·Z Thức tỉnh mảnh vỡ
+51851; Tuyết Đồng tử ·Z Thức tỉnh mảnh vỡ
+51861; Báo biển cầu ·Z Thức tỉnh mảnh vỡ
+51891; Bảo bối rồng ·Z Thức tỉnh mảnh vỡ
+51901; Sắt tạ tay ·Z Thức tỉnh mảnh vỡ
+51911; Lôi Cát Locke ·Z Thức tỉnh mảnh vỡ
+51921; Lôi Cát Ace ·Z Thức tỉnh mảnh vỡ
+51931; Régis Kỳ Lỗ ·Z Thức tỉnh mảnh vỡ
+51941; Latias ·Z Thức tỉnh mảnh vỡ
+51951; Kéo đế Oars ·Z Thức tỉnh mảnh vỡ
+51962; Nguyên thủy đóng Âu thẻ Z Thức tỉnh mảnh vỡ
+51971; Cố kéo nhiều ·Z Thức tỉnh mảnh vỡ
+51972; Cố kéo nhiều · Nguyên thủy trở về dáng vẻ ·Z Thức tỉnh mảnh vỡ
+51982; Siêu cấp liệt không tòa ·Z Thức tỉnh mảnh vỡ'
+51; Sóng sóng
+52011; Cỏ mầm rùa ·Z Thức tỉnh mảnh vỡ
+52031; Sóng Gia Mạn ·Z Thức tỉnh mảnh vỡ
+52071; Mèo con quái ·Z Thức tỉnh mảnh vỡ
+521; Thần thú vạn năng mảnh vỡ
+52231; Tròn lục cá mập ·Z Thức tỉnh mảnh vỡ
+52241; Lợi Âu đường ·Z Thức tỉnh mảnh vỡ
+52243; Siêu cấp đường Cali Âu Z Thức tỉnh mảnh vỡ
+52271; Không tốt con ếch ·Z Thức tỉnh mảnh vỡ
+52301; Tuyết nón lá quái ·Z Thức tỉnh mảnh vỡ
+52351; Đế răng Luka ·Z Thức tỉnh mảnh vỡ
+52361; Khăn Lucci á ·Z Thức tỉnh mảnh vỡ
+52371; Tịch nhiều lam ân Z Thức tỉnh mảnh vỡ
+52381; Lôi Cát kỳ Kaz ·Z Thức tỉnh mảnh vỡ
+52391; Cưỡi kéo đế nạp ·Z Thức tỉnh mảnh vỡ
+52401; Kurei sắc Lợi Á ·Z Thức tỉnh mảnh vỡ
+52411; Phi Âu nạp Z Thức tỉnh mảnh vỡ
+52421; Mã nạp phi Z Thức tỉnh mảnh vỡ
+52431; Đạt Clay y ·Z Thức tỉnh mảnh vỡ
+52441; Tạ gạo ·Z Thức tỉnh mảnh vỡ
+52461; Pick xách ni Z Thức tỉnh mảnh vỡ
+52471; Dây leo dây leo rắn ·Z Thức tỉnh mảnh vỡ
+52481; Ủ ấm heo ·Z Thức tỉnh mảnh vỡ
+52591; Thạch viên thuốc ·Z Thức tỉnh mảnh vỡ
+52611; Đinh ốc chuột đất ·Z Thức tỉnh mảnh vỡ
+52631; Vận chuyển nhỏ tượng ·Z Thức tỉnh mảnh vỡ
+52681; Bách Túc Ngô Công ·Z Thức tỉnh mảnh vỡ
+52721; Mắt đen ngạc ·Z Thức tỉnh mảnh vỡ
+52821; Solo á ·Z Thức tỉnh mảnh vỡ
+52841; Gogh Bảo Bảo ·Z Thức tỉnh mảnh vỡ
+52871; Mini băng ·Z Thức tỉnh mảnh vỡ
+52891; Điện chuột bay ·Z Thức tỉnh mảnh vỡ
+52921; Nhẹ nhàng · Thư ·Z Thức tỉnh mảnh vỡ
+52922; Nhẹ nhàng · Hùng ·Z Thức tỉnh mảnh vỡ
+52961; Bánh răng mà ·Z Thức tỉnh mảnh vỡ
+52991; Ánh nến linh ·Z Thức tỉnh mảnh vỡ
+52; So tài một chút chim
+53001; Bập bẹ ·Z Thức tỉnh mảnh vỡ
+53011; Hắt xì gấu ·Z Thức tỉnh mảnh vỡ
+53021; Bao nhiêu bông tuyết ·Z Thức tỉnh mảnh vỡ
+53141; Đơn thủ rồng ·Z Thức tỉnh mảnh vỡ
+53151; Thiêu đốt trùng ·Z Thức tỉnh mảnh vỡ
+53161; Câu khăn đường ông ·Z Thức tỉnh mảnh vỡ
+53171; Thay mặt Raki ông ·Z Thức tỉnh mảnh vỡ
+53181; Nỗ lực cát ông ·Z Thức tỉnh mảnh vỡ
+53211; Lai Hi Lạp mẫu ·Z Thức tỉnh mảnh vỡ
+53221; Tiệp Khắc Rom ·Z Thức tỉnh mảnh vỡ
+53241; Tù Rem ·Z Thức tỉnh mảnh vỡ
+53251; Khải đường Địch Âu ·Z Thức tỉnh mảnh vỡ
+53261; Đẹp Lạc a tháp · Tiếng ca hình thái ·Z Thức tỉnh mảnh vỡ
+53281; A lực lật ·Z Thức tỉnh mảnh vỡ
+53291; Hỏa Hồ ly ·Z Thức tỉnh mảnh vỡ
+53301; Oa oa ngâm con ếch ·Z Thức tỉnh mảnh vỡ
+53304; Tiểu Trí bản Giáp Hạ nhẫn con ếch Z Thức tỉnh mảnh vỡ
+53341; Nhỏ sư sư ·Z Thức tỉnh mảnh vỡ
+53351; Hoa bội bội ·Z Thức tỉnh mảnh vỡ
+53411; Độc vỏ kiếm ·Z Thức tỉnh mảnh vỡ
+53431; Rả rích bánh su kem ·Z Thức tỉnh mảnh vỡ
+53471; Thiết tí thương tôm ·Z Thức tỉnh mảnh vỡ
+53501; Băng Tuyết Long ·Z Thức tỉnh mảnh vỡ
+53511; Quẳng Giác Ưng người ·Z Thức tỉnh mảnh vỡ
+53541; Dinh dính bảo ·Z Thức tỉnh mảnh vỡ
+53561; Tiểu Mộc linh ·Z Thức tỉnh mảnh vỡ
+53591; Ông Bức ·Z Thức tỉnh mảnh vỡ
+53611; Y Bùi ngươi Thel ·Z Thức tỉnh mảnh vỡ
+53621; Cơ Gerd Z Thức tỉnh mảnh vỡ
+53632; Siêu cấp Tien hi Z Thức tỉnh mảnh vỡ
+53641; Trừng trị Hồ khăn ·Z Thức tỉnh mảnh vỡ
+53651; Pol Khải Ni Ân Z Thức tỉnh mảnh vỡ
+53661; Mộc mộc kiêu ·Z Thức tỉnh mảnh vỡ
+53671; Sí diễm gào thét hổ Z Thức tỉnh mảnh vỡ
+53771; Tốt xấu tinh ·Z Thức tỉnh mảnh vỡ
+53841; Ngọt trúc trúc ·Z Thức tỉnh mảnh vỡ
+53961; Mê mô phỏng QZ Thức tỉnh mảnh vỡ
+539; Cứu cực dị thú vạn năng mảnh vỡ
+53; Thi đấu chim
+54024; Lộ Netia kéo Z Thức tỉnh mảnh vỡ
+54025; Cứu cực tiến hóa
+54031; Hư ta y đức Z Thức tỉnh mảnh vỡ
+54071; Sắt lửa Kaguya Z Thức tỉnh mảnh vỡ
+54081; Giấy ngự kiếm Z Thức tỉnh mảnh vỡ
+54111; Mã cơ Jana Z Thức tỉnh mảnh vỡ
+54121; Mã Hạ Đa Z Thức tỉnh mảnh vỡ
+54131; Độc bối so ·Z Thức tỉnh mảnh vỡ
+54141; Lũy lỗi thạch Z Thức tỉnh mảnh vỡ
+54151; Phanh đầu nhỏ xấu Z Thức tỉnh mảnh vỡ
+54171; Đẹp ghi chép thản ·Z Thức tỉnh mảnh vỡ
+541; Sừng cá vàng
+542; Cá vàng vương
+54; Siêu cấp thi đấu chim
+551; Hải tinh tinh
+552; Bảo thạch hải tinh
+561; Ma tường con rối
+57001; Tiểu Trí bản Pikachu ·Z Thức tỉnh mảnh vỡ
+57021; Tia chớp siêu cấp cảnh quỷ Z Thức tỉnh mảnh vỡ
+57031; Viễn cổ béo đinh Z Thức tỉnh mảnh vỡ
+57041; Viễn cổ cảnh quỷ Z Thức tỉnh mảnh vỡ
+57051; Viễn cổ Hồ Z Thức tỉnh mảnh vỡ
+57061; Màu đỏ bạo Lý Long
+571; Phi Thiên Đường Lang
+572; Cự kìm bọ ngựa
+574; Siêu cấp cự kìm bọ ngựa
+59001; Cấp thấp Z Thức tỉnh mảnh vỡ
+59002; Trung cấp Z Thức tỉnh mảnh vỡ
+59003; Cao cấp Z Thức tỉnh mảnh vỡ
+591; Điện giật quái
+592; Điện giật thú
+593; Điện giật ma thú
+6001;Tử phong
+6002;Hoàng gia kỵ sĩ
+6003;Phong chi tức
+6004;Đại kỵ sĩ trường
+6005;Tài quyết chi kiếm
+6011;Dong binh đột kích
+6012;Triều lưu phái đối
+6013;Bằng khắc chiến hỏa
+6014;Thủy tích nhất kích
+6015;Tối chung chiến đấu
+601; Vịt miệng Bảo Bảo
+6021;Đại tế ti
+6022;Hôi sắc quỹ tích
+6023;Thanh tịch thì niên
+6024;Hoàng thất tế tự
+6025;Ám hắcLorie
+602; Vịt miệng lửa thú
+603; Vịt miệng viêm thú
+611; Khải La tư
+61; Nhỏ Lada
+62; Lada
+631; Bạo Lý Long
+632; Siêu cấp bạo Lý Long
+641; Laplace
+691; Hoá thạch nón trụ
+692; Liêm đao nón trụ
+7001; Tiểu Trí bản Pikachu
+701; Hoá thạch Dực Long
+7021; Tia chớp siêu cấp cảnh quỷ
+7031; Viễn cổ dị thú
+7041; Viễn cổ dị thú
+7051; Viễn cổ dị thú
+7061; Biến dị thể
+711; Nhỏ thẻ so thú
+712; Thẻ so thú
+71; Lie Sparrow
+721; Cấp đống chim
+72; Miệng rộng tước
+731; Thiểm Điện điểu
+741; Hỏa Diễm Điểu
+751; Rồng tí hon
+752; Hag rồng
+753; Nhanh rồng
+761; Siêu mộng
+771; Mộng ảo
+781; Cúc cây cỏ
+782; Nguyệt quế lá
+783; Lớn trúc quỳ
+791; Hỏa cầu chuột
+792; Lửa nham chuột
+793; Hỏa bạo thú
+801; Nhỏ cưa ngạc
+802; Lam ngạc
+803; Đại lực ngạc
+8119; Mã cơ Jana 688 Nguyệt thẻ gói quà
+8120; Mã cơ Jana 388 Nguyệt thẻ gói quà
+8121; Mã cơ Jana 128 Nguyệt thẻ gói quà
+8122; Toàn làn da hộp
+8123; Mã cơ Jana túi thượng tuyến phúc lợi
+8124; Mã cơ Jana túi mở rộng phúc lợi
+8125; Mã cơ Jana túi Tiến Hóa Thạch gói quà lớn
+8126; Mã cơ Jana túi z Thức tỉnh gói quà lớn
+8127; Mã cơ Jana tín vật tự do hộp 1
+8128; Mã cơ Jana tín vật tự do hộp 2
+8129; Mã cơ Jana tín vật tự do hộp 3
+8130;18 Nguyên tiến hóa phần món ăn
+8131;20 Nguyên thể lực phần món ăn
+8132;38 Nguyên tân thủ phần món ăn
+8133;58 Nguyên tinh linh thăng cấp gói quà
+8134;66 Nguyên tia chớp phần món ăn
+8135;66 Tháng giêng thần phần món ăn
+8136;66 Nguyên Đột phá phần món ăn
+8137;66 Nguyên tiềm năng thạch phần món ăn
+8138;66 Nguyên Phù thạch phần món ăn
+8139;66 Nguyên cầu vồng phần món ăn
+8140;66 Nguyên độ thiện cảm phần món ăn
+8141;99 Nguyên bốn Thần thú phần món ăn
+8142;99 Nguyên khắc ấn phần món ăn
+8143;99 Nguyên Lễ bao
+8144;588 Chí tôn gói quà
+8145;200 Nguyên tính gộp lại gói quà
+8146;48 Nguyên mang theo đạo cụ gói quà
+8147;68 Nguyên tinh linh phần món ăn
+8148; Thần kỳ bao con nhộng 300 Cái
+8149; Phổ thông cố gắng tệ 1500 Ngàn
+8150;160 Cái Tử Tinh tiềm năng
+8151;262 Cái Lam Ngọc tiềm năng thạch
+8152; Tử sắc Tinh phiến 100 Cái
+8153; Cao cấp cường hóa thạch 1000 Cái
+8154;62 Phỉ Suiseiseki
+8155;1000 Cái cao cấp độ thiện cảm gói quà
+8156; Thần thú vạn năng mảnh vỡ 150 Mảnh vỡ
+8157; Tự do màu đỏ Chip bảo rương 1 Cái
+8158; Tính cách tự do gói quà 5 Cái
+8159; Bất hủ chi kiếm 1 Cái
+8160; Điểm thiên phú 100
+8161; Tự do hạn định màu đỏ phù thạch bảo rương
+8162; Tinh thần sảng khoái nước ngọt 5000 Cái
+8163; Phù thạch tinh hoa 5000 Cái
+8164;2 Ngàn vạn kim tệ
+8165; Kim cương 20W
+8166; Năng lượng hạch tâm 8000
+8167; Khắc ấn tinh thạch 5000
+8168; Khắc ấn đột phá thạch 600
+8169; Thám hiểm linh kiện 3000
+8170; Huy chương mảnh vỡ 2000
+8171; Đặc quyền tệ 666
+8172; Cầu vồng xì sơn 500
+8173; Thần thú tự do mảnh vỡ
+8174; Hắc nhật nguyệt thẻ
+8175; Hắc nhật đến đạt đến nguyệt thẻ
+8176; Nguyệt thần phần món ăn
+8177; Viễn cổ béo đinh phần món ăn
+8178; Cảnh quỷ phần món ăn
+8179; Quỷ long phần món ăn
+8180; Liệt không tòa phần món ăn
+8181; Tránh ban phần món ăn
+8182; Mã cơ Jana phần món ăn
+8183; Kira cầu phần món ăn
+8184; Thần hươu phần món ăn
+8185;Z Thần phần món ăn
+8186; Công chúa phần món ăn
+8187; Mang theo phẩm gói quà
+8188; Tiền tệ đột phá gói quà
+8189; Đặc quyền tệ gói quà
+8190; Phù thạch huy chương gói quà lớn
+8191; Chiến lực gói quà
+81; A Bách rắn
+82; A Bách quái
+850; Lam Ngọc tiềm năng thạch
+851; Tử Tinh tiềm năng thạch
+861; Ba Khắc so
+862; Ba Khắc cơ cổ
+863; Ba Khắc Chris
+881; Be lợi dê
+882; Mượt mà dê
+883; Điện Long
+884; Siêu cấp Điện Long
+891; Lộ lực lệ
+892; Mã lực lộ
+893; Mã lực lộ lệ
+9001; Bách biến quái · Tử sắc
+9002; Bách biến quái · Màu cam
+9003; Bách biến quái · Màu đỏ
+91; Da đồi
+92; Pikachu
+93; Lôi đồi
+971; Mộng yêu
+972; Mộng yêu ma
+coin6; Thạch anh kim chất huy chương

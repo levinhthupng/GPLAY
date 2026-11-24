@@ -1,0 +1,2246 @@
+1; Nguyên bảo
+2; Khóa lại Nguyên bảo
+3; Khóa lại kim tệ
+4; Tiên phách kinh nghiệm
+5; Tiên phách điểm tích lũy
+6; Cơ duyên điểm tích lũy
+8; Điểm kinh nghiệm
+9; Vinh dự giá trị
+10; Thành tựu điểm
+11; Tông phái cống hiến
+12; Thế giới nhà kho điểm tích lũy
+13; Tông phái nhà kho điểm tích lũy
+14; Pháp bảo tinh túy
+15; Thánh trang tinh túy
+16;VIP Kinh nghiệm
+17; Hỗn độn chi cảnh thương thành tiền tệ
+18; Mục tiêu điểm
+21; Sinh động điểm
+22; Linh phách tinh túy
+23; Linh phách mảnh vỡ
+24; Linh phách thần vật
+25; Thông linh bí bảo
+26; Một Chu Phúc lợi rút thưởng quyển
+27; Sinh động hối đoái giá trị
+28; Trời lệnh cấm thăng cấp đạo cụ
+29; Đỉnh phong thi đấu vinh dự giá trị
+30; Kinh mạch điểm
+31; Tình nghĩa điểm
+32; Kinh mạch điểm 2
+33; Kinh mạch điểm 3
+34; Kinh mạch điểm 3
+35; Tiên Phủ nhân khí
+36; Tiên Phủ tệ
+37; Tiên lữ tệ
+1001;1.5 Lần kinh nghiệm tiên dược
+1002;1.5 Lần kinh nghiệm tiên dược (1 Trời )
+1003;2 Lần kinh nghiệm tiên dược
+1004; Offline tu luyện bí bảo
+1005;3 Lần kinh nghiệm tiên dược
+1006; Nhân vật đổi tên thẻ
+1007; Bạn thân đổi tên thẻ
+1008;BOSS Phục sinh thẻ
+1009;BOSS Đổi mới thẻ
+1010;2 Lần kinh nghiệm tiên dược ( Nhỏ )
+1011; Diệt ma thư quyển · Thế giới
+1012; Diệt ma thư quyển · Thần thú
+1013; Cắt chém bí bảo
+1014; Nhiều lần bí bảo
+1015; Hình người nghiệm thẻ (5 Giờ )
+1016; Server đổi tên thẻ
+1017; Linh thạch quặng thô
+1018; Sáo trang lệnh bài
+1019; Bảo thạch lệnh bài
+1020; Diệt ma lệnh bài · Tinh giáp
+1021; Diệt ma lệnh bài ·BOSS Nhà
+1022; Bạn thân chân thực nhiệt tình đạo cụ 2
+1023; Bạn thân chân thực nhiệt tình đạo cụ 3
+1024; Bạn thân chân thực nhiệt tình đạo cụ 4
+1025; Thánh hồn 1
+1026; Thánh hồn 2
+1027; Thánh hồn 3
+1028; Thánh hồn 4
+1029; Sinh động độ gia tăng hạn mức cao nhất đạo cụ
+1030; Chi viện nói cảm tạ cỗ
+1031;2 Giờ offline tu luyện bí bảo
+1032; Thủ mạo xưng đặc quyền 5% Kinh nghiệm tăng thêm
+1033; Sinh động dược thủy (100 Điểm )
+1034; Sinh động dược thủy (50 Điểm )
+1035;3 Giai nam hồn trang bảo rương
+1036;3 Giai nữ hồn trang bảo rương
+1037; Thủ mạo xưng thời trang vũ khí ( Nam )
+1038; Thủ mạo xưng thời trang vũ khí ( Nữ )
+1039;0 Nguyên hàng đã mua nói rõ 1
+1040;0 Nguyên hàng đã mua nói rõ 2
+1041;0 Nguyên hàng đã mua nói rõ 3
+1042; Hôn nhân thời trang quần áo
+1043; Vô cực tầng đổi mới đạo cụ
+1044; Tinh giáp tầng đổi mới đạo cụ
+1045; Năm thú tầng đổi mới đạo cụ
+1046; Vô cực đơn triệu hoán
+1047; Tinh giáp đơn triệu hoán
+1048; Năm thú đơn triệu hoán
+1049; Vô cực đơn phục sinh
+1050; Tinh giáp đơn phục sinh
+1051; Năm thú đơn phục sinh
+1052; Tiên duyên tâm khóa thăng cấp vật liệu
+1053; Tiên duyên tâm khóa vật phẩm
+1054; Thủ mạo xưng thời trang quần áo ( Nam )
+1055; Thủ mạo xưng thời trang quần áo ( Nữ )
+1056; Thủ mạo xưng thời trang vũ khí ( Nam )
+1057; Thủ mạo xưng thời trang vũ khí ( Nữ )
+1058; Tình yêu bảo hộp mua lập trở lại bảo rương
+1059; Tàng Trân Các rút thưởng vật phẩm
+1060; Tập vật hối đoái đạo cụ
+1061; Thiên Đế bảo khố rút thưởng đạo cụ
+1062; Vận doanh hoạt động đạo cụ 3
+1063; Vận doanh hoạt động đạo cụ 4
+1064; Vận doanh hoạt động đạo cụ 5
+1065; Vận doanh hoạt động đạo cụ 6
+1066; Vận doanh hoạt động đạo cụ 7
+1067; Vận doanh hoạt động đạo cụ 8
+1068; Vận doanh hoạt động đạo cụ 9
+1069; Đổi bảo điện hối đoái vật phẩm
+1070; Giáo sư thời trang quần áo ( Nam )
+1071; Giáo sư thời trang quần áo ( Nữ )
+1072; Giáo sư thời trang vũ khí ( Nam )
+1073; Giáo sư thời trang vũ khí ( Nữ )
+1074;0 Nguyên mua quần áo ( Nam )
+1075;0 Nguyên mua quần áo ( Nữ )
+1076;0 Nguyên mua vũ khí ( Nam )
+1077;0 Nguyên mua vũ khí ( Nữ )
+1078; Hôn nhân thời trang quần áo ( Nam )
+1079; Hôn nhân thời trang quần áo ( Nữ )
+1080; Hôn nhân thời trang vũ khí ( Nam )
+1081; Hôn nhân thời trang vũ khí ( Nữ )
+1082; Song sáng - Tập chữ ( Vui )
+1083; Song sáng - Tập chữ ( Nhanh )
+1084; Song sáng - Tập chữ ( Năm )
+1085; Song sáng - Tập chữ ( Mới )
+1086; Khánh điển tệ
+1087; Cầu nguyện tệ
+1088; Giáng Sinh thời trang quần áo ( Nam )
+1089; Giáng Sinh thời trang quần áo ( Nữ )
+1090; Giáng Sinh thời trang vũ khí ( Nam )
+1091; Giáng Sinh thời trang vũ khí ( Nữ )
+1092; Tết nguyên đán thời trang quần áo ( Nam )
+1093; Tết nguyên đán thời trang quần áo ( Nữ )
+1094; Tết nguyên đán thời trang vũ khí ( Nam )
+1095; Tết nguyên đán thời trang vũ khí ( Nữ )
+1096; Đặc quyền thẻ tuần thẻ
+1097; Đặc quyền thẻ nguyệt thẻ
+1098; Sủng vật trang bị -- Cường hóa thạch
+1099; Sủng vật trang bị -- Phụ Hồn thạch ( Trảo bộ )
+1100; Sủng vật trang bị -- Phụ Hồn thạch ( Vòng cổ )
+1101; Sủng vật trang bị -- Phụ Hồn thạch ( Linh đang )
+1102; Sủng vật trang bị -- Phụ Hồn thạch ( Phúc túi )
+1103; Sủng vật trang bị -- Đỏ thăng phấn tảng đá
+1104; Sủng vật trang bị -- Phấn thăng ám kim tảng đá
+1105; Sủng vật trang bị -- Ám kim thăng huyễn thải tảng đá
+1106; Trưởng thành quỹ ngân sách thẻ
+1107; Nạp tiền dự chôn thẻ 1
+1108; Nạp tiền dự chôn thẻ 2
+1109; Nạp tiền dự chôn thẻ 3
+1110; Nạp tiền dự chôn thẻ 4
+1111; Nạp tiền dự chôn thẻ 5
+1112; Nạp tiền dự chôn thẻ 6
+1113; Nạp tiền dự chôn thẻ 7
+1114; Nạp tiền dự chôn thẻ 8
+1115; Mới thủ mạo xưng quần áo ( Nam )
+1116; Mới thủ mạo xưng quần áo ( Nữ )
+1117; Mới thủ mạo xưng vũ khí ( Nam )
+1118; Mới thủ mạo xưng vũ khí ( Nữ )
+1119; Kinh hỉ bảo rương
+1120; Sủng vật trợ trận thẻ ( Giải tỏa rãnh vị đạo cụ )
+1121; Cá chép
+1122; Việt Nam quần áo mới ( Nam )
+1123; Việt Nam quần áo mới ( Nữ )
+1124; Manh hệ quần áo ( Nam )
+1125; Manh hệ quần áo ( Nữ )
+1126; Manh hệ vũ khí ( Nam )
+1127; Manh hệ vũ khí ( Nữ )
+1128; Hải tặc quần áo ( Nam )
+1129; Hải tặc quần áo ( Nữ )
+1130; Hải tặc vũ khí ( Nam )
+1131; Hải tặc vũ khí ( Nữ )
+1132; Tình nhân quần áo ( Nam )
+1133; Tình nhân quần áo ( Nữ )
+1134; Tình nhân vũ khí ( Nam )
+1135; Tình nhân vũ khí ( Nữ )
+1136; Hắt nước quần áo ( Nam )
+1137; Hắt nước quần áo ( Nữ )
+1138; Hắt nước vũ khí ( Nam )
+1139; Hắt nước vũ khí ( Nữ )
+1140; Kim Trúc quần áo ( Nam )
+1141; Kim Trúc quần áo ( Nữ )
+1142; Kim Trúc vũ khí ( Nam )
+1143; Kim Trúc vũ khí ( Nữ )
+1144; Cương thi quần áo ( Nam )
+1145; Cương thi quần áo ( Nữ )
+1146; Cương thi vũ khí ( Nam )
+1147; Cương thi vũ khí ( Nữ )
+1148; Ăn gà quần áo ( Nam )
+1149; Ăn gà quần áo ( Nữ )
+1150; Ăn gà vũ khí ( Nam )
+1151; Ăn gà vũ khí ( Nữ )
+1152; Quân trang quần áo ( Nam )
+1153; Quân trang quần áo ( Nữ )
+1154; Quân trang vũ khí ( Nam )
+1155; Quân trang vũ khí ( Nữ )
+1156; Bạch Vũ Y phục ( Nam )
+1157; Bạch Vũ Y phục ( Nữ )
+1158; Lông trắng vũ khí ( Nam )
+1159; Lông trắng vũ khí ( Nữ )
+1160; Thủ mạo xưng thời trang quần áo ( Hòa thượng )
+1161; Thủ mạo xưng thời trang quần áo ( La Sát )
+1162; Thủ mạo xưng thời trang vũ khí ( Hòa thượng )
+1163; Thủ mạo xưng thời trang vũ khí ( La Sát )
+1164; Giáo sư thời trang quần áo ( Hòa thượng )
+1165; Giáo sư thời trang quần áo ( La Sát )
+1166; Giáo sư thời trang vũ khí ( Hòa thượng )
+1167; Giáo sư thời trang vũ khí ( La Sát )
+1168;0 Nguyên mua quần áo ( Hòa thượng )
+1169;0 Nguyên mua quần áo ( La Sát )
+1170;0 Nguyên mua vũ khí ( Hòa thượng )
+1171;0 Nguyên mua vũ khí ( La Sát )
+1172; Hôn nhân thời trang quần áo ( Hòa thượng )
+1173; Hôn nhân thời trang quần áo ( La Sát )
+1174; Hôn nhân thời trang vũ khí ( Hòa thượng )
+1175; Hôn nhân thời trang vũ khí ( La Sát )
+1176; Giáng Sinh thời trang quần áo ( Hòa thượng )
+1177; Giáng Sinh thời trang quần áo ( La Sát )
+1178; Giáng Sinh thời trang vũ khí ( Hòa thượng )
+1179; Giáng Sinh thời trang vũ khí ( La Sát )
+1180; Tết nguyên đán thời trang quần áo ( Hòa thượng )
+1181; Tết nguyên đán thời trang quần áo ( La Sát )
+1182; Tết nguyên đán thời trang vũ khí ( Hòa thượng )
+1183; Tết nguyên đán thời trang vũ khí ( La Sát )
+1184; Mới thủ mạo xưng quần áo ( Hòa thượng )
+1185; Mới thủ mạo xưng quần áo ( La Sát )
+1186; Mới thủ mạo xưng vũ khí ( Hòa thượng )
+1187; Mới thủ mạo xưng vũ khí ( La Sát )
+1188; Việt Nam quần áo mới ( Hòa thượng )
+1189; Việt Nam quần áo mới ( La Sát )
+1190; Manh hệ quần áo ( Hòa thượng )
+1191; Manh hệ quần áo ( La Sát )
+1192; Manh hệ vũ khí ( Hòa thượng )
+1193; Manh hệ vũ khí ( La Sát )
+1194; Hải tặc quần áo ( Hòa thượng )
+1195; Hải tặc quần áo ( La Sát )
+1196; Hải tặc vũ khí ( Hòa thượng )
+1197; Hải tặc vũ khí ( La Sát )
+1198; Tình nhân quần áo ( Hòa thượng )
+1199; Tình nhân quần áo ( La Sát )
+1200; Tình nhân vũ khí ( Hòa thượng )
+1201; Tình nhân vũ khí ( La Sát )
+1202; Hắt nước quần áo ( Hòa thượng )
+1203; Hắt nước quần áo ( La Sát )
+1204; Hắt nước vũ khí ( Hòa thượng )
+1205; Hắt nước vũ khí ( La Sát )
+1206; Kim Trúc quần áo ( Hòa thượng )
+1207; Kim Trúc quần áo ( La Sát )
+1208; Kim Trúc vũ khí ( Hòa thượng )
+1209; Kim Trúc vũ khí ( La Sát )
+1210; Cương thi quần áo ( Hòa thượng )
+1211; Cương thi quần áo ( La Sát )
+1212; Cương thi vũ khí ( Hòa thượng )
+1213; Cương thi vũ khí ( La Sát )
+1214; Ăn gà quần áo ( Hòa thượng )
+1215; Ăn gà quần áo ( La Sát )
+1216; Ăn gà vũ khí ( Hòa thượng )
+1217; Ăn gà vũ khí ( La Sát )
+1218; Quân trang quần áo ( Hòa thượng )
+1219; Quân trang quần áo ( La Sát )
+1220; Quân trang vũ khí ( Hòa thượng )
+1221; Quân trang vũ khí ( La Sát )
+1222; Bạch Vũ Y phục ( Hòa thượng )
+1223; Bạch Vũ Y phục ( La Sát )
+1224; Lông trắng vũ khí ( Hòa thượng )
+1225; Lông trắng vũ khí ( La Sát )
+1301; Khai phục ảnh chân dung ( Nam )
+1302; Khai phục ảnh chân dung ( Nữ )
+1303; Khai phục ảnh chân dung khung
+1304; Khai phục bọt khí
+1305; Đổ xúc xắc thắng lợi bảo rương
+1306; Tọa kỵ mạch luân -- Cường hóa thạch
+1307; Tọa kỵ mạch luân -- Phụ Hồn thạch ( Mặt văn )
+1308; Tọa kỵ mạch luân -- Phụ Hồn thạch ( Tâm văn )
+1309; Tọa kỵ mạch luân -- Phụ Hồn thạch ( Vòng văn )
+1310; Tọa kỵ mạch luân -- Phụ Hồn thạch ( Đủ văn )
+1311; Tọa kỵ mạch luân -- Đỏ thăng phấn tảng đá
+1312; Tọa kỵ mạch luân -- Phấn thăng ám kim tảng đá
+1313; Tọa kỵ mạch luân -- Ám kim thăng huyễn thải tảng đá
+1314; Tọa kỵ mạch luân ( Giải tỏa rãnh vị đạo cụ )
+1315; Hoang Cổ thần đàn gia tăng số lần
+1316; Mạch văn thu hoạch đường tắt
+1317; Tử sắc ma hồn thăng cấp đan
+1318; Kim sắc ma hồn thăng cấp đan
+1319; Màu đỏ ma hồn thăng cấp đan
+1320; Màu hồng ma hồn thăng cấp đan
+1321; Ám kim sắc ma hồn thăng cấp đan
+1322; Huyễn thải ma hồn thăng cấp đan
+1323; Ma hồn mảnh vỡ 1
+1324; Ma hồn mảnh vỡ 2
+1325; Ma hồn mảnh vỡ 3
+1326; Ma hồn mảnh vỡ 4
+1327; Ma hồn mảnh vỡ 5
+1328; Ma hồn mảnh vỡ 6
+1329; Ma hồn mảnh vỡ 7
+1330; Ma hồn mảnh vỡ 8
+1331; Ma hồn mảnh vỡ 9
+1332; Ma hồn mảnh vỡ 10
+1333; Ma hồn mảnh vỡ 11
+1334; Ma hồn mảnh vỡ 12
+1335; Ma hồn mảnh vỡ 13
+1336; Ma hồn mảnh vỡ 14
+1337; Ma hồn mảnh vỡ 15
+1338; Ma hồn mảnh vỡ 16
+1339; Ma hồn mảnh vỡ 17
+1340; Ma hồn mảnh vỡ 18
+1341; Ma hồn mảnh vỡ 19
+1342; Ma hồn mảnh vỡ 20
+1343; Phong ma đài cao cấp chìa khoá
+1344; Phong ma đài trung cấp chìa khoá
+1345; Phong ma đài cấp thấp chìa khoá
+1346; Biển xanh ảnh chân dung ( Nam )
+1347; Biển xanh ảnh chân dung ( Nữ )
+1348; Biển xanh ảnh chân dung khung
+1349; Biển xanh bọt khí
+1350; Hỏa Thụ ảnh chân dung ( Nam )
+1351; Hỏa Thụ ảnh chân dung ( Nữ )
+1352; Hỏa Thụ ảnh chân dung khung
+1353; Hỏa Thụ bọt khí
+1354; Ngạo tuyết ảnh chân dung ( Nam )
+1355; Ngạo tuyết ảnh chân dung ( Nữ )
+1356; Ngạo tuyết ảnh chân dung khung
+1357; Ngạo tuyết bọt khí
+1358; Náo nhiệt ảnh chân dung ( Nam )
+1359; Náo nhiệt ảnh chân dung ( Nữ )
+1360; Náo nhiệt ảnh chân dung khung
+1361; Náo nhiệt bọt khí
+1362; Tính trẻ con ảnh chân dung ( Nam )
+1363; Tính trẻ con ảnh chân dung ( Nữ )
+1364; Tính trẻ con ảnh chân dung khung
+1365; Tính trẻ con bọt khí
+1366; Ma binh khiến
+1367; Ma tướng khiến
+1368; Ma Tôn khiến
+1369; Tiên duyên phúc túi
+1370; Nhiệt độ gói quà ( Biểu hiện ra dùng )
+1371; Không lo bảo khố đạo cụ ( Khai phục ngàn quất )
+1372;VIP Hạn lúc bảo châu
+1373;VIP Vĩnh cửu bảo châu
+1374; Hẹn trước ảnh chân dung ( Nam )
+1375; Hẹn trước ảnh chân dung ( Nữ )
+1376; Hẹn trước ảnh chân dung khung
+1377; Hẹn trước bọt khí
+1378; Thế giới đẳng cấp tăng thêm đạo cụ ( Thuần biểu hiện ra )
+1379; Hộ tống đạo cụ
+1380; Huyễn trang phấn tảng đá
+1381; Huyễn trang ám kim tảng đá
+1382; Huyễn trang huyễn thải tảng đá
+1383; Huyễn Hồn 1
+1384; Huyễn Hồn 2
+1385; Huyễn Hồn 3
+1386; Huyễn Hồn 4
+1387; Huyễn Hồn 5
+1388; Huyễn trang thu hoạch đường tắt ( Thuần biểu hiện ra )
+1389; Huyễn trang mũ giáp mảnh vỡ
+1390; Huyễn trang vòng tai mảnh vỡ
+1391; Huyễn trang dây chuyền mảnh vỡ
+1392; Huyễn đựng quần áo mảnh vỡ
+1393; Huyễn trang quần mảnh vỡ
+1394; Huyễn trang vũ khí mảnh vỡ
+1395; Huyễn trang hộ oản mảnh vỡ
+1396; Huyễn trang giày mảnh vỡ
+1397; Huyễn trang chiếc nhẫn mảnh vỡ
+1398; Huyễn trang vòng tay mảnh vỡ
+1399; Tiên lữ quyết đấu ảnh chân dung 1( Nam )
+1400; Tiên lữ quyết đấu ảnh chân dung 1( Nữ )
+1401; Tiên lữ quyết đấu ảnh chân dung khung 1
+1402; Tiên lữ quyết đấu bọt khí 1
+1403; Tiên lữ quyết đấu ảnh chân dung 2( Nam )
+1404; Tiên lữ quyết đấu ảnh chân dung 2( Nữ )
+1405; Tiên lữ quyết đấu ảnh chân dung khung 2
+1406; Tiên lữ quyết đấu bọt khí 2
+1407; Huyễn trang chiếc nhẫn phấn tảng đá
+1408; Huyễn trang vòng tay phấn tảng đá
+1409; Huyễn trang chiếc nhẫn ám kim tảng đá
+1410; Huyễn trang vòng tay ám kim tảng đá
+1411; Huyễn trang chiếc nhẫn huyễn thải tảng đá
+1412; Huyễn trang vòng tay huyễn thải tảng đá
+1413; Phương Trạch tầm bảo rút thưởng đạo cụ
+2001; Mở
+2002; Phục
+2003; Cuồng
+2004; Hoan
+2011; Bày ra khiến
+2012; Mỹ thuật khiến
+2013; Chương trình khiến
+2014; Thánh trang thu hoạch đường tắt vật phẩm
+2015; Tiên giáp thu hoạch đường tắt vật phẩm
+2016; Tiên đeo thu hoạch đường tắt vật phẩm
+2017; Huyễn giáp thu hoạch đường tắt vật phẩm
+2018; Tiên giáp mảnh vỡ thu hoạch đường tắt vật phẩm
+2019; Trang bị thu hoạch đường tắt vật phẩm
+2020; Vạn yêu quyển kinh nghiệm đan ( Đặc thù chế tác )
+2021; Vạn yêu quyển kinh nghiệm đan 1 Chuyển
+2022; Vạn yêu quyển kinh nghiệm đan 2 Chuyển
+2023; Vạn yêu quyển kinh nghiệm đan 3 Chuyển
+2024; Vạn yêu quyển kinh nghiệm đan 4 Chuyển
+2025; Vạn yêu quyển kinh nghiệm đan 5 Chuyển
+2026; Vạn yêu quyển kinh nghiệm đan 6 Chuyển
+2027; Thế giới thủ lĩnh 1 Cấp kinh nghiệm đan
+2028; Thế giới thủ lĩnh 100 Cấp kinh nghiệm đan
+2029; Thế giới thủ lĩnh 150 Cấp kinh nghiệm đan
+2030; Thế giới thủ lĩnh 220 Cấp kinh nghiệm đan
+2031; Thế giới thủ lĩnh 370 Cấp kinh nghiệm đan
+2032; Thế giới thủ lĩnh 500 Cấp kinh nghiệm đan
+2033; Thế giới thủ lĩnh 630 Cấp kinh nghiệm đan
+2034; Cảnh giới thủ lĩnh 1 Cấp kinh nghiệm đan
+2035; Cảnh giới thủ lĩnh 100 Cấp kinh nghiệm đan
+2036; Cảnh giới thủ lĩnh 150 Cấp kinh nghiệm đan
+2037; Cảnh giới thủ lĩnh 220 Cấp kinh nghiệm đan
+2038; Cảnh giới thủ lĩnh 370 Cấp kinh nghiệm đan
+2039; Cảnh giới thủ lĩnh 500 Cấp kinh nghiệm đan
+2040; Cảnh giới thủ lĩnh 630 Cấp kinh nghiệm đan
+2041; Vạn yêu quyển kinh nghiệm đan 75
+2042; Vạn yêu quyển kinh nghiệm đan 100
+2043; Vạn yêu quyển kinh nghiệm đan 125
+2044; Vạn yêu quyển kinh nghiệm đan ( Đặc thù chế tác )
+2045; Vạn yêu quyển kinh nghiệm đan ( Đặc thù chế tác )
+2046; Vạn yêu quyển kinh nghiệm đan ( Đặc thù chế tác )
+2047; Vạn yêu quyển kinh nghiệm đan ( Đặc thù chế tác )
+2048; Vạn yêu quyển kinh nghiệm đan ( Đặc thù chế tác )
+2049; Vạn yêu quyển kinh nghiệm đan ( Đặc thù chế tác )
+2050; Vạn yêu quyển kinh nghiệm đan ( Đặc thù chế tác )
+2051; Vạn yêu quyển kinh nghiệm đan ( Đặc thù chế tác )
+2052; Vạn yêu quyển kinh nghiệm đan ( Đặc thù chế tác )
+2053; Vạn yêu quyển kinh nghiệm đan ( Đặc thù chế tác )
+2054; Tinh giáp thủ lĩnh 1 Kinh nghiệm đan
+2055; Tinh giáp thủ lĩnh 100 Cấp kinh nghiệm đan
+2056; Tinh giáp thủ lĩnh 150 Cấp kinh nghiệm đan
+2057; Tinh giáp thủ lĩnh 220 Cấp kinh nghiệm đan
+2058; Tinh giáp thủ lĩnh 370 Cấp kinh nghiệm đan
+2059; Tinh giáp thủ lĩnh 500 Cấp kinh nghiệm đan
+2060; Tinh giáp thủ lĩnh 630 Cấp kinh nghiệm đan
+2061; Tinh giáp tiểu quái 1 Cấp kinh nghiệm đan
+2062; Tinh giáp tiểu quái 100 Cấp kinh nghiệm đan
+2063; Tinh giáp tiểu quái 150 Cấp kinh nghiệm đan
+2064; Tinh giáp tiểu quái 220 Cấp kinh nghiệm đan
+2065; Tinh giáp tiểu quái 370 Cấp kinh nghiệm đan
+2066; Tinh giáp tiểu quái 500 Cấp kinh nghiệm đan
+2067; Tinh giáp tiểu quái 630 Cấp kinh nghiệm đan
+2068; Siêu cấp thăng cấp đan
+2069; Siêu cấp thăng cấp đan
+2101;VIP Điểm gói quà 1
+2102;VIP Điểm gói quà 2
+2103;VIP Điểm gói quà 3
+2104;VIP Điểm gói quà 4
+2105;VIP Điểm gói quà 5
+2106;VIP Điểm gói quà 6
+2107;VIP Điểm gói quà 7
+2108;VIP Điểm gói quà 8
+2109;VIP Điểm gói quà 9
+2110;VIP Điểm gói quà 10
+2111;VIP Điểm tuần thẻ gói quà 1
+2112;VIP Điểm tuần thẻ gói quà 2
+2113;VIP Điểm tuần thẻ gói quà 3
+2114;VIP Điểm tuần thẻ gói quà 4
+2115;VIP Điểm tuần thẻ gói quà 5
+2116;VIP Điểm tuần thẻ gói quà 6
+2117;VIP Điểm tuần thẻ gói quà 7
+2118;VIP Điểm tuần thẻ gói quà 8
+2119;VIP Điểm tuần thẻ gói quà 9
+2120;VIP Điểm tuần thẻ gói quà 10
+2121;VIP Cảnh giới gói quà
+2122;VIP Mỗi ngày gói quà
+2123; Huyền kiếm 8 Giai màu đỏ phách trang bảo rương ( Nam )
+2124; Trời anh 8 Giai màu đỏ phách trang bảo rương ( Nam )
+2125; Giai ngẫu tự nhiên gói quà
+2199;VIP Điểm thu hoạch đường tắt vật phẩm ảo
+2200; Sủng vật thu hoạch đường tắt
+2201; Sủng vật trang bị thu hoạch đường tắt
+2202;1500 Nguyên bảo
+2203;2500 Nguyên bảo
+2204; Thần ấn thu hoạch đường tắt
+2205; Chậu nước
+2206; Khí cầu
+2207; Súng bắn nước
+2208; Cái xẻng
+2209; Tình duyên phó bản kinh nghiệm đan ( Thuần biểu hiện ra )
+2210;V4 Thẻ thăng cấp
+10001; Sơ cấp tọa kỵ tinh phách
+10002; Trung cấp tọa kỵ tinh phách
+10003; Cao cấp tọa kỵ tinh phách
+10004; Thanh Long ngự hồn
+10005; Bạch Hổ ngự hồn
+10006; Huyền Vũ ngự hồn
+10007; Chu Tước ngự hồn
+10008; Kỳ Lân ngự hồn
+10101; Tiểu tọa cưỡi 1[ Thú bông linh miêu ]
+10102; Tiểu tọa cưỡi 2[ Viêm tông thần cưỡi ]
+10103; Tiểu tọa cưỡi 3[ Quá đẹp ]
+10104; Tiểu tọa cưỡi 4[ Ô Kim ma sư ]
+10105; Tiểu tọa cưỡi 5[ Ăn sắt Thần thú ]
+10106; Tiểu tọa cưỡi 6[ Tứ Tượng Bạch Hổ ]
+10107; Tiểu tọa cưỡi 7[ Độc Giác Thú ]
+10108; Tiểu tọa cưỡi 8[ U Minh ]
+10109; Tiểu tọa cưỡi 9[ Nghiễm Hàn thỏ ngọc ]
+10110; Tiểu tọa cưỡi 10[ Lông trắng Sư Vương ]
+10111; Tiểu tọa cưỡi 11[ Quân Thiên Chung Sơn thú ]
+10112; Tiểu tọa cưỡi 12[ Đan ca trục mai ]
+10113; Tiểu tọa cưỡi 13[ Linh Lộc thủ tâm ]
+10114; Tiểu tọa cưỡi 14[ Lướt sóng tìm biển ]
+10115; Tiểu tọa cưỡi 15[ Luyện Ngục môtơ ]
+10116; Tiểu tọa cưỡi 16[ Đỏ ngục tiên phong ]
+10117; Tiểu tọa cưỡi 17[ Thánh diễm thần tượng ]
+10118; Tiểu tọa cưỡi 18[ Hoang tế Ngưu Ma ]
+10119; Tiểu tọa cưỡi 19[ Lạnh thiên chi tôn ]
+10120; Tiểu tọa cưỡi 20[ Văn diên hí bướm ]
+10201; Bên trong tọa kỵ 1[ Mặc ngọc Kỳ Lân ]
+10202; Bên trong tọa kỵ 2[ Gấm lông ngọc tọa ]
+10203; Bên trong tọa kỵ 3[ Vân Hoa chạy tiêu ]
+10204; Bên trong tọa kỵ 4[ Tinh hà tuần hành ]
+10205; Bên trong tọa kỵ 5[ Xích Nguyệt Ma Lang ]
+10206; Bên trong tọa kỵ 6[ Thái Bạch thần câu ]
+10207; Bên trong tọa kỵ 7[ Vạn trùng chi tổ ]
+10208; Bên trong tọa kỵ 8[ Ngự kiếm cửu thiên ]
+10209; Bên trong tọa kỵ 9[ Thật cực Bạch Hổ ]
+10210; Bên trong tọa kỵ 10[ Đồng giáp giác ma ]
+10211; Bên trong tọa kỵ 11[ Huyễn không ]
+10212; Bên trong tọa kỵ 12[ Tuần tra diệt tinh giả ]
+10213; Bên trong tọa kỵ 13[ Ngọc tiêu trục lôi ]
+10214; Bên trong tọa kỵ 14[ Dao Trì Thanh Loan ]
+10301; Lớn tọa kỵ 1[ Du Thiên Côn Bằng ]
+10302; Lớn tọa kỵ 2[ Xích diễm Kim Tiên ]
+10303; Lớn tọa kỵ 3[ Lưu Hỏa thần hống ]
+10304; Lớn tọa kỵ 4[ Minh Lôi Ngự Hư ]
+10305; Lớn tọa kỵ 5[ Thương Hải Vô Nhai ]
+10306; Lớn tọa kỵ 6[ Hư không ma hoàng ]
+10307; Lớn tọa kỵ 7[ Cực uyên minh côn ]
+10308; Lớn tọa kỵ 8[ Triều đại Nam Minh Hỏa Phượng ]
+10309; Lớn tọa kỵ 9[ Băng sương Linh Long ]
+10310; Lớn tọa kỵ 10[ Minh phủ chi vương ]
+10311; Lớn tọa kỵ 11[ Lớn uy thiên long ]
+10312; Lớn tọa kỵ 12[ Cửu U ma hoàng ]
+10401; Thời trang tọa kỵ 1[ Thương Lãng đạp ca ]
+10402; Thời trang tọa kỵ 2[ Vinh quang Pro3000]
+10403; Thời trang tọa kỵ 3[ Truy phong ]
+10404; Thời trang tọa kỵ 4[ Vận may cá chép ]
+10405; Thời trang tọa kỵ 5[ Ấm lòng cự hùng ]
+10406; Thời trang tọa kỵ 6[ Lão đại ca ]
+10407; Thời trang tọa kỵ 7[ Cá mập trắng khổng lồ hai thế ]
+10408; Thời trang tọa kỵ 8[ Cực lạc thời gian ]
+10409; Thời trang tọa kỵ 9[ Thánh khiết bạch tượng ]
+10410; Thời trang tọa kỵ 10[ Vui vẻ ]
+10411; Thời trang tọa kỵ 11[ Thăng quan tài phát tài ]
+10412; Thời trang tọa kỵ 12[ Tuyệt địa vương giả ]
+10413; Thời trang tọa kỵ 13[ Ngầm diễm chinh phục giả ]
+10414; Thời trang tọa kỵ 14[ Ngạo mạn ]
+11001; Sơ cấp Tiên Vũ tinh hoa
+11002; Trung cấp Tiên Vũ tinh hoa
+11003; Cao cấp Tiên Vũ tinh hoa
+11004; Cự bằng lông vũ
+11005; Bạch hạc lông vũ
+11006; Kim Ô lông vũ
+11007; Khổng Tước Linh vũ
+11008; Tất Phương lông vũ
+11009; Tiên Vũ danh tự 1
+11010; Tiên Vũ danh tự 2
+11011; Tiên Vũ danh tự 3
+11012; Tiên Vũ danh tự 4
+11013; Tiên Vũ danh tự 5
+11014; Tiên Vũ danh tự 6
+11015; Tiên Vũ danh tự 7
+11016; Tiên Vũ danh tự 8
+11017; Tiên Vũ danh tự 9
+11018; Tiên Vũ danh tự 10
+11019; Tiên Vũ danh tự 11
+11020; Tiên Vũ danh tự 12
+11021; Tiên Vũ danh tự 13
+11022; Tiên Vũ danh tự 14
+11023; Tiên Vũ danh tự 15
+11024; Tiên Vũ danh tự 16
+11025; Tiên Vũ danh tự 17
+11026; Tiên Vũ danh tự 18
+11027; Tiên Vũ danh tự 19
+11028; Tiên Vũ danh tự 20
+11029; Tiên Vũ danh tự 21
+11030; Tiên Vũ danh tự 22
+11031; Tiên Vũ danh tự 23
+11032; Tiên Vũ danh tự 24
+11033; Tiên Vũ danh tự 25
+11034; Tiên Vũ danh tự 26
+11035; Tiên Vũ danh tự 27
+11036; Tiên Vũ danh tự 28
+11037; Tiên Vũ danh tự 29
+11038; Tiên Vũ danh tự 30
+11039; Tiên Vũ danh tự 31
+11040; Tiên Vũ danh tự 32
+11041; Tiên Vũ danh tự 33
+11042; Tiên Vũ danh tự 34
+11043; Tiên Vũ danh tự 35
+11044; Tiên Vũ danh tự 36
+11045; Tiên Vũ danh tự 37
+11046; Tiên Vũ danh tự 38
+11047; Tiên Vũ danh tự 39
+11048; Tiên Vũ danh tự 40
+11049; Tiên Vũ danh tự 41
+12001; Sơ cấp pháp khí tinh túy
+12002; Trung cấp pháp khí tinh túy
+12003; Cao cấp pháp khí tinh túy
+12004; Càn khôn khí linh
+12005; Phiên thiên khí linh
+12006; Kim cương khí linh
+12007; Thất tinh khí linh
+12008; Như ý khí linh
+12009; Phi kiếm danh tự 1
+12010; Phi kiếm danh tự 2
+12011; Phi kiếm danh tự 3
+12012; Phi kiếm danh tự 4
+12013; Phi kiếm danh tự 5
+12014; Phi kiếm danh tự 6
+12015; Phi kiếm danh tự 7
+12016; Phi kiếm danh tự 8
+12017; Phi kiếm danh tự 9
+12018; Phi kiếm danh tự 10
+12019; Phi kiếm danh tự 11
+12020; Phi kiếm danh tự 12
+12021; Phi kiếm danh tự 13
+12022; Phi kiếm danh tự 14
+12023; Phi kiếm danh tự 15
+12024; Phi kiếm danh tự 16
+12025; Phi kiếm danh tự 17
+12026; Phi kiếm danh tự 18
+12027; Phi kiếm danh tự 19
+12028; Phi kiếm danh tự 20
+12029; Phi kiếm danh tự 21
+12030; Phi kiếm danh tự 22
+12031; Phi kiếm danh tự 23
+12032; Phi kiếm danh tự 24
+12033; Phi kiếm danh tự 25
+12034; Phi kiếm danh tự 26
+12035; Phi kiếm danh tự 27
+12036; Phi kiếm danh tự 28
+12037; Phi kiếm danh tự 29
+12038; Phi kiếm danh tự 30
+13001; Sơ cấp trận pháp kết tinh
+13002; Trung cấp trận pháp kết tinh
+13003; Cao cấp trận pháp kết tinh
+13004; Tru Tiên Trận linh
+13005; Cửu khúc trận linh
+13006; Thái Cực trận linh
+13007; Huyền Âm Trận linh
+13008; Ngũ Hành trận linh
+13009; Trận pháp danh tự 1
+13010; Trận pháp danh tự 2
+13011; Trận pháp danh tự 3
+13012; Trận pháp danh tự 4
+13013; Trận pháp danh tự 5
+13014; Trận pháp danh tự 6
+13015; Trận pháp danh tự 7
+14001; Sơ cấp thần binh kết tinh
+14002; Trung cấp thần binh kết tinh
+14003; Cao cấp thần binh kết tinh
+14004; Tru Tiên Trận linh
+14005; Cửu khúc trận linh
+14006; Thái Cực trận linh
+14007; Huyền Âm Trận linh
+14101; Kiếm Thần binh danh tự 1
+14102; Kiếm Thần binh danh tự 2
+14103; Kiếm Thần binh danh tự 3
+14104; Kiếm Thần binh danh tự 4
+14105; Kiếm Thần binh danh tự 5
+14106; Kiếm Thần binh danh tự 6
+14107; Kiếm Thần binh danh tự 7
+14108; Kiếm Thần binh danh tự 8
+14109; Kiếm Thần binh danh tự 9
+14110; Kiếm Thần binh danh tự 10
+14111; Kiếm Thần binh danh tự 11
+14112; Kiếm Thần binh danh tự 12
+14113; Kiếm Thần binh danh tự 13
+14114; Kiếm Thần binh danh tự 14
+14115; Kiếm Thần binh danh tự 15
+14116; Kiếm Thần binh danh tự 16
+14117; Kiếm Thần binh danh tự 17
+14118; Kiếm Thần binh danh tự 18
+14119; Kiếm Thần binh danh tự 19
+14120; Kiếm Thần binh danh tự 20
+14121; Kiếm Thần binh danh tự 21
+14122; Kiếm Thần binh danh tự 22
+14123; Kiếm Thần binh danh tự 23
+14124; Kiếm Thần binh danh tự 24
+14201; Thương Thần binh danh tự 1
+14202; Thương Thần binh danh tự 2
+14203; Thương Thần binh danh tự 3
+14204; Thương Thần binh danh tự 4
+14205; Thương Thần binh danh tự 5
+14206; Thương Thần binh danh tự 6
+14207; Thương Thần binh danh tự 7
+14208; Thương Thần binh danh tự 8
+14209; Thương Thần binh danh tự 9
+14210; Thương Thần binh danh tự 10
+14211; Thương Thần binh danh tự 11
+14212; Thương Thần binh danh tự 12
+14213; Thương Thần binh danh tự 13
+14214; Thương Thần binh danh tự 14
+14215; Thương Thần binh danh tự 15
+14216; Thương Thần binh danh tự 16
+14217; Thương Thần binh danh tự 17
+14218; Thương Thần binh danh tự 18
+14219; Thương Thần binh danh tự 19
+14220; Thương Thần binh danh tự 20
+14221; Thương Thần binh danh tự 21
+14222; Thương Thần binh danh tự 22
+14223; Thương Thần binh danh tự 23
+14224; Thương Thần binh danh tự 24
+14301; Thiền trượng thần binh danh tự 1
+14302; Thiền trượng thần binh danh tự 2
+14303; Thiền trượng thần binh danh tự 3
+14304; Thiền trượng thần binh danh tự 4
+14305; Thiền trượng thần binh danh tự 5
+14306; Thiền trượng thần binh danh tự 6
+14307; Thiền trượng thần binh danh tự 7
+14308; Thiền trượng thần binh danh tự 8
+14309; Thiền trượng thần binh danh tự 9
+14310; Thiền trượng thần binh danh tự 10
+14311; Thiền trượng thần binh danh tự 11
+14312; Thiền trượng thần binh danh tự 12
+14313; Thiền trượng thần binh danh tự 13
+14314; Thiền trượng thần binh danh tự 14
+14315; Thiền trượng thần binh danh tự 15
+14316; Thiền trượng thần binh danh tự 16
+14317; Thiền trượng thần binh danh tự 17
+14318; Thiền trượng thần binh danh tự 18
+14319; Thiền trượng thần binh danh tự 19
+14320; Thiền trượng thần binh danh tự 20
+14321; Thiền trượng thần binh danh tự 21
+14322; Thiền trượng thần binh danh tự 22
+14323; Thiền trượng thần binh danh tự 23
+14324; Thiền trượng thần binh danh tự 24
+14401; La Sát Thần binh danh tự 1
+14402; La Sát Thần binh danh tự 2
+14403; La Sát Thần binh danh tự 3
+14404; La Sát Thần binh danh tự 4
+14405; La Sát Thần binh danh tự 5
+14406; La Sát Thần binh danh tự 6
+14407; La Sát Thần binh danh tự 7
+14408; La Sát Thần binh danh tự 8
+14409; La Sát Thần binh danh tự 9
+14410; La Sát Thần binh danh tự 10
+14411; La Sát Thần binh danh tự 11
+14412; La Sát Thần binh danh tự 12
+14413; La Sát Thần binh danh tự 13
+14414; La Sát Thần binh danh tự 14
+14415; La Sát Thần binh danh tự 15
+14416; La Sát Thần binh danh tự 16
+14417; La Sát Thần binh danh tự 17
+14418; La Sát Thần binh danh tự 18
+14419; La Sát Thần binh danh tự 19
+14420; La Sát Thần binh danh tự 20
+14421; La Sát Thần binh danh tự 21
+14422; La Sát Thần binh danh tự 22
+14423; La Sát Thần binh danh tự 23
+14424; La Sát Thần binh danh tự 24
+15001; Pháp bảo biến hóa vật phẩm 1
+15002; Pháp bảo biến hóa vật phẩm 2
+15003; Pháp bảo biến hóa vật phẩm 3
+15004; Pháp bảo biến hóa vật phẩm 4
+15005; Pháp bảo biến hóa vật phẩm 5
+15006; Pháp bảo biến hóa vật phẩm 6
+15007; Pháp bảo biến hóa vật phẩm 7
+15008; Pháp bảo biến hóa vật phẩm 8
+15009; Pháp bảo biến hóa vật phẩm 9
+15010; Pháp bảo biến hóa vật phẩm 10
+15011; Pháp bảo biến hóa vật phẩm 11
+15012; Pháp bảo biến hóa vật phẩm 12
+15013; Pháp bảo biến hóa vật phẩm 13
+15014; Pháp bảo biến hóa vật phẩm 14
+15015; Pháp bảo biến hóa vật phẩm 15
+15016; Bãi cát bộ · Pháp bảo
+15017; Quán bar bộ · Pháp bảo
+15018; Giáo sư bộ · Pháp bảo
+15019; Giáng Sinh bộ · Pháp bảo
+15020; Tết nguyên đán bộ · Pháp bảo
+15021; Manh hệ bộ · Pháp bảo
+15022; Hải tặc bộ · Pháp bảo
+15023; Tình nhân bộ · Pháp bảo
+15024; Hắt nước bộ · Pháp bảo
+15025; Kim Trúc bộ · Pháp bảo
+15026; Cương thi bộ · Pháp bảo
+15027; Ăn gà bộ · Pháp bảo
+15028; Quân trang bộ · Pháp bảo
+15029; Lông trắng bộ · Pháp bảo
+15030; Pháp bảo biến hóa vật phẩm 16
+15031; Pháp bảo biến hóa vật phẩm 17
+15032; Pháp bảo biến hóa vật phẩm 18
+15033; Pháp bảo biến hóa vật phẩm 19
+15034; Pháp bảo biến hóa vật phẩm 20
+15035; Pháp bảo biến hóa vật phẩm 21
+15036; Pháp bảo biến hóa vật phẩm 22
+15037; Pháp bảo biến hóa vật phẩm 23
+15038; Pháp bảo biến hóa vật phẩm 24
+15039; Pháp bảo biến hóa vật phẩm 25
+15040; Pháp bảo biến hóa vật phẩm 26
+15041; Pháp bảo biến hóa vật phẩm 27
+15042; Pháp bảo biến hóa vật phẩm 28
+15043; Pháp bảo biến hóa vật phẩm 29
+15044; Pháp bảo biến hóa vật phẩm 30
+15045; Pháp bảo biến hóa vật phẩm 31
+15046; Pháp bảo biến hóa vật phẩm 32
+15047; Pháp bảo biến hóa vật phẩm 33
+15048; Pháp bảo biến hóa vật phẩm 34
+15103; Kinh nghiệm khí linh tiến hóa vật phẩm 1
+15104; Kinh nghiệm khí linh tiến hóa vật phẩm 2
+15105; Kinh nghiệm khí linh tiến hóa vật phẩm 3
+15106; Máy chiến đấu linh tiến hóa vật phẩm 1
+15107; Máy chiến đấu linh tiến hóa vật phẩm 2
+15108; Máy chiến đấu linh tiến hóa vật phẩm 3
+15109; Truy kích khí linh tiến hóa vật phẩm 1
+15110; Truy kích khí linh tiến hóa vật phẩm 2
+15111; Truy kích khí linh tiến hóa vật phẩm 3
+15112; Máy chiến đấu linh kích hoạt vật phẩm
+15113; Kinh nghiệm khí linh kích hoạt vật phẩm
+15114; Truy kích khí linh kích hoạt vật phẩm
+16001; Sủng vật sơ cấp tinh phách
+16002; Sủng vật trung cấp tinh phách
+16003; Sủng vật cao cấp tinh phách
+16004; Tiên bé con mảnh vỡ 1
+16005; Tiên bé con mảnh vỡ 2
+16006; Tiên bé con mảnh vỡ 3
+16007; Tiên bé con mảnh vỡ 4
+16008; Tiên bé con mảnh vỡ 5
+16009; Tiên bé con mảnh vỡ 6
+16010; Tiên bé con mảnh vỡ 7
+16011; Tiên bé con mảnh vỡ 8
+16012; Tiên bé con mảnh vỡ 9
+16013; Tiên bé con mảnh vỡ 10
+16101; Tiên bé con vật liệu 1
+16102; Tiên bé con vật liệu 2
+16103; Tiên bé con vật liệu 3
+16104; Tiên bé con vật liệu 4
+16105; Tiên bé con vật liệu 5
+16106; Tiên bé con vật liệu 6
+16107; Tiên bé con vật liệu 7
+16108; Tiên bé con vật liệu 8
+16109; Tiên bé con vật liệu 9
+16110; Tiên bé con vật liệu 10
+16196; Sủng vật ngự hồn vật liệu 1
+16197; Sủng vật ngự hồn vật liệu 2
+16198; Sủng vật ngự hồn vật liệu 3
+16199; Sủng vật ngự hồn vật liệu 4
+16200; Sủng vật ngự hồn vật liệu 5
+16201; Phúc lộc
+16202; Tương tư mùi thơm
+16203; U lam chi luyến
+16204; Gấm duyên loan hoa
+16205; Kim sắc cầu hoàng
+16206; Mạ vàng
+16207; Gốc ghép
+16208; Nước xanh
+16209; Tôi vào nước lạnh
+16210; Đất hiếm
+16310; Phòng ở kích hoạt đạo cụ 1
+16311; Phòng ở kích hoạt đạo cụ 2
+16312; Phòng ở kích hoạt đạo cụ 3
+16313; Phòng ở kích hoạt đạo cụ 4
+16314; Phòng ở kích hoạt đạo cụ 5
+16315; Phòng ở kích hoạt đạo cụ 6
+16316; Phòng ở kích hoạt đạo cụ 7
+16317; Phòng ở kích hoạt đạo cụ 8
+16318; Cấp thấp pháo mừng
+16319; Cao cấp pháo mừng
+17001; Sủng vật mảnh vỡ 1
+17002; Sủng vật mảnh vỡ 2
+17003; Sủng vật mảnh vỡ 3
+17004; Sủng vật mảnh vỡ 4
+17005; Sủng vật mảnh vỡ 5
+17006; Sủng vật mảnh vỡ 6
+17007; Sủng vật mảnh vỡ 7
+17008; Sủng vật mảnh vỡ 8
+17009; Sủng vật mảnh vỡ 9
+17010; Sủng vật mảnh vỡ 10
+17011; Sủng vật mảnh vỡ 11
+17012; Bãi cát bộ · Sủng vật
+17013; Quán bar bộ · Sủng vật
+17014; Giáo sư bộ · Sủng vật
+17015; Giáng Sinh bộ · Sủng vật
+17016; Tết nguyên đán bộ · Sủng vật
+17017; Phúc Long Bảo Bảo
+17018; Manh hệ bộ · Sủng vật
+17019; Hải tặc bộ · Sủng vật
+17020; Tình nhân bộ · Sủng vật
+17021; Hắt nước bộ · Sủng vật
+17022; Kim Trúc bộ · Sủng vật
+17023; Cương thi bộ · Sủng vật
+17024; Ăn gà bộ · Sủng vật
+17025; Quân trang bộ · Sủng vật
+17026; Lông trắng bộ · Sủng vật
+17027; Rả rích
+17028; Hoa tiêu
+17029; Đại mỹ lật
+17030; Tiêu dao
+17031; A Shirou
+17032; Bội Bội
+17033; Đào Đào
+17034; Con sóc đồ ăn tử
+17035; Kiêu Thập Nhất Lang
+17036; Kim Vân
+17037; Dưa tiểu mỹ
+17038; Đạt đát
+17039; Kho nhỏ ba
+17040; Đồ Sơn lá lá
+17041; Con báo thúc
+17042; Tiểu Tiên heo
+17043; Bay về phía nam bay
+17044; Heo kiên cường
+17045; Tuyết ly
+18001; Kiếm linh thăng cấp đạo cụ
+18002; Kiếm linh tiến giai đạo cụ
+18003; Thần binh tiến hóa đạo cụ 1
+18004; Thần binh tiến hóa đạo cụ 2
+18005; Lưỡi kiếm 1 Mảnh vỡ
+18006; Chuôi kiếm 1 Mảnh vỡ
+18007; Kiếm Hồn 1 Mảnh vỡ
+18008; Lưỡi kiếm 2 Mảnh vỡ
+18009; Chuôi kiếm 2 Mảnh vỡ
+18010; Kiếm Hồn 2 Mảnh vỡ
+18011; Lưỡi kiếm 3 Mảnh vỡ
+18012; Chuôi kiếm 3 Mảnh vỡ
+18013; Kiếm Hồn 3 Mảnh vỡ
+18014; Lưỡi kiếm 4 Mảnh vỡ
+18015; Chuôi kiếm 4 Mảnh vỡ
+18016; Kiếm Hồn 4 Mảnh vỡ
+18017; Mũi thương 1 Mảnh vỡ
+18018; Chuôi thương 1 Mảnh vỡ
+18019; Thương hồn 1 Mảnh vỡ
+18020; Mũi thương 2 Mảnh vỡ
+18021; Chuôi thương 2 Mảnh vỡ
+18022; Thương hồn 2 Mảnh vỡ
+18023; Mũi thương 3 Mảnh vỡ
+18024; Chuôi thương 3 Mảnh vỡ
+18025; Thương hồn 3 Mảnh vỡ
+18026; Mũi thương 4 Mảnh vỡ
+18027; Chuôi thương 4 Mảnh vỡ
+18028; Thương hồn 4 Mảnh vỡ
+19001; Sơ cấp Hỏa Tinh Thạch
+19002; Trung cấp Hỏa Tinh Thạch
+19003; Cao cấp Hỏa Tinh Thạch
+19004; Sơ cấp lục tinh thạch
+19005; Trung cấp lục tinh thạch
+19006; Cao cấp lục tinh thạch
+19007; Động Linh thạch
+19008; Huyền Hoàng Thạch
+19009; Bảy Bảo Tiên thạch
+19010;7-8 Giai màu hồng dây chuyền hợp thành vật liệu
+19011;9-10 Giai màu hồng dây chuyền hợp thành vật liệu
+19012;11-12 Giai màu hồng dây chuyền hợp thành vật liệu
+19013;13-14 Giai màu hồng dây chuyền hợp thành vật liệu
+19014;15-16 Giai màu hồng dây chuyền hợp thành vật liệu
+19015;7-8 Giai màu hồng chiếc nhẫn hợp thành vật liệu
+19016;9-10 Giai màu hồng chiếc nhẫn hợp thành vật liệu
+19017;11-12 Giai màu hồng chiếc nhẫn hợp thành vật liệu
+19018;13-14 Giai màu hồng chiếc nhẫn hợp thành vật liệu
+19019;15-16 Giai màu hồng chiếc nhẫn hợp thành vật liệu
+19020; Kim hồng trang bị hợp thành vật liệu
+19021; Đê giai kim hồng trang bị hợp thành vật liệu
+19022; Đê giai kim hồng trang bị hợp thành vật liệu 2
+19023; Đê giai kim hồng trang bị hợp thành vật liệu 3
+19024; Đê giai kim hồng trang bị hợp thành vật liệu 4
+19025; Động Linh đá bể phiến
+20001;1 Cấp hồng ngọc
+20002;2 Cấp hồng ngọc
+20003;3 Cấp hồng ngọc
+20004;4 Cấp hồng ngọc
+20005;5 Cấp hồng ngọc
+20006;6 Cấp hồng ngọc
+20007;7 Cấp hồng ngọc
+20008;8 Cấp hồng ngọc
+20009;9 Cấp hồng ngọc
+20010;10 Cấp hồng ngọc
+20011;11 Cấp hồng ngọc
+20012;12 Cấp hồng ngọc
+20013;13 Cấp hồng ngọc
+20014;14 Cấp hồng ngọc
+20015;15 Cấp hồng ngọc
+21001;1 Cấp ngọc lục bảo
+21002;2 Cấp ngọc lục bảo
+21003;3 Cấp ngọc lục bảo
+21004;4 Cấp ngọc lục bảo
+21005;5 Cấp ngọc lục bảo
+21006;6 Cấp ngọc lục bảo
+21007;7 Cấp ngọc lục bảo
+21008;8 Cấp ngọc lục bảo
+21009;9 Cấp ngọc lục bảo
+21010;10 Cấp ngọc lục bảo
+21011;11 Cấp ngọc lục bảo
+21012;12 Cấp ngọc lục bảo
+21013;13 Cấp ngọc lục bảo
+21014;14 Cấp ngọc lục bảo
+21015;15 Cấp ngọc lục bảo
+22001;1 Cấp Tử Tiên ngọc
+22002;2 Cấp Tử Tiên ngọc
+22003;3 Cấp Tử Tiên ngọc
+22004;4 Cấp Tử Tiên ngọc
+22005;5 Cấp Tử Tiên ngọc
+22006;6 Cấp Tử Tiên ngọc
+22007;7 Cấp Tử Tiên ngọc
+22008;8 Cấp Tử Tiên ngọc
+22009;9 Cấp Tử Tiên ngọc
+22010;10 Cấp Tử Tiên ngọc
+22011;11 Cấp Tử Tiên ngọc
+22012;12 Cấp Tử Tiên ngọc
+22013;13 Cấp Tử Tiên ngọc
+22014;14 Cấp Tử Tiên ngọc
+22015;15 Cấp Tử Tiên ngọc
+23001;1 Cấp hoàng tiên ngọc
+23002;2 Cấp hoàng tiên ngọc
+23003;3 Cấp hoàng tiên ngọc
+23004;4 Cấp hoàng tiên ngọc
+23005;5 Cấp hoàng tiên ngọc
+23006;6 Cấp hoàng tiên ngọc
+23007;7 Cấp hoàng tiên ngọc
+23008;8 Cấp hoàng tiên ngọc
+23009;9 Cấp hoàng tiên ngọc
+23010;10 Cấp hoàng tiên ngọc
+23011;11 Cấp hoàng tiên ngọc
+23012;12 Cấp hoàng tiên ngọc
+23013;13 Cấp hoàng tiên ngọc
+23014;14 Cấp hoàng tiên ngọc
+23015;15 Cấp hoàng tiên ngọc
+24001; Nam sáo trang thạch ( Mũ giáp )
+24002; Nam sáo trang thạch ( Vũ khí )
+24003; Nam sáo trang thạch ( Giáp ngực )
+24004; Nam sáo trang thạch ( Đai lưng )
+24005; Nam sáo trang thạch ( Giáp chân )
+24006; Nam sáo trang thạch ( Giày )
+24007; Nữ sáo trang thạch ( Mũ giáp )
+24008; Nữ sáo trang thạch ( Vũ khí )
+24009; Nữ sáo trang thạch ( Giáp ngực )
+24010; Nữ sáo trang thạch ( Đai lưng )
+24011; Nữ sáo trang thạch ( Giáp chân )
+24012; Nữ sáo trang thạch ( Giày )
+24013; Cường hóa sáo trang thạch ( Mũ giáp )
+24014; Cường hóa sáo trang thạch ( Vũ khí )
+24015; Cường hóa sáo trang thạch ( Giáp ngực )
+24016; Cường hóa sáo trang thạch ( Đai lưng )
+24017; Cường hóa sáo trang thạch ( Giáp chân )
+24018; Cường hóa sáo trang thạch ( Giày )
+24019; Hoàn mỹ sáo trang thạch
+24020; Trang sức sáo trang thạch ( Chiếc nhẫn )
+24021; Trang sức sáo trang thạch ( Dây chuyền )
+24022; Cường hóa sáo trang thạch ( Dây chuyền )
+24023; Cường hóa sáo trang thạch ( Chiếc nhẫn )
+30001; Bầu trời xanh nam tước
+30101; Ngây thơ tiểu đạo
+30102; Vân du bốn phương cư sĩ
+30103; Tiêu dao vũ khách
+30104; Nguyên Henri trinh
+30105; Ôm phác tìm thật
+30106; Bền lòng có thành tựu
+30107; Thái thượng cảm ứng
+30108; Phù du sáu hư
+30109; Bên trong thánh bên ngoài vương
+30110; Hoàng Cực trải qua thế
+30201; Tống tình một hạ
+30301; Ký hiệp ước chi lễ
+30302; Hồng Diệp chi minh
+30303; Sơn hải chi thề
+30304; Cùng quân hiểu nhau
+30305; Cá nước thân mật
+30306; Tương cứu trong lúc hoạn nạn
+30307; Người già vĩnh giai
+30308; Tử sinh khế rộng
+30309; Một thế một đôi người
+30310; Tâm hữu linh tê
+30311; Cầm sắt hòa minh
+30312; Ông trời tác hợp cho
+30313; So Dực Song Phi
+30314; Thần tiên quyến lữ
+30401; Thiên hạ đệ nhất
+30501; Hoạt động tiểu vương tử
+30601; Tam giới chiến thần
+30701; Ngạo tuyết ngưng sương
+30801; Phấn trang ngọc thế
+30901; Tiên minh tranh bá minh chủ xưng hào
+40001; Linh tê bằng chứng mảnh vỡ
+41001; Thần binh danh tự mảnh vỡ 1
+41002; Thần binh danh tự mảnh vỡ 2
+41003; Thần binh danh tự mảnh vỡ 3
+41004; Thần binh danh tự mảnh vỡ 4
+41005; Thần binh danh tự mảnh vỡ 5
+41006; Thần binh danh tự mảnh vỡ 6
+41007; Thần binh danh tự mảnh vỡ 7
+41008; Thần binh danh tự mảnh vỡ 8
+41009; Thần binh danh tự mảnh vỡ 9
+41010; Thần binh danh tự mảnh vỡ 10
+41011; Sáo trang lệnh bài mảnh vỡ
+41012; Bảo thạch lệnh bài mảnh vỡ
+50001; Một đóa hoa hồng đỏ
+50002; Một chùm hoa hồng đỏ
+50003; Hoa hồng rổ
+60001; Linh tê quyển trục
+60002; Trang bị cường hóa thạch
+60003; Trang bị tẩy luyện thạch
+60004; Thức hải linh nguyên · Phàm
+60005; Thức hải linh nguyên · Tiên
+60006; Thức hải linh nguyên · Thánh
+60007; Tiểu Phi giày
+60008; Càn quét quyển trục
+60009; Hồn Tinh
+60010; Tiên phách lệnh bài
+60011; Cơ duyên chìa khoá 1
+60012; Cơ duyên chìa khoá 2
+60013; Cơ duyên chìa khoá 3
+60014; Cơ duyên chìa khoá 4
+60015; Cơ duyên chìa khoá 5
+60016; Thần thú mở rộng thẻ
+60017; Thánh trang vật liệu hợp thành 2
+60018; Thánh trang vật liệu hợp thành 1
+60019; Phục sinh Nguyên Thần
+60020; Trang bị cường hóa đạo cụ 2
+60021; Trang bị cường hóa đạo cụ 3
+60022; Nam kiếm tâm pháp 1 Kỹ năng 1 Thuế biến vật phẩm
+60023; Nam kiếm tâm pháp 1 Kỹ năng 2 Thuế biến vật phẩm
+60024; Nam kiếm tâm pháp 1 Kỹ năng 3 Thuế biến vật phẩm
+60025; Nam kiếm tâm pháp 1 Kỹ năng 4 Thuế biến vật phẩm
+60026; Nam kiếm tâm pháp 2 Kỹ năng 1 Thuế biến vật phẩm
+60027; Nam kiếm tâm pháp 2 Kỹ năng 2 Thuế biến vật phẩm
+60028; Nam kiếm tâm pháp 2 Kỹ năng 3 Thuế biến vật phẩm
+60029; Nam kiếm tâm pháp 2 Kỹ năng 4 Thuế biến vật phẩm
+60030; Nam kiếm tâm pháp 3 Kỹ năng 1 Thuế biến vật phẩm
+60031; Nam kiếm tâm pháp 3 Kỹ năng 2 Thuế biến vật phẩm
+60032; Nam kiếm tâm pháp 3 Kỹ năng 3 Thuế biến vật phẩm
+60033; Nam kiếm tâm pháp 3 Kỹ năng 4 Thuế biến vật phẩm
+60034; Nam kiếm tâm pháp 1 Kỹ năng bị động thăng cấp vật phẩm
+60035; Nam kiếm tâm pháp 2 Kỹ năng bị động thăng cấp vật phẩm
+60036; Nam kiếm tâm pháp 3 Kỹ năng bị động thăng cấp vật phẩm
+60037; Nữ thương tâm pháp 1 Kỹ năng 1 Thuế biến vật phẩm
+60038; Nữ thương tâm pháp 1 Kỹ năng 2 Thuế biến vật phẩm
+60039; Nữ thương tâm pháp 1 Kỹ năng 3 Thuế biến vật phẩm
+60040; Nữ thương tâm pháp 1 Kỹ năng 4 Thuế biến vật phẩm
+60041; Nữ thương tâm pháp 2 Kỹ năng 1 Thuế biến vật phẩm
+60042; Nữ thương tâm pháp 2 Kỹ năng 2 Thuế biến vật phẩm
+60043; Nữ thương tâm pháp 2 Kỹ năng 3 Thuế biến vật phẩm
+60044; Nữ thương tâm pháp 2 Kỹ năng 4 Thuế biến vật phẩm
+60045; Nữ thương tâm pháp 3 Kỹ năng 1 Thuế biến vật phẩm
+60046; Nữ thương tâm pháp 3 Kỹ năng 2 Thuế biến vật phẩm
+60047; Nữ thương tâm pháp 3 Kỹ năng 3 Thuế biến vật phẩm
+60048; Nữ thương tâm pháp 3 Kỹ năng 4 Thuế biến vật phẩm
+60049; Nữ thương tâm pháp 1 Kỹ năng bị động thăng cấp vật phẩm
+60050; Nữ thương tâm pháp 2 Kỹ năng bị động thăng cấp vật phẩm
+60051; Nữ thương tâm pháp 3 Kỹ năng bị động thăng cấp vật phẩm
+60052; Màu hồng Thần thú hợp thành vật phẩm
+60053; Tẩy tủy 1 Đạo cụ ( Nhị chuyển )
+60054; Tẩy tủy 2 Đạo cụ ( Tam chuyển )
+60055; Tẩy tủy 3 Đạo cụ mảnh vỡ ( Tứ chuyển rơi xuống )
+60056; Tẩy tủy 3 Đạo cụ ( Tứ chuyển hợp thành, 666 Hợp 1)
+60057; Tẩy tủy 4 Đạo cụ ( Ngũ chuyển )
+60058; Tẩy tủy 5 Đạo cụ ( Lục chuyển )
+60059; Tẩy tủy 2 Chuyển rơi xuống bao người boss Chuyên dụng
+60060; Tẩy tủy 3 Chuyển rơi xuống bao người boss Chuyên dụng
+60061; Tẩy tủy 4 Chuyển rơi xuống bao người boss Chuyên dụng
+60062; Tẩy tủy 5 Chuyển rơi xuống bao người boss Chuyên dụng
+60063; Tẩy tủy 6 Chuyển rơi xuống bao người boss Chuyên dụng
+60064; Tẩy tủy 2 Chuyển rơi xuống bao thế giới boss Chuyên dụng
+60065; Tẩy tủy 3 Chuyển rơi xuống bao thế giới boss Chuyên dụng
+60066; Tẩy tủy 4 Chuyển rơi xuống bao thế giới boss Chuyên dụng
+60067; Tẩy tủy 5 Chuyển rơi xuống bao thế giới boss Chuyên dụng
+60068; Tẩy tủy 6 Chuyển rơi xuống bao thế giới boss Chuyên dụng
+60069; Tiên giáp mảnh vỡ
+60070; Tiên đeo mảnh vỡ
+60071; Huyễn giáp mảnh vỡ
+60072; Linh thể giải phong đạo cụ 1
+60073; Linh thể giải phong đạo cụ 2
+60074; Ám kim Thần thú hợp thành vật phẩm
+60075; Huyễn thải Thần thú hợp thành vật phẩm
+60076; Âm dương mảnh vỡ
+60077; Bát quái mảnh vỡ
+60078; Vòng tay thăng giai vật liệu
+60079; Vòng tai thăng giai vật liệu
+60080; Linh chương thăng giai vật liệu
+60081; Vòng tay thăng tinh vật liệu 1
+60082; Vòng tay thăng tinh vật liệu 2
+60083; Vòng tay thăng tinh vật liệu 3
+60084; Vòng tay thăng tinh vật liệu 4
+60085; Vòng tai thăng tinh vật liệu 1
+60086; Vòng tai thăng tinh vật liệu 2
+60087; Vòng tai thăng tinh vật liệu 3
+60088; Vòng tai thăng tinh vật liệu 4
+60089; Linh chương thăng tinh vật liệu 1
+60090; Linh chương thăng tinh vật liệu 2
+60091; Linh chương thăng tinh vật liệu 3
+60092; Linh chương thăng tinh vật liệu 4
+60093; Tẩy tủy 1 Đạo cụ 1( Nhị chuyển )
+60094; Tẩy tủy 1 Đạo cụ 2( Nhị chuyển )
+60095; Tẩy tủy 1 Đạo cụ 3( Nhị chuyển )
+60096; Tẩy tủy 1 Đạo cụ 4( Nhị chuyển )
+60097; Tẩy tủy 1 Đạo cụ 5( Nhị chuyển )
+70001; Chu lăng chi chủ
+70002; Chu lăng tông sư
+70003; Chu lăng cư sĩ
+70011; Bồng huyền chi chủ
+70012; Bồng Huyền Tông sư
+70013; Bồng huyền cư sĩ
+70021; Huyền Đức chi chủ
+70022; Huyền Đức Tông sư
+70023; Huyền Đức cư sĩ
+70031; Chu lăng chi chủ
+70032; Chu lăng tông sư
+70033; Chu lăng cư sĩ
+70041; Bồng huyền chi chủ
+70042; Bồng Huyền Tông sư
+70043; Bồng huyền cư sĩ
+70051; Huyền Đức chi chủ
+70052; Huyền Đức Tông sư
+70053; Huyền Đức cư sĩ
+70054;VIP1 Xưng hào
+70055;VIP3 Xưng hào
+70056;VIP5 Xưng hào
+70057;VIP7 Xưng hào
+70058;VIP10 Xưng hào
+70059;VIP11 Xưng hào
+70060;VIP12 Xưng hào
+70061;VIP13 Xưng hào
+70062;VIP14 Xưng hào
+70063;VIP15 Xưng hào
+70064; Thật VIP1 Xưng hào
+70065; Thật VIP3 Xưng hào
+70066; Thật VIP6 Xưng hào
+70067; Thật VIP7 Xưng hào
+70068; Thật VIP8 Xưng hào
+70069; Thật VIP9 Xưng hào
+70070; Thật VIP10 Xưng hào
+70071; Thật VIP11 Xưng hào
+70072; Thật VIP12 Xưng hào
+70073; Thiên Khư danh nhân đường thứ 1 Giai đoạn thứ 1 Ngăn xưng hào
+70074; Thiên Khư danh nhân đường thứ 1 Giai đoạn thứ 2 Ngăn xưng hào
+70075; Thiên Khư danh nhân đường thứ 1 Giai đoạn thứ 3 Ngăn xưng hào
+70076; Thiên Khư danh nhân đường thứ 2 Giai đoạn thứ 1 Ngăn xưng hào
+70077; Thiên Khư danh nhân đường thứ 2 Giai đoạn thứ 2 Ngăn xưng hào
+70078; Thiên Khư danh nhân đường thứ 2 Giai đoạn thứ 3 Ngăn xưng hào
+70079; Thiên Khư danh nhân đường thứ 1 Giai đoạn thứ 1 Ngăn lâm thời xưng hào
+70080; Thiên Khư danh nhân đường thứ 1 Giai đoạn thứ 2 Ngăn lâm thời xưng hào
+70081; Thiên Khư danh nhân đường thứ 1 Giai đoạn thứ 3 Ngăn lâm thời xưng hào
+70082; Thiên Khư danh nhân đường thứ 2 Giai đoạn thứ 1 Ngăn lâm thời xưng hào
+70083; Thiên Khư danh nhân đường thứ 2 Giai đoạn thứ 2 Ngăn lâm thời xưng hào
+70084; Thiên Khư danh nhân đường thứ 2 Giai đoạn thứ 3 Ngăn lâm thời xưng hào
+70085; Phúc địa luận kiếm xưng hào
+70101; Tu luyện có thành tựu
+70102; Tu luyện cuồng nhân
+70103; Tu luyện tông sư
+70104; Một bước thành tiên
+70105; Ngự thú có đạo
+70106; Ngự thú cuồng người
+70107; Ngự Thú Tông sư
+70108; Thuận gió vạn dặm
+70109; Luyện khí tiểu thành
+70110; Luyện khí cuồng nhân
+70111; Luyện Khí Tông thất
+70112; Thần cơ bách luyện
+70113; Ngự sủng có đạo
+70114; Ngự sủng cuồng nhân
+70115; Ngự sủng tông sư
+70116; Ngự sủng Thiên tôn
+70117; Bảo thạch tiểu thành
+70118; Bảo thạch cuồng nhân
+70119; Bảo thạch tông sư
+70120; Phục trang đẹp đẽ
+70121; Thăng tinh có đạo
+70122; Thăng tinh cuồng nhân
+70123; Thăng tinh tông sư
+70124; Khiên tinh dẫn linh
+70125; Tiên lữ quyết đấu Thiên Bảng xưng hào 1
+70126; Tiên lữ quyết đấu Thiên Bảng xưng hào 2
+70127; Tiên lữ quyết đấu Thiên Bảng xưng hào 3
+70128; Tiên lữ quyết đấu Thiên Bảng xưng hào 4
+70129; Tiên lữ quyết đấu Địa Bảng xưng hào 1
+70130; Tiên lữ quyết đấu Địa Bảng xưng hào 2
+70131; Tiên lữ quyết đấu Địa Bảng xưng hào 3
+70132; Tiên lữ quyết đấu Địa Bảng xưng hào 4
+71000; Kích hoạt 3 Cái rãnh vị trợ trận rãnh vị
+71001; Kích hoạt 4 Cái rãnh vị trợ trận rãnh vị
+71002; Linh thể xưng hào 1
+71003; Linh thể xưng hào 2
+71004; Linh thể xưng hào 3
+71005; Linh thể xưng hào 4
+71006; Linh thể xưng hào 5
+71007; Linh thể xưng hào 6
+71008; Linh thể xưng hào 7
+71009; Linh thể xưng hào 8
+71010; Linh thể xưng hào 9
+71011; Linh thể xưng hào 10
+71012; Linh thể xưng hào 11
+71013; Linh thể xưng hào 12
+71014; Linh thể xưng hào 13
+71015; Linh thể xưng hào 14
+71016; Ngàn bụi tận tẩy
+71017; Binh thần hàng thế
+71018; Tiêu dao cửu thiên
+71019; Kim cương không phá
+71020; Nhất niệm Thần Ma
+71021; Man Hoang chi vương
+71022; Khuynh quốc ngân đạn
+71023; Thiên sứ người đầu tư
+80001; Khảo thí gói quà
+81001; Bảo hộp hộp
+81002; Một túi lớn pháp bảo tinh túy
+81003; Tọa kỵ ngự hồn bảo rương
+81004; Tiên Vũ ngự hồn bảo rương
+81005; Sủng vật ngự hồn bảo rương
+81006;6 Giai hồng trang bảo rương ( Nam )
+81007;6 Giai hồng trang bảo rương ( Nữ )
+81010; Tử kim phấn hồng Thần thú BOSS Trang bị cái rương
+81011; Thế giới chi viện bảo rương
+81012; Truyền thế sáo trang thạch bảo rương nam
+81013; Truyền thế sáo trang thạch bảo rương nữ
+81014; Thế giới BOSS Xếp hạng bảo rương 5 Giai cái rương
+81015; Thế giới BOSS Xếp hạng bảo rương 6 Giai cái rương
+81016; Thế giới BOSS Xếp hạng bảo rương 7 Giai cái rương
+81017; Thế giới BOSS Xếp hạng bảo rương 8 Giai cái rương
+81018; Thế giới BOSS Xếp hạng bảo rương 9 Giai cái rương
+81019; Thế giới BOSS Xếp hạng bảo rương 10 Giai cái rương
+81020; Thế giới BOSS Xếp hạng bảo rương 11 Giai cái rương
+81021; Thế giới BOSS Xếp hạng bảo rương 12 Giai cái rương
+81022; Thế giới BOSS Xếp hạng bảo rương 13 Giai cái rương
+81023; Thế giới BOSS Xếp hạng bảo rương 14 Giai cái rương
+81024; Thế giới BOSS Xếp hạng bảo rương 15 Giai cái rương
+81025; Thế giới BOSS Xếp hạng bảo rương 16 Giai cái rương
+81026; Thần thú mở ra lúc đưa bảo rương
+81027; Thần thú đảo BOSS Xếp hạng 7-8 Giai bảo rương
+81028; Thần thú đảo BOSS Xếp hạng 9-10 Giai bảo rương
+81029; Thần thú đảo BOSS Xếp hạng 11-12 Giai bảo rương
+81030; Thần thú đảo BOSS Xếp hạng 13-14 Giai bảo rương
+81031; Thần thú đảo BOSS Xếp hạng 15-16 Giai bảo rương
+81032; Tâm ma huyễn cảnh tỏa linh đài trang bị bảo rương
+81041; Thần thú đảo BOSS Xếp hạng 7 Giai bảo rương
+81042; Thần thú đảo BOSS Xếp hạng 8 Giai bảo rương
+81043; Thần thú đảo BOSS Xếp hạng 9 Giai bảo rương
+81044; Thần thú đảo BOSS Xếp hạng 10 Giai bảo rương
+81045; Thần thú đảo BOSS Xếp hạng 11 Giai bảo rương
+81046; Thần thú đảo BOSS Xếp hạng 12 Giai bảo rương
+81047; Thần thú đảo BOSS Xếp hạng 13 Giai bảo rương
+81048; Thần thú đảo BOSS Xếp hạng 14 Giai bảo rương
+81049; Thần thú đảo BOSS Xếp hạng 15 Giai bảo rương
+81050; Thần thú đảo BOSS Xếp hạng 16 Giai bảo rương
+81061;5 Giai hồng trang bảo rương ( Nam )
+81062;5 Giai hồng trang bảo rương ( Nữ )
+81063;6 Giai hồng trang bảo rương ( Nam )
+81064;6 Giai hồng trang bảo rương ( Nữ )
+81065;7 Giai hồng trang bảo rương ( Nam )
+81066;7 Giai hồng trang bảo rương ( Nữ )
+81067;8 Giai hồng trang bảo rương ( Nam )
+81068;8 Giai hồng trang bảo rương ( Nữ )
+81069;9 Giai hồng trang bảo rương ( Nam )
+81070;9 Giai hồng trang bảo rương ( Nữ )
+81071;5 Giai mạ vàng bảo rương ( Nam )
+81072;5 Giai mạ vàng bảo rương ( Nữ )
+81073;6 Giai mạ vàng bảo rương ( Nam )
+81074;6 Giai mạ vàng bảo rương ( Nữ )
+81075;7 Giai mạ vàng bảo rương ( Nam )
+81076;7 Giai mạ vàng bảo rương ( Nữ )
+81077;8 Giai mạ vàng bảo rương ( Nam )
+81078;8 Giai mạ vàng bảo rương ( Nữ )
+81079;9 Giai mạ vàng bảo rương ( Nam )
+81080;9 Giai mạ vàng bảo rương ( Nữ )
+81081; Tầm bảo chìa khoá tự do rương
+81082;1 Cấp bảo thạch tùy ý tuyển gói quà
+81083;1 Chuyển 5 Giai gói quà nam
+81084;2 Chuyển 7 Giai gói quà nam
+81085;3 Chuyển 9 Giai gói quà nam
+81086;4 Chuyển 11 Giai gói quà nam
+81087;5 Chuyển 13 Giai gói quà nam
+81088;6 Chuyển 15 Giai gói quà nam
+81089;1 Chuyển 5 Giai gói quà nữ
+81090;2 Chuyển 7 Giai gói quà nữ
+81091;3 Chuyển 9 Giai gói quà nữ
+81092;4 Chuyển 11 Giai gói quà nữ
+81093;5 Chuyển 13 Giai gói quà nữ
+81094;6 Chuyển 15 Giai gói quà nữ
+81095;5-8 Giai hồng trang tự do rương ( Nam )
+81096;5-8 Giai hồng trang tự do rương ( Nữ )
+81097; Động Hư sáo trang thạch tự do rương
+81098;4 Giai hồng trang bảo rương ( Nam )
+81099;4 Giai hồng trang bảo rương ( Nữ )
+81100; Linh phách bảo rương
+81101; Sơ cấp thi đấu bảo rương
+81102; Trung cấp thi đấu bảo rương
+81103; Cao cấp thi đấu bảo rương
+81104; Màu đỏ Thần thú bảo rương
+81105; Cao cấp chìa khoá tự do rương
+81106; Ly chi nguyện thời trang tự do nam
+81107; Ly chi nguyện thời trang tự do nữ
+81108; Kinh mạch biểu hiện ra nam ( Biểu hiện dùng )
+81109; Kinh mạch biểu hiện ra nữ ( Biểu hiện dùng )
+81110; Tâm pháp biểu hiện ra nam ( Biểu hiện dùng )
+81111; Tâm pháp biểu hiện ra nữ ( Biểu hiện dùng )
+81112; Công năng mở ra sáo trang thạch gói quà nam
+81113; Công năng mở ra sáo trang thạch gói quà nữ
+82001; Phúc địa điểm tích lũy 1-6 Giai ( Lệch ) Nam quần áo bảo rương
+82002; Phúc địa điểm tích lũy 2-8 Giai ( Lệch ) Nam quần áo bảo rương
+82003; Phúc địa điểm tích lũy 3-6 Giai ( Lệch ) Nam quần áo bảo rương
+82004; Phúc địa điểm tích lũy 4-7 Giai ( Lệch ) Nam quần áo bảo rương
+82005; Phúc địa điểm tích lũy 5-8 Giai ( Lệch ) Nam quần áo bảo rương
+82006; Phúc địa điểm tích lũy 1-6 Giai ( Lệch ) Nam đồ trang sức bảo rương
+82007; Phúc địa điểm tích lũy 2-8 Giai ( Lệch ) Nam đồ trang sức bảo rương
+82008; Phúc địa điểm tích lũy 3-6 Giai ( Lệch ) Nam đồ trang sức bảo rương
+82009; Phúc địa điểm tích lũy 4-7 Giai ( Lệch ) Nam đồ trang sức bảo rương
+82010; Phúc địa điểm tích lũy 5-8 Giai ( Lệch ) Nam đồ trang sức bảo rương
+82011; Phúc địa điểm tích lũy 1-6 Giai ( Lệch ) Nam đấu tâm bảo rương
+82012; Phúc địa điểm tích lũy 2-8 Giai ( Lệch ) Nam đấu tâm bảo rương
+82013; Phúc địa điểm tích lũy 3-6 Giai ( Lệch ) Nam đấu tâm bảo rương
+82014; Phúc địa điểm tích lũy 4-7 Giai ( Lệch ) Nam đấu tâm bảo rương
+82015; Phúc địa điểm tích lũy 5-8 Giai ( Lệch ) Nam đấu tâm bảo rương
+82016; Phúc địa điểm tích lũy 1-6 Giai ( Lệch ) Nữ quần áo bảo rương
+82017; Phúc địa điểm tích lũy 2-8 Giai ( Lệch ) Nữ quần áo bảo rương
+82018; Phúc địa điểm tích lũy 3-6 Giai ( Lệch ) Nữ quần áo bảo rương
+82019; Phúc địa điểm tích lũy 4-7 Giai ( Lệch ) Nữ quần áo bảo rương
+82020; Phúc địa điểm tích lũy 5-8 Giai ( Lệch ) Nữ quần áo bảo rương
+82021; Phúc địa điểm tích lũy 1-6 Giai ( Lệch ) Nữ đồ trang sức bảo rương
+82022; Phúc địa điểm tích lũy 2-8 Giai ( Lệch ) Nữ đồ trang sức bảo rương
+82023; Phúc địa điểm tích lũy 3-6 Giai ( Lệch ) Nữ đồ trang sức bảo rương
+82024; Phúc địa điểm tích lũy 4-7 Giai ( Lệch ) Nữ đồ trang sức bảo rương
+82025; Phúc địa điểm tích lũy 5-8 Giai ( Lệch ) Nữ đồ trang sức bảo rương
+82026; Phúc địa điểm tích lũy 1-6 Giai ( Lệch ) Nữ đấu tâm bảo rương
+82027; Phúc địa điểm tích lũy 2-8 Giai ( Lệch ) Nữ đấu tâm bảo rương
+82028; Phúc địa điểm tích lũy 3-6 Giai ( Lệch ) Nữ đấu tâm bảo rương
+82029; Phúc địa điểm tích lũy 4-7 Giai ( Lệch ) Nữ đấu tâm bảo rương
+82030; Phúc địa điểm tích lũy 5-8 Giai ( Lệch ) Nữ đấu tâm bảo rương
+82031; Vượt phục phúc địa 1 Cấp phúc địa hạng nhất chiếm lĩnh 1
+82032; Vượt phục phúc địa 1 Cấp phúc địa hạng nhất chiếm lĩnh 2
+82033; Vượt phục phúc địa 1 Cấp phúc địa hạng nhất chiếm lĩnh 3
+82034; Vượt phục phúc địa 1 Cấp phúc địa hạng nhất chiếm lĩnh 4
+82035; Vượt phục phúc địa 1 Cấp phúc địa hạng nhất chiếm lĩnh 5
+82036; Vượt phục phúc địa 1 Cấp phúc địa hạng nhất chiếm lĩnh 6
+82037; Vượt phục phúc địa 1 Cấp phúc địa hạng nhất chiếm lĩnh 7
+82038; Vượt phục phúc địa 1 Cấp phúc địa hạng nhất chiếm lĩnh 8
+82039; Vượt phục phúc địa 1 Cấp phúc địa hạng nhất chiếm lĩnh 9
+82040; Vượt phục phúc địa 1 Cấp phúc địa hạng nhất chiếm lĩnh 10
+82041; Vượt phục phúc địa 1 Cấp phúc địa hạng nhất chiếm lĩnh 11
+82042; Vượt phục phúc địa 1 Cấp phúc địa hạng nhất chiếm lĩnh 12
+82043; Vượt phục phúc địa 1 Cấp phúc địa hạng nhất chiếm lĩnh 13
+82044; Vượt phục phúc địa 1 Cấp phúc địa hạng nhất chiếm lĩnh 14
+82045; Vượt phục phúc địa 1 Cấp phúc địa hạng nhất chiếm lĩnh 15
+82046; Vượt phục phúc địa 1 Cấp phúc địa hạng nhất chiếm lĩnh 16
+82047; Vượt phục phúc địa 1 Cấp phúc địa hạng nhất chiếm lĩnh 17
+82048; Vượt phục phúc địa 1 Cấp phúc địa hạng nhất chiếm lĩnh 18
+82049; Vượt phục phúc địa 1 Cấp phúc địa hạng nhất chiếm lĩnh 19
+82050; Vượt phục phúc địa 1 Cấp phúc địa hạng nhất chiếm lĩnh 20
+82051; Vượt phục phúc địa 1 Cấp phúc địa hạng nhất chiếm lĩnh 21
+82052; Vượt phục phúc địa 1 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 1
+82053; Vượt phục phúc địa 1 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 2
+82054; Vượt phục phúc địa 1 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 3
+82055; Vượt phục phúc địa 1 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 4
+82056; Vượt phục phúc địa 1 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 5
+82057; Vượt phục phúc địa 1 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 6
+82058; Vượt phục phúc địa 1 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 7
+82059; Vượt phục phúc địa 1 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 8
+82060; Vượt phục phúc địa 1 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 9
+82061; Vượt phục phúc địa 1 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 10
+82062; Vượt phục phúc địa 1 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 11
+82063; Vượt phục phúc địa 1 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 12
+82064; Vượt phục phúc địa 1 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 13
+82065; Vượt phục phúc địa 1 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 14
+82066; Vượt phục phúc địa 1 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 15
+82067; Vượt phục phúc địa 1 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 16
+82068; Vượt phục phúc địa 1 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 17
+82069; Vượt phục phúc địa 1 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 18
+82070; Vượt phục phúc địa 1 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 19
+82071; Vượt phục phúc địa 1 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 20
+82072; Vượt phục phúc địa 1 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 21
+82073; Vượt phục phúc địa 1 Cấp phúc địa thứ 6 Tên chiếm lĩnh 1
+82074; Vượt phục phúc địa 1 Cấp phúc địa thứ 6 Tên chiếm lĩnh 2
+82075; Vượt phục phúc địa 1 Cấp phúc địa thứ 6 Tên chiếm lĩnh 3
+82076; Vượt phục phúc địa 1 Cấp phúc địa thứ 6 Tên chiếm lĩnh 4
+82077; Vượt phục phúc địa 1 Cấp phúc địa thứ 6 Tên chiếm lĩnh 5
+82078; Vượt phục phúc địa 1 Cấp phúc địa thứ 6 Tên chiếm lĩnh 6
+82079; Vượt phục phúc địa 1 Cấp phúc địa thứ 6 Tên chiếm lĩnh 7
+82080; Vượt phục phúc địa 1 Cấp phúc địa thứ 6 Tên chiếm lĩnh 8
+82081; Vượt phục phúc địa 1 Cấp phúc địa thứ 6 Tên chiếm lĩnh 9
+82082; Vượt phục phúc địa 1 Cấp phúc địa thứ 6 Tên chiếm lĩnh 10
+82083; Vượt phục phúc địa 1 Cấp phúc địa thứ 6 Tên chiếm lĩnh 11
+82084; Vượt phục phúc địa 1 Cấp phúc địa thứ 6 Tên chiếm lĩnh 12
+82085; Vượt phục phúc địa 1 Cấp phúc địa thứ 6 Tên chiếm lĩnh 13
+82086; Vượt phục phúc địa 1 Cấp phúc địa thứ 6 Tên chiếm lĩnh 14
+82087; Vượt phục phúc địa 1 Cấp phúc địa thứ 6 Tên chiếm lĩnh 15
+82088; Vượt phục phúc địa 1 Cấp phúc địa thứ 6 Tên chiếm lĩnh 16
+82089; Vượt phục phúc địa 1 Cấp phúc địa thứ 6 Tên chiếm lĩnh 17
+82090; Vượt phục phúc địa 1 Cấp phúc địa thứ 6 Tên chiếm lĩnh 18
+82091; Vượt phục phúc địa 1 Cấp phúc địa thứ 6 Tên chiếm lĩnh 19
+82092; Vượt phục phúc địa 1 Cấp phúc địa thứ 6 Tên chiếm lĩnh 20
+82093; Vượt phục phúc địa 1 Cấp phúc địa thứ 6 Tên chiếm lĩnh 21
+82094; Vượt phục phúc địa 2 Cấp phúc địa hạng nhất chiếm lĩnh 1
+82095; Vượt phục phúc địa 2 Cấp phúc địa hạng nhất chiếm lĩnh 2
+82096; Vượt phục phúc địa 2 Cấp phúc địa hạng nhất chiếm lĩnh 3
+82097; Vượt phục phúc địa 2 Cấp phúc địa hạng nhất chiếm lĩnh 4
+82098; Vượt phục phúc địa 2 Cấp phúc địa hạng nhất chiếm lĩnh 5
+82099; Vượt phục phúc địa 2 Cấp phúc địa hạng nhất chiếm lĩnh 6
+82100; Vượt phục phúc địa 2 Cấp phúc địa hạng nhất chiếm lĩnh 7
+82101; Vượt phục phúc địa 2 Cấp phúc địa hạng nhất chiếm lĩnh 8
+82102; Vượt phục phúc địa 2 Cấp phúc địa hạng nhất chiếm lĩnh 9
+82103; Vượt phục phúc địa 2 Cấp phúc địa hạng nhất chiếm lĩnh 10
+82104; Vượt phục phúc địa 2 Cấp phúc địa hạng nhất chiếm lĩnh 11
+82105; Vượt phục phúc địa 2 Cấp phúc địa hạng nhất chiếm lĩnh 12
+82106; Vượt phục phúc địa 2 Cấp phúc địa hạng nhất chiếm lĩnh 13
+82107; Vượt phục phúc địa 2 Cấp phúc địa hạng nhất chiếm lĩnh 14
+82108; Vượt phục phúc địa 2 Cấp phúc địa hạng nhất chiếm lĩnh 15
+82109; Vượt phục phúc địa 2 Cấp phúc địa hạng nhất chiếm lĩnh 16
+82110; Vượt phục phúc địa 2 Cấp phúc địa hạng nhất chiếm lĩnh 17
+82111; Vượt phục phúc địa 2 Cấp phúc địa hạng nhất chiếm lĩnh 18
+82112; Vượt phục phúc địa 2 Cấp phúc địa hạng nhất chiếm lĩnh 19
+82113; Vượt phục phúc địa 2 Cấp phúc địa hạng nhất chiếm lĩnh 20
+82114; Vượt phục phúc địa 2 Cấp phúc địa hạng nhất chiếm lĩnh 21
+82115; Vượt phục phúc địa 2 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 1
+82116; Vượt phục phúc địa 2 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 2
+82117; Vượt phục phúc địa 2 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 3
+82118; Vượt phục phúc địa 2 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 4
+82119; Vượt phục phúc địa 2 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 5
+82120; Vượt phục phúc địa 2 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 6
+82121; Vượt phục phúc địa 2 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 7
+82122; Vượt phục phúc địa 2 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 8
+82123; Vượt phục phúc địa 2 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 9
+82124; Vượt phục phúc địa 2 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 10
+82125; Vượt phục phúc địa 2 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 11
+82126; Vượt phục phúc địa 2 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 12
+82127; Vượt phục phúc địa 2 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 13
+82128; Vượt phục phúc địa 2 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 14
+82129; Vượt phục phúc địa 2 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 15
+82130; Vượt phục phúc địa 2 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 16
+82131; Vượt phục phúc địa 2 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 17
+82132; Vượt phục phúc địa 2 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 18
+82133; Vượt phục phúc địa 2 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 19
+82134; Vượt phục phúc địa 2 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 20
+82135; Vượt phục phúc địa 2 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 21
+82136; Vượt phục phúc địa 2 Cấp phúc địa thứ 6 Tên chiếm lĩnh 1
+82137; Vượt phục phúc địa 2 Cấp phúc địa thứ 6 Tên chiếm lĩnh 2
+82138; Vượt phục phúc địa 2 Cấp phúc địa thứ 6 Tên chiếm lĩnh 3
+82139; Vượt phục phúc địa 2 Cấp phúc địa thứ 6 Tên chiếm lĩnh 4
+82140; Vượt phục phúc địa 2 Cấp phúc địa thứ 6 Tên chiếm lĩnh 5
+82141; Vượt phục phúc địa 2 Cấp phúc địa thứ 6 Tên chiếm lĩnh 6
+82142; Vượt phục phúc địa 2 Cấp phúc địa thứ 6 Tên chiếm lĩnh 7
+82143; Vượt phục phúc địa 2 Cấp phúc địa thứ 6 Tên chiếm lĩnh 8
+82144; Vượt phục phúc địa 2 Cấp phúc địa thứ 6 Tên chiếm lĩnh 9
+82145; Vượt phục phúc địa 2 Cấp phúc địa thứ 6 Tên chiếm lĩnh 10
+82146; Vượt phục phúc địa 2 Cấp phúc địa thứ 6 Tên chiếm lĩnh 11
+82147; Vượt phục phúc địa 2 Cấp phúc địa thứ 6 Tên chiếm lĩnh 12
+82148; Vượt phục phúc địa 2 Cấp phúc địa thứ 6 Tên chiếm lĩnh 13
+82149; Vượt phục phúc địa 2 Cấp phúc địa thứ 6 Tên chiếm lĩnh 14
+82150; Vượt phục phúc địa 2 Cấp phúc địa thứ 6 Tên chiếm lĩnh 15
+82151; Vượt phục phúc địa 2 Cấp phúc địa thứ 6 Tên chiếm lĩnh 16
+82152; Vượt phục phúc địa 2 Cấp phúc địa thứ 6 Tên chiếm lĩnh 17
+82153; Vượt phục phúc địa 2 Cấp phúc địa thứ 6 Tên chiếm lĩnh 18
+82154; Vượt phục phúc địa 2 Cấp phúc địa thứ 6 Tên chiếm lĩnh 19
+82155; Vượt phục phúc địa 2 Cấp phúc địa thứ 6 Tên chiếm lĩnh 20
+82156; Vượt phục phúc địa 2 Cấp phúc địa thứ 6 Tên chiếm lĩnh 21
+82157; Vượt phục phúc địa 3 Cấp phúc địa hạng nhất chiếm lĩnh 1
+82158; Vượt phục phúc địa 3 Cấp phúc địa hạng nhất chiếm lĩnh 2
+82159; Vượt phục phúc địa 3 Cấp phúc địa hạng nhất chiếm lĩnh 3
+82160; Vượt phục phúc địa 3 Cấp phúc địa hạng nhất chiếm lĩnh 4
+82161; Vượt phục phúc địa 3 Cấp phúc địa hạng nhất chiếm lĩnh 5
+82162; Vượt phục phúc địa 3 Cấp phúc địa hạng nhất chiếm lĩnh 6
+82163; Vượt phục phúc địa 3 Cấp phúc địa hạng nhất chiếm lĩnh 7
+82164; Vượt phục phúc địa 3 Cấp phúc địa hạng nhất chiếm lĩnh 8
+82165; Vượt phục phúc địa 3 Cấp phúc địa hạng nhất chiếm lĩnh 9
+82166; Vượt phục phúc địa 3 Cấp phúc địa hạng nhất chiếm lĩnh 10
+82167; Vượt phục phúc địa 3 Cấp phúc địa hạng nhất chiếm lĩnh 11
+82168; Vượt phục phúc địa 3 Cấp phúc địa hạng nhất chiếm lĩnh 12
+82169; Vượt phục phúc địa 3 Cấp phúc địa hạng nhất chiếm lĩnh 13
+82170; Vượt phục phúc địa 3 Cấp phúc địa hạng nhất chiếm lĩnh 14
+82171; Vượt phục phúc địa 3 Cấp phúc địa hạng nhất chiếm lĩnh 15
+82172; Vượt phục phúc địa 3 Cấp phúc địa hạng nhất chiếm lĩnh 16
+82173; Vượt phục phúc địa 3 Cấp phúc địa hạng nhất chiếm lĩnh 17
+82174; Vượt phục phúc địa 3 Cấp phúc địa hạng nhất chiếm lĩnh 18
+82175; Vượt phục phúc địa 3 Cấp phúc địa hạng nhất chiếm lĩnh 19
+82176; Vượt phục phúc địa 3 Cấp phúc địa hạng nhất chiếm lĩnh 20
+82177; Vượt phục phúc địa 3 Cấp phúc địa hạng nhất chiếm lĩnh 21
+82178; Vượt phục phúc địa 3 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 1
+82179; Vượt phục phúc địa 3 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 2
+82180; Vượt phục phúc địa 3 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 3
+82181; Vượt phục phúc địa 3 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 4
+82182; Vượt phục phúc địa 3 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 5
+82183; Vượt phục phúc địa 3 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 6
+82184; Vượt phục phúc địa 3 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 7
+82185; Vượt phục phúc địa 3 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 8
+82186; Vượt phục phúc địa 3 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 9
+82187; Vượt phục phúc địa 3 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 10
+82188; Vượt phục phúc địa 3 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 11
+82189; Vượt phục phúc địa 3 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 12
+82190; Vượt phục phúc địa 3 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 13
+82191; Vượt phục phúc địa 3 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 14
+82192; Vượt phục phúc địa 3 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 15
+82193; Vượt phục phúc địa 3 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 16
+82194; Vượt phục phúc địa 3 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 17
+82195; Vượt phục phúc địa 3 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 18
+82196; Vượt phục phúc địa 3 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 19
+82197; Vượt phục phúc địa 3 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 20
+82198; Vượt phục phúc địa 3 Cấp phúc địa thứ 2-5 Tên chiếm lĩnh 21
+82199; Vượt phục phúc địa 3 Cấp phúc địa thứ 6 Tên chiếm lĩnh 1
+82200; Vượt phục phúc địa 3 Cấp phúc địa thứ 6 Tên chiếm lĩnh 2
+82201; Vượt phục phúc địa 3 Cấp phúc địa thứ 6 Tên chiếm lĩnh 3
+82202; Vượt phục phúc địa 3 Cấp phúc địa thứ 6 Tên chiếm lĩnh 4
+82203; Vượt phục phúc địa 3 Cấp phúc địa thứ 6 Tên chiếm lĩnh 5
+82204; Vượt phục phúc địa 3 Cấp phúc địa thứ 6 Tên chiếm lĩnh 6
+82205; Vượt phục phúc địa 3 Cấp phúc địa thứ 6 Tên chiếm lĩnh 7
+82206; Vượt phục phúc địa 3 Cấp phúc địa thứ 6 Tên chiếm lĩnh 8
+82207; Vượt phục phúc địa 3 Cấp phúc địa thứ 6 Tên chiếm lĩnh 9
+82208; Vượt phục phúc địa 3 Cấp phúc địa thứ 6 Tên chiếm lĩnh 10
+82209; Vượt phục phúc địa 3 Cấp phúc địa thứ 6 Tên chiếm lĩnh 11
+82210; Vượt phục phúc địa 3 Cấp phúc địa thứ 6 Tên chiếm lĩnh 12
+82211; Vượt phục phúc địa 3 Cấp phúc địa thứ 6 Tên chiếm lĩnh 13
+82212; Vượt phục phúc địa 3 Cấp phúc địa thứ 6 Tên chiếm lĩnh 14
+82213; Vượt phục phúc địa 3 Cấp phúc địa thứ 6 Tên chiếm lĩnh 15
+82214; Vượt phục phúc địa 3 Cấp phúc địa thứ 6 Tên chiếm lĩnh 16
+82215; Vượt phục phúc địa 3 Cấp phúc địa thứ 6 Tên chiếm lĩnh 17
+82216; Vượt phục phúc địa 3 Cấp phúc địa thứ 6 Tên chiếm lĩnh 18
+82217; Vượt phục phúc địa 3 Cấp phúc địa thứ 6 Tên chiếm lĩnh 19
+82218; Vượt phục phúc địa 3 Cấp phúc địa thứ 6 Tên chiếm lĩnh 20
+82219; Vượt phục phúc địa 3 Cấp phúc địa thứ 6 Tên chiếm lĩnh 21
+82220; Phúc địa luận kiếm 8 Giai bảo rương nam
+82221; Phúc địa luận kiếm 7 Giai bảo rương nam
+82222; Phúc địa luận kiếm 6 Giai bảo rương nam
+82223; Phúc địa luận kiếm 8 Giai bảo rương nữ
+82224; Phúc địa luận kiếm 7 Giai bảo rương nữ
+82225; Phúc địa luận kiếm 6 Giai bảo rương nữ
+82226;( Mới ) Nam - Thánh ấn 30-26 Bảo rương rơi xuống tổ
+82227;( Mới ) Nam - Thánh ấn 29-25 Bảo rương rơi xuống tổ
+82228;( Mới ) Nam - Thánh ấn 28-24 Bảo rương rơi xuống tổ
+82229;( Mới ) Nam - Thánh ấn 27-23 Bảo rương rơi xuống tổ
+82230;( Mới ) Nam - Thánh ấn 26-22 Bảo rương rơi xuống tổ
+82231;( Mới ) Nam - Thánh ấn 25-21 Bảo rương rơi xuống tổ
+82232;( Mới ) Nam - Thánh ấn 24-20 Bảo rương rơi xuống tổ
+82233;( Mới ) Nam - Thánh ấn 23-19 Bảo rương rơi xuống tổ
+82234;( Mới ) Nam - Thánh ấn 22-18 Bảo rương rơi xuống tổ
+82235;( Mới ) Nam - Thánh ấn 21-17 Bảo rương rơi xuống tổ
+82236;( Mới ) Nam - Thánh ấn 20-16 Bảo rương rơi xuống tổ
+82237;( Mới ) Nam - Thánh ấn 19-15 Bảo rương rơi xuống tổ
+82238;( Mới ) Nam - Thánh ấn 18-14 Bảo rương rơi xuống tổ
+82239;( Mới ) Nam - Thánh ấn 17-13 Bảo rương rơi xuống tổ
+82240;( Mới ) Nam - Thánh ấn 16-12 Bảo rương rơi xuống tổ
+82241;( Mới ) Nam - Thánh ấn 12-10 Bảo rương rơi xuống tổ
+82242;( Mới ) Nam - Thánh ấn 10-7 Bảo rương rơi xuống tổ
+82243;( Mới ) Nam - Thánh ấn 7-4 Bảo rương rơi xuống tổ
+82244;( Mới ) Nữ - Thánh ấn 30-26 Bảo rương rơi xuống tổ
+82245;( Mới ) Nữ - Thánh ấn 29-25 Bảo rương rơi xuống tổ
+82246;( Mới ) Nữ - Thánh ấn 28-24 Bảo rương rơi xuống tổ
+82247;( Mới ) Nữ - Thánh ấn 27-23 Bảo rương rơi xuống tổ
+82248;( Mới ) Nữ - Thánh ấn 26-22 Bảo rương rơi xuống tổ
+82249;( Mới ) Nữ - Thánh ấn 25-21 Bảo rương rơi xuống tổ
+82250;( Mới ) Nữ - Thánh ấn 24-20 Bảo rương rơi xuống tổ
+82251;( Mới ) Nữ - Thánh ấn 23-19 Bảo rương rơi xuống tổ
+82252;( Mới ) Nữ - Thánh ấn 22-18 Bảo rương rơi xuống tổ
+82253;( Mới ) Nữ - Thánh ấn 21-17 Bảo rương rơi xuống tổ
+82254;( Mới ) Nữ - Thánh ấn 20-16 Bảo rương rơi xuống tổ
+82255;( Mới ) Nữ - Thánh ấn 19-15 Bảo rương rơi xuống tổ
+82256;( Mới ) Nữ - Thánh ấn 18-14 Bảo rương rơi xuống tổ
+82257;( Mới ) Nữ - Thánh ấn 17-13 Bảo rương rơi xuống tổ
+82258;( Mới ) Nữ - Thánh ấn 16-12 Bảo rương rơi xuống tổ
+82259;( Mới ) Nữ - Thánh ấn 12-10 Bảo rương rơi xuống tổ
+82260;( Mới ) Nữ - Thánh ấn 10-7 Bảo rương rơi xuống tổ
+82261;( Mới ) Nữ - Thánh ấn 7-4 Bảo rương rơi xuống tổ
+82262;( Mới ) Nam - Linh ấn 30-26 Bảo rương rơi xuống tổ
+82263;( Mới ) Nam - Linh ấn 29-25 Bảo rương rơi xuống tổ
+82264;( Mới ) Nam - Linh ấn 28-24 Bảo rương rơi xuống tổ
+82265;( Mới ) Nam - Linh ấn 27-23 Bảo rương rơi xuống tổ
+82266;( Mới ) Nam - Linh ấn 26-22 Bảo rương rơi xuống tổ
+82267;( Mới ) Nam - Linh ấn 25-21 Bảo rương rơi xuống tổ
+82268;( Mới ) Nam - Linh ấn 24-20 Bảo rương rơi xuống tổ
+82269;( Mới ) Nam - Linh ấn 23-19 Bảo rương rơi xuống tổ
+82270;( Mới ) Nam - Linh ấn 22-18 Bảo rương rơi xuống tổ
+82271;( Mới ) Nam - Linh ấn 21-17 Bảo rương rơi xuống tổ
+82272;( Mới ) Nam - Linh ấn 20-16 Bảo rương rơi xuống tổ
+82273;( Mới ) Nam - Linh ấn 19-15 Bảo rương rơi xuống tổ
+82274;( Mới ) Nam - Linh ấn 18-14 Bảo rương rơi xuống tổ
+82275;( Mới ) Nam - Linh ấn 17-13 Bảo rương rơi xuống tổ
+82276;( Mới ) Nam - Linh ấn 16-12 Bảo rương rơi xuống tổ
+82277;( Mới ) Nam - Linh ấn 12-10 Bảo rương rơi xuống tổ
+82278;( Mới ) Nam - Linh ấn 10-7 Bảo rương rơi xuống tổ
+82279;( Mới ) Nam - Linh ấn 7-4 Bảo rương rơi xuống tổ
+82280;( Mới ) Nữ - Linh ấn 30-26 Bảo rương rơi xuống tổ
+82281;( Mới ) Nữ - Linh ấn 29-25 Bảo rương rơi xuống tổ
+82282;( Mới ) Nữ - Linh ấn 28-24 Bảo rương rơi xuống tổ
+82283;( Mới ) Nữ - Linh ấn 27-23 Bảo rương rơi xuống tổ
+82284;( Mới ) Nữ - Linh ấn 26-22 Bảo rương rơi xuống tổ
+82285;( Mới ) Nữ - Linh ấn 25-21 Bảo rương rơi xuống tổ
+82286;( Mới ) Nữ - Linh ấn 24-20 Bảo rương rơi xuống tổ
+82287;( Mới ) Nữ - Linh ấn 23-19 Bảo rương rơi xuống tổ
+82288;( Mới ) Nữ - Linh ấn 22-18 Bảo rương rơi xuống tổ
+82289;( Mới ) Nữ - Linh ấn 21-17 Bảo rương rơi xuống tổ
+82290;( Mới ) Nữ - Linh ấn 20-16 Bảo rương rơi xuống tổ
+82291;( Mới ) Nữ - Linh ấn 19-15 Bảo rương rơi xuống tổ
+82292;( Mới ) Nữ - Linh ấn 18-14 Bảo rương rơi xuống tổ
+82293;( Mới ) Nữ - Linh ấn 17-13 Bảo rương rơi xuống tổ
+82294;( Mới ) Nữ - Linh ấn 16-12 Bảo rương rơi xuống tổ
+82295;( Mới ) Nữ - Linh ấn 12-10 Bảo rương rơi xuống tổ
+82296;( Mới ) Nữ - Linh ấn 10-7 Bảo rương rơi xuống tổ
+82297;( Mới ) Nữ - Linh ấn 7-4 Bảo rương rơi xuống tổ
+82298;( Mới ) Nam - Ma ấn 30-26 Bảo rương rơi xuống tổ
+82299;( Mới ) Nam - Ma ấn 29-25 Bảo rương rơi xuống tổ
+82300;( Mới ) Nam - Ma ấn 28-24 Bảo rương rơi xuống tổ
+82301;( Mới ) Nam - Ma ấn 27-23 Bảo rương rơi xuống tổ
+82302;( Mới ) Nam - Ma ấn 26-22 Bảo rương rơi xuống tổ
+82303;( Mới ) Nam - Ma ấn 25-21 Bảo rương rơi xuống tổ
+82304;( Mới ) Nam - Ma ấn 24-20 Bảo rương rơi xuống tổ
+82305;( Mới ) Nam - Ma ấn 23-19 Bảo rương rơi xuống tổ
+82306;( Mới ) Nam - Ma ấn 22-18 Bảo rương rơi xuống tổ
+82307;( Mới ) Nam - Ma ấn 21-17 Bảo rương rơi xuống tổ
+82308;( Mới ) Nam - Ma ấn 20-16 Bảo rương rơi xuống tổ
+82309;( Mới ) Nam - Ma ấn 19-15 Bảo rương rơi xuống tổ
+82310;( Mới ) Nam - Ma ấn 18-14 Bảo rương rơi xuống tổ
+82311;( Mới ) Nam - Ma ấn 17-13 Bảo rương rơi xuống tổ
+82312;( Mới ) Nam - Ma ấn 16-12 Bảo rương rơi xuống tổ
+82313;( Mới ) Nam - Ma ấn 12-10 Bảo rương rơi xuống tổ
+82314;( Mới ) Nam - Ma ấn 10-7 Bảo rương rơi xuống tổ
+82315;( Mới ) Nam - Ma ấn 7-4 Bảo rương rơi xuống tổ
+82316;( Mới ) Nữ - Ma ấn 30-26 Bảo rương rơi xuống tổ
+82317;( Mới ) Nữ - Ma ấn 29-25 Bảo rương rơi xuống tổ
+82318;( Mới ) Nữ - Ma ấn 28-24 Bảo rương rơi xuống tổ
+82319;( Mới ) Nữ - Ma ấn 27-23 Bảo rương rơi xuống tổ
+82320;( Mới ) Nữ - Ma ấn 26-22 Bảo rương rơi xuống tổ
+82321;( Mới ) Nữ - Ma ấn 25-21 Bảo rương rơi xuống tổ
+82322;( Mới ) Nữ - Ma ấn 24-20 Bảo rương rơi xuống tổ
+82323;( Mới ) Nữ - Ma ấn 23-19 Bảo rương rơi xuống tổ
+82324;( Mới ) Nữ - Ma ấn 22-18 Bảo rương rơi xuống tổ
+82325;( Mới ) Nữ - Ma ấn 21-17 Bảo rương rơi xuống tổ
+82326;( Mới ) Nữ - Ma ấn 20-16 Bảo rương rơi xuống tổ
+82327;( Mới ) Nữ - Ma ấn 19-15 Bảo rương rơi xuống tổ
+82328;( Mới ) Nữ - Ma ấn 18-14 Bảo rương rơi xuống tổ
+82329;( Mới ) Nữ - Ma ấn 17-13 Bảo rương rơi xuống tổ
+82330;( Mới ) Nữ - Ma ấn 16-12 Bảo rương rơi xuống tổ
+82331;( Mới ) Nữ - Ma ấn 12-10 Bảo rương rơi xuống tổ
+82332;( Mới ) Nữ - Ma ấn 10-7 Bảo rương rơi xuống tổ
+82333;( Mới ) Nữ - Ma ấn 7-4 Bảo rương rơi xuống tổ
+82334;( Mới ) Nữ - Ma ấn 10-7 Bảo rương rơi xuống tổ
+82335;( Mới ) Nữ - Ma ấn 7-4 Bảo rương rơi xuống tổ
+82336; Nam - Ma ấn 19 Cấp (19_12) Bảo rương
+82337; Nam - Ma ấn 18 Cấp (18_11) Bảo rương
+82338; Nam - Ma ấn 17 Cấp (17_10) Bảo rương
+82339; Nam - Ma ấn 16 Cấp (16_9) Bảo rương
+82340; Nam - Ma ấn 15 Cấp (15_8) Bảo rương
+82341; Nam - Ma ấn 14 Cấp (14_7) Bảo rương
+82342; Nam - Ma ấn 13 Cấp (13_6) Bảo rương
+82343; Nam - Ma ấn 11 Cấp (11_4) Bảo rương
+82344; Nam - Ma ấn 10 Cấp (10_4) Bảo rương
+82345; Nam - Ma ấn 9 Cấp (9_4) Bảo rương
+82346; Nam - Ma ấn 7 Cấp (7_4) Bảo rương
+82347; Nam - Ma ấn 6 Cấp (6_3) Bảo rương
+82348; Nam - Ma ấn 5 Cấp (5_2) Bảo rương
+82349; Nam - Ma ấn 4 Cấp (4_1) Bảo rương
+82350; Nam - Ma ấn 3 Cấp (3_1) Bảo rương
+82351; Nữ - Ma ấn 29 Cấp (29_22) Bảo rương
+82352; Nữ - Ma ấn 28 Cấp (28_21) Bảo rương
+82353; Nữ - Ma ấn 27 Cấp (27_20) Bảo rương
+82354; Nữ - Ma ấn 26 Cấp (26_19) Bảo rương
+82355; Nữ - Ma ấn 25 Cấp (25_18) Bảo rương
+82356; Nữ - Ma ấn 24 Cấp (24_17) Bảo rương
+82357; Nữ - Ma ấn 23 Cấp (23_16) Bảo rương
+82358; Nữ - Ma ấn 22 Cấp (22_15) Bảo rương
+82359; Nữ - Ma ấn 21 Cấp (21_14) Bảo rương
+82360; Nữ - Ma ấn 20 Cấp (20_13) Bảo rương
+82361; Nữ - Ma ấn 19 Cấp (19_12) Bảo rương
+82362; Nữ - Ma ấn 18 Cấp (18_11) Bảo rương
+82363; Nữ - Ma ấn 17 Cấp (17_10) Bảo rương
+82364; Nữ - Ma ấn 16 Cấp (16_9) Bảo rương
+82365; Nữ - Ma ấn 15 Cấp (15_8) Bảo rương
+82366; Nữ - Ma ấn 14 Cấp (14_7) Bảo rương
+82367; Nữ - Ma ấn 13 Cấp (13_6) Bảo rương
+82368; Nữ - Ma ấn 11 Cấp (11_4) Bảo rương
+82369; Nữ - Ma ấn 10 Cấp (10_4) Bảo rương
+82370; Nữ - Ma ấn 9 Cấp (9_4) Bảo rương
+82371; Nữ - Ma ấn 7 Cấp (7_4) Bảo rương
+82372; Nữ - Ma ấn 6 Cấp (6_3) Bảo rương
+82373; Nữ - Ma ấn 5 Cấp (5_2) Bảo rương
+82374; Nữ - Ma ấn 4 Cấp (4_1) Bảo rương
+82375; Nữ - Ma ấn 3 Cấp (3_1) Bảo rương
+82376; Vượt phục phúc địa điểm tích lũy bảo rương 1000
+82377; Vượt phục phúc địa điểm tích lũy bảo rương 5000
+82378; Vượt phục phúc địa điểm tích lũy bảo rương 11000
+82379; Vượt phục phúc địa điểm tích lũy bảo rương 18000
+82380; Vượt phục phúc địa điểm tích lũy bảo rương 27000
+82381; Vượt phục phúc địa điểm tích lũy bảo rương 36000
+82382; Vượt phục phúc địa điểm tích lũy bảo rương 45000
+82383; Vượt phục phúc địa điểm tích lũy bảo rương 54000
+82384; Tọa kỵ mạch luân -3 Giai kim sắc bảo rương
+82385; Tọa kỵ mạch luân -4 Giai kim sắc bảo rương
+82386; Tọa kỵ mạch luân -5 Giai kim sắc bảo rương
+82387; Tọa kỵ mạch luân -6 Giai kim sắc bảo rương
+82388; Tọa kỵ mạch luân -7 Giai kim sắc bảo rương
+82389; Tọa kỵ mạch luân -8 Giai kim sắc bảo rương
+82390; Tọa kỵ mạch luân -9 Giai kim sắc bảo rương
+82391; Tọa kỵ mạch luân -8 Giai màu đỏ bảo rương
+82392; Tọa kỵ mạch luân -9 Giai màu đỏ bảo rương
+82393; Tọa kỵ mạch luân - Tọa kỵ thăng Linh Bảo rương
+82394; Màu đỏ linh phách tự do rương 1
+82395; Màu đỏ linh phách tự do rương 2
+82396; Ma Chủ ma hồn tự do rương
+82397; Kim sắc ma hồn trang bị ngẫu nhiên rương
+82398; Tử sắc ma hồn trang bị ngẫu nhiên rương
+82399; Màu lam ma hồn trang bị ngẫu nhiên rương
+82400;1 Cấp bảo thạch ngẫu nhiên bảo rương
+83001; Trời hư vượt phục boss260 Cấp xếp hạng bảo rương
+83002; Trời hư vượt phục boss300 Cấp xếp hạng bảo rương
+83003; Trời hư vượt phục boss340 Cấp xếp hạng bảo rương
+83004; Trời hư vượt phục boss370 Cấp xếp hạng bảo rương
+83005; Trời hư vượt phục boss420 Cấp xếp hạng bảo rương
+83006; Trời hư vượt phục boss480 Cấp xếp hạng bảo rương
+83007; Trời hư vượt phục boss540 Cấp xếp hạng bảo rương
+83008; Trời hư vượt phục boss600 Cấp xếp hạng bảo rương
+83009; Trời hư vượt phục boss650 Cấp xếp hạng bảo rương
+83010; Trời hư vượt phục boss260 Cấp tham dự bảo rương
+83011; Trời hư vượt phục boss300 Cấp tham dự bảo rương
+83012; Trời hư vượt phục boss340 Cấp tham dự bảo rương
+83013; Trời hư vượt phục boss370 Cấp tham dự bảo rương
+83014; Trời hư vượt phục boss420 Cấp tham dự bảo rương
+83015; Trời hư vượt phục boss480 Cấp tham dự bảo rương
+83016; Trời hư vượt phục boss540 Cấp tham dự bảo rương
+83017; Trời hư vượt phục boss600 Cấp tham dự bảo rương
+83018; Trời hư vượt phục boss650 Cấp tham dự bảo rương
+83019; Trời hư vượt phục tiểu quái 260 Cấp tham dự bảo rương
+83020; Trời hư vượt phục tiểu quái 300 Cấp tham dự bảo rương
+83021; Trời hư vượt phục tiểu quái 340 Cấp tham dự bảo rương
+83022; Trời hư vượt phục tiểu quái 370 Cấp tham dự bảo rương
+83023; Trời hư vượt phục tiểu quái 420 Cấp tham dự bảo rương
+83024; Trời hư vượt phục tiểu quái 480 Cấp tham dự bảo rương
+83025; Trời hư vượt phục tiểu quái 540 Cấp tham dự bảo rương
+83026; Trời hư vượt phục tiểu quái 600 Cấp tham dự bảo rương
+83027; Trời hư vượt phục tiểu quái 650 Cấp tham dự bảo rương
+83028; Trời hư bản phục boss260 Cấp xếp hạng bảo rương
+83029; Trời hư bản phục boss300 Cấp xếp hạng bảo rương
+83030; Trời hư bản phục boss340 Cấp xếp hạng bảo rương
+83031; Trời hư bản phục boss370 Cấp xếp hạng bảo rương
+83032; Trời hư bản phục boss420 Cấp xếp hạng bảo rương
+83033; Trời hư bản phục boss480 Cấp xếp hạng bảo rương
+83034; Trời hư bản phục boss540 Cấp xếp hạng bảo rương
+83035; Trời hư bản phục boss600 Cấp xếp hạng bảo rương
+83036; Trời hư bản phục boss650 Cấp xếp hạng bảo rương
+83037; Thánh trang 8 Giai nam quần áo bảo rương
+83038; Thánh trang 8 Giai nam đồ trang sức bảo rương
+83039; Thánh trang 8 Giai nam đấu tâm bảo rương
+83040; Thánh trang 12 Giai nam quần áo bảo rương
+83041; Thánh trang 12 Giai nam đồ trang sức bảo rương
+83042; Thánh trang 12 Giai nam đấu tâm bảo rương
+83043; Thánh trang 8 Giai nữ quần áo bảo rương
+83044; Thánh trang 8 Giai nữ đồ trang sức bảo rương
+83045; Thánh trang 8 Giai nữ đấu tâm bảo rương
+83046; Thánh trang 12 Giai nữ quần áo bảo rương
+83047; Thánh trang 12 Giai nữ đồ trang sức bảo rương
+83048; Thánh trang 12 Giai nữ đấu tâm bảo rương
+83049;10 Giai ( Lệch ) Nam quần áo
+83050;10 Giai ( Lệch ) Nam đồ trang sức
+83051;10 Giai ( Lệch ) Nam đấu tâm
+83052;10 Giai ( Lệch ) Nữ quần áo
+83053;10 Giai ( Lệch ) Nữ đồ trang sức
+83054;10 Giai ( Lệch ) Nữ đấu tâm
+83055;12 Giai ( Lệch ) Nam quần áo
+83056;12 Giai ( Lệch ) Nam đồ trang sức
+83057;12 Giai ( Lệch ) Nam đấu tâm
+83058;12 Giai ( Lệch ) Nữ quần áo
+83059;12 Giai ( Lệch ) Nữ đồ trang sức
+83060;12 Giai ( Lệch ) Nữ đấu tâm
+83061;14 Giai ( Lệch ) Nam quần áo
+83062;14 Giai ( Lệch ) Nam đồ trang sức
+83063;14 Giai ( Lệch ) Nam đấu tâm
+83064;14 Giai ( Lệch ) Nữ quần áo
+83065;14 Giai ( Lệch ) Nữ đồ trang sức
+83066;14 Giai ( Lệch ) Nữ đấu tâm
+83067;16 Giai ( Lệch ) Nam quần áo
+83068;16 Giai ( Lệch ) Nam đồ trang sức
+83069;16 Giai ( Lệch ) Nam đấu tâm
+83070;16 Giai ( Lệch ) Nữ quần áo
+83071;16 Giai ( Lệch ) Nữ đồ trang sức
+83072;16 Giai ( Lệch ) Nữ đấu tâm
+83073; Huyền kiếm 8 Giai màu đỏ phách trang bảo rương
+83074; Trời anh 8 Giai màu đỏ phách trang bảo rương
+83075; Ngày lễ bảo rương -- Đăng nhập
+83076; Tết nguyên đán bảo rương --BOSS
+83077; Giáng Sinh bảo rương --BOSS
+83078; Song sáng - Tập chữ - Sơ cấp hối đoái bảo rương
+83079; Song sáng - Tập chữ - Trung cấp hối đoái bảo rương
+83080; Song sáng - Tập chữ - Cao cấp hối đoái bảo rương
+83081; Song sáng - Tập chữ - Vui hối đoái bảo rương
+83082; Thiên Lôi hồn trang tự do cái rương ( Nam )
+83083; Thiên Lôi hồn trang tự do cái rương ( Nữ )
+83084; Kim sắc sủng vật trang bị rương
+83085; Màu đỏ sủng vật trang bị rương
+83086; Hồn giáp cầu linh rút thưởng - Địa linh phù
+83087; Hồn giáp cầu linh rút thưởng - Thiên Linh Phù
+83088; Hồn giáp cầu linh rút thưởng - Thánh linh phù
+83089; Hồn ấn rèn luyện đạo cụ
+83090; Hồn ấn phân giải đạt được - Hồn ấn cường hóa dùng
+83091; Hồn giáp - Đột phá đạo cụ 1
+83092; Hồn giáp - Đột phá đạo cụ 2
+83093; Hồn giáp - Đột phá đạo cụ 3
+83094; Hồn giáp - Thức tỉnh đạo cụ
+83095; Hồn ấn hợp thành -- Đỏ thăng phấn tảng đá
+83096; Hồn ấn hợp thành -- Phấn thăng ám kim tảng đá
+83097; Hồn ấn hợp thành -- Ám kim thăng huyễn thải tảng đá
+83098; Hồn giáp kỹ năng thăng cấp sách - Bạo kích
+83099; Hồn giáp kỹ năng thăng cấp sách - Chảy máu
+83100; Hồn giáp kỹ năng thăng cấp sách - Phòng ngự
+83101; Hồn giáp kỹ năng thăng cấp sách - Giảm tổn thương
+83102; Hồn giáp kỹ năng thăng cấp sách - Hồi máu
+83103;51 Bảo rương --BOSS
+83104; Chư giới viễn chinh điểm tích lũy bảo rương
+83105;7 Giai thánh trang ngẫu nhiên cái rương ( Nam )
+83106;7 Giai thánh trang ngẫu nhiên cái rương ( Nữ )
+83107;7 Giai thánh trang tự do cái rương ( Nam )
+83108;7 Giai thánh trang tự do cái rương ( Nữ )
+83109; Tự do sáo trang rương đá tử ( Nam )
+83110; Tự do sáo trang rương đá tử ( Nữ )
+83111; Ngẫu nhiên kim sắc sủng vật trang bị
+83112; Ngẫu nhiên màu đỏ sủng vật trang bị
+83113; Ngẫu nhiên màu đỏ nhất tinh ( Đi đầu )
+83114; Màu đỏ nhất tinh tự do rương
+83115;9 Giai thánh trang ngẫu nhiên cái rương ( Nam )
+83116;9 Giai thánh trang ngẫu nhiên cái rương ( Nữ )
+83117;10 Giai thánh trang ngẫu nhiên cái rương ( Nam )
+83118;10 Giai thánh trang ngẫu nhiên cái rương ( Nữ )
+83119;10 Giai thánh trang tự do cái rương ( Nam )
+83120;10 Giai thánh trang tự do cái rương ( Nữ )
+83121;11 Giai thánh trang ngẫu nhiên cái rương ( Nam )
+83122;11 Giai thánh trang ngẫu nhiên cái rương ( Nữ )
+83123;12 Giai thánh trang ngẫu nhiên cái rương ( Nam )
+83124;12 Giai thánh trang ngẫu nhiên cái rương ( Nữ )
+83125;12 Giai thánh trang tự do cái rương ( Nam )
+83126;12 Giai thánh trang tự do cái rương ( Nữ )
+83127;15 Giai thánh trang ngẫu nhiên cái rương ( Nam )
+83128;15 Giai thánh trang ngẫu nhiên cái rương ( Nữ )
+83129;16 Giai thánh trang ngẫu nhiên cái rương ( Nam )
+83130;16 Giai thánh trang ngẫu nhiên cái rương ( Nữ )
+83131;16 Giai thánh trang tự do cái rương ( Nam )
+83132;16 Giai thánh trang tự do cái rương ( Nữ )
+83133;7 Giai thánh trang cao cấp tự do cái rương ( Nam )
+83134;7 Giai thánh trang cao cấp tự do cái rương ( Nữ )
+90001; Bài thi thủ tên ban thưởng xưng hào
+100001; Đã tính trước · Chủ đề
+100002; Đã tính trước · Bàn
+100003; Đã tính trước · Ghế dựa
+100004; Đã tính trước · Tủ
+100005; Đã tính trước · Bình phong
+100006; Đã tính trước · Giường
+100007; Đã tính trước · Đèn
+100008; Đã tính trước · Bình hoa
+100009; Nhà tranh vách đất · Chủ đề
+100010; Nhà tranh vách đất · Bàn
+100011; Nhà tranh vách đất · Ghế dựa
+100012; Nhà tranh vách đất · Tủ
+100013; Nhà tranh vách đất · Bình phong
+100014; Nhà tranh vách đất · Giường
+100015; Nhà tranh vách đất · Nến
+100016; Nhà tranh vách đất · Bình hoa
+100017; Tráng lệ · Chủ đề
+100018; Tráng lệ · Bàn
+100019; Tráng lệ · Ghế dựa
+100020; Tráng lệ · Tủ
+100021; Tráng lệ · Bình phong
+100022; Tráng lệ · Giường
+100023; Tráng lệ · Trang trí
+100024; Tráng lệ · Bình hoa
+100025; Lộng lẫy · Chủ đề
+100026; Lộng lẫy · Bàn
+100027; Lộng lẫy · Ghế dựa
+100028; Lộng lẫy · Tủ
+100029; Lộng lẫy · Bình phong
+100030; Lộng lẫy · Giường
+100031; Lộng lẫy · Trang trí
+100032; Lộng lẫy · Bình hoa
+100033; Rường cột chạm trổ · Chủ đề
+100034; Rường cột chạm trổ · Bàn
+100035; Rường cột chạm trổ · Ghế dựa
+100036; Rường cột chạm trổ · Tủ
+100037; Rường cột chạm trổ · Bình phong
+100038; Rường cột chạm trổ · Giường
+100039; Rường cột chạm trổ · Nến
+100040; Rường cột chạm trổ · Bình hoa
+100041; Bối khuyết châu cung · Chủ đề
+100042; Bối khuyết châu cung · Bàn
+100043; Bối khuyết châu cung · Ghế dựa
+100044; Bối khuyết châu cung · Băng ghế
+100045; Bối khuyết châu cung · Tủ
+100046; Bối khuyết châu cung · Bình phong
+100047; Bối khuyết châu cung · Giường
+100048; Bối khuyết châu cung · Trang trí
+100049; Bối khuyết châu cung · Bồn cây cảnh
+100050; Bối khuyết châu cung · Bình hoa
+3003001; Thần thú _ Mũ giáp _ Màu lam _0 Tinh
+3003002; Thần thú _ Vòng cổ _ Màu lam _0 Tinh
+3003003; Thần thú _ Áo giáp _ Màu lam _0 Tinh
+3003004; Thần thú _ Lợi trảo _ Màu lam _0 Tinh
+3003005; Thần thú _ Cánh chim _ Màu lam _0 Tinh
+3004001; Thần thú _ Mũ giáp _ Tử sắc _0 Tinh
+3004002; Thần thú _ Vòng cổ _ Tử sắc _0 Tinh
+3004003; Thần thú _ Áo giáp _ Tử sắc _0 Tinh
+3004004; Thần thú _ Lợi trảo _ Tử sắc _0 Tinh
+3004005; Thần thú _ Cánh chim _ Tử sắc _0 Tinh
+3006001; Thần thú _ Mũ giáp _ Kim sắc _0 Tinh
+3006002; Thần thú _ Vòng cổ _ Kim sắc _0 Tinh
+3006003; Thần thú _ Áo giáp _ Kim sắc _0 Tinh
+3006004; Thần thú _ Lợi trảo _ Kim sắc _0 Tinh
+3006005; Thần thú _ Cánh chim _ Kim sắc _0 Tinh
+3007101; Thần thú _ Mũ giáp _ Màu đỏ _1 Tinh
+3007102; Thần thú _ Vòng cổ _ Màu đỏ _1 Tinh
+3007103; Thần thú _ Áo giáp _ Màu đỏ _1 Tinh
+3007104; Thần thú _ Lợi trảo _ Màu đỏ _1 Tinh
+3007105; Thần thú _ Cánh chim _ Màu đỏ _1 Tinh
+3007201; Thần thú _ Mũ giáp _ Màu đỏ _2 Tinh
+3007202; Thần thú _ Vòng cổ _ Màu đỏ _2 Tinh
+3007203; Thần thú _ Áo giáp _ Màu đỏ _2 Tinh
+3007204; Thần thú _ Lợi trảo _ Màu đỏ _2 Tinh
+3007205; Thần thú _ Cánh chim _ Màu đỏ _2 Tinh
+3007301; Thần thú _ Mũ giáp _ Màu đỏ _3 Tinh
+3007302; Thần thú _ Vòng cổ _ Màu đỏ _3 Tinh
+3007303; Thần thú _ Áo giáp _ Màu đỏ _3 Tinh
+3007304; Thần thú _ Lợi trảo _ Màu đỏ _3 Tinh
+3007305; Thần thú _ Cánh chim _ Màu đỏ _3 Tinh
+3007401; Thần thú _ Mũ giáp _ Màu đỏ _4 Tinh
+3007402; Thần thú _ Vòng cổ _ Màu đỏ _4 Tinh
+3007403; Thần thú _ Áo giáp _ Màu đỏ _4 Tinh
+3007404; Thần thú _ Lợi trảo _ Màu đỏ _4 Tinh
+3007405; Thần thú _ Cánh chim _ Màu đỏ _4 Tinh
+3007501; Thần thú _ Mũ giáp _ Màu đỏ _5 Tinh
+3007502; Thần thú _ Vòng cổ _ Màu đỏ _5 Tinh
+3007503; Thần thú _ Áo giáp _ Màu đỏ _5 Tinh
+3007504; Thần thú _ Lợi trảo _ Màu đỏ _5 Tinh
+3007505; Thần thú _ Cánh chim _ Màu đỏ _5 Tinh
+3008501; Thần thú _ Mũ giáp _ Màu hồng _5 Tinh
+3008502; Thần thú _ Vòng cổ _ Màu hồng _5 Tinh
+3008503; Thần thú _ Áo giáp _ Màu hồng _5 Tinh
+3008504; Thần thú _ Lợi trảo _ Màu hồng _5 Tinh
+3008505; Thần thú _ Cánh chim _ Màu hồng _5 Tinh
+3009501; Thần thú _ Mũ giáp _ Ám kim _5 Tinh
+3009502; Thần thú _ Vòng cổ _ Ám kim _5 Tinh
+3009503; Thần thú _ Áo giáp _ Ám kim _5 Tinh
+3009504; Thần thú _ Lợi trảo _ Ám kim _5 Tinh
+3009505; Thần thú _ Cánh chim _ Ám kim _5 Tinh
+3010501; Thần thú _ Mũ giáp _ Huyễn thải _5 Tinh
+3010502; Thần thú _ Vòng cổ _ Huyễn thải _5 Tinh
+3010503; Thần thú _ Áo giáp _ Huyễn thải _5 Tinh
+3010504; Thần thú _ Lợi trảo _ Huyễn thải _5 Tinh
+3010505; Thần thú _ Cánh chim _ Huyễn thải _5 Tinh
+3099999; Thần thú hợp thành vật phẩm
+3099998; Tử sắc 0 Tinh ngẫu nhiên Thần thú trang bị ( Biểu hiện dùng )
+3099997; Tử sắc 1 Tinh ngẫu nhiên Thần thú trang bị ( Biểu hiện dùng )
+3099996; Tử sắc 2 Tinh ngẫu nhiên Thần thú trang bị ( Biểu hiện dùng )
+3099995; Kim sắc 1 Tinh ngẫu nhiên Thần thú trang bị ( Biểu hiện dùng )
+3099994; Kim sắc 2 Tinh ngẫu nhiên Thần thú trang bị ( Biểu hiện dùng )
+3099993; Kim sắc 3 Tinh ngẫu nhiên Thần thú trang bị ( Biểu hiện dùng )
+3099992; Màu đỏ 2 Tinh ngẫu nhiên Thần thú trang bị ( Biểu hiện dùng )
+3099991; Màu đỏ 3 Tinh ngẫu nhiên Thần thú trang bị ( Biểu hiện dùng )
+3099990; Màu hồng 2 Tinh ngẫu nhiên Thần thú trang bị ( Biểu hiện dùng )
+3099989; Màu hồng 3 Tinh ngẫu nhiên Thần thú trang bị ( Biểu hiện dùng )
+3099988; Ám kim 3 Tinh ngẫu nhiên Thần thú trang bị ( Biểu hiện dùng )
+3099987; Thánh trang biểu hiện ra vật phẩm ( Biểu hiện dùng )
+3099986; Tụ Bảo Bồn đặc quyền tăng thêm biểu hiện 1
+3099985; Tụ Bảo Bồn đặc quyền tăng thêm biểu hiện 2
+3099984; Thần thú kinh nghiệm vật phẩm nhỏ
+3099983; Thần thú kinh nghiệm vật phẩm lớn
+3099982; Nam thứ hai bộ tâm pháp ( Biểu hiện dùng )
+3099981; Nữ thứ hai bộ tâm pháp ( Biểu hiện dùng )
+3099980; Tiên minh phổ thông bảo rương 1( Biểu hiện dùng )
+3099979; Tiên minh phổ thông bảo rương 2( Biểu hiện dùng )
+3099978; Tiên minh phổ thông bảo rương 3( Biểu hiện dùng )
+3099977; Tiên minh phổ thông bảo rương 4( Biểu hiện dùng )
+3099976; Tiên minh đặc thù bảo rương 1( Biểu hiện dùng )
+3099975; Tiên minh đặc thù bảo rương 2( Biểu hiện dùng )
+3099974; Tiên minh đặc thù bảo rương 3( Biểu hiện dùng )
+3099973; Tiên minh đặc thù bảo rương 4( Biểu hiện dùng )
+3099972; Nam Kiếm Thần binh biểu hiện ra 1( Biểu hiện dùng )
+3099971; Nam Kiếm Thần binh biểu hiện ra 2( Biểu hiện dùng )
+3099970; Nam Kiếm Thần binh biểu hiện ra 3( Biểu hiện dùng )
+3099969; Nữ Thương Thần binh biểu hiện ra 1( Biểu hiện dùng )
+3099968; Nữ Thương Thần binh biểu hiện ra 2( Biểu hiện dùng )
+3099967; Nữ Thương Thần binh biểu hiện ra 3( Biểu hiện dùng )
+3099966; Hòa thượng thần binh biểu hiện ra 1( Biểu hiện dùng )
+3099965; Hòa thượng thần binh biểu hiện ra 2( Biểu hiện dùng )
+3099964; Hòa thượng thần binh biểu hiện ra 3( Biểu hiện dùng )
+6103001; Màu lam linh phách - Sinh mệnh
+6103002; Màu lam linh phách - Phòng ngự
+6103003; Màu lam linh phách - Né tránh
+6103004; Màu lam linh phách - Trúng đích
+6103005; Màu lam linh phách - Công kích
+6103006; Màu lam linh phách - Thủ hộ
+6103007; Màu lam linh phách - Kiên thuẫn
+6103008; Màu lam linh phách - Phong mang
+6103009; Màu lam linh phách - Phá giáp
+6103010; Màu lam linh phách - Gỡ giáp
+6103011; Màu lam linh phách - Cường thể
+6103012; Màu lam linh phách - Thiên Cương
+6103013; Màu lam linh phách - Nát giáp
+6103014; Màu lam linh phách - Cuồng chiến
+6103015; Màu lam linh phách - Trường sinh
+6103016; Màu lam linh phách - Kim cương
+6103017; Màu lam linh phách - Linh xảo
+6103018; Màu lam linh phách - Giết chóc
+6103019; Màu lam linh phách - Vỡ nát
+6103020; Màu lam linh phách - Thánh nguyên
+6103021; Màu lam linh phách - Hủy diệt
+6103022; Màu lam linh phách - Cứng cỏi
+6103023; Màu lam linh phách - Thật. Trường sinh
+6103024; Màu lam linh phách - Ngự linh
+6103025; Màu lam linh phách - Thật. Kim cương
+6103026; Màu lam linh phách - Linh tránh
+6103027; Màu lam linh phách - Thật. Linh xảo
+6103028; Màu lam linh phách - Linh công
+6103029; Màu lam linh phách - Thật. Giết chóc
+6103030; Màu lam linh phách - Bạo kích
+6103031; Màu lam linh phách - Thật. Vỡ nát
+6103032; Màu lam linh phách - Không ngự
+6103033; Màu lam linh phách - Thật. Thánh nguyên
+6103034; Màu lam linh phách - Nổi giận
+6103035; Màu lam linh phách - Thật. Hủy diệt
+6104001; Tử sắc linh phách - Sinh mệnh
+6104002; Tử sắc linh phách - Phòng ngự
+6104003; Tử sắc linh phách - Né tránh
+6104004; Tử sắc linh phách - Trúng đích
+6104005; Tử sắc linh phách - Công kích
+6104006; Tử sắc linh phách - Thủ hộ
+6104007; Tử sắc linh phách - Kiên thuẫn
+6104008; Tử sắc linh phách - Phong mang
+6104009; Tử sắc linh phách - Phá giáp
+6104010; Tử sắc linh phách - Gỡ giáp
+6104011; Tử sắc linh phách - Cường thể
+6104012; Tử sắc linh phách - Thiên Cương
+6104013; Tử sắc linh phách - Nát giáp
+6104014; Tử sắc linh phách - Cuồng chiến
+6104015; Tử sắc linh phách - Trường sinh
+6104016; Tử sắc linh phách - Kim cương
+6104017; Tử sắc linh phách - Linh xảo
+6104018; Tử sắc linh phách - Giết chóc
+6104019; Tử sắc linh phách - Vỡ nát
+6104020; Tử sắc linh phách - Thánh nguyên
+6104021; Tử sắc linh phách - Hủy diệt
+6104022; Tử sắc linh phách - Cứng cỏi
+6104023; Tử sắc linh phách - Thật. Trường sinh
+6104024; Tử sắc linh phách - Ngự linh
+6104025; Tử sắc linh phách - Thật. Kim cương
+6104026; Tử sắc linh phách - Linh tránh
+6104027; Tử sắc linh phách - Thật. Linh xảo
+6104028; Tử sắc linh phách - Linh công
+6104029; Tử sắc linh phách - Thật. Giết chóc
+6104030; Tử sắc linh phách - Bạo kích
+6104031; Tử sắc linh phách - Thật. Vỡ nát
+6104032; Tử sắc linh phách - Không ngự
+6104033; Tử sắc linh phách - Thật. Thánh nguyên
+6104034; Tử sắc linh phách - Nổi giận
+6104035; Tử sắc linh phách - Thật. Hủy diệt
+6106001; Kim sắc linh phách - Sinh mệnh
+6106002; Kim sắc linh phách - Phòng ngự
+6106003; Kim sắc linh phách - Né tránh
+6106004; Kim sắc linh phách - Trúng đích
+6106005; Kim sắc linh phách - Công kích
+6106006; Kim sắc linh phách - Thủ hộ
+6106007; Kim sắc linh phách - Kiên thuẫn
+6106008; Kim sắc linh phách - Phong mang
+6106009; Kim sắc linh phách - Phá giáp
+6106010; Kim sắc linh phách - Gỡ giáp
+6106011; Kim sắc linh phách - Cường thể
+6106012; Kim sắc linh phách - Thiên Cương
+6106013; Kim sắc linh phách - Nát giáp
+6106014; Kim sắc linh phách - Cuồng chiến
+6106015; Kim sắc linh phách - Trường sinh
+6106016; Kim sắc linh phách - Kim cương
+6106017; Kim sắc linh phách - Linh xảo
+6106018; Kim sắc linh phách - Giết chóc
+6106019; Kim sắc linh phách - Vỡ nát
+6106020; Kim sắc linh phách - Thánh nguyên
+6106021; Kim sắc linh phách - Hủy diệt
+6106022; Kim sắc linh phách - Cứng cỏi
+6106023; Kim sắc linh phách - Thật. Trường sinh
+6106024; Kim sắc linh phách - Ngự linh
+6106025; Kim sắc linh phách - Thật. Kim cương
+6106026; Kim sắc linh phách - Linh tránh
+6106027; Kim sắc linh phách - Thật. Linh xảo
+6106028; Kim sắc linh phách - Linh công
+6106029; Kim sắc linh phách - Thật. Giết chóc
+6106030; Kim sắc linh phách - Bạo kích
+6106031; Kim sắc linh phách - Thật. Vỡ nát
+6106032; Kim sắc linh phách - Không ngự
+6106033; Kim sắc linh phách - Thật. Thánh nguyên
+6106034; Kim sắc linh phách - Nổi giận
+6106035; Kim sắc linh phách - Thật. Hủy diệt
+6107001; Màu đỏ linh phách - Sinh mệnh
+6107002; Màu đỏ linh phách - Phòng ngự
+6107003; Màu đỏ linh phách - Né tránh
+6107004; Màu đỏ linh phách - Trúng đích
+6107005; Màu đỏ linh phách - Công kích
+6107006; Màu đỏ linh phách - Thủ hộ
+6107007; Màu đỏ linh phách - Kiên thuẫn
+6107008; Màu đỏ linh phách - Phong mang
+6107009; Màu đỏ linh phách - Phá giáp
+6107010; Màu đỏ linh phách - Gỡ giáp
+6107011; Màu đỏ linh phách - Cường thể
+6107012; Màu đỏ linh phách - Thiên Cương
+6107013; Màu đỏ linh phách - Nát giáp
+6107014; Màu đỏ linh phách - Cuồng chiến
+6107015; Màu đỏ linh phách - Trường sinh
+6107016; Màu đỏ linh phách - Kim cương
+6107017; Màu đỏ linh phách - Linh xảo
+6107018; Màu đỏ linh phách - Giết chóc
+6107019; Màu đỏ linh phách - Vỡ nát
+6107020; Màu đỏ linh phách - Thánh nguyên
+6107021; Màu đỏ linh phách - Hủy diệt
+6107022; Màu đỏ linh phách - Cứng cỏi
+6107023; Màu đỏ linh phách - Thật. Trường sinh
+6107024; Màu đỏ linh phách - Ngự linh
+6107025; Màu đỏ linh phách - Thật. Kim cương
+6107026; Màu đỏ linh phách - Linh tránh
+6107027; Màu đỏ linh phách - Thật. Linh xảo
+6107028; Màu đỏ linh phách - Linh công
+6107029; Màu đỏ linh phách - Thật. Giết chóc
+6107030; Màu đỏ linh phách - Bạo kích
+6107031; Màu đỏ linh phách - Thật. Vỡ nát
+6107032; Màu đỏ linh phách - Không ngự
+6107033; Màu đỏ linh phách - Thật. Thánh nguyên
+6107034; Màu đỏ linh phách - Nổi giận
+6107035; Màu đỏ linh phách - Thật. Hủy diệt
+6203000; Màu lam - Tiên phách kinh nghiệm
+6204000; Tử sắc - Tiên phách kinh nghiệm
+6206000; Kim sắc - Tiên phách kinh nghiệm
+6207000; Màu đỏ - Tiên phách kinh nghiệm
+6207100; Màu đỏ - Tiên phách kinh nghiệm
+6300001; Ngẫu nhiên màu lam linh phách ( Biểu hiện dùng )
+6300002; Ngẫu nhiên tử sắc linh phách ( Biểu hiện dùng )
+6300003; Ngẫu nhiên kim sắc linh phách ( Biểu hiện dùng )
+6300004; Ngẫu nhiên màu đỏ linh phách ( Biểu hiện dùng )
+6303041; Màu lam sinh mệnh ( Mới )
+6303042; Màu lam phòng ngự ( Mới )
+6303043; Màu lam công kích ( Mới )
+6303044; Màu lam phong mang ( Mới )
+6303045; Màu lam cuồng chiến ( Mới )
+6303046; Màu lam Thiên Cương ( Mới )
+6303047; Màu lam gỡ giáp ( Mới )
+6304041; Tử sắc sinh mệnh ( Mới )
+6304042; Tử sắc phòng ngự ( Mới )
+6304043; Tử sắc công kích ( Mới )
+6304044; Tử sắc phong mang ( Mới )
+6304045; Tử sắc cuồng chiến ( Mới )
+6304046; Tử sắc Thiên Cương ( Mới )
+6304047; Tử sắc gỡ giáp ( Mới )
+6306041; Kim sắc sinh mệnh ( Mới )
+6306042; Kim sắc phòng ngự ( Mới )
+6306043; Kim sắc công kích ( Mới )
+6306044; Kim sắc phong mang ( Mới )
+6306045; Kim sắc cuồng chiến ( Mới )
+6306046; Kim sắc Thiên Cương ( Mới )
+6306047; Kim sắc gỡ giáp ( Mới )
+6307141; Màu đỏ sinh mệnh ( Mới )
+6307142; Màu đỏ phòng ngự ( Mới )
+6307143; Màu đỏ công kích ( Mới )
+6307144; Màu đỏ phong mang ( Mới )
+6307145; Màu đỏ cuồng chiến ( Mới )
+6307146; Màu đỏ Thiên Cương ( Mới )
+6307147; Màu đỏ gỡ giáp ( Mới )
+6307241; Màu đỏ trường sinh ( Mới )
+6307242; Màu đỏ kim cương ( Mới )
+6307243; Màu đỏ giết chóc ( Mới )
+6307244; Màu đỏ vỡ nát ( Mới )
+6307245; Màu đỏ hủy diệt ( Mới )
+6307246; Màu đỏ thánh nguyên ( Mới )
+6307247; Màu đỏ linh xảo ( Mới )
+6307341; Màu đỏ thật. Trường sinh ( Mới )
+6307342; Màu đỏ thật. Kim cương ( Mới )
+6307343; Màu đỏ thật. Giết chóc ( Mới )
+6307344; Màu đỏ thật. Vỡ nát ( Mới )
+6307345; Màu đỏ thật. Hủy diệt ( Mới )
+6307346; Màu đỏ thật. Thánh nguyên ( Mới )
+6307347; Màu đỏ thật. Linh xảo ( Mới )

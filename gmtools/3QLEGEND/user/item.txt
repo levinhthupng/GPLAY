@@ -1,0 +1,1262 @@
+10007; Lễ tình nhân ảnh chân dung khung
+-7; Nhân vật chính kinh nghiệm
+-6; Anh hùng kinh nghiệm
+-5; Huân chương tệ
+-4; Tinh lực
+-3; Thể lực
+10008; Đen trắng cánh chim ảnh chân dung khung
+-8; Kinh mạch đan
+10009; Tam quốc bá chủ ảnh chân dung khung
+10010; Hào ảnh chân dung khung
+10014; Kinh nghiệm sách ( Thấp )
+10015; Kinh nghiệm sách ( Bên trong )
+10016; Kinh nghiệm sách ( Cao )
+10017; Kinh nghiệm sách ( Siêu )
+10018; Viên thuốc trân châu
+10019; Cổ đại chi ấm
+10020; Cổ đại tượng đá
+10021;1 Cấp sinh mệnh bảo thạch
+10022;2 Cấp sinh mệnh bảo thạch
+10023;3 Cấp sinh mệnh bảo thạch
+10024;4 Cấp sinh mệnh bảo thạch
+10025;5 Cấp sinh mệnh bảo thạch
+10026;6 Cấp sinh mệnh bảo thạch
+10027;7 Cấp sinh mệnh bảo thạch
+10028;8 Cấp sinh mệnh bảo thạch
+10029;9 Cấp sinh mệnh bảo thạch
+10030;10 Cấp sinh mệnh bảo thạch
+10031;1 Cấp công kích bảo thạch
+10032;2 Cấp công kích bảo thạch
+10033;3 Cấp công kích bảo thạch
+10034;4 Cấp công kích bảo thạch
+10035;5 Cấp công kích bảo thạch
+10036;6 Cấp công kích bảo thạch
+10037;7 Cấp công kích bảo thạch
+10038;8 Cấp công kích bảo thạch
+10039;9 Cấp công kích bảo thạch
+10040;10 Cấp công kích bảo thạch
+10041;1 Cấp vật phòng bảo thạch
+10042;2 Cấp vật phòng bảo thạch
+10043;3 Cấp vật phòng bảo thạch
+10044;4 Cấp vật phòng bảo thạch
+10045;5 Cấp vật phòng bảo thạch
+10046;6 Cấp vật phòng bảo thạch
+10047;7 Cấp vật phòng bảo thạch
+10048;8 Cấp vật phòng bảo thạch
+10049;9 Cấp vật phòng bảo thạch
+10050;10 Cấp vật phòng bảo thạch
+10051;1 Cấp tinh thần bảo thạch
+10052;2 Cấp tinh thần bảo thạch
+10053;3 Cấp tinh thần bảo thạch
+10054;4 Cấp tinh thần bảo thạch
+10055;5 Cấp tinh thần bảo thạch
+10056;6 Cấp tinh thần bảo thạch
+10057;7 Cấp tinh thần bảo thạch
+10058;8 Cấp tinh thần bảo thạch
+10059;9 Cấp tinh thần bảo thạch
+10060;10 Cấp tinh thần bảo thạch
+10061; Thể lực đan ( Siêu )
+10062; Tinh lực đan ( Siêu )
+10063; Kim sắc vạn năng mảnh vỡ
+10064; Mở lỗ khí
+10066; Lục mai quả
+10067; Lam mai quả
+10068; Tử mai quả
+10069; Lục hoa hồng
+10070; Hoa hồng lam
+10071; Hoa hồng tím
+10072; Quả đào ( Lục )
+10073; Hỏa long quả ( Lam )
+10074; Dưa hấu ( Tử )
+10075; Hoa quế rượu ( Lục )
+10076; Thanh mai tửu ( Lam )
+10077; Đỗ Khang rượu ( Tử )
+10078; Lục cây cam
+10079; Lam cây cam
+10080; Tử cây cam
+10081; Bánh xuân ( Lục )
+10082; Nguyên Tiêu ( Lam )
+10083; Khối thịt ( Tử )
+10084; Miễn chiến bài
+10085; Đoạt bảo khiến
+10086; Màu cam bảo vật bao
+10087; Khiêu chiến khoán
+10088; Tiến giai bảo rương
+10089; Liên quan tới mảnh vỡ rương
+10090; Công hội tiến giai bảo rương
+10091;13 Tư chất mảnh vỡ bao ( Không cần )
+10092; Độ thiện cảm bồi dưỡng gói quà ( Nhỏ )
+10093; Độ thiện cảm bồi dưỡng gói quà ( Bên trong )
+10094; Độ thiện cảm bồi dưỡng gói quà ( Lớn )
+10095; Triệu Vân mảnh vỡ bao
+10096; Lữ Bố mảnh vỡ bao
+10097; Thể lực đan ( Lớn )
+10098; Đổi mới khoán
+10099;1 Cấp bảo thạch bao
+10100;2 Cấp bảo thạch bao
+10101;3 Cấp bảo thạch bao
+10102; Ngẫu nhiên bảo thạch bao
+10103; Cổ đại vương miện
+10104; Cây nấm lớn
+10105; Cao cấp trang bị bảo rương
+10106; Rực rỡ hảo cảm bồi dưỡng bao
+10107; Trung cấp trang bị bảo rương
+10108; Thần thú đan
+10109; Thiên phú đan
+10110;5 Vạn ngân tệ
+10111; Cấp thấp trang bị bảo rương
+10112;VIP Nhỏ Nguyên bảo bao
+10113; Kim sắc vương miện
+10114; Đống nhỏ ngân tệ
+10115; Đống lớn ngân tệ
+10116;VIP10 Siêu giá trị gói quà
+10117;VIP11 Siêu giá trị gói quà
+10118;VIP12 Siêu giá trị gói quà
+10119;VIP13 Siêu giá trị gói quà
+10120;VIP14 Siêu giá trị gói quà
+10121;VIP15 Siêu giá trị gói quà
+10122;VIP16 Siêu giá trị gói quà
+10123;VIP17 Siêu giá trị gói quà
+10124;VIP18 Siêu giá trị gói quà
+10125;VIP19 Siêu giá trị gói quà
+10126;VIP20 Siêu giá trị gói quà
+10127;VIP21 Siêu giá trị gói quà
+10128;VIP22 Siêu giá trị gói quà
+10129;VIP23 Siêu giá trị gói quà
+10130;VIP24 Siêu giá trị gói quà
+10131;VIP25 Siêu giá trị gói quà
+10132; Vạn năng khiêu chiến khoán
+10133; Cao cấp cam tinh rương
+10134; Cấp thấp cam tinh rương
+10135;12 Tư chất mảnh vỡ bao
+10136; Vạn năng mảnh vỡ bảo rương
+10137; Cam tinh
+10138; Tử Tinh
+10139; Hồng tinh
+10140; Tinh lực đan ( Lớn )
+10141; Tinh lực đan ( Bên trong )
+10142; Tinh lực đan ( Nhỏ )
+10143; Thể lực đan ( Bên trong )
+10144; Thể lực đan ( Nhỏ )
+10145; Kinh nghiệm sách ( Cực )
+10146; Tử sắc sáo trang bảo rương
+10147;4 Cấp bảo thạch bao
+10148; Tử sắc sáo trang bảo rương ( Không cần )
+10149; Thủ mạo xưng gói quà lớn
+10150; Thủ mạo xưng gói quà lớn ( Xa hoa bản )
+10151;98 Hồng bao dùng tiền thay thế khoán
+10152;288 Hồng bao dùng tiền thay thế khoán
+10153;688 Hồng bao dùng tiền thay thế khoán
+10154; Chiến hồn kinh nghiệm
+10155; Chiến hồn tinh hoa
+10156; Chiến hồn bảo rương ( Khảo thí dùng )
+10157;5 Cấp bảo thạch bao
+10160;14 Tư chất mảnh vỡ bao
+10159;6 Cấp bảo thạch bao
+10161;16 Tư chất mảnh vỡ bao
+10162; Kim đem mảnh vỡ bao
+10163;18 Tư chất mảnh vỡ bao
+10164;22 Tư chất mảnh vỡ bao
+10165;26 Tư chất mảnh vỡ bao
+10168;VIP0 Siêu giá trị gói quà
+10169;VIP1 Siêu giá trị gói quà
+10170;VIP2 Siêu giá trị gói quà
+10171;VIP3 Siêu giá trị gói quà
+10172;VIP4 Siêu giá trị gói quà
+10173;VIP5 Siêu giá trị gói quà
+10174;VIP6 Siêu giá trị gói quà
+10175;VIP7 Siêu giá trị gói quà
+10176;VIP8 Siêu giá trị gói quà
+10177;VIP9 Siêu giá trị gói quà
+10180; Cấp một dưỡng lão gói quà
+10181; Cấp hai dưỡng lão gói quà
+10182; Cấp ba dưỡng lão gói quà
+10183; Cấp bốn dưỡng lão gói quà
+10184; Cấp năm dưỡng lão gói quà
+10185; Cấp sáu dưỡng lão gói quà
+10186; Cấp bảy dưỡng lão gói quà
+10187; Cấp tám dưỡng lão gói quà
+10188; Cấp chín dưỡng lão gói quà
+10189; Mười cấp dưỡng lão gói quà
+10210; Dùng tiền thay thế khoán
+10220;6 Nguyên miễn phí khoán
+10221;30 Nguyên miễn phí khoán
+10222;98 Nguyên miễn phí khoán
+10223;198 Nguyên miễn phí khoán
+10224;328 Nguyên miễn phí khoán
+10225;648 Nguyên miễn phí khoán
+10226;38 Nguyên mạo hiểm miễn phí khoán
+10227;88 Nguyên thám hiểm miễn phí khoán
+10301;SVIP1 Siêu giá trị gói quà
+10302;SVIP2 Siêu giá trị gói quà
+10303;SVIP3 Siêu giá trị gói quà
+10304;SVIP4 Siêu giá trị gói quà
+10305;SVIP5 Siêu giá trị gói quà
+10306;SVIP6 Siêu giá trị gói quà
+10307;SVIP7 Siêu giá trị gói quà
+10308;SVIP8 Siêu giá trị gói quà
+10309;SVIP9 Siêu giá trị gói quà
+10310;SVIP10 Siêu giá trị gói quà
+11000; Vượt phục khiêu chiến khoán
+11001; Charix bay nát phiến 1
+11002; Charix bay nát phiến 2
+11003; Charix bay nát phiến 3
+11004; Charix bay nát phiến 4
+11005; Liệu nguyên lửa mảnh vỡ 1
+11006; Liệu nguyên lửa mảnh vỡ 2
+11007; Liệu nguyên lửa mảnh vỡ 3
+11008; Liệu nguyên lửa mảnh vỡ 4
+11009; Ngọc sư tử mảnh vỡ 1
+11010; Ngọc sư tử mảnh vỡ 2
+11011; Ngọc sư tử mảnh vỡ 3
+11012; Ngọc sư tử mảnh vỡ 4
+11013; Bóng xám mảnh vỡ 1
+11014; Bóng xám mảnh vỡ 2
+11015; Bóng xám mảnh vỡ 3
+11016; Bóng xám mảnh vỡ 4
+11017; Bôn lôi mảnh vỡ 1
+11018; Bôn lôi mảnh vỡ 2
+11019; Bôn lôi mảnh vỡ 3
+11020; Bôn lôi mảnh vỡ 4
+11021; Giao long ấn ký mảnh vỡ 1
+11022; Giao long ấn ký mảnh vỡ 2
+11023; Giao long ấn ký mảnh vỡ 3
+11024; Giao long ấn ký mảnh vỡ 4
+11025; Ba Xà ấn ký mảnh vỡ 1
+11026; Ba Xà ấn ký mảnh vỡ 2
+11027; Ba Xà ấn ký mảnh vỡ 3
+11028; Ba Xà ấn ký mảnh vỡ 4
+11029; Dê trắng ấn ký mảnh vỡ 1
+11030; Dê trắng ấn ký mảnh vỡ 2
+11031; Dê trắng ấn ký mảnh vỡ 3
+11032; Dê trắng ấn ký mảnh vỡ 4
+11033; Man ngưu ấn ký mảnh vỡ 1
+11034; Man ngưu ấn ký mảnh vỡ 2
+11035; Man ngưu ấn ký mảnh vỡ 3
+11036; Man ngưu ấn ký mảnh vỡ 4
+11037; Thiên Lang ấn nhớ mảnh vỡ 1
+11038; Thiên Lang ấn nhớ mảnh vỡ 2
+11039; Thiên Lang ấn nhớ mảnh vỡ 3
+11040; Thiên Lang ấn nhớ mảnh vỡ 4
+11091; Xích Thố mảnh vỡ 1
+11092; Xích Thố mảnh vỡ 2
+11093; Xích Thố mảnh vỡ 3
+11094; Xích Thố mảnh vỡ 4
+11095; Xích Thố mảnh vỡ 5
+11096; Xích Thố mảnh vỡ 6
+11097; Mây đen đạp tuyết mảnh vỡ 1
+11098; Mây đen đạp tuyết mảnh vỡ 2
+11099; Mây đen đạp tuyết mảnh vỡ 3
+11100; Mây đen đạp tuyết mảnh vỡ 4
+11101; Mây đen đạp tuyết mảnh vỡ 5
+11102; Mây đen đạp tuyết mảnh vỡ 6
+11103; Tuyệt Ảnh mảnh vỡ 1
+11104; Tuyệt Ảnh mảnh vỡ 2
+11105; Tuyệt Ảnh mảnh vỡ 3
+11106; Tuyệt Ảnh mảnh vỡ 4
+11107; Tuyệt Ảnh mảnh vỡ 5
+11108; Tuyệt Ảnh mảnh vỡ 6
+11109; Trảo Hoàng Phi điện mảnh vỡ 1
+11110; Trảo Hoàng Phi điện mảnh vỡ 2
+11111; Trảo Hoàng Phi điện mảnh vỡ 3
+11112; Trảo Hoàng Phi điện mảnh vỡ 4
+11113; Trảo Hoàng Phi điện mảnh vỡ 5
+11114; Trảo Hoàng Phi điện mảnh vỡ 6
+11115; Lư mảnh vỡ 1
+11116; Lư mảnh vỡ 2
+11117; Lư mảnh vỡ 3
+11118; Lư mảnh vỡ 4
+11119; Lư mảnh vỡ 5
+11120; Lư mảnh vỡ 6
+11121; Kỳ Lân thụy ngựa mảnh vỡ 1
+11122; Kỳ Lân thụy ngựa mảnh vỡ 2
+11123; Kỳ Lân thụy ngựa mảnh vỡ 3
+11124; Kỳ Lân thụy ngựa mảnh vỡ 4
+11125; Kỳ Lân thụy ngựa mảnh vỡ 5
+11126; Kỳ Lân thụy ngựa mảnh vỡ 6
+11127; Phỉ trâu ấn ký mảnh vỡ 1
+11128; Phỉ trâu ấn ký mảnh vỡ 2
+11129; Phỉ trâu ấn ký mảnh vỡ 3
+11130; Phỉ trâu ấn ký mảnh vỡ 4
+11131; Phỉ trâu ấn ký mảnh vỡ 5
+11132; Phỉ trâu ấn ký mảnh vỡ 6
+11133; Bạch Hổ ấn ký mảnh vỡ 1
+11134; Bạch Hổ ấn ký mảnh vỡ 2
+11135; Bạch Hổ ấn ký mảnh vỡ 3
+11136; Bạch Hổ ấn ký mảnh vỡ 4
+11137; Bạch Hổ ấn ký mảnh vỡ 5
+11138; Bạch Hổ ấn ký mảnh vỡ 6
+11139; Thanh Long ấn ký mảnh vỡ 1
+11140; Thanh Long ấn ký mảnh vỡ 2
+11141; Thanh Long ấn ký mảnh vỡ 3
+11142; Thanh Long ấn ký mảnh vỡ 4
+11143; Thanh Long ấn ký mảnh vỡ 5
+11144; Thanh Long ấn ký mảnh vỡ 6
+11145; Huyền Vũ ấn ký mảnh vỡ 1
+11146; Huyền Vũ ấn ký mảnh vỡ 2
+11147; Huyền Vũ ấn ký mảnh vỡ 3
+11148; Huyền Vũ ấn ký mảnh vỡ 4
+11149; Huyền Vũ ấn ký mảnh vỡ 5
+11150; Huyền Vũ ấn ký mảnh vỡ 6
+11151; Hùng sư ấn ký mảnh vỡ 1
+11152; Hùng sư ấn ký mảnh vỡ 2
+11153; Hùng sư ấn ký mảnh vỡ 3
+11154; Hùng sư ấn ký mảnh vỡ 4
+11155; Hùng sư ấn ký mảnh vỡ 5
+11156; Hùng sư ấn ký mảnh vỡ 6
+11157; Kỳ Lân ấn ký mảnh vỡ 1
+11158; Kỳ Lân ấn ký mảnh vỡ 2
+11159; Kỳ Lân ấn ký mảnh vỡ 3
+11160; Kỳ Lân ấn ký mảnh vỡ 4
+11161; Kỳ Lân ấn ký mảnh vỡ 5
+11162; Kỳ Lân ấn ký mảnh vỡ 6
+11247; Charix bay ( Hà ) Mảnh vỡ 1
+11248; Charix bay ( Hà ) Mảnh vỡ 2
+11249; Charix bay ( Hà ) Mảnh vỡ 3
+11250; Liệu nguyên lửa ( Hà ) Mảnh vỡ 1
+11251; Liệu nguyên lửa ( Hà ) Mảnh vỡ 2
+11252; Liệu nguyên lửa ( Hà ) Mảnh vỡ 3
+11253; Ngọc sư tử ( Hà ) Mảnh vỡ 1
+11254; Ngọc sư tử ( Hà ) Mảnh vỡ 2
+11255; Ngọc sư tử ( Hà ) Mảnh vỡ 3
+11256; Bóng xám ( Hà ) Mảnh vỡ 1
+11257; Bóng xám ( Hà ) Mảnh vỡ 2
+11258; Bóng xám ( Hà ) Mảnh vỡ 3
+11259; Bôn lôi ( Hà ) Mảnh vỡ 1
+11260; Bôn lôi ( Hà ) Mảnh vỡ 2
+11261; Bôn lôi ( Hà ) Mảnh vỡ 3
+11262; Giao long ấn ký ( Hà ) Mảnh vỡ 1
+11263; Giao long ấn ký ( Hà ) Mảnh vỡ 2
+11264; Giao long ấn ký ( Hà ) Mảnh vỡ 3
+11265; Ba Xà ấn ký ( Hà ) Mảnh vỡ 1
+11266; Ba Xà ấn ký ( Hà ) Mảnh vỡ 2
+11267; Ba Xà ấn ký ( Hà ) Mảnh vỡ 3
+11268; Dê trắng ấn ký ( Hà ) Mảnh vỡ 1
+11269; Dê trắng ấn ký ( Hà ) Mảnh vỡ 2
+11270; Dê trắng ấn ký ( Hà ) Mảnh vỡ 3
+11271; Man ngưu ấn ký ( Hà ) Mảnh vỡ 1
+11272; Man ngưu ấn ký ( Hà ) Mảnh vỡ 2
+11273; Man ngưu ấn ký ( Hà ) Mảnh vỡ 3
+11274; Thiên Lang ấn nhớ ( Hà ) Mảnh vỡ 1
+11275; Thiên Lang ấn nhớ ( Hà ) Mảnh vỡ 2
+11276; Thiên Lang ấn nhớ ( Hà ) Mảnh vỡ 3
+12001; Lữ Bố mảnh vỡ
+12002; Tư Mã Ý mảnh vỡ
+12003; Quan Vũ mảnh vỡ
+12004; Tào Tháo mảnh vỡ
+12005; Trương quai hàm mảnh vỡ
+12006; Triệu Vân mảnh vỡ
+12007; Tôn Quyền mảnh vỡ
+12008; Mã Siêu mảnh vỡ
+12009; Lưu Bị mảnh vỡ
+12010; Quan bình mảnh vỡ
+12011; Điển Vi mảnh vỡ
+12012; Trương Phi mảnh vỡ
+12013; Mã Lương mảnh vỡ
+12014; Viên Thiệu mảnh vỡ
+12015; Tào Nhân mảnh vỡ
+12016; Hạ Hầu thật thà mảnh vỡ
+12017; Trần Cung mảnh vỡ
+12018; Thái Sử Từ mảnh vỡ
+12019; Trương Liêu mảnh vỡ
+12020; Tôn Kiên mảnh vỡ
+12021; Đổng Trác mảnh vỡ
+12022; Hoàng Trung mảnh vỡ
+12023; Gia Cát Lượng mảnh vỡ
+12024; Hoàng Cái mảnh vỡ
+12025; Tư Mã Chiêu mảnh vỡ
+12026; Bước luyện sư mảnh vỡ
+12027; Tào Hưu mảnh vỡ
+12028; Khương duy mảnh vỡ
+12029; Mộc Hươu đại vương mảnh vỡ
+12030; Hán Hiến Đế mảnh vỡ
+12031; Công Tôn Toản mảnh vỡ
+12032; Tại cát mảnh vỡ
+12033; Lưu thiền mảnh vỡ
+12034; Tiểu Kiều mảnh vỡ
+12035; Tôn Thượng Hương mảnh vỡ
+12036; Hạ Hầu Uyên mảnh vỡ
+12037; Nhan Lương mảnh vỡ
+12038; Trần Vũ mảnh vỡ
+12039; Pháp Chính mảnh vỡ
+12040; Hoa Đà mảnh vỡ
+12041; Thư Thụ mảnh vỡ
+12042; Thượng quan mảnh vỡ
+12043; Viên Thuật mảnh vỡ
+12044; Lý Điển mảnh vỡ
+12045; Trương Nhậm mảnh vỡ
+12046; Lục Tốn mảnh vỡ
+12047; Chúc Dung mảnh vỡ
+12048; Điền Phong mảnh vỡ
+12049; Cao Thuận mảnh vỡ
+12050; Tào Phi mảnh vỡ
+12051; Nhân vật chính mảnh vỡ
+12100; Năng lượng hồn mảnh vỡ
+13001; Hoa lệ Thổ nguyên tố I
+13002; Hoa lệ mộc nguyên tố I
+13003; Hoa Lệ Thủy nguyên tố I
+13004; Hoa Lệ Thủy nguyên tố II
+13005; Hoa lệ hỏa nguyên tố I
+13006; Hoa lệ hỏa nguyên tố II
+13007; Hoa lệ Kim nguyên tố I
+13008; Hoa lệ Kim nguyên tố II
+13009; Hoa lệ lôi nguyên tố I
+13010; Hoa lệ lôi nguyên tố II
+13011; Hoa lệ lôi nguyên tố III
+13012; Trác tuyệt Thổ nguyên tố I
+13013; Trác tuyệt mộc nguyên tố I
+13014; Trác tuyệt thủy nguyên tố I
+13015; Trác tuyệt thủy nguyên tố II
+13016; Trác tuyệt hỏa nguyên tố I
+13017; Trác tuyệt hỏa nguyên tố II
+13018; Trác tuyệt Kim nguyên tố I
+13019; Trác tuyệt Kim nguyên tố II
+13020; Trác tuyệt lôi nguyên tố I
+13021; Trác tuyệt lôi nguyên tố II
+13022; Trác tuyệt lôi nguyên tố III
+13023; Trời ban Thổ nguyên tố I
+13024; Trời ban mộc nguyên tố I
+13025; Trời ban thủy nguyên tố I
+13026; Trời ban thủy nguyên tố II
+13027; Trời ban hỏa nguyên tố I
+13028; Trời ban hỏa nguyên tố II
+13029; Trời ban Kim nguyên tố I
+13030; Trời ban Kim nguyên tố II
+13031; Trời ban lôi nguyên tố I
+13032; Trời ban lôi nguyên tố II
+13033; Trời ban lôi nguyên tố III
+13034; Tiến giai đan
+13035; Trang bị bản vẽ ( Sơ )
+13036; Trang bị bản vẽ +1
+13037; Trang bị bản vẽ +2
+13038; Trang bị bản vẽ +3
+13039; Trang bị bản vẽ +4
+13040; Trang bị bản vẽ +5
+13041; Trang bị bản vẽ +6
+13042; Trang bị bản vẽ +7
+13043; Trang bị bản vẽ +8
+13044; Trang bị bản vẽ +9
+13045; Trang bị bản vẽ +10
+13046; Trang bị bản vẽ +11
+13047; Trang bị bản vẽ +12
+13048; Trang bị bản vẽ +13
+13049; Trang bị bản vẽ +14
+13050; Trang bị bản vẽ +15
+13051; Trang bị bản vẽ +16
+13052; Trang bị bản vẽ +17
+13053; Trang bị bản vẽ +18
+13054; Trang bị bản vẽ +19
+13055; Vạn năng kim loại
+13056; Kỳ dị thiên thạch
+13057; Chuyên môn dung hợp tề
+13058; Trang bị bản vẽ tự do rương (0
+13059; Trang bị bản vẽ tự do rương (4
+13060; Trang bị bản vẽ tự do rương (7
+13061; Trang bị bản vẽ tự do rương (10
+13062; Trang bị bản vẽ tự do rương (13
+13063; Trang bị bản vẽ tổng thể rương
+14001; Vũ Lâm thiết giáp mảnh vỡ
+14002; Vũ Lâm kiếm sắt mảnh vỡ
+14003; Vũ Lâm mũ giáp mảnh vỡ
+14004; Vũ Lâm dây chuyền mảnh vỡ
+14005; Thống soái chiến giáp mảnh vỡ
+14006; Thống soái cương kiếm mảnh vỡ
+14007; Thống soái mũ giáp mảnh vỡ
+14008; Thống soái dây chuyền mảnh vỡ
+14009; Thanh Minh chiến giáp mảnh vỡ
+14010; Thanh Minh trường thương mảnh vỡ
+14011; Thanh Minh mũ giáp mảnh vỡ
+14012; Thanh Minh dây chuyền mảnh vỡ
+14013; Hổ uy chiến khải mảnh vỡ
+14014; Hổ uy chiến kiếm mảnh vỡ
+14015; Hổ uy chiến nón trụ mảnh vỡ
+14016; Hổ uy dây chuyền mảnh vỡ
+14017; Băng tinh chiến giáp mảnh vỡ
+14018; Băng tinh chiến thương mảnh vỡ
+14019; Băng tinh mũ giáp mảnh vỡ
+14020; Băng tinh dây chuyền mảnh vỡ
+14021; Long nha chiến giáp mảnh vỡ
+14022; Long nha chiến kích mảnh vỡ
+14023; Long nha mũ giáp mảnh vỡ
+14024; Long nha dây chuyền mảnh vỡ
+14025; Thiên Cương chiến giáp mảnh vỡ
+14026; Thiên Cương chiến kiếm mảnh vỡ
+14027; Thiên Cương chiến nón trụ mảnh vỡ
+14028; Thiên Cương dây chuyền mảnh vỡ
+14029; Phá Quân áo giáp mảnh vỡ
+14030; Phá Quân chiến nhận mảnh vỡ
+14031; Phá Quân mũ giáp mảnh vỡ
+14032; Phá Quân dây chuyền mảnh vỡ
+14033; Tu La chiến khải mảnh vỡ
+14034; Tu La chiến phủ mảnh vỡ
+14035; Tu La chiến nón trụ mảnh vỡ
+14036; Tu La dây chuyền mảnh vỡ
+14037; Chu Tước vũ y mảnh vỡ
+14038; Chu Tước quạt lông mảnh vỡ
+14039; Chu Tước mũ giáp mảnh vỡ
+14040; Chu Tước dây chuyền mảnh vỡ
+14041; Thanh Long áo giáp mảnh vỡ
+14042; Thanh Long chiến kích mảnh vỡ
+14043; Thanh Long mũ giáp mảnh vỡ
+14044; Thanh Long dây chuyền mảnh vỡ
+14045; Thánh hổ chiến giáp mảnh vỡ
+14046; Thánh hổ chiến thương mảnh vỡ
+14047; Thánh hổ chiến nón trụ mảnh vỡ
+14048; Thánh hổ dây chuyền mảnh vỡ
+14049; Huyền Vũ thánh khải mảnh vỡ
+14050; Huyền Vũ chiến đao mảnh vỡ
+14051; Huyền Vũ thánh khôi mảnh vỡ
+14052; Huyền Vũ dây chuyền mảnh vỡ
+14053; Vảy rồng áo giáp mảnh vỡ
+14054; Vảy rồng chiến kích mảnh vỡ
+14055; Vảy rồng mũ giáp mảnh vỡ
+14056; Vảy rồng dây chuyền mảnh vỡ
+14057; Thánh Viêm chiến giáp mảnh vỡ
+14058; Thánh Viêm chiến kiếm mảnh vỡ
+14059; Thánh Viêm chiến nón trụ mảnh vỡ
+14060; Thánh Viêm dây chuyền mảnh vỡ
+14061; Thần thánh áo giáp mảnh vỡ
+14062; Thần thánh quyền trượng mảnh vỡ
+14063; Thần thánh chiến nón trụ mảnh vỡ
+14064; Thần thánh dây chuyền mảnh vỡ
+14065; Hiên Viên thánh giáp mảnh vỡ
+14066; Hiên Viên thánh kiếm mảnh vỡ
+14067; Hiên Viên thánh khôi mảnh vỡ
+14068; Hiên Viên dây chuyền mảnh vỡ
+14069; Thủ hộ chiến giáp mảnh vỡ
+14070; Thủ hộ chiến kiếm mảnh vỡ
+14071; Thủ hộ chiến nón trụ mảnh vỡ
+14072; Thủ hộ dây chuyền mảnh vỡ
+14073; Vinh quang thánh khải mảnh vỡ
+14074; Vinh quang thánh kiếm mảnh vỡ
+14075; Vinh quang thánh khôi mảnh vỡ
+14076; Vinh quang dây chuyền mảnh vỡ
+14077; Bài thi nhỏ gói quà Ⅰ
+14078; Bài thi nhỏ gói quà Ⅱ
+14079; Bài thi nhỏ gói quà Ⅲ
+14080; Không xuất bản nữa bảo rương S
+14081; Không xuất bản nữa bảo rương A
+14082; Chuyên môn bảo rương A
+14083; Tôn Quyền ràng buộc bảo rương
+14084; Mảnh vỡ bảo rương A
+14085; Mảnh vỡ bảo rương S
+14086; Cao cấp chiêu hiền khiến bảo rương
+14087; May mắn anh hùng bao
+14088; Công hội chiến hối đoái tệ
+14089; Lãnh địa tuyên chiến thẻ
+14090; Sơ cấp phi thuyền
+14091; Trung cấp phi thuyền
+14092; Cao cấp phi thuyền
+14093; Siêu cấp phi thuyền
+14094; Đỉnh cấp phi thuyền
+14100; Thức tỉnh chi thạch
+14101; Trang bị thăng tinh thạch
+14112; Tam quốc anh hùng bảo rương
+14113; Thức tỉnh chi tinh
+14138; Thế giới nhiệm vụ bảo rương
+14139; Cao cấp tài khoản bao
+14241; Màu cam anh hùng mảnh vỡ rương
+14144;16 Tư chất anh hùng lựa chọn bảo rương
+14145;14 Tư chất anh hùng lựa chọn bảo rương
+14146; Thanh Long trang bị lựa chọn rương
+14147; Thánh hổ trang bị lựa chọn rương
+14148; Huyền Vũ trang bị lựa chọn rương
+14149; Màu cam trang bị lựa chọn rương
+14150; Vảy rồng trang bị lựa chọn rương
+14153; Hoạt động phiếu hối đoái
+14160; Chí tôn chiêu hiền khiến
+14161; Siêu phàm chiêu hiền khiến
+14162; May mắn anh hùng rương
+14163; May mắn bảo vật rương
+14167; Anh hùng mảnh vỡ may mắn rương
+14168; Tử sắc bảo mã mảnh vỡ bảo rương
+14169; Tử sắc ấn ký mảnh vỡ bảo rương
+14170; Màu cam bảo mã mảnh vỡ bảo rương
+14171; Màu cam ấn ký mảnh vỡ bảo rương
+14175;6 Cấp bảo thạch lựa chọn rương
+14176;7 Cấp bảo thạch lựa chọn rương
+14177;8 Cấp bảo thạch lựa chọn rương
+14178;9 Cấp bảo thạch lựa chọn rương
+14179;10 Cấp bảo thạch lựa chọn rương
+14180; Bảo vật vật liệu lựa chọn rương
+14181; Bảo vật màu vàng óng lựa chọn rương
+14182; Màu cam bảo vật lựa chọn rương
+14185; Kim sắc anh hùng mảnh vỡ lựa chọn rương
+14186; Màu cam anh hùng mảnh vỡ lựa chọn rương
+14187; Cao cấp thần thánh bộ lựa chọn rương
+14188; Cao cấp Hiên Viên bộ lựa chọn rương
+14189; Cao cấp thủ hộ bộ lựa chọn rương
+14190; Cao cấp vinh quang bộ lựa chọn rương
+14191; Kim sắc chuyên môn thần binh lựa chọn rương
+14192; Màu cam chuyên môn thần binh lựa chọn rương
+14193; Nhỏ Nguyên bảo bao
+14194; Đại Nguyên bảo bao
+14195; Tử sắc trang bị mảnh vỡ lựa chọn rương
+14196; Màu cam trang bị mảnh vỡ lựa chọn rương
+14197; Kim sắc trang bị mảnh vỡ lựa chọn rương
+14198; Không xuất bản nữa gói quà A
+14199; Không xuất bản nữa gói quà S
+14200; Trung cấp ngẫu nhiên bảo thạch rương
+14201; Cao cấp ngẫu nhiên bảo thạch rương
+14202; Cam hùng tài đại lược lựa chọn rương
+14203; Cam tung hoành ngang dọc lựa chọn rương
+14204; Cam khí thôn sơn hà lựa chọn rương
+14205; Cam ngạo nghễ vạn vật lựa chọn rương
+14206; Đỏ hùng tài đại lược lựa chọn rương
+14207; Đỏ tung hoành ngang dọc lựa chọn rương
+14208; Đỏ khí thôn sơn hà lựa chọn rương
+14209; Đỏ ngạo nghễ vạn vật lựa chọn rương
+14210; Kim sắc anh hùng lựa chọn rương
+14211; Màu cam anh hùng lựa chọn rương
+14212; Tiền thưởng anh hùng mảnh vỡ lựa chọn rương
+14213; Tử kim anh hùng mảnh vỡ lựa chọn rương
+14214; Màu đỏ anh hùng mảnh vỡ lựa chọn rương
+14215; Tiền thưởng anh hùng chuyên môn thần binh lựa chọn rương
+14216; Tử kim anh hùng chuyên môn thần binh lựa chọn rương
+14217; Màu đỏ anh hùng chuyên môn thần binh lựa chọn rương
+14218; Tử kim vạn năng mảnh vỡ
+14219; Kim sắc trang bị ngẫu nhiên rương I
+14220; Đỉnh cấp trang bị bảo rương
+14221;12 Tư chất chuyên môn thần binh ngẫu nhiên rương
+14222;14 Tư chất chuyên môn thần binh ngẫu nhiên rương
+14223;16 Tư chất chuyên môn thần binh ngẫu nhiên rương
+14224; Lam sắc trang bị ngẫu nhiên bảo rương I
+14225; Tử sắc sinh mệnh sáo trang bảo rương
+14226; Tử sắc công kích sáo trang bảo rương
+14227; Chuyên môn bảo rương S
+14228; Tào Nhân ràng buộc bảo rương
+14229; Trần Cung ràng buộc bảo rương
+14230; Thái Sử Từ ràng buộc bảo rương
+14231; Tư Mã Ý ràng buộc bảo rương
+14232; Trương quai hàm ràng buộc bảo rương
+14233; Mã Siêu ràng buộc bảo rương
+14234; Lưu Bị ràng buộc bảo rương
+14235; Quan bình ràng buộc bảo rương
+14236; Mã Lương ràng buộc bảo rương
+14237; Viên Thiệu ràng buộc bảo rương
+14238; Ràng buộc gói quà S
+14239; Ràng buộc gói quà A
+14240; Ác mộng mảnh vỡ rương
+14242; Kim sắc bảo mã mảnh vỡ ngẫu nhiên rương
+14243; Kim sắc ấn ký mảnh vỡ ngẫu nhiên rương
+14244; Bánh bao
+14245; Đùi gà
+14246; Thịt kho tàu
+14247; Thể lực ngẫu nhiên bao
+14248; Kim sắc bảo mã ngẫu nhiên rương
+14249; Kim sắc ấn ký ngẫu nhiên rương
+14250; Vật liệu gói quà lớn
+14251; Nhân vật chính bồi dưỡng gói quà lớn
+14252; Tử kim đem chiêu mộ gói quà
+14253; Kim sắc anh hùng ngẫu nhiên rương
+14254; Anh hùng thần binh gói quà lớn
+14255; Kim sắc trang bị gói quà lớn
+14256; Bảo vật màu vàng óng gói quà lớn
+14257; Anh hùng tiến giai gói quà lớn
+14258; Đến đạt đến mù hộp
+14259;+6 Bảo vật màu vàng óng gói quà lớn
+14260; Chuyên môn thần binh ràng buộc gói quà lớn
+14261; Màu cam chiến hồn lựa chọn rương
+14262; Hạt sen
+14263; Nước giếng
+14264; Băng phấn
+14265; Hạt sen canh
+14266; Hạt sen băng phấn
+14267; Nhẹ nhàng khoan khoái vật liệu bao
+14268; Màu đỏ chiến hồn lựa chọn rương
+14269; Thanh thủy
+14270; Sinh đùi gà
+14271; Cao lương
+14272; Kho đùi gà
+14273; Liệt tửu
+14274; Mùi hương đậm đặc vật liệu bao
+14275; Tử kim thần binh gói quà lớn
+14276; Lưỡi mác tử kim gói quà lớn
+14277; Kỵ binh tử kim gói quà lớn
+14278; Kim sắc trang bị lựa chọn rương
+14279; Mạ vàng tinh thạch
+14280; Hùng tài đại lược chiến hồn tinh châu
+14281; Tung hoành ngang dọc chiến hồn tinh châu
+14282; Khí thôn sơn hà chiến hồn tinh châu
+14283; Ngạo nghễ vạn vật chiến hồn tinh châu
+14284; Màu cam thần binh tinh thạch
+14285; Tiền thưởng vạn năng mảnh vỡ
+14286; Miễn phí gói quà lớn
+14287;648 Nguyên hưu bổng
+14288; Cam bảo linh trục
+14289; Cam trang tinh thạch
+15000; Phổ thông chiêu hiền khiến
+15001; Cao cấp chiêu hiền khiến
+15002; Lữ Bố
+15003; Tư Mã Ý
+15004; Quan Vũ
+15005; Tào Tháo
+15006; Trương quai hàm
+15007; Triệu Vân
+15008; Tôn Quyền
+15009; Mã Siêu
+15010; Lưu Bị
+15011; Quan bình
+15012; Điển Vi
+15013; Trương Phi
+15014; Mã Lương
+15015; Viên Thiệu
+15016; Tào Nhân
+15017; Hạ Hầu thật thà
+15018; Trần Cung
+15019; Thái Sử Từ
+15020; Trương Liêu
+15021; Tôn Kiên
+15022; Đổng Trác
+15023; Hoàng Trung
+15024; Gia Cát Lượng
+15025; Hoàng Cái
+15026; Tư Mã Chiêu
+15027; Bước luyện sư
+15028; Tào Hưu
+15029; Khương duy
+15030; Mộc Hươu đại vương
+15031; Hán Hiến Đế
+15032; Công Tôn Toản
+15033; Tại cát
+15034; Lưu thiền
+15035; Tiểu Kiều
+15036; Tôn Thượng Hương
+15037; Hạ Hầu Uyên
+15038; Nhan Lương
+15039; Trần Vũ
+15040; Pháp Chính
+15041; Hoa Đà
+15042; Thư Thụ
+15043; Thượng quan
+15044; Viên Thuật
+15045; Lý Điển
+15046; Trương Nhậm
+15047; Lục Tốn
+15048; Chúc Dung
+15049; Điền Phong
+15050; Cao Thuận
+15051; Tào Phi
+15052; Nhân vật chính ( Nam )
+15053; Năng lượng hồn
+16001; Cơ sở ảnh chân dung khung
+16050; Đại dương màu xanh lam
+16051; Vinh dự
+16052; Phấn hồng hồi ức
+16053; Linh vật
+16054; Lý tưởng chi phong
+16055; Lông trắng
+16056; Vô thượng vinh quang
+16057; Trung thu ngắm trăng
+16058; Hoan độ Quốc Khánh
+16059; Giáng Sinh vui vẻ
+16060; Khảo thí bao 1
+16061; Khảo thí bao 2
+17001; Nguyệt thẻ
+17002; Cao cấp nguyệt thẻ
+17003; Người mở đường
+17004; Thực tiễn người. Sơ
+17005; Thực tiễn người. Bên trong
+17006; Thực tiễn người. Cực
+17007; Điện cơ người. Đại địa
+17008; Điện cơ người. Anh hùng
+17009; Điện cơ người. Thế giới
+17010; Quan danh ảnh chân dung khung
+18001; Offline 100 Nguyên Lễ bao
+18002; Offline 300 Nguyên Lễ bao
+18003; Offline 500 Nguyên Lễ bao
+18004; Offline 1000 Nguyên Lễ bao
+18005; Offline 2000 Nguyên Lễ bao
+18006; Offline 5000 Nguyên Lễ bao
+18007; Offline 10000 Nguyên Lễ bao
+18008; Ngày lẻ mệt mỏi mạo xưng 200 Nguyên Lễ bao
+18009; Ngày lẻ mệt mỏi mạo xưng 500 Nguyên Lễ bao
+18010; Ngày lẻ mệt mỏi mạo xưng 1000 Nguyên Lễ bao
+18011; Ngày lẻ mệt mỏi mạo xưng 2000 Nguyên Lễ bao
+18012; Ngày lẻ mệt mỏi mạo xưng 3000 Nguyên Lễ bao
+18013; Ngày lẻ mệt mỏi mạo xưng 5000 Nguyên Lễ bao
+18014; Ngày lẻ mệt mỏi mạo xưng 10000 Nguyên Lễ bao
+18015; Mỗi ngày đơn bút nạp tiền 198 Nguyên Lễ bao
+18016; Mỗi ngày đơn bút nạp tiền 328 Nguyên Lễ bao
+18017; Mỗi ngày đơn bút nạp tiền 648 Nguyên Lễ bao
+18018; Mỗi ngày đơn bút nạp tiền 1000 Nguyên Lễ bao
+18019; Mỗi ngày đơn bút nạp tiền 2000 Nguyên Lễ bao
+18020; Mỗi ngày đơn bút nạp tiền 5000 Nguyên Lễ bao
+18021; Khen ngợi gói quà lớn
+18022; Quan danh gói quà lớn
+19001;1 Nguyên thật nạp thẻ
+19002;1 Nguyên Nguyên bảo thẻ
+19003;10 Nguyên tiền mặt thẻ
+19004;30 Nguyên tiền mặt thẻ
+19005;60 Nguyên tiền mặt thẻ
+19006;98 Nguyên tiền mặt thẻ
+19007;198 Nguyên tiền mặt thẻ
+19008;328 Nguyên tiền mặt thẻ
+19009;648 Nguyên tiền mặt thẻ
+19010; Bạch long tầm bảo thẻ
+19011; Phi Tướng tầm bảo thẻ
+19012; Thần uy tầm bảo thẻ
+19013; Võ Thánh tầm bảo thẻ
+19014; Bá vương tầm bảo thẻ
+19120; Hưu bổng
+400100; Phương Thiên Họa Kích
+400101; Phương Thiên Họa Kích
+400102; Phương Thiên Họa Kích
+400103; Phương Thiên Họa Kích
+400104; Phương Thiên Họa Kích
+400105; Phương Thiên Họa Kích
+400106; Phương Thiên Họa Kích
+400107; Phương Thiên Họa Kích
+400200; Ma đạo thiên luân
+400201; Ma đạo thiên luân
+400202; Ma đạo thiên luân
+400203; Ma đạo thiên luân
+400204; Ma đạo thiên luân
+400205; Ma đạo thiên luân
+400206; Ma đạo thiên luân
+400207; Ma đạo thiên luân
+400300; Thanh Long Yển Nguyệt Đao
+400301; Thanh Long Yển Nguyệt Đao
+400302; Thanh Long Yển Nguyệt Đao
+400303; Thanh Long Yển Nguyệt Đao
+400304; Thanh Long Yển Nguyệt Đao
+400305; Thanh Long Yển Nguyệt Đao
+400306; Thanh Long Yển Nguyệt Đao
+400307; Thanh Long Yển Nguyệt Đao
+400400; Thanh cương kiếm
+400401; Thanh cương kiếm
+400402; Thanh cương kiếm
+400403; Thanh cương kiếm
+400404; Thanh cương kiếm
+400405; Thanh cương kiếm
+400406; Thanh cương kiếm
+400407; Thanh cương kiếm
+400500; Thất tinh bảo đao
+400501; Thất tinh bảo đao
+400502; Thất tinh bảo đao
+400503; Thất tinh bảo đao
+400504; Thất tinh bảo đao
+400505; Thất tinh bảo đao
+400506; Thất tinh bảo đao
+400507; Thất tinh bảo đao
+400600; Huyền thiết Phá Quân thương
+400601; Huyền thiết Phá Quân thương
+400602; Huyền thiết Phá Quân thương
+400603; Huyền thiết Phá Quân thương
+400604; Huyền thiết Phá Quân thương
+400605; Huyền thiết Phá Quân thương
+400606; Huyền thiết Phá Quân thương
+400607; Huyền thiết Phá Quân thương
+400700; Thanh ngọc quạt xếp
+400701; Thanh ngọc quạt xếp
+400702; Thanh ngọc quạt xếp
+400703; Thanh ngọc quạt xếp
+400704; Thanh ngọc quạt xếp
+400705; Thanh ngọc quạt xếp
+400706; Thanh ngọc quạt xếp
+400707; Thanh ngọc quạt xếp
+400800; Rồng gan sáng ngân thương
+400801; Rồng gan sáng ngân thương
+400802; Rồng gan sáng ngân thương
+400803; Rồng gan sáng ngân thương
+400804; Rồng gan sáng ngân thương
+400805; Rồng gan sáng ngân thương
+400806; Rồng gan sáng ngân thương
+400807; Rồng gan sáng ngân thương
+400900; Thiên hỏa đàn
+400901; Thiên hỏa đàn
+400902; Thiên hỏa đàn
+400903; Thiên hỏa đàn
+400904; Thiên hỏa đàn
+400905; Thiên hỏa đàn
+400906; Thiên hỏa đàn
+400907; Thiên hỏa đàn
+401000; Bá vương chùy
+401001; Bá vương chùy
+401002; Bá vương chùy
+401003; Bá vương chùy
+401004; Bá vương chùy
+401005; Bá vương chùy
+401006; Bá vương chùy
+401007; Bá vương chùy
+401100; Rắn răng gãy hồn đâm
+401101; Rắn răng gãy hồn đâm
+401102; Rắn răng gãy hồn đâm
+401103; Rắn răng gãy hồn đâm
+401104; Rắn răng gãy hồn đâm
+401105; Rắn răng gãy hồn đâm
+401106; Rắn răng gãy hồn đâm
+401107; Rắn răng gãy hồn đâm
+401200; U Minh Quỷ Trảo
+401201; U Minh Quỷ Trảo
+401202; U Minh Quỷ Trảo
+401203; U Minh Quỷ Trảo
+401204; U Minh Quỷ Trảo
+401205; U Minh Quỷ Trảo
+401206; U Minh Quỷ Trảo
+401207; U Minh Quỷ Trảo
+401300; Bá vương đao
+401301; Bá vương đao
+401302; Bá vương đao
+401303; Bá vương đao
+401304; Bá vương đao
+401305; Bá vương đao
+401306; Bá vương đao
+401307; Bá vương đao
+401400; Trượng Bát Xà Mâu
+401401; Trượng Bát Xà Mâu
+401402; Trượng Bát Xà Mâu
+401403; Trượng Bát Xà Mâu
+401404; Trượng Bát Xà Mâu
+401405; Trượng Bát Xà Mâu
+401406; Trượng Bát Xà Mâu
+401407; Trượng Bát Xà Mâu
+401500; Quỷ Vương thuẫn
+401501; Quỷ Vương thuẫn
+401502; Quỷ Vương thuẫn
+401503; Quỷ Vương thuẫn
+401504; Quỷ Vương thuẫn
+401505; Quỷ Vương thuẫn
+401506; Quỷ Vương thuẫn
+401507; Quỷ Vương thuẫn
+401600; Thanh Minh kiếm
+401601; Thanh Minh kiếm
+401602; Thanh Minh kiếm
+401603; Thanh Minh kiếm
+401604; Thanh Minh kiếm
+401605; Thanh Minh kiếm
+401606; Thanh Minh kiếm
+401607; Thanh Minh kiếm
+401700; Nga Mi Thứ
+401701; Nga Mi Thứ
+401702; Nga Mi Thứ
+401703; Nga Mi Thứ
+401704; Nga Mi Thứ
+401705; Nga Mi Thứ
+401706; Nga Mi Thứ
+401707; Nga Mi Thứ
+401800; Binh pháp tinh yếu
+401801; Binh pháp tinh yếu
+401802; Binh pháp tinh yếu
+401803; Binh pháp tinh yếu
+401804; Binh pháp tinh yếu
+401805; Binh pháp tinh yếu
+401806; Binh pháp tinh yếu
+401807; Binh pháp tinh yếu
+401900; Thư hùng song kiếm
+401901; Thư hùng song kiếm
+401902; Thư hùng song kiếm
+401903; Thư hùng song kiếm
+401904; Thư hùng song kiếm
+401905; Thư hùng song kiếm
+401906; Thư hùng song kiếm
+401907; Thư hùng song kiếm
+402000; Mạ vàng búa
+402001; Mạ vàng búa
+402002; Mạ vàng búa
+402003; Mạ vàng búa
+402004; Mạ vàng búa
+402005; Mạ vàng búa
+402006; Mạ vàng búa
+402007; Mạ vàng búa
+402100; Phán Quan Bút
+402101; Phán Quan Bút
+402102; Phán Quan Bút
+402103; Phán Quan Bút
+402104; Phán Quan Bút
+402105; Phán Quan Bút
+402106; Phán Quan Bút
+402107; Phán Quan Bút
+402200; Từng ngày cung
+402201; Từng ngày cung
+402202; Từng ngày cung
+402203; Từng ngày cung
+402204; Từng ngày cung
+402205; Từng ngày cung
+402206; Từng ngày cung
+402207; Từng ngày cung
+402300; Tỳ Hưu ấn
+402301; Tỳ Hưu ấn
+402302; Tỳ Hưu ấn
+402303; Tỳ Hưu ấn
+402304; Tỳ Hưu ấn
+402305; Tỳ Hưu ấn
+402306; Tỳ Hưu ấn
+402307; Tỳ Hưu ấn
+402400; Phá sóng đao
+402401; Phá sóng đao
+402402; Phá sóng đao
+402403; Phá sóng đao
+402404; Phá sóng đao
+402405; Phá sóng đao
+402406; Phá sóng đao
+402407; Phá sóng đao
+402500; Huyền thiết đao
+402501; Huyền thiết đao
+402502; Huyền thiết đao
+402503; Huyền thiết đao
+402504; Huyền thiết đao
+402505; Huyền thiết đao
+402506; Huyền thiết đao
+402507; Huyền thiết đao
+402600; Khai Sơn Phủ
+402601; Khai Sơn Phủ
+402602; Khai Sơn Phủ
+402603; Khai Sơn Phủ
+402604; Khai Sơn Phủ
+402605; Khai Sơn Phủ
+402606; Khai Sơn Phủ
+402607; Khai Sơn Phủ
+402700; Ỷ Thiên Kiếm
+402701; Ỷ Thiên Kiếm
+402702; Ỷ Thiên Kiếm
+402703; Ỷ Thiên Kiếm
+402704; Ỷ Thiên Kiếm
+402705; Ỷ Thiên Kiếm
+402706; Ỷ Thiên Kiếm
+402707; Ỷ Thiên Kiếm
+402800;[ Ma ] Huyền thiết đao
+402801;[ Ma ] Huyền thiết đao
+402802;[ Ma ] Huyền thiết đao
+402803;[ Ma ] Huyền thiết đao
+402804;[ Ma ] Huyền thiết đao
+402805;[ Ma ] Huyền thiết đao
+402806;[ Ma ] Huyền thiết đao
+402807;[ Ma ] Huyền thiết đao
+402900;[ Ma ] Khai Sơn Phủ
+402901;[ Ma ] Khai Sơn Phủ
+402902;[ Ma ] Khai Sơn Phủ
+402903;[ Ma ] Khai Sơn Phủ
+402904;[ Ma ] Khai Sơn Phủ
+402905;[ Ma ] Khai Sơn Phủ
+402906;[ Ma ] Khai Sơn Phủ
+402907;[ Ma ] Khai Sơn Phủ
+403000;[ Ma ] Nga Mi Thứ
+403001;[ Ma ] Nga Mi Thứ
+403002;[ Ma ] Nga Mi Thứ
+403003;[ Ma ] Nga Mi Thứ
+403004;[ Ma ] Nga Mi Thứ
+403005;[ Ma ] Nga Mi Thứ
+403006;[ Ma ] Nga Mi Thứ
+403007;[ Ma ] Nga Mi Thứ
+403100;[ Ma ] Binh pháp tinh yếu
+403101;[ Ma ] Binh pháp tinh yếu
+403102;[ Ma ] Binh pháp tinh yếu
+403103;[ Ma ] Binh pháp tinh yếu
+403104;[ Ma ] Binh pháp tinh yếu
+403105;[ Ma ] Binh pháp tinh yếu
+403106;[ Ma ] Binh pháp tinh yếu
+403107;[ Ma ] Binh pháp tinh yếu
+403200;[ Ma ] Bá vương đao
+403201;[ Ma ] Bá vương đao
+403202;[ Ma ] Bá vương đao
+403203;[ Ma ] Bá vương đao
+403204;[ Ma ] Bá vương đao
+403205;[ Ma ] Bá vương đao
+403206;[ Ma ] Bá vương đao
+403207;[ Ma ] Bá vương đao
+403300;[ Ma ] Thất tinh bảo đao
+403301;[ Ma ] Thất tinh bảo đao
+403302;[ Ma ] Thất tinh bảo đao
+403303;[ Ma ] Thất tinh bảo đao
+403304;[ Ma ] Thất tinh bảo đao
+403305;[ Ma ] Thất tinh bảo đao
+403306;[ Ma ] Thất tinh bảo đao
+403307;[ Ma ] Thất tinh bảo đao
+403400;[ Ma ] Quỷ Vương thuẫn
+403401;[ Ma ] Quỷ Vương thuẫn
+403402;[ Ma ] Quỷ Vương thuẫn
+403403;[ Ma ] Quỷ Vương thuẫn
+403404;[ Ma ] Quỷ Vương thuẫn
+403405;[ Ma ] Quỷ Vương thuẫn
+403406;[ Ma ] Quỷ Vương thuẫn
+403407;[ Ma ] Quỷ Vương thuẫn
+403500;[ Ma ] Từng ngày cung
+403501;[ Ma ] Từng ngày cung
+403502;[ Ma ] Từng ngày cung
+403503;[ Ma ] Từng ngày cung
+403504;[ Ma ] Từng ngày cung
+403505;[ Ma ] Từng ngày cung
+403506;[ Ma ] Từng ngày cung
+403507;[ Ma ] Từng ngày cung
+403600;[ Ma ] Bá vương chùy
+403601;[ Ma ] Bá vương chùy
+403602;[ Ma ] Bá vương chùy
+403603;[ Ma ] Bá vương chùy
+403604;[ Ma ] Bá vương chùy
+403605;[ Ma ] Bá vương chùy
+403606;[ Ma ] Bá vương chùy
+403607;[ Ma ] Bá vương chùy
+403700;[ Thần ] Phương Thiên Họa Kích
+403701;[ Thần ] Phương Thiên Họa Kích
+403702;[ Thần ] Phương Thiên Họa Kích
+403703;[ Thần ] Phương Thiên Họa Kích
+403704;[ Thần ] Phương Thiên Họa Kích
+403705;[ Thần ] Phương Thiên Họa Kích
+403706;[ Thần ] Phương Thiên Họa Kích
+403707;[ Thần ] Phương Thiên Họa Kích
+403800;[ Ma ] Ma đạo thiên luân
+403801;[ Ma ] Ma đạo thiên luân
+403802;[ Ma ] Ma đạo thiên luân
+403803;[ Ma ] Ma đạo thiên luân
+403804;[ Ma ] Ma đạo thiên luân
+403805;[ Ma ] Ma đạo thiên luân
+403806;[ Ma ] Ma đạo thiên luân
+403807;[ Ma ] Ma đạo thiên luân
+403900;[ Thần ] Thanh Long Yển Nguyệt Đao
+403901;[ Thần ] Thanh Long Yển Nguyệt Đao
+403902;[ Thần ] Thanh Long Yển Nguyệt Đao
+403903;[ Thần ] Thanh Long Yển Nguyệt Đao
+403904;[ Thần ] Thanh Long Yển Nguyệt Đao
+403905;[ Thần ] Thanh Long Yển Nguyệt Đao
+403906;[ Thần ] Thanh Long Yển Nguyệt Đao
+403907;[ Thần ] Thanh Long Yển Nguyệt Đao
+404000;[ Thần ] Thanh cương kiếm
+404001;[ Thần ] Thanh cương kiếm
+404002;[ Thần ] Thanh cương kiếm
+404003;[ Thần ] Thanh cương kiếm
+404004;[ Thần ] Thanh cương kiếm
+404005;[ Thần ] Thanh cương kiếm
+404006;[ Thần ] Thanh cương kiếm
+404007;[ Thần ] Thanh cương kiếm
+404100;[ Ma ] U Minh Quỷ Trảo
+404101;[ Ma ] U Minh Quỷ Trảo
+404102;[ Ma ] U Minh Quỷ Trảo
+404103;[ Ma ] U Minh Quỷ Trảo
+404104;[ Ma ] U Minh Quỷ Trảo
+404105;[ Ma ] U Minh Quỷ Trảo
+404106;[ Ma ] U Minh Quỷ Trảo
+404107;[ Ma ] U Minh Quỷ Trảo
+404200;[ Thần ] Rồng gan sáng ngân thương
+404201;[ Thần ] Rồng gan sáng ngân thương
+404202;[ Thần ] Rồng gan sáng ngân thương
+404203;[ Thần ] Rồng gan sáng ngân thương
+404204;[ Thần ] Rồng gan sáng ngân thương
+404205;[ Thần ] Rồng gan sáng ngân thương
+404206;[ Thần ] Rồng gan sáng ngân thương
+404207;[ Thần ] Rồng gan sáng ngân thương
+404300;[ Ma ] Thanh Minh kiếm
+404301;[ Ma ] Thanh Minh kiếm
+404302;[ Ma ] Thanh Minh kiếm
+404303;[ Ma ] Thanh Minh kiếm
+404304;[ Ma ] Thanh Minh kiếm
+404305;[ Ma ] Thanh Minh kiếm
+404306;[ Ma ] Thanh Minh kiếm
+404307;[ Ma ] Thanh Minh kiếm
+404400;[ Ma ] Huyền thiết Phá Quân thương
+404401;[ Ma ] Huyền thiết Phá Quân thương
+404402;[ Ma ] Huyền thiết Phá Quân thương
+404403;[ Ma ] Huyền thiết Phá Quân thương
+404404;[ Ma ] Huyền thiết Phá Quân thương
+404405;[ Ma ] Huyền thiết Phá Quân thương
+404406;[ Ma ] Huyền thiết Phá Quân thương
+404407;[ Ma ] Huyền thiết Phá Quân thương
+404500;[ Ma ] Thư hùng song kiếm
+404501;[ Ma ] Thư hùng song kiếm
+404502;[ Ma ] Thư hùng song kiếm
+404503;[ Ma ] Thư hùng song kiếm
+404504;[ Ma ] Thư hùng song kiếm
+404505;[ Ma ] Thư hùng song kiếm
+404506;[ Ma ] Thư hùng song kiếm
+404507;[ Ma ] Thư hùng song kiếm
+404600;[ Ma ] Phá sóng đao
+404601;[ Ma ] Phá sóng đao
+404602;[ Ma ] Phá sóng đao
+404603;[ Ma ] Phá sóng đao
+404604;[ Ma ] Phá sóng đao
+404605;[ Ma ] Phá sóng đao
+404606;[ Ma ] Phá sóng đao
+404607;[ Ma ] Phá sóng đao
+404700;[ Thần ] Mạ vàng búa
+404701;[ Thần ] Mạ vàng búa
+404702;[ Thần ] Mạ vàng búa
+404703;[ Thần ] Mạ vàng búa
+404704;[ Thần ] Mạ vàng búa
+404705;[ Thần ] Mạ vàng búa
+404706;[ Thần ] Mạ vàng búa
+404707;[ Thần ] Mạ vàng búa
+404800;[ Thần ] Trượng Bát Xà Mâu
+404801;[ Thần ] Trượng Bát Xà Mâu
+404802;[ Thần ] Trượng Bát Xà Mâu
+404803;[ Thần ] Trượng Bát Xà Mâu
+404804;[ Thần ] Trượng Bát Xà Mâu
+404805;[ Thần ] Trượng Bát Xà Mâu
+404806;[ Thần ] Trượng Bát Xà Mâu
+404807;[ Thần ] Trượng Bát Xà Mâu
+404900;[ Ma ] Phán Quan Bút
+404901;[ Ma ] Phán Quan Bút
+404902;[ Ma ] Phán Quan Bút
+404903;[ Ma ] Phán Quan Bút
+404904;[ Ma ] Phán Quan Bút
+404905;[ Ma ] Phán Quan Bút
+404906;[ Ma ] Phán Quan Bút
+404907;[ Ma ] Phán Quan Bút
+405000;[ Ma ] Tỳ Hưu ấn
+405001;[ Ma ] Tỳ Hưu ấn
+405002;[ Ma ] Tỳ Hưu ấn
+405003;[ Ma ] Tỳ Hưu ấn
+405004;[ Ma ] Tỳ Hưu ấn
+405005;[ Ma ] Tỳ Hưu ấn
+405006;[ Ma ] Tỳ Hưu ấn
+405007;[ Ma ] Tỳ Hưu ấn
+12101; Thần · Lữ Bố mảnh vỡ
+12102; Ma · Mộ hổ Trọng Đạt mảnh vỡ
+12103; Thần · Quan Vũ mảnh vỡ
+12104; Thần · Kiêu hùng Mạnh Đức mảnh vỡ
+12105; Ma · Trương quai hàm mảnh vỡ
+12106; Thần · Triệu Vân mảnh vỡ
+12107; Ma · Tôn Quyền mảnh vỡ
+12108; Ma · Mã Siêu mảnh vỡ
+12109; Ma · Nhân đức hiền quân mảnh vỡ
+12110; Ma · Quan thánh Thái tử mảnh vỡ
+12111; Thần · Hổ Si Ác Lai mảnh vỡ
+12112; Thần · Trương Phi mảnh vỡ
+12113; Ma · Mã Lương mảnh vỡ
+12114; Ma · Viên Thiệu mảnh vỡ
+12115; Ma · Thiên tướng Tào Nhân mảnh vỡ
+12116; Ma · Hạ Hầu thật thà mảnh vỡ
+12117; Ma · Trần Cung mảnh vỡ
+12118; Ma · Thái Sử Từ mảnh vỡ
+12119; Ma · Trương Liêu mảnh vỡ
+12120; Ma · Tôn Kiên mảnh vỡ
+12121; Ma · Loạn thế ma vương mảnh vỡ
+12122; Ma · Hoàng Trung mảnh vỡ
+12124; Ma · Hoàng Cái mảnh vỡ
+12125; Thần · Gia Cát Lượng mảnh vỡ
+12126; Ma · Tư Mã Chiêu mảnh vỡ
+12127; Ma · Bước luyện sư mảnh vỡ
+12128; Ma · Tào Hưu mảnh vỡ
+12129; Ma · Khương duy mảnh vỡ
+12130; Ma · Mộc Hươu đại vương mảnh vỡ
+12131; Ma · Hán Hiến Đế mảnh vỡ
+12132; Ma · Công Tôn Toản mảnh vỡ
+12133; Ma · Tại cát mảnh vỡ
+12134; Ma · Lưu thiền mảnh vỡ
+12135; Ma · Tiểu Kiều mảnh vỡ
+12136; Ma · Tôn Thượng Hương mảnh vỡ
+12137; Ma · Hạ Hầu Uyên mảnh vỡ
+12138; Ma · Nhan Lương mảnh vỡ
+405100;[ Thần ] Thanh ngọc quạt xếp
+405101;[ Thần ] Thanh ngọc quạt xếp
+405102;[ Thần ] Thanh ngọc quạt xếp
+405103;[ Thần ] Thanh ngọc quạt xếp
+405104;[ Thần ] Thanh ngọc quạt xếp
+405105;[ Thần ] Thanh ngọc quạt xếp
+405106;[ Thần ] Thanh ngọc quạt xếp
+405107;[ Thần ] Thanh ngọc quạt xếp
+405200;[ Ma ] Rắn răng gãy hồn đâm
+405201;[ Ma ] Rắn răng gãy hồn đâm
+405202;[ Ma ] Rắn răng gãy hồn đâm
+405203;[ Ma ] Rắn răng gãy hồn đâm
+405204;[ Ma ] Rắn răng gãy hồn đâm
+405205;[ Ma ] Rắn răng gãy hồn đâm
+405206;[ Ma ] Rắn răng gãy hồn đâm
+405207;[ Ma ] Rắn răng gãy hồn đâm
+405300;[ Ma ] Thiên hỏa đàn
+405301;[ Ma ] Thiên hỏa đàn
+405302;[ Ma ] Thiên hỏa đàn
+405303;[ Ma ] Thiên hỏa đàn
+405304;[ Ma ] Thiên hỏa đàn
+405305;[ Ma ] Thiên hỏa đàn
+405306;[ Ma ] Thiên hỏa đàn
+405307;[ Ma ] Thiên hỏa đàn

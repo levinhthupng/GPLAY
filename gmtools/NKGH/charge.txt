@@ -1,0 +1,7 @@
+1;Thẻ Tuần
+2;Thẻ Tháng
+3;Gói 50.000 KNB
+4;Gói 100.000 KNB
+5;Gói 500.000 KNB
+6;Gói 1.000.000 KNB
+7;Gói 5.000.000 KNB

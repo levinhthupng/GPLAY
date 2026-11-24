@@ -1,0 +1,403 @@
+1| Viễn cổ dị thú · Diệu con ếch
+2| Thái Cổ Tiên thú · Diệu con ếch cỏ
+3| Hoang Cổ Thần thú · Diệu con ếch hoa
+4| Siêu tiến hóa · Diệu con ếch hoa
+11| Viễn cổ dị thú · Tiểu hỏa long
+12| Thái Cổ Tiên thú · Lửa khủng long
+13| Hoang Cổ Thần thú · Rồng phun lửa
+14| Siêu tiến hóa · Rồng phun lửa X
+15| Siêu tiến hóa · Rồng phun lửa Y
+21| Viễn cổ dị thú · Denis rùa
+22| Thái Cổ Tiên thú · Thẻ meo rùa
+23| Hoang Cổ Thần thú · Thủy tiễn rùa
+24| Siêu tiến hóa · Thủy tiễn rùa
+31| Viễn cổ dị thú · Lông xanh trùng
+33| Thái Cổ Tiên thú · Ba lớn bướm
+41| Viễn cổ dị thú · Lớn châm ong
+44| Siêu tiến hóa · Lớn châm ong
+51| Viễn cổ dị thú · Sóng sóng
+52| Thái Cổ Tiên thú · So tài một chút chim
+53|T1 Chim sơn ca · Hi gạo so na
+61| Viễn cổ dị thú · Nhỏ Lada
+62| Thái Cổ Tiên thú · Lada
+71| Viễn cổ dị thú · Lie Sparrow
+72| Thái Cổ Tiên thú · Miệng rộng tước
+81| Viễn cổ dị thú · A Bách rắn
+82| Thái Cổ Tiên thú · A Bách quái
+91| Viễn cổ dị thú · Da đồi
+92| Thái Cổ Tiên thú · Pikachu
+93| Hoang Cổ Thần thú · Lôi đồi
+101| Viễn cổ dị thú · Xuyên Sơn Thử
+102| Thái Cổ Tiên thú · Xuyên Sơn Vương
+111| Viễn cổ dị thú · Ni nhiều lan
+112| Thái Cổ Tiên thú · Ni nhiều na
+113| Hoang Cổ Thần thú · Ni nhiều sau
+121| Viễn cổ dị thú · Ni nhiều lãng
+122| Thái Cổ Tiên thú · Ni nhiều lực nặc
+123| Hoang Cổ Thần thú · Ni nhiều vương
+131| Viễn cổ dị thú · Da Bảo Bảo
+132| Thái Cổ Tiên thú · Bì Bì
+133| Hoang Cổ Thần thú · Da nhưng tây
+151| Viễn cổ dị thú · Bảo Bảo đinh
+152| Thái Cổ Tiên thú · Béo đinh
+153| Hoang Cổ Thần thú · Béo nhưng đinh
+161| Viễn cổ dị thú · Siêu âm Bức
+162| Thái Cổ Tiên thú · Miệng rộng Bức
+163| Hoang Cổ Thần thú · Xiên chữ Bức
+171| Viễn cổ dị thú · Đi đường cỏ
+172| Thái Cổ Tiên thú · Xú xú hoa
+173| Hoang Cổ Thần thú · Bá vương hoa
+191| Viễn cổ dị thú · Mao cầu
+192| Thái Cổ Tiên thú · Ma lỗ nga
+211| Viễn cổ dị thú · Meo meo
+212| Thái Cổ Tiên thú · Miêu lão đại
+221| Viễn cổ dị thú · Có thể đạt tới vịt
+222| Thái Cổ Tiên thú · Ca đạt vịt
+231| Viễn cổ dị thú · Khỉ quái
+232| Thái Cổ Tiên thú · Hỏa Bạo Hầu
+241| Viễn cổ dị thú · Kathi chó
+242| Thái Cổ Tiên thú · Tốc độ gió chó
+261| Viễn cổ dị thú · Cathy
+262| Thái Cổ Tiên thú · Dũng Kira
+263| Hoang Cổ Thần thú · Hồ
+264| Siêu tiến hóa · Hồ
+271| Viễn cổ dị thú · Bắp thịt
+272| Thái Cổ Tiên thú · Hào lực
+273| Hoang Cổ Thần thú · Quái lực
+281| Viễn cổ dị thú · Loa mầm
+282| Thái Cổ Tiên thú · Ngây mồm hoa
+283| Hoang Cổ Thần thú · Đại thực hoa
+301| Viễn cổ dị thú · Tiểu Quyền Thạch
+302| Thái Cổ Tiên thú · Ù ù thạch
+303| Hoang Cổ Thần thú · Ù ù nham
+331| Viễn cổ dị thú · Nhỏ từ quái
+332| Thái Cổ Tiên thú · Ba hợp từ quái
+333| Hoang Cổ Thần thú · Tự bạo từ quái
+341| Siêu cấp · Bạo cơ muỗi
+351| Viễn cổ dị thú · Tút tút
+352| Thái Cổ Tiên thú · Tút tút lợi
+371| Khải đường Địch Âu · Giác ngộ
+372| Thương vang
+381| Nguyên thủy · Thor già Leo
+382| Siêu cấp · Siêu mộng X
+391| Viễn cổ dị thú · Quỷ tư
+392| Thái Cổ Tiên thú · Quỷ Stone
+393| Hoang Cổ Thần thú · Cảnh quỷ
+394| Siêu tiến hóa · Cảnh quỷ
+401| Viễn cổ dị thú · Đại nham rắn
+402| Thái Cổ Tiên thú · Lớn cương xà
+451| Viễn cổ dị thú · Tạp lạp Tạp lạp
+452| Thái Cổ Tiên thú · Ầm ầm ầm ầm
+461| Viễn cổ dị thú · Không sợ tiểu tử
+462| Thái Cổ Tiên thú · Phi cước lang
+463| Thái Cổ Tiên thú · Khoái quyền lang
+464| Thái Cổ Tiên thú · Chiến múa lang
+471| Viễn cổ dị thú · Đầu lưỡi lớn
+472| Thái Cổ Tiên thú · Lưỡi to liếm
+481| Viễn cổ dị thú · Gas đạn
+482| Thái Cổ Tiên thú · Song đạn gas
+491| Viễn cổ dị thú · Độc giác tê giác
+492| Thái Cổ Tiên thú · Chui tê giác thú
+493| Hoang Cổ Thần thú · Siêu giáp cuồng tê
+501| Viễn cổ dị thú · Tiểu Phúc trứng
+502| Thái Cổ Tiên thú · May mắn trứng
+503| Hoang Cổ Thần thú · Hạnh phúc trứng
+541| Viễn cổ dị thú · Sừng cá vàng
+542| Thái Cổ Tiên thú · Cá vàng vương
+551| Viễn cổ dị thú · Hải tinh tinh
+552| Thái Cổ Tiên thú · Bảo thạch hải tinh
+571| Viễn cổ dị thú · Phi Thiên Đường Lang
+572| Thái Cổ Tiên thú · Cự kìm bọ ngựa
+574| Nguyên kế hoạch · Cự kìm bọ ngựa
+591| Viễn cổ dị thú · Điện giật quái
+592| Thái Cổ Tiên thú · Điện giật thú
+593| Hoang Cổ Thần thú · Điện giật ma thú
+601| Viễn cổ dị thú · Vịt miệng Bảo Bảo
+602| Thái Cổ Tiên thú · Vịt miệng lửa thú
+603| Hoang Cổ Thần thú · Vịt miệng viêm thú
+611| Viễn cổ dị thú · Khải La tư
+631| Viễn cổ dị thú · Bạo Lý Long
+641| Viễn cổ dị thú · Laplace
+691| Viễn cổ dị thú · Hoá thạch nón trụ
+692| Thái Cổ Tiên thú · Liêm đao nón trụ
+701| Viễn cổ dị thú · Hoá thạch Dực Long
+711| Viễn cổ dị thú · Nhỏ thẻ so thú
+712| Thái Cổ Tiên thú · Thẻ so thú
+721| Thái Cổ Tiên thú · Cấp đống chim
+731| Lôi điện tường vân · Thiểm Điện điểu
+741| Thái Cổ Tiên thú · Hỏa Diễm Điểu
+751| Viễn cổ dị thú · Rồng tí hon
+752| Thái Cổ Tiên thú · Hag rồng
+753| Hoang Cổ Thần thú · Nhanh rồng
+761| Hoang Cổ Thần thú · Siêu mộng
+771| Khởi nguyên · Mộng ảo bảy sủng
+781| Viễn cổ dị thú · Cúc cây cỏ
+782| Thái Cổ Tiên thú · Nguyệt quế lá
+783| Hoang Cổ Thần thú · Lớn trúc quỳ
+791| Viễn cổ dị thú · Hỏa cầu chuột
+792| Thái Cổ Tiên thú · Lửa nham chuột
+793| Hoang Cổ Thần thú · Hỏa bạo thú
+801| Viễn cổ dị thú · Nhỏ cưa ngạc
+802| Thái Cổ Tiên thú · Lam ngạc
+803| Hoang Cổ Thần thú · Đại lực ngạc
+861| Viễn cổ dị thú · Ba Khắc so
+862| Thái Cổ Tiên thú · Ba Khắc cơ cổ
+863| Hoang Cổ Thần thú · Ba Khắc Chris
+881| Viễn cổ dị thú · Be lợi dê
+882| Thái Cổ Tiên thú · Mượt mà dê
+883| Hoang Cổ Thần thú · Điện Long
+884| Siêu tiến hóa · Điện Long
+891| Viễn cổ dị thú · Lộ lực lệ
+892| Thái Cổ Tiên thú · Mã lực lộ
+893| Hoang Cổ Thần thú · Mã lực lộ lệ
+971| Viễn cổ dị thú · Mộng yêu
+972| Thái Cổ Tiên thú · Mộng yêu ma
+1031| Viễn cổ dị thú · Thiên hạt
+1032| Thái Cổ Tiên thú · Thiên hạt vương
+1071| Nguyên thủy · Hera Kroos
+1081| Viễn cổ dị thú · Nữu kéo
+1082| Thái Cổ Tiên thú · Mã nữu kéo
+1171| Viễn cổ dị thú · Mang Rewby
+1172| Siêu cấp · Địa Ngục Hắc Lỗ thêm
+1221| Thái Cổ Tiên thú · Lôi Công
+1231| Thái Cổ Tiên thú · Viêm Đế
+1241| Thái Cổ Tiên thú · Thủy quân
+1251| Viễn cổ dị thú · Ấu Kira tư
+1252| Thái Cổ Tiên thú · Cát Kira tư
+1253| Hoang Cổ Thần thú · Ban Kira tư
+1261| Hoang Cổ Thần thú · Lạc Kỳ á
+1271| Hoang Cổ Thần thú · Phượng vương
+1281| Hoang Cổ Thần thú · Lúc Labie
+1291| Viễn cổ dị thú · Mộc thạch sùng
+1292| Thái Cổ Tiên thú · Rừng rậm thằn lằn
+1293| Hoang Cổ Thần thú · Thằn lằn vương
+1301| Viễn cổ dị thú · Hỏa Trĩ gà
+1302| Thái Cổ Tiên thú · Khỏe mạnh cường tráng gà
+1303| Hoang Cổ Thần thú · Hỏa diễm gà
+1311| Viễn cổ dị thú · Nước vọt cá
+1312| Thái Cổ Tiên thú · Chiểu vọt cá
+1313| Hoang Cổ Thần thú · Cự chiểu quái
+1314| Siêu tiến hóa · Cự chiểu quái
+1351| Viễn cổ dị thú · Sen Diệp Đồng tử
+1352| Thái Cổ Tiên thú · Sen mũ tiểu đồng
+1353| Hoang Cổ Thần thú · Vui Thiên Hà đồng
+1391| Viễn cổ dị thú · Kéo lỗ kéo
+1392| Siêu tiến hóa · Ngải đường lôi đóa
+1393| Ngọc Lan Hoa khôi · Chanay đóa
+1394| Siêu cấp · Ngải đường lôi đóa
+1396| Tia chớp · Siêu cấp Chanay đóa
+1421| Viễn cổ dị thú · Người lười rái cá
+1422| Thái Cổ Tiên thú · Qua động vượn
+1423| Hoang Cổ Thần thú · Xin phép nghỉ vương
+1441| Viễn cổ dị thú · Cô Nữu Nữu
+1442| Thái Cổ Tiên thú · Rống bạo đạn
+1443| Hoang Cổ Thần thú · Tiếng nổ quái
+1501| Viễn cổ dị thú · Nhưng có thể nhiều kéo
+1502| Thái Cổ Tiên thú · Nhưng nhiều kéo
+1503| Nguyên thủy · Sóng sĩ nhưng nhiều kéo
+1504| Siêu tiến hóa · Sóng sĩ nhưng nhiều kéo
+1611| Viễn cổ dị thú · Ngốc lửa còng
+1612| Thái Cổ Tiên thú · Phun lửa còng
+1641| Thái Cổ Tiên thú · Lắc lắc ban
+1771| Viễn cổ dị thú · Xấu xấu cá
+1772| Thái Cổ Tiên thú · Đẹp nạp tư
+1801| Viễn cổ dị thú · Oán ảnh bé con
+1802| Thái Cổ Tiên thú · Nguyền rủa bé con
+1811| Viễn cổ dị thú · Đêm tuần linh
+1812| Thái Cổ Tiên thú · Bàng hoàng dạ linh
+1813| Hoang Cổ Thần thú · Đêm tối ma linh
+1841| Hoang Cổ Thần thú · A đột nhiên toa lỗ
+1851| Viễn cổ dị thú · Tuyết Đồng tử
+1852| Thái Cổ Tiên thú · Băng quỷ hộ
+1853| Thái Cổ Tiên thú · Tuyết yêu nữ
+1861| Viễn cổ dị thú · Báo biển cầu
+1862| Thái Cổ Tiên thú · Hải Ma sư
+1863| Hoang Cổ Thần thú · Đế răng sư tử biển
+1891| Viễn cổ dị thú · Bảo bối rồng
+1892| Thái Cổ Tiên thú · Giáp xác rồng
+1893| Hoang Cổ Thần thú · Bạo Phi Long
+1901| Viễn cổ dị thú · Sắt tạ tay
+1902| Thái Cổ Tiên thú · Kim loại quái
+1903| Hoang Cổ Thần thú · Cự kim quái
+1911| Thái Cổ Tiên thú · Lôi Cát Locke
+1921| Thái Cổ Tiên thú · Lôi Cát Ace
+1931| Siêu cấp · Régis Kỳ Lỗ
+1941| Thái Cổ Tiên thú · Latias
+1951| Siêu cấp · Giấu mã nhưng đặc biệt
+1961| Hoang Cổ Thần thú · Đóng Âu thẻ
+1962| Nguyên thủy · Đóng Âu thẻ
+1971| Hoang Cổ Thần thú · Cố kéo nhiều
+1972| Nguyên thủy · Cố kéo nhiều
+1981| Hoang Cổ Thần thú · Liệt không tòa
+1982| Siêu cấp · Liệt không tòa
+1991| Ma pháp Tinh Sứ · Kira cầu
+2011| Viễn cổ dị thú · Cỏ mầm rùa
+2012| Thái Cổ Tiên thú · Rừng cây rùa
+2013| Hoang Cổ Thần thú · Đài đất rùa
+2021| Viễn cổ dị thú · Hỏa diễm khỉ
+2022| Thái Cổ Tiên thú · Lửa mạnh khỉ
+2023| Hoang Cổ Thần thú · Liệt diễm khỉ
+2031| Viễn cổ dị thú · Sóng Gia Mạn
+2032| Thái Cổ Tiên thú · Sóng hoàng tử
+2033| Hoang Cổ Thần thú · Đế vương cầm sóng
+2071| Viễn cổ dị thú · Mèo con quái
+2072| Thái Cổ Tiên thú · Siết khắc mèo
+2073| Hoang Cổ Thần thú · Röntgen mèo
+2231| Viễn cổ dị thú · Tròn lục cá mập
+2232| Thái Cổ Tiên thú · Răng nanh lục cá mập
+2233| Hoang Cổ Thần thú · Liệt cắn lục cá mập
+2241| Thiết Giáp Dũng Sĩ · Tia chớp lôi đóa
+2242| Siêu cấp · Đường Cali Âu
+2271| Viễn cổ dị thú · Không tốt con ếch
+2272| Thái Cổ Tiên thú · Độc khô con ếch
+2301| Viễn cổ dị thú · Tuyết nón lá quái
+2302| Thái Cổ Tiên thú · Bạo tuyết vương
+2303| Siêu tiến hóa · Bạo tuyết vương
+2351| Hoang Cổ Thần thú · Đế răng Luka
+2361| Hoang Cổ Thần thú · Khăn Lucci á
+2381| Siêu cấp · Lôi Cát kỳ Kaz
+2391| Hoang Cổ Thần thú · Cưỡi kéo đế nạp
+2401| Nguyên thủy · Kurei sắc Lợi Á
+2431| Hoang Cổ Thần thú · Đạt Clay y
+2441| Thái Cổ Tiên thú · Tạ gạo
+2442| Hoang Cổ Thần thú · Tạ gạo bầu trời
+2471| Viễn cổ dị thú · Dây leo dây leo rắn
+2472| Thái Cổ Tiên thú · Dây leo rắn
+2473| Hoang Cổ Thần thú · Quân chủ rắn
+2481| Viễn cổ dị thú · Ủ ấm heo
+2482| Thái Cổ Tiên thú · Xào xào heo
+2483| Hoang Cổ Thần thú · Viêm Võ Vương
+2491| Viễn cổ dị thú · Nước rái cá
+2492| Thái Cổ Tiên thú · Song nhận hoàn
+2493| Hi Hi công chúa & Khế ước thánh kiếm
+2591| Viễn cổ dị thú · Thạch viên thuốc
+2592| Thái Cổ Tiên thú · Lòng đất nham
+2593| Hoang Cổ Thần thú · Bàng nham quái
+2611| Viễn cổ dị thú · Đinh ốc chuột đất
+2612| Thái Cổ Tiên thú · Long đầu chuột đất
+2631| Viễn cổ dị thú · Vận chuyển nhỏ tượng
+2632| Thái Cổ Tiên thú · Thiết cốt thổ dân
+2633| Hoang Cổ Thần thú · Tu kiến già tượng
+2681| Viễn cổ dị thú · Bách Túc Ngô Công
+2682| Thái Cổ Tiên thú · Bánh xe cầu
+2683| Hoang Cổ Thần thú · Con rết vương
+2721| Viễn cổ dị thú · Mắt đen ngạc
+2722| Thái Cổ Tiên thú · Lưu manh ngạc
+2723| Hoang Cổ Thần thú · Lưu manh ngạc
+2821| Viễn cổ dị thú · Solo á
+2822| Thái Cổ Tiên thú · Solo Á Khắc
+2831| Viễn cổ dị thú · Bọt biển lật chuột
+2832| Thái Cổ Tiên thú · Kỳ nặc lật chuột
+2841| Viễn cổ dị thú · Gogh Bảo Bảo
+2842| Thái Cổ Tiên thú · Gogh tiểu đồng
+2843| Hoang Cổ Thần thú · Gogh tiểu thư
+2871| Viễn cổ dị thú · Mini băng
+2872| Thái Cổ Tiên thú · Nhiều hơn băng
+2873| Hoang Cổ Thần thú · Nhiều hơn băng
+2891| Hoang Cổ Thần thú · Điện chuột bay
+2921| Viễn cổ dị thú · Nhẹ nhàng · Thư
+2922| Hoang Cổ Thần thú · Nhẹ nhàng · Hùng
+2923| Viễn cổ dị thú · Béo ị · Thư
+2924| Hoang Cổ Thần thú · Béo ị · Hùng
+2961| Viễn cổ dị thú · Bánh răng mà
+2962| Thái Cổ Tiên thú · Bánh răng tổ
+2963| Hoang Cổ Thần thú · Bánh răng quái
+2991| Viễn cổ dị thú · Ánh nến linh
+2992| Thái Cổ Tiên thú · Đèn đuốc u linh
+2993| Hoang Cổ Thần thú · Tinh đèn đuốc linh
+3001| Viễn cổ dị thú · Bập bẹ
+3002| Thái Cổ Tiên thú · Búa răng rồng
+3003| Hoang Cổ Thần thú · Hai lưỡi búa chiến long
+3011| Viễn cổ dị thú · Hắt xì gấu
+3012| Thái Cổ Tiên thú · Lãnh nguyên gấu
+3021| Hoang Cổ Thần thú · Bao nhiêu bông tuyết
+3141| Viễn cổ dị thú · Đơn thủ rồng
+3142| Thái Cổ Tiên thú · Hai đầu bạo long
+3143| Hoang Cổ Thần thú · Ba đầu đảng tội ác rồng
+3151| Viễn cổ dị thú · Thiêu đốt trùng
+3152| Thái Cổ Tiên thú · Hỏa Thần nga
+3161| Hoang Cổ Thần thú · Câu khăn đường ông
+3171| Hoang Cổ Thần thú · Thay mặt Raki ông
+3181| Hoang Cổ Thần thú · Nỗ lực cát ông
+3191| Hoang Cổ Thần thú · Vòi rồng mây
+3201| Hoang Cổ Thần thú · Lôi điện mây
+3211| Hoang Cổ Thần thú · Lai Hi Lạp mẫu
+3221| Hoang Cổ Thần thú · Tiệp Khắc Rom
+3231| Hoang Cổ Thần thú · Thổ địa mây
+3241| Hoang Cổ Thần thú · Tù Rem
+3251| Hoang Cổ Thần thú · Khải đường Địch Âu
+3261| Song sinh · Đẹp Lạc a tháp · Tiếng ca
+3262| Tiên nữ · Đẹp Lạc a tháp · Vũ bộ
+3271| Siêu cấp · Đóng nặc thi đấu Kurt
+3281| Viễn cổ dị thú · A lực lật
+3282| Thái Cổ Tiên thú · Mập mạp a lực
+3283| Hoang Cổ Thần thú · Bố Lý Karon
+3291| Viễn cổ dị thú · Hỏa Hồ ly
+3292| Thái Cổ Tiên thú · Đuôi dài Hỏa Hồ
+3293| Hoang Cổ Thần thú · Yêu lửa Hồng Hồ
+3301| Viễn cổ dị thú · Oa oa ngâm con ếch
+3302| Thái Cổ Tiên thú · Oa đầu con ếch
+3303| Tiểu Trí bản Giáp Hạ nhẫn con ếch
+3341| Viễn cổ dị thú · Nhỏ sư sư
+3342| Thái Cổ Tiên thú · Hỏa viêm sư
+3351| Viễn cổ dị thú · Hoa bội bội
+3352| Thái Cổ Tiên thú · Hoa lá cuống
+3353| Hoang Cổ Thần thú · Hoa khiết phu nhân
+3411| Viễn cổ yêu khí · Độc vỏ kiếm
+3412| Thái Cổ ma khí · Song kiếm vỏ
+3413| Hoang Cổ Thánh khí · Kiên thuẫn kiếm quái
+3431| Viễn cổ dị thú · Rả rích bánh su kem
+3432| Thái Cổ Tiên thú · Béo ngọt ny
+3471| Viễn cổ dị thú · Thiết tí thương tôm
+3472| Thái Cổ Tiên thú · Đại bác cánh tay tôm
+3501| Viễn cổ dị thú · Băng Tuyết Long
+3502| Thái Cổ Tiên thú · Băng tuyết cự long
+3511| Tỷ là nữ vương & Giải tán đẹp lang
+3541| Viễn cổ dị thú · Dinh dính bảo
+3542| Thái Cổ Tiên thú · Dính đẹp mà
+3543| Hoang Cổ Thần thú · Dính mỹ long
+3561| Viễn cổ dị thú · Tiểu Mộc linh
+3562| Hoang Cổ Thần thú · Gỗ mục yêu
+3591| Viễn cổ dị thú · Ông Bức
+3592| Hoang Cổ Thần thú · Sóng âm rồng
+3601| Nguyên thủy · Triết ngươi ni Á Tư
+3611| Nguyên thủy · Y Bùi ngươi Thel
+3631| Hoang Cổ Thần thú · Tien hi
+3633| Siêu cấp · Tien hi
+3641| Thái Cổ Tiên thú · Trừng trị Hồ khăn
+3642| Hoang Cổ Thần thú · Giải phóng Hồ khăn
+3661| Viễn cổ dị thú · Mộc mộc kiêu
+3662| Thái Cổ Tiên thú · Ném vũ kiêu
+3663| Hoang Cổ Thần thú · Thư bắn cây kiêu
+3681| Viễn cổ dị thú · Cầu Cầu sư tử biển
+3682| Thái Cổ Tiên thú · Hoa dạng sư tử biển
+3683| Hoang Cổ Thần thú · Tây sư biển nhâm
+3771| Viễn cổ dị thú · Tốt xấu tinh
+3772| Thái Cổ Tiên thú · Siêu xấu tinh
+3841| Viễn cổ dị thú · Ngọt trúc trúc
+3842| Thái Cổ Tiên thú · Ngọt múa ny
+3843| Hoang Cổ Thần thú · Ngọt lạnh đẹp sau
+4121| Quỷ Vương · Mã Hạ Đa
+4131| Viễn cổ dị thú · Độc bối so
+4132| Hoang Cổ Thần thú · Bốn hàm châm rồng
+4161| Hoang Cổ Thần thú · Nhanh kéo Aora
+4171| Thái Cổ Tiên thú · Đẹp ghi chép thản
+4172| Hoang Cổ Thần thú · Đẹp ghi chép Meta
+4101| Siêu cấp · Nại Kurou tư mã
+4111| Hoang Cổ Thần thú · Mã cơ Jana
+4024| Nguyệt thần · Lộ Netia kéo
+3623|Z Thần · Cơ Gerd
+7002| Tia chớp · Thánh kiếm Pi thần
+7001| Tiểu Trí bản Pikachu
+7021| Tia chớp · Siêu cấp cảnh quỷ
+7031| Khởi nguyên · Ban Kira tư · Thú Vương
+7003| Tia chớp · Mộng ảo điện mèo
+4023| Sư tử · Vũ trụ vô địch bạo long thần
+7004| Toái không · Nhẫn thần tiểu Hắc
+7005| Vương bài · Múa thần mã cơ
+7006| Truyền thuyết · Dung nham cự thú · Thành lũy
+7007| Thánh linh · Cửu sắc thần hươu
+7008| Khởi nguyên · Tien hi · Băng tuyết
+9001| Bách biến quái · Tử sắc
+9002| Bách biến quái · Màu cam
+9003| Bách biến quái · Màu đỏ

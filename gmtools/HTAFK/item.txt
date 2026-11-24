@@ -1,0 +1,2403 @@
+1;Belly
+3;Kim cương
+5;Thuyền trưởng kinh nghiệm
+7;Đi xa tình báo
+8;Thi đấu danh vọng
+9;Sinh động độ
+10;Đồng minh cống hiến
+11;Thần cách
+12;Thành tựu điểm
+14;Hữu nghị điểm
+16;Đồng minh kinh nghiệm
+18;Tầm bảo điểm tích lũy
+19;Cạnh đoán tệ
+20;Quán quân điểm tích lũy
+21;Thang trời điểm tích lũy
+22;Đồng bạn kinh nghiệm
+23;Triệu hoán điểm tích lũy
+24;Tiên tri kết tinh
+25;Chinh chiến huân chương
+26;Chúc phúc giá trị
+27;Vinh dự huy chương
+28;Thần trang mảnh vỡ
+29;Làn da mảnh vỡ
+30;Dũng giả ấn ký
+31;Gia viên tệ
+32;Tượng mộc
+33;Cao cấp cạnh đoán tệ
+34;Quán quân tệ
+35;Thánh vũ
+36;Đồng minh huân chương
+37;Đỉnh phong cạnh đoán tệ
+38;Đỉnh phong tệ
+39;Tinh mệnh thẻ bài
+40;Thám hiểm con dấu
+41;Ác ma chi chủng
+42;Ruby
+10001;Tiến giai thạch
+10002;Đi xa đổi mới khoán
+10003;Phó bản càn quét khoán
+10004;Nhanh chóng tác chiến khoán
+10005;Đồng bạn kết tinh
+10006;Thiên phú bí điển
+10010;Hồn thạch
+10020;Toàn minh tăng phúc quyển trục
+10030;Tẩy luyện thạch
+10033;Thuyền viên nhà chìa khoá
+10034;Khôi phục thủy tinh
+10040;Trân thú chi bụi
+10041;Thánh thủy
+10042;Thu hoạch đường tắt dùng
+10090;Đồng bạn thức tỉnh thạch
+10095;Thiên Tinh ma dịch
+10096;Cộng minh di vật
+10101;Thần bí thương thành đổi mới khoán ( Vứt bỏ )
+10103;Thi đấu khiêu chiến khoán
+10152;Bí bảo chìa khoá
+10200;Thi đấu bảo rương
+10201;Chiến thần bảo rương
+10202;Tầm bảo khoán ( Vứt bỏ )
+10301;Quán quân chi tâm
+10401;Phổ thông triệu hoán quyển
+10403;Cao cấp triệu hoán quyển
+10407;Hạn định triệu hoán quyển
+10408;Tinh anh triệu hoán quyển
+10409;May mắn mạo hiểm triệu hoán quyển
+10410;Cao cấp triệu hoán 5 Gãy thẻ
+10411;Trái cây triệu hoán quyển
+10415;Trân thú may mắn thạch
+10416;Đồng bạn cầu nguyện khoán
+10417;Trở về hồng bao
+10418;Thời gian phiêu lưu bình
+10419;12 Nguyên giảm miễn hồng bao
+10420;Thần khí · Thánh linh pháp giới
+10421;Phù văn · Thần chi diệu
+10422;Phù văn · Thần chi diệu
+10423;Phù văn · Thần chi diệu
+10424;Phù văn · Thần chi diệu
+10425;Phù văn · Thần chi diệu
+10426;Phù văn · Thần chi diệu
+10427;Phù văn · Thần chi diệu
+10430;Ma linh đúc lại thạch
+10431;Thần Diệu đúc lại thạch
+10441;Phù văn · Ma chi linh
+10442;Phù văn · Ma chi linh
+10443;Phù văn · Ma chi linh
+10444;Phù văn · Ma chi linh
+10445;Phù văn · Ma chi linh
+10450;Phù văn tinh hoa
+10451;C Cấp phù văn
+10452;B Cấp phù văn
+10453;A Cấp phù văn
+10454;S Cấp phù văn
+10455;SS Cấp phù văn
+10460;Thức tỉnh thạch
+10470;May mắn thủy tinh
+10480;Nguyên năng mảnh vỡ
+10490;Cao cấp may mắn thủy tinh
+10500;Chúc phúc giá trị
+10510;Kỳ tích bong bóng
+10601;Thủy linh trứng
+10602;Kỳ tử trứng
+10603;Kim vũ trứng
+10701;Mộc chùy
+10702;Ngân chùy
+10703;Kim chùy
+10800;Belly hồng bao khiến
+10801;Cấp cao khí quyển hồng bao khiến
+10802;Xa hoa kim cương hồng bao khiến
+10803;Chí tôn kim cương hồng bao khiến
+10901;Tử nguyên tinh
+10902;Cam nguyên tinh
+10903;Đỏ nguyên tinh
+11100;Tiềm năng thuốc thử
+11101;Tiềm năng thuốc thử · Nước
+11102;Tiềm năng thuốc thử · Lửa
+11103;Tiềm năng thuốc thử · Gió
+11104;Tiềm năng thuốc thử · Chỉ riêng
+11105;Tiềm năng thuốc thử · Ngầm
+11120;Tiềm năng thuốc thử tự do bao ( Nhỏ )
+11121;Tiềm năng thuốc thử tự do bao ( Bên trong )
+11122;Tiềm năng thuốc thử tự do bao ( Lớn )
+11150;Thức tỉnh dược tề
+13000;648 Nguyên nạp tiền thẻ
+13001;328 Nguyên nạp tiền thẻ
+13002;198 Nguyên nạp tiền thẻ
+13003;98 Nguyên nạp tiền thẻ
+13004;30 Nguyên nạp tiền thẻ
+13005;6 Nguyên nạp tiền thẻ
+13006;Vinh Diệu Nguyệt thẻ kích hoạt
+13007;Chí tôn nguyệt thẻ kích hoạt
+13100;1000vip Kinh nghiệm
+13101;60vip Kinh nghiệm
+13102;240vip Kinh nghiệm
+13103;700vip Kinh nghiệm
+14000;Thần tướng chi linh
+14001;Tiên tri tinh hạch
+14002;Tiên tri mảnh vụn
+16001;Ma lực phù thạch
+16002;Thần lực phù thạch
+16003;Truy kích phù thạch
+16004;Bạo truy phù thạch
+16005;Nổi giận phù thạch
+16006;Cuồng bạo phù thạch
+16007;Chiến ý phù thạch
+16008;Mau lẹ phù thạch
+16009;Hồi âm phù thạch
+16010;Giáng lâm phù thạch
+16011;Hàng liệu phù thạch
+16012;Diệt Hồn Phù thạch
+16013;Xua tan phù thạch
+16014;Xung kích phù thạch
+16015;Khiêu khích phù thạch
+16016;Giảm tốc phù thạch
+16017;Vinh quang phù thạch
+16018;Né tránh phù thạch
+16019;Trấn áp phù thạch
+16020;Tinh chuẩn phù thạch
+16021;Tịnh hóa phù thạch
+16022;Kháng khống phù thạch
+16023;Tái sinh phù thạch
+16024;Bảo mệnh phù thạch
+16025;Thần phù hộ phù thạch
+16026;Kháng bạo phù thạch
+16027;Ma miễn phù thạch
+16028;Thiết giáp phù thạch
+16029;Sinh cơ phù thạch
+16030;Chậm chạp phù thạch
+16031;Xuyên thấu phù thạch
+16032;Khống chế phù thạch
+16033;Pháp liền phù thạch
+16034;Miễn tổn thương phù thạch
+16035;Vật liền phù thạch
+16036;Hấp thụ phù thạch
+16037;Thần thể phù thạch
+16038;Hộ thuẫn phù thạch
+16039;Thanh Tâm Phù thạch
+16040;Phản tổn thương phù thạch
+16041;Anh dũng phù thạch
+16042;Chuyên chú phù thạch
+16043;Ba động phù thạch
+16044;Thần xá phù thạch
+16045;Thánh linh phù thạch
+16046;Khu Linh phù thạch
+16047;Tham lam phù thạch
+16101;Vỡ tan phù thạch
+16102;Tụ lực phù thạch
+16103;Linh xảo phù thạch
+16104;Chế tài phù thạch
+16105;Tín ngưỡng phù thạch
+16106;Che chở phù thạch
+16107;Linh cảm phù thạch
+16108;Cấp cứu phù thạch
+16201;Ngẫu nhiên thức tỉnh phù thạch
+16202;Tự do thức tỉnh phù thạch gói quà
+16300;Sơ cấp ma lực
+16301;Sơ cấp thần lực
+16302;Sơ cấp truy kích
+16303;Sơ cấp bạo truy
+16304;Sơ cấp nổi giận
+16305;Sơ cấp cuồng bạo
+16306;Sơ cấp chiến ý
+16307;Sơ cấp mau lẹ
+16308;Sơ cấp hồi âm
+16309;Sơ cấp giáng lâm
+16310;Sơ cấp hàng liệu
+16311;Sơ cấp diệt hồn
+16312;Sơ cấp xua tan
+16313;Sơ cấp xung kích
+16314;Sơ cấp khiêu khích
+16315;Sơ cấp giảm tốc
+16316;Sơ cấp vinh quang
+16317;Sơ cấp né tránh
+16318;Sơ cấp trấn áp
+16319;Sơ cấp tinh chuẩn
+16320;Sơ cấp tịnh hóa
+16321;Sơ cấp kháng khống
+16322;Sơ cấp tái sinh
+16323;Sơ cấp bảo mệnh
+16324;Sơ cấp thần phù hộ
+16325;Sơ cấp kháng bạo
+16326;Sơ cấp ma miễn
+16327;Sơ cấp thiết giáp
+16328;Sơ cấp sinh cơ
+16329;Sơ cấp chậm chạp
+16330;Sơ cấp xuyên thấu
+16331;Sơ cấp khống chế
+16332;Sơ cấp pháp liền
+16333;Sơ cấp miễn tổn thương
+16334;Sơ cấp vật liền
+16335;Sơ cấp hấp thụ
+16336;Sơ cấp thần thể
+16337;Sơ cấp hộ thuẫn
+16338;Sơ cấp thanh tâm
+16339;Sơ cấp phản tổn thương
+16340;Sơ cấp anh dũng
+16341;Sơ cấp chuyên chú
+16342;Sơ cấp ba động
+16343;Sơ cấp thần xá
+16344;Sơ cấp thánh linh
+16345;Sơ cấp khu linh
+16346;Sơ cấp tham lam
+16381;Sơ cấp vỡ tan
+16382;Sơ cấp tụ lực
+16383;Sơ cấp linh xảo
+16384;Sơ cấp chế tài
+16385;Sơ cấp tín ngưỡng
+16386;Sơ cấp che chở
+16387;Sơ cấp linh cảm
+16388;Sơ cấp cấp cứu
+16400;Trung cấp ma lực
+16401;Trung cấp thần lực
+16402;Trung cấp truy kích
+16403;Trung cấp bạo truy
+16404;Trung cấp nổi giận
+16405;Trung cấp cuồng bạo
+16406;Trung cấp chiến ý
+16407;Trung cấp mau lẹ
+16408;Trung cấp hồi âm
+16409;Trung cấp giáng lâm
+16410;Trung cấp hàng liệu
+16411;Trung cấp diệt hồn
+16412;Trung cấp xua tan
+16413;Trung cấp xung kích
+16414;Trung cấp khiêu khích
+16415;Trung cấp giảm tốc
+16416;Trung cấp vinh quang
+16417;Trung cấp né tránh
+16418;Trung cấp trấn áp
+16419;Trung cấp tinh chuẩn
+16420;Trung cấp tịnh hóa
+16421;Trung cấp kháng khống
+16422;Trung cấp tái sinh
+16423;Trung cấp bảo mệnh
+16424;Trung cấp thần phù hộ
+16425;Trung cấp kháng bạo
+16426;Trung cấp ma miễn
+16427;Trung cấp thiết giáp
+16428;Trung cấp sinh cơ
+16429;Trung cấp chậm chạp
+16430;Trung cấp xuyên thấu
+16431;Trung cấp khống chế
+16432;Trung cấp pháp liền
+16433;Trung cấp miễn tổn thương
+16434;Trung cấp vật liền
+16435;Trung cấp hấp thụ
+16436;Trung cấp thần thể
+16437;Trung cấp hộ thuẫn
+16438;Trung cấp thanh tâm
+16439;Trung cấp phản tổn thương
+16440;Trung cấp anh dũng
+16441;Trung cấp chuyên chú
+16442;Trung cấp ba động
+16443;Trung cấp thần xá
+16444;Trung cấp thánh linh
+16445;Trung cấp khu linh
+16446;Trung cấp tham lam
+16481;Trung cấp vỡ tan
+16482;Trung cấp tụ lực
+16483;Trung cấp linh xảo
+16484;Trung cấp chế tài
+16485;Trung cấp tín ngưỡng
+16486;Trung cấp che chở
+16487;Trung cấp linh cảm
+16488;Trung cấp cấp cứu
+16500;Cao cấp ma lực
+16501;Cao cấp thần lực
+16502;Cao cấp truy kích
+16503;Cao cấp bạo truy
+16504;Cao cấp nổi giận
+16505;Cao cấp cuồng bạo
+16506;Cao cấp chiến ý
+16507;Cao cấp mau lẹ
+16508;Cao cấp hồi âm
+16509;Cao cấp giáng lâm
+16510;Cao cấp hàng liệu
+16511;Cao cấp diệt hồn
+16512;Cao cấp xua tan
+16513;Cao cấp xung kích
+16514;Cao cấp khiêu khích
+16515;Cao cấp giảm tốc
+16516;Cao cấp vinh quang
+16517;Cao cấp né tránh
+16518;Cao cấp trấn áp
+16519;Cao cấp tinh chuẩn
+16520;Cao cấp tịnh hóa
+16521;Cao cấp kháng khống
+16522;Cao cấp tái sinh
+16523;Cao cấp bảo mệnh
+16524;Cao cấp thần phù hộ
+16525;Cao cấp kháng bạo
+16526;Cao cấp ma miễn
+16527;Cao cấp thiết giáp
+16528;Cao cấp sinh cơ
+16529;Cao cấp chậm chạp
+16530;Cao cấp xuyên thấu
+16531;Cao cấp khống chế
+16532;Cao cấp pháp liền
+16533;Cao cấp miễn tổn thương
+16534;Cao cấp vật liền
+16535;Cao cấp hấp thụ
+16536;Cao cấp thần thể
+16537;Cao cấp hộ thuẫn
+16538;Cao cấp thanh tâm
+16539;Cao cấp phản tổn thương
+16540;Cao cấp anh dũng
+16541;Cao cấp chuyên chú
+16542;Cao cấp ba động
+16543;Cao cấp thần xá
+16544;Cao cấp thánh linh
+16545;Cao cấp khu linh
+16546;Cao cấp tham lam
+16581;Cao cấp vỡ tan
+16582;Cao cấp tụ lực
+16583;Cao cấp linh xảo
+16584;Cao cấp chế tài
+16585;Cao cấp tín ngưỡng
+16586;Cao cấp che chở
+16587;Cao cấp linh cảm
+16588;Cao cấp cấp cứu
+16600;Siêu cấp ma lực
+16601;Siêu cấp thần lực
+16602;Siêu cấp truy kích
+16603;Siêu cấp bạo truy
+16604;Siêu cấp nổi giận
+16605;Siêu cấp cuồng bạo
+16606;Siêu cấp chiến ý
+16607;Siêu cấp mau lẹ
+16608;Siêu cấp hồi âm
+16609;Siêu cấp giáng lâm
+16610;Siêu cấp hàng liệu
+16611;Siêu cấp diệt hồn
+16612;Siêu cấp xua tan
+16613;Siêu cấp xung kích
+16614;Siêu cấp khiêu khích
+16615;Siêu cấp giảm tốc
+16616;Siêu cấp vinh quang
+16617;Siêu cấp né tránh
+16618;Siêu cấp trấn áp
+16619;Siêu cấp tinh chuẩn
+16620;Siêu cấp tịnh hóa
+16621;Siêu cấp kháng khống
+16622;Siêu cấp tái sinh
+16623;Siêu cấp bảo mệnh
+16624;Siêu cấp thần phù hộ
+16625;Siêu cấp kháng bạo
+16626;Siêu cấp ma miễn
+16627;Siêu cấp thiết giáp
+16628;Siêu cấp sinh cơ
+16629;Siêu cấp chậm chạp
+16630;Siêu cấp xuyên thấu
+16631;Siêu cấp khống chế
+16632;Siêu cấp pháp liền
+16633;Siêu cấp miễn tổn thương
+16634;Siêu cấp vật liền
+16635;Siêu cấp hấp thụ
+16636;Siêu cấp thần thể
+16637;Siêu cấp hộ thuẫn
+16638;Siêu cấp thanh tâm
+16639;Siêu cấp phản tổn thương
+16640;Siêu cấp anh dũng
+16641;Siêu cấp chuyên chú
+16642;Siêu cấp ba động
+16643;Siêu cấp thần xá
+16644;Siêu cấp thánh linh
+16645;Siêu cấp khu linh
+16646;Siêu cấp tham lam
+16681;Siêu cấp vỡ tan
+16682;Siêu cấp tụ lực
+16683;Siêu cấp linh xảo
+16684;Siêu cấp chế tài
+16685;Siêu cấp tín ngưỡng
+16686;Siêu cấp che chở
+16687;Siêu cấp linh cảm
+16688;Siêu cấp cấp cứu
+17001;Thương lam kết tinh
+17002;Ửng đỏ kết tinh
+17003;Phỉ thúy kết tinh
+17004;Quang huy kết tinh
+17005;Hắc ám kết tinh
+17008;Hỗn độn kết tinh
+17009;Nguyên sơ kết tinh
+17011;Nguyên Tố Chi Linh
+17012;Nguyên tố bụi
+17013;Nguyên tố mảnh vỡ
+17014;Nguyên tố kết tinh
+17015;Không đảo bối vật liệu tự do gói quà
+17020;30 Nguyên tiền mặt hồng bao phúc lợi
+17021;98 Nguyên tiền mặt hồng bao phúc lợi
+17022;198 Nguyên tiền mặt hồng bao phúc lợi
+17023;328 Nguyên tiền mặt hồng bao phúc lợi
+17024;648 Nguyên tiền mặt hồng bao phúc lợi
+17025;1296 Nguyên tiền mặt hồng bao phúc lợi
+17050;Vực sâu kết tinh
+17051;Hải đảo tranh bá thay mặt tệ
+17101;Thần trang mảnh vỡ [ Cũ ]
+17102;Thiên giới Thần thạch [ Vứt bỏ ]
+17191;Dũng khí thần trang
+17192;Cuồng nộ thần trang
+17193;Cường lực thần trang
+17201;Chiến thần tín vật ( Cũ )
+17202;Trí tuệ tín vật ( Cũ )
+17203;Liệt Dương tín vật ( Cũ )
+17204;Đại địa tín vật ( Cũ )
+17205;Thánh khiết tín vật ( Cũ )
+17210;Đại địa tín vật
+17211;Thánh khiết tín vật
+18001;Tem mảnh vỡ
+18002;Tem phân giải khoán
+18003;Kim phiếu mảnh vỡ
+18004;Kỷ niệm kim phiếu
+18005;Sưu tập tem khoán
+18006;Ngẫu nhiên màu cam tem
+18007;Ngẫu nhiên tử sắc tem
+18008;Ngẫu nhiên màu lam tem
+18009;Râu trắng [ Tem ]
+18010;Jozu [ Tem ]
+18011;Marco [ Tem ]
+18012;Rayleigh [ Tem ]
+18013;Ace [ Tem ]
+18014;Ba Jess [ Tem ]
+18015;Vista [ Tem ]
+18016;Khắc Roccas [ Tem ]
+18017;Shanks [ Tem ]
+18018;Katakuri [ Tem ]
+18019;Charlotte · Linh Linh [ Tem ]
+18020;Tư kho Á Đức [ Tem ]
+18021;Lấy giấu [ Tem ]
+18022;Namur [ Tem ]
+18023;Bucky [ Tem ]
+18024;Kid [ Tem ]
+18025;Cái bóng Luffy [ Tem ]
+18026;Enel [ Tem ]
+18027;Thế giới mới · Zoro [ Tem ]
+18028;La [ Tem ]
+18029;Ivankov [ Tem ]
+18030;Nước Wano · Luffy [ Tem ]
+18031;Nước Wano · Nami [ Tem ]
+18032;Franky tướng quân [ Tem ]
+18033;Thế giới mới · Brook [ Tem ]
+18034;Thế giới mới · Nói láo bố [ Tem ]
+18035;Diêm Ma Zoro [ Tem ]
+18036;Brook [ Tem ]
+18037;Sanji [ Tem ]
+18038;Zoro [ Tem ]
+18039;Chopper [ Tem ]
+18040;Luffy [ Tem ]
+18041;Franky [ Tem ]
+18042;Nami [ Tem ]
+18043;Robin [ Tem ]
+18044;Nói láo bố [ Tem ]
+18045;Krieg [ Tem ]
+18046;Cabaji [ Tem ]
+18047;Kurou [ Tem ]
+18048;Hoàng vượn [ Tem ]
+18049;Thanh Trĩ [ Tem ]
+18050;Chiến quốc [ Tem ]
+18051;Xích khuyển [ Tem ]
+18052;Lucci [ Tem ]
+18053;Garp [ Tem ]
+18054;Sentoumaru [ Tem ]
+18055;Magellan [ Tem ]
+18056;Bạch Tinh [ Tem ]
+18057;Fujitora [ Tem ]
+18058;X· Drake [ Tem ]
+18059;Trạch pháp [ Tem ]
+18060;Tháp hi gạo [ Tem ]
+18061;Kaku [ Tem ]
+18062;Kalifa [ Tem ]
+18063;Smoker [ Tem ]
+18064;Morgan [ Tem ]
+18065;Spandam [ Tem ]
+18066;Thượng tá · Có thể so sánh [ Tem ]
+18067;Jinbe [ Tem ]
+18068;Gấu [ Tem ]
+18069;Mắt ưng [ Tem ]
+18070;Thế giới mới · Hancock [ Tem ]
+18071;Hancock [ Tem ]
+18072;Râu đen [ Tem ]
+18073;Doflamingo [ Tem ]
+18074;Edward · Uy Borr [ Tem ]
+18075;Nước Wano · La [ Tem ]
+18076;Thế giới mới · Bucky [ Tem ]
+18077;Mr.1[ Tem ]
+18078;Perona [ Tem ]
+18079;Mr.2[ Tem ]
+18080;Moriah [ Tem ]
+18081;Crocodile [ Tem ]
+18082;Absalom [ Tem ]
+18083;Hogback [ Tem ]
+18084;Mr.3[ Tem ]
+19001;Đóng băng trái cây mảnh vỡ
+19002;Đốt đốt trái cây mảnh vỡ
+19003;Sàn sạt trái cây mảnh vỡ
+19004;Lập loè trái cây mảnh vỡ
+19005;Quả bóng tối mảnh vỡ
+19006;Nham tương trái cây mảnh vỡ
+19007;Cao su trái cây mảnh vỡ
+19008;Quả chấn động mảnh vỡ
+19009;Kim kim trái cây mảnh vỡ
+19010;Hợp thể trái cây mảnh vỡ
+19011;Rắn rắn trái cây mảnh vỡ
+19012;Cá cá trái cây mảnh vỡ
+19013;Chó chó trái cây mảnh vỡ
+19014;Giải phẫu trái cây mảnh vỡ
+19015;Tiếng sấm trái cây mảnh vỡ
+19016;Nhu nhu trái cây mảnh vỡ
+19101;Từ từ trái cây mảnh vỡ
+19102;Quả Hoa Hoa mảnh vỡ
+19103;Người người trái cây mảnh vỡ
+19104;Hình bóng trái cây mảnh vỡ
+19105;Bút bút trái cây mảnh vỡ
+19106;Tuyến tuyến trái cây mảnh vỡ
+19107;Gas trái cây mảnh vỡ
+19108;Trâu trâu trái cây mảnh vỡ
+19109;Trơn bóng trái cây mảnh vỡ
+19110;Bạo tạc trái cây mảnh vỡ
+19111;Bong bóng trái cây mảnh vỡ
+19112;Sáp hoa quả sáp thực mảnh vỡ
+19113;Kg trái cây mảnh vỡ
+19114;Huyễn ảnh trái cây mảnh vỡ
+19115;Thôn thôn trái cây mảnh vỡ
+19500;Vạn năng mảnh vỡ · Cam
+19501;Vạn năng mảnh vỡ · Tử
+19502;Lực lượng nguyên chất
+22001;Jozu huyễn thần thẻ
+22002;Cam · Phúc ngươi huyễn thần thẻ
+22003;Vergo huyễn thần thẻ
+22004;Kaku huyễn thần thẻ
+22005;Franky huyễn thần thẻ
+22006;Perona huyễn thần thẻ
+22007;Hawkins huyễn thần thẻ
+23001;Thủy sắc du mộng ( Vĩnh cửu )
+23002;Thủy sắc du mộng (7 Trời )
+23003;Thủy sắc du mộng (3 Trời )
+23004;Như mộng khiến ( Vĩnh cửu )
+23005;Như mộng khiến (7 Trời )
+23007;Xích vũ Hỏa Vũ ( Vĩnh cửu )
+23008;Xích vũ Hỏa Vũ (7 Trời )
+23009;Xích vũ Hỏa Vũ (3 Trời )
+23010;Ngự Long kim giáp ( Vĩnh cửu )
+23011;Ngự Long kim giáp (7 Trời )
+23013;Xích Mị hải tặc ( Vĩnh cửu )
+23014;Xích Mị hải tặc (7 Trời )
+23016;Ngọt ngào hầu gái ( Vĩnh cửu )
+23017;Ngọt ngào hầu gái (7 Trời )
+23019;Bóng đen bạo quân ( Vĩnh cửu )
+23020;Bóng đen bạo quân (7 Trời )
+23022;Trúc Vận thanh phong ( Vĩnh cửu )
+23023;Trúc Vận thanh phong (7 Trời )
+23025;Bạo tẩu thanh xuân ( Vĩnh cửu )
+23026;Bạo tẩu thanh xuân (7 Trời )
+23028;Nở rộ thệ ước ( Vĩnh cửu )
+23029;Nở rộ thệ ước (7 Trời )
+23031;Mị đêm nam tước ( Vĩnh cửu )
+23032;Mị đêm nam tước (7 Trời )
+23034;Băng tuyết điệu Van ( Vĩnh cửu )
+23035;Băng tuyết điệu Van (7 Trời )
+23037;Giáng Sinh thiên sứ ( Vĩnh cửu )
+23038;Giáng Sinh thiên sứ (7 Trời )
+23040;Cẩm tú nghê thường ( Vĩnh cửu )
+23041;Cẩm tú nghê thường (7 Trời )
+23043;Một trận chiến phong thần ( Vĩnh cửu )
+23044;Một trận chiến phong thần (7 Trời )
+23046;Ảm diệt kim loại ( Vĩnh cửu )
+23047;Ảm diệt kim loại (7 Trời )
+23049;Hoa hồng chi luyến ( Vĩnh cửu )
+23050;Hoa hồng chi luyến (7 Trời )
+23052;Lam nguyệt nhận ca ( Vĩnh cửu )
+23053;Lam nguyệt nhận ca (7 Trời )
+23055;Nguyên khí đội cổ động viên ( Vĩnh cửu )
+23056;Nguyên khí đội cổ động viên (7 Trời )
+23058;Thuần trắng hoa gả ( Vĩnh cửu )
+23059;Thuần trắng hoa gả (7 Trời )
+23060;Thuần trắng hoa gả (3 Trời )
+23061;Thỏ nữ lang ( Vĩnh cửu )
+23062;Thỏ nữ lang (7 Trời )
+23063;Thỏ nữ lang (3 Trời )
+23064;Mr.0 Bí mật ( Vĩnh cửu )
+23065;Mr.0 Bí mật (7 Trời )
+23066;Mr.0 Bí mật (3 Trời )
+23067;Bãi cát tinh linh ( Vĩnh cửu )
+23068;Bãi cát tinh linh (7 Trời )
+23069;Bãi cát tinh linh (3 Trời )
+23070;Âu phục ác ôn ( Vĩnh cửu )
+23071;Âu phục ác ôn (7 Trời )
+23072;Âu phục ác ôn (3 Trời )
+23073;Ngọt ngào bikini ( Vĩnh cửu )
+23074;Ngọt ngào bikini (7 Trời )
+23075;Ngọt ngào bikini (3 Trời )
+23076;Tâm chi lễ phục ( Vĩnh cửu )
+23077;Tâm chi lễ phục (7 Trời )
+23078;Tâm chi lễ phục (3 Trời )
+23079;Giáng Sinh thiên sứ ( Vĩnh cửu )
+23080;Giáng Sinh thiên sứ (7 Trời )
+23081;Giáng Sinh thiên sứ (3 Trời )
+23082;Theo cá tranh điên chuyên môn
+23083;Chỉ đen yyds Chuyên môn
+23084;Một ngày bát đại bát
+23085;Mạnh nhất bá vương sắc
+23086;Theo cá tranh điên chuyên dụng
+23087;Vegapunk anh hùng
+23088;Nhìn ngươi sao
+23089;Chùy bạo đầu chó
+30006;Vật liệu gỗ gói quà
+30050;Đồng bạn thăng tinh hồng toản bao
+30051;Không xuất bản nữa ảnh chân dung Lam Toản bao
+30052;Cực phẩm cam trang Lam Toản bao
+30053;Nhanh chóng tác chiến đặc quyền
+30054;Đi xa cao cấp đặc quyền
+30055;Đi xa hào Ward quyền
+30056;Biển mây khiêu chiến đặc quyền
+30057;Trân thú nở đặc quyền
+30350;Thí luyện dũng giả gói quà ( Vứt bỏ )( Vứt bỏ )
+30351;Thí luyện vương giả gói quà ( Vứt bỏ )( Vứt bỏ )
+33000;Chúng thần chiến trường thắng lợi gói quà ( Vứt bỏ )
+33001;Chúng thần chiến trường hòa bình gói quà ( Vứt bỏ )
+33002;Chúng thần chiến trường hi vọng gói quà ( Vứt bỏ )
+36001;Đồng minh run run tích bảo rương ( Vứt bỏ )
+36002;Đồng minh chiến thắng lợi bảo rương ( Vứt bỏ )
+36003;Đồng minh chiến an ủi bảo rương ( Vứt bỏ )
+37001;Tầm bảo khoán
+37002;Cao cấp tầm bảo khoán
+37003;Sao trời chìa khoá
+37004;Tiểu Kim chùy
+37005;Thời gian ly hoa
+37006;Đoạt bảo tệ
+37007;Đoạt bảo điểm tích lũy
+37008;Quả thông tệ
+37009;Bóng đen chi thạch
+37010;Trung Quốc kết
+37011;Hoa hồng chi chìa
+37012;Tay nâng hoa
+37016;Kiếm đạo trâm ngực
+37017;Tiểu Tuyết người
+38020;Nhanh chóng tác chiến đặc quyền gói quà
+38030;Đi xa cao cấp đặc quyền lễ
+38040;Đi xa hào Ward quyền lễ
+38041;May mắn tầm bảo gói quà
+38042;Cao cấp tầm bảo gói quà
+38051;Ngẫu nhiên hồng trang gói quà
+38061;Ngẫu nhiên 2 Tinh hồng trang gói quà
+38071;Ngẫu nhiên 3 Tinh hồng trang gói quà
+38080;Ngẫu nhiên cam trang gói quà
+38081;Ngẫu nhiên 2 Tinh cam trang gói quà
+38091;Ngẫu nhiên 3 Tinh cam trang gói quà
+38092;Ngẫu nhiên 4 Tinh cam trang gói quà
+38093;Trân quý cam trang bộ
+38094;Màu cam 1 Tinh trang bị tự do rương
+38095;3 Tinh cam trang bộ
+38096;4 Tinh cam trang bộ
+38101;3 Tinh cam trang gói quà
+39000;May mắn bảo hạp
+39001;May mắn triệu hoán phúc túi
+39002;Đồng bạn mảnh vỡ phúc túi
+39003;Tự nhiên đồng bạn mảnh vỡ phúc túi
+39004;Thủy hệ đồng bạn mảnh vỡ phúc túi
+39005;Hỏa hệ đồng bạn mảnh vỡ phúc túi
+39006;Tiên tri triệu hoán phúc túi
+39007;Tầm bảo đạt nhân phúc túi
+39008;Xa hoa tự do vật liệu bao
+39009;Tôn hưởng tự do vật liệu bao
+39010;Thánh vật kết tinh ngẫu nhiên gói quà
+39011;Hạn định triệu hoán phúc túi
+39012;Sao trời chìa khoá phúc túi
+39013;Ngày xuân kim cương phúc túi
+39014;Ngày xuân kim cương hộp quà
+39015;Ngày xuân kim cương tiếp tế rương
+39016;Ngày xuân kim cương bảo tàng
+39017;Ngày xuân nắng ấm gói quà
+39018;Ngày xuân ấm lòng phúc lợi
+39019;May mắn phúc trứng
+39020;Thánh quang chi tâm
+39021;Tiên tri trân bảo phúc túi
+39022;2 Tinh cực phẩm sáo trang hộp quà
+39023;2 Tinh cực phẩm cuồng nộ bộ
+39024;2 Tinh cực phẩm đấu chí bộ
+39025;2 Tinh cực phẩm linh vịnh bộ
+39027;Tinh anh tự do lễ
+39028;Thanh lương một hạ gói quà
+39029;Giữa hè ước hẹn gói quà
+39030;Ma Lang bảo tàng
+39031;Trứng vàng hảo lễ
+39032;Cự liêm chi lễ
+39033;Ngày mùa hè làn da gói quà
+39034;Tống hạ chi lễ
+39035;5 Tinh toái phiến hộp quà
+39036;Quả thông bảo hạp
+39037;May mắn tinh anh bảo hạp
+39038;Khánh điển hộp quà
+39039;Cường lực đồng bạn tự do hộp quà
+39040;Tam hệ đồng bạn tự do hộp quà
+39041;Tiếng trời
+39042;Đêm thất tịch đạt đến lễ
+39043;Tam Muội Chân Hỏa gói quà
+39044;Thỏ ngọc bảo hạp
+39045;Song lòng đỏ trứng sen dung bánh Trung thu
+39046;Tuyệt ảm chi lễ
+39047;Ngẫu nhiên phù thạch gói quà
+39048;Nguyệt thần hộp quà
+39049;May mắn kim cương phúc túi
+39050;Tiểu quỷ bí đỏ gói quà
+39051;Trân thú xoay trứng gói quà
+39052;Trăm vạn Belly hộp quà
+39053;Tinh anh triệu hoán gói quà
+39054;Cao cấp triệu hoán gói quà
+39055;Thủ hộ chi lễ
+39056;Màu cam trân thú tự do hộp quà
+39057;Cảm ân yến lễ
+39058;Cực phẩm ngũ tinh thần trang tự do gói quà
+39059;Trở về phúc túi
+39060;Đồng bạn cầu nguyện tự do hộp quà
+39061;Carnival bánh gatô
+39062;Âu hoàng bảo hạp
+39063;May mắn bảo túi
+39064;Giáng Sinh hộp quà
+39065;Tuổi sơ hộp quà
+39066;Năm mới hộp quà
+39067;Trân thú chi hồn
+39068;Chúc mừng năm mới hạnh phúc VIP Hộp quà
+39069;Tân xuân lợi là
+39070;Thiên sứ hộp quà
+39071;Tân xuân bảo rương
+39072;Tân xuân phúc túi
+39073;May mắn mảnh vỡ hộp quà
+39074;Tinh anh mảnh vỡ hộp quà
+39075;Tết xuân gói quà
+39076;Tinh anh mảnh vỡ bảo hạp
+39077;Ngọt ngào hộp quà
+39078;Làn da tự do hộp quà
+39079;Vật liệu tự do phúc túi
+39080;Trân quý bảo hạp
+39081;Vật liệu tự do gói quà
+39082;Hi hữu phù thạch tự do gói quà
+39083;Mỗi ngày thủ mạo xưng đặc biệt ưu đãi gói quà
+39084;Mỗi ngày thủ mạo xưng may mắn gói quà
+39085;Mỗi ngày thủ mạo xưng tinh anh gói quà
+39086;Mỗi ngày thủ mạo xưng cao cấp gói quà
+39087;Mỗi ngày thủ mạo xưng đặc cấp gói quà
+39088;Mỗi ngày thủ mạo xưng chuyên môn gói quà
+39089;Mỗi ngày thủ mạo xưng tôn hưởng gói quà
+39090;Tinh anh tự do hộp quà
+39091;Rừng rậm bảo hạp
+39092;Màu trắng lễ tình nhân hộp quà
+39093;Tinh anh triệu hoán tự do ban thưởng
+39094;Tinh anh tự do bảo rương
+39095;Màu đỏ 5 Tinh trang bị tự do rương
+39096;Màu đỏ 4 Tinh trang bị tự do rương
+39097;Màu đỏ 3 Tinh trang bị tự do rương
+39098;Màu đỏ 2 Tinh trang bị tự do rương
+39099;Màu đỏ 1 Tinh trang bị tự do rương
+39100;Màu cam 4 Tinh trang bị tự do rương
+39101;Cực phẩm 2 Tinh dũng khí tự do thần trang
+39102;Cực phẩm 2 Tinh cuồng nộ tự do thần trang
+39103;Cực phẩm 2 Tinh đấu chí tự do thần trang
+39104;Cực phẩm 2 Tinh linh vịnh tự do thần trang
+39105;Cực phẩm 2 Tinh xuyên giáp tự do thần trang
+39106;Cực phẩm 2 Tinh phá pháp tự do thần trang
+39107;Cực phẩm 2 Tinh đấu chiến tự do thần trang
+39108;Cực phẩm 2 Tinh trấn linh tự do thần trang
+39109;Cực phẩm 2 Tinh ma giáp tự do thần trang
+39110;Cực phẩm 2 Tinh Thần chiến tự do thần trang
+39111;Cực phẩm 2 Tinh long uy tự do thần trang
+39112;Cực phẩm 2 Tinh Thần càng tự do thần trang
+39113;Cực phẩm 2 Tinh cực nhanh tự do thần trang
+39114;Cực phẩm 2 Tinh huyền hộ tự do thần trang
+39115;Cực phẩm 3 Tinh dũng khí tự do thần trang
+39116;Cực phẩm 3 Tinh cuồng nộ tự do thần trang
+39117;Cực phẩm 3 Tinh đấu chí tự do thần trang
+39118;Cực phẩm 3 Tinh linh vịnh tự do thần trang
+39119;Cực phẩm 3 Tinh xuyên giáp tự do thần trang
+39120;Cực phẩm 3 Tinh phá pháp tự do thần trang
+39121;Cực phẩm 3 Tinh đấu chiến tự do thần trang
+39122;Cực phẩm 3 Tinh trấn linh tự do thần trang
+39123;Cực phẩm 3 Tinh ma giáp tự do thần trang
+39124;Cực phẩm 3 Tinh Thần chiến tự do thần trang
+39125;Cực phẩm 3 Tinh long uy tự do thần trang
+39126;Cực phẩm 3 Tinh Thần càng tự do thần trang
+39127;Cực phẩm 3 Tinh cực nhanh tự do thần trang
+39128;Cực phẩm 3 Tinh huyền hộ tự do thần trang
+39129;Cực phẩm 4 Tinh dũng khí tự do thần trang
+39130;Cực phẩm 4 Tinh cuồng nộ tự do thần trang
+39131;Cực phẩm 4 Tinh đấu chí tự do thần trang
+39132;Cực phẩm 4 Tinh linh vịnh tự do thần trang
+39133;Cực phẩm 4 Tinh xuyên giáp tự do thần trang
+39134;Cực phẩm 4 Tinh phá pháp tự do thần trang
+39135;Cực phẩm 4 Tinh đấu chiến tự do thần trang
+39136;Cực phẩm 4 Tinh trấn linh tự do thần trang
+39137;Cực phẩm 4 Tinh ma giáp tự do thần trang
+39138;Cực phẩm 4 Tinh Thần chiến tự do thần trang
+39139;Cực phẩm 4 Tinh long uy tự do thần trang
+39140;Cực phẩm 4 Tinh Thần càng tự do thần trang
+39141;Cực phẩm 4 Tinh cực nhanh tự do thần trang
+39142;Cực phẩm 4 Tinh huyền hộ tự do thần trang
+39143;Cực phẩm 5 Tinh dũng khí tự do thần trang
+39144;Cực phẩm 5 Tinh cuồng nộ tự do thần trang
+39145;Cực phẩm 5 Tinh đấu chí tự do thần trang
+39146;Cực phẩm 5 Tinh linh vịnh tự do thần trang
+39147;Cực phẩm 5 Tinh xuyên giáp tự do thần trang
+39148;Cực phẩm 5 Tinh phá pháp tự do thần trang
+39149;Cực phẩm 5 Tinh đấu chiến tự do thần trang
+39150;Cực phẩm 5 Tinh trấn linh tự do thần trang
+39151;Cực phẩm 5 Tinh ma giáp tự do thần trang
+39152;Cực phẩm 5 Tinh Thần chiến tự do thần trang
+39153;Cực phẩm 5 Tinh long uy tự do thần trang
+39154;Cực phẩm 5 Tinh Thần càng tự do thần trang
+39155;Cực phẩm 5 Tinh cực nhanh tự do thần trang
+39156;Cực phẩm 5 Tinh huyền hộ tự do thần trang
+39157;5 Hệ đồng bạn mảnh vỡ tự do bảo rương
+39158;Tự do tín vật
+39159;Cực phẩm 5 Tinh Thần trang tự do rương
+39160;Mạo hiểm hộp quà
+39161;Tinh anh tự do thẻ
+39162;Tinh anh triệu hoán tự do thẻ
+39163;Âu hoàng bảo rương
+39164;3 Hệ mảnh vỡ tự do bảo rương
+39165;Hạn định tinh anh tự do thẻ
+39166;Hỏa linh hộp quà
+39167;Tự do vật liệu phúc túi
+39168;Hi hữu tự do vật liệu phúc túi
+39169;Tam hệ đồng bạn tự do thẻ Ⅰ
+39170;Tam hệ đồng bạn tự do thẻ Ⅱ
+39171;Tam hệ tinh anh đồng bạn tự do thẻ
+39172;Quang ám tinh anh đồng bạn tự do thẻ
+39173;Tam hệ cường lực đồng bạn tự do
+39174;Thủy hệ ngẫu nhiên cường lực đồng bạn
+39175;Hỏa hệ ngẫu nhiên cường lực đồng bạn
+39176;Phong hệ ngẫu nhiên cường lực đồng bạn
+39177;Âu hoàng bảo rương
+39178;Âu hoàng bảo rương
+39179;Toàn đồng bạn hộp quà
+39180;Tam hệ đồng bạn tự do hộp quà
+39181;Năm hệ đồng bạn tự do hộp quà
+39200;Sơ cấp vật liệu tự do gói quà
+39201;Trung cấp vật liệu tự do gói quà
+39202;Cao cấp vật liệu tự do gói quà
+39300;Tử sắc Trái Ác Quỷ hộp quà
+39301;A Cấp màu cam Trái Ác Quỷ hộp quà
+39302;B Cấp màu cam Trái Ác Quỷ hộp quà
+39303;C Cấp màu cam Trái Ác Quỷ hộp quà
+39304;D Cấp màu cam Trái Ác Quỷ hộp quà
+39493;1 Tinh cực phẩm sáo trang tự do hộp quà
+39494;1 Tinh cực phẩm cuồng nộ bộ
+39495;1 Tinh cực phẩm đấu chí bộ
+39496;1 Tinh cực phẩm linh vịnh bộ
+39497;2 Tinh cực phẩm sáo trang tự do hộp quà
+39498;2 Tinh cực phẩm cuồng nộ bộ
+39499;2 Tinh cực phẩm đấu chí bộ
+39500;2 Tinh cực phẩm linh vịnh bộ
+39501;3 Tinh cực phẩm sáo trang tự do hộp quà
+39502;3 Tinh cực phẩm cuồng nộ bộ
+39503;3 Tinh cực phẩm đấu chí bộ
+39504;3 Tinh cực phẩm linh vịnh bộ
+39505;4 Tinh cực phẩm sáo trang tự do hộp quà
+39506;4 Tinh cực phẩm cuồng nộ bộ
+39507;4 Tinh cực phẩm đấu chí bộ
+39508;4 Tinh cực phẩm linh vịnh bộ
+39509;5 Tinh cực phẩm sáo trang tự do hộp quà
+39510;5 Tinh cực phẩm cuồng nộ bộ
+39511;5 Tinh cực phẩm đấu chí bộ
+39512;5 Tinh cực phẩm linh vịnh bộ
+39513;6 Tinh cực phẩm sáo trang tự do hộp quà
+39514;6 Tinh cực phẩm cuồng nộ bộ
+39515;6 Tinh cực phẩm đấu chí bộ
+39516;6 Tinh cực phẩm linh vịnh bộ
+39517;3 Tinh tân thần trang tự do hộp quà
+39518;3 Tinh cực phẩm cực tốc bộ
+39519;3 Tinh cực phẩm huyền hộ bộ
+39522;Cực phẩm 3 Tinh Thần trang tự do gói quà
+39523;Cực phẩm 5 Tinh Thần trang tự do gói quà
+50000;Quý tộc kỷ niệm ảnh chân dung khung
+50001;Vương giả PVP Kỷ niệm ảnh chân dung khung
+50002;Đạt nhân PVP Kỷ niệm ảnh chân dung khung
+50003;Đấu sĩ PVP Kỷ niệm ảnh chân dung khung
+50004;Chúng tinh phủng nguyệt kỷ niệm ảnh chân dung khung
+50005;Anh linh dũng giả
+50006;Trục lãng chi hạ
+50007;Rực rỡ giữa hè
+50008;Âm múa huyến bướm
+50009;Học sinh ba tốt
+50010;Quan thế vương giả
+50012;Bách chiến bách thắng
+50013;Ổn thao phần thắng
+50014;Hiếu thắng đấu thắng
+50015;Khí chất quý tộc
+50016;Ta vương chi lực
+50017;Thâm tàng công cùng tên
+50018;Được tuyển chọn người
+50019;Chỉ đạo viên
+50020;Ngày mùa thu nói nhỏ
+50021;Vạn thánh bí đỏ đêm
+50022;Halloween kỷ niệm ảnh chân dung khung
+50023;Nhiệt huyết thí luyện kỷ niệm ảnh chân dung khung
+50024;Đỉnh phong quán quân kỷ niệm ảnh chân dung khung
+50025;Đỉnh phong vương giả kỷ niệm ảnh chân dung khung
+50026;Đỉnh phong đấu giả kỷ niệm ảnh chân dung khung
+50027;Đỉnh phong dũng giả kỷ niệm ảnh chân dung khung
+50028;Tuổi sơ tán dương kỷ niệm ảnh chân dung khung
+50029;Kim Long chúc tuổi ảnh chân dung khung
+50030;Tường thụy đưa phúc kỷ niệm ảnh chân dung khung
+50031;Tường thụy chúc tuổi
+50032;Đầu mùa xuân mầm non kỷ niệm ảnh chân dung khung
+50033;Hoa hồng người yêu kỷ niệm ảnh chân dung khung
+50034;Con mèo vật ngữ
+50035;Con mèo vật ngữ
+50036;Tinh quang rạng rỡ kỷ niệm ảnh chân dung khung
+50037;Nhiệt huyết thí luyện
+50038;Công bằng PVP Kỷ niệm ảnh chân dung khung
+50039;Đồ giám 4 Cấp kỷ niệm ảnh chân dung khung
+50040;Đồ giám 8 Cấp kỷ niệm ảnh chân dung khung
+50041;Grand Line 200 Kỷ niệm ảnh chân dung khung
+50042;Grand Line 400 Kỷ niệm ảnh chân dung khung
+50043;Grand Line 600 Kỷ niệm ảnh chân dung khung
+50044;8 Trời đánh dấu kỷ niệm ảnh chân dung khung
+50045;30 Trời đánh dấu kỷ niệm ảnh chân dung khung
+50046;60 Trời đánh dấu kỷ niệm ảnh chân dung khung
+50047;100 Trời đánh dấu kỷ niệm ảnh chân dung khung
+50048;Thí luyện 210 Tầng kỷ niệm ảnh chân dung khung
+50049;Thí luyện 450 Tầng kỷ niệm ảnh chân dung khung
+50050;Thí luyện 720 Tầng kỷ niệm ảnh chân dung khung
+50051;Hàng hải nhật ký kỷ niệm ảnh chân dung khung
+50053;Việt Nam ảnh chân dung khung 1
+50054;Việt Nam ảnh chân dung khung 2
+50055;Việt Nam ảnh chân dung khung 3
+50056;Việt Nam ảnh chân dung khung 4
+50057;Việt Nam ảnh chân dung khung 5
+50058;Việt Nam ảnh chân dung khung 6
+50059;Việt Nam ảnh chân dung khung 7
+50060;Việt Nam ảnh chân dung khung 8
+50061;Việt Nam ảnh chân dung khung 9
+50062;Việt Nam ảnh chân dung khung 10
+50063;Việt Nam ảnh chân dung khung 11
+50064;Việt Nam ảnh chân dung khung 12
+50065;Việt Nam ảnh chân dung khung 13
+50066;Việt Nam ảnh chân dung khung 14
+50101;Lớn nhà thám hiểm ( Vứt bỏ )
+50102;Bò tháp đạt nhân ( Vứt bỏ )
+50103;Thi đấu Thiên Vương ( Vứt bỏ )
+50104;Mặt đất mạnh nhất ( Vứt bỏ )
+50105;Tinh diệu chi linh ( Vứt bỏ )
+50106;Mạnh nhất đồng bạn ( Vứt bỏ )
+50107;Cao du lịch thần giới ( Vứt bỏ )
+50108;Tầm bảo chuyên gia ( Vứt bỏ )
+50111;Tia sáng chói mắt ( Vứt bỏ )
+50112;Thánh khí vương giả ( Vứt bỏ )
+50113;Xem sao đại sư ( Vứt bỏ )
+50114;Thí luyện chi vương ( Vứt bỏ )
+50115;Đồng bạn vô địch ( Vứt bỏ )
+50116;Chiến lực chí thượng ( Vứt bỏ )
+50117;Mạnh nhất thổ hào ( Vứt bỏ )
+50200;Bò tháp tân thủ ( Vứt bỏ )
+50201;Liên tục tăng lên ( Vứt bỏ )
+50202;Bò tháp tay thiện nghệ ( Vứt bỏ )
+50203;Vừa xem vô tận ( Vứt bỏ )
+50204;Đột phá chân trời ( Vứt bỏ )
+50205;Càng đánh càng hăng ( Vứt bỏ )
+50301;Quán quân chi tâm ( Vứt bỏ )
+50302;Tầm bảo ngôi sao may mắn
+50303;Mạnh nhất ngôi sao may mắn
+50304;Thần chi chiếu cố
+50305;Thiểm Thước Chi Quang
+50401;Phá Quân chi đỉnh ( Vứt bỏ )
+50402;Ý chí bất khuất ( Vứt bỏ )
+50403;Mới lộ đường kiếm ( Vứt bỏ )
+50501;Băng thiên tuyết địa ( Vứt bỏ )
+50502;Hắc ám thế giới ( Vứt bỏ )
+50601;Chiến trường dũng giả
+50602;Chiến trường bá chủ
+50603;Bất bại thần thoại
+50701;Một người đã đủ giữ quan ải
+50702;Đánh đâu thắng đó
+50703;Thế như chẻ tre
+50801;Uy chấn tứ hải
+50802;Thế không thể đỡ
+50803;Thẳng tiến không lùi
+50901;Trăng tròn! Tinh thần đại hải
+50902;Tâm động lấp lóe
+50903;Ngày mùa hè nhà lữ hành
+50904;Bạo quân tán thành
+50905;Vinh quang chi quang
+50906;Mạo hiểm kỵ sĩ đoàn
+50907;Thuyền trưởng đảm đương
+50908;Dũng giả trở về
+50909;Triều tịch thợ săn
+50910;Mộng tưởng nhà
+50911;Nhất đẳng học bá
+50912;Hoa lửa chiếu thu
+50913;Thần hào đăng tràng
+50914;Kỳ diệu chi dạ
+50915;Tuyết quốc cứu tinh
+50916;Vô địch là cỡ nào tịch mịch
+50917;Có ngươi làm bạn lữ trình
+50918;Tiến lên! Tàu Merry!
+50919;Mạnh nhất thổ hào
+50920;Đạp bông tuyết Thần
+51000;Công bằng PVP Kỷ niệm trang trí
+51001;Vinh quang bảo vệ người
+51002;Truyền thuyết người siêu việt
+51003;Trật tự phá vỡ người
+51100;Vương giả PVP Kỷ niệm trang trí
+51101;Hải vực bá chủ
+51102;Tên Dương Hải bên trên
+51103;Bộc lộ tài năng
+51200;Đạt nhân PVP Kỷ niệm trang trí
+51201;Chiến cuộc chúa tể
+51202;Công vô bất khắc
+51203;Bật hết hỏa lực
+51204;
+51300;Đấu sĩ PVP Kỷ niệm trang trí
+51301;Triệu hoán đại sư
+51302;Triệu hoán tinh anh
+51303;Triệu hoán tân tú
+51304;Dưỡng thành đại sư
+51305;Dưỡng thành tay thiện nghệ
+51306;Dưỡng thành tân tinh
+51307;Phá Quân chi đỉnh
+51308;Ý chí bất khuất
+51309;Mới lộ đường kiếm
+51400;Quý tộc kỷ niệm trang trí
+51401;50 Belly
+51402;Siêu tân tinh
+51403;Truyền thuyết hải tặc
+51500;Lãnh chúa kỷ niệm trang trí
+51501;Biển cả ước hẹn
+51600;Quan thế vương giả kỷ niệm trang trí
+51601;Việt Nam xưng hào 1
+51602;Việt Nam xưng hào 2
+51603;Việt Nam xưng hào 3
+51604;Việt Nam xưng hào 4
+51605;Việt Nam xưng hào 5
+51606;Việt Nam xưng hào 6
+51607;Việt Nam xưng hào 7
+51608;Việt Nam xưng hào 8
+51609;Việt Nam xưng hào 9
+51610;Việt Nam xưng hào 10
+51611;Việt Nam xưng hào 11
+51612;Việt Nam xưng hào 12
+51613;Việt Nam xưng hào 13
+51614;Việt Nam xưng hào 14
+51615;Việt Nam xưng hào 15
+51616;Việt Nam xưng hào 16
+51617;Việt Nam xưng hào 17
+51618;Việt Nam xưng hào 18
+51619;Việt Nam xưng hào 19
+51620;Việt Nam xưng hào 20
+51621;Việt Nam xưng hào 21
+51622;Việt Nam xưng hào 22
+51623;Việt Nam xưng hào 23
+51624;Việt Nam xưng hào 24
+51625;Việt Nam xưng hào 25
+51626;Việt Nam xưng hào 26
+51627;Việt Nam xưng hào 27
+51628;Việt Nam xưng hào 28
+51629;Việt Nam xưng hào 29
+51630;Việt Nam xưng hào 30
+51631;Việt Nam xưng hào 31
+51632;Việt Nam xưng hào 32
+51633;Việt Nam xưng hào 33
+51634;Việt Nam xưng hào 34
+51635;Việt Nam xưng hào 35
+51636;Việt Nam xưng hào 36
+51637;Việt Nam xưng hào 37
+51638;Việt Nam xưng hào 38
+51639;Việt Nam xưng hào 39
+51640;Việt Nam xưng hào 40
+51641;Việt Nam xưng hào 41
+51642;Việt Nam xưng hào 42
+51643;Việt Nam xưng hào 43
+51644;Việt Nam xưng hào 44
+51645;Việt Nam xưng hào 45
+51646;Việt Nam xưng hào 46
+51647;Việt Nam xưng hào 47
+51648;Việt Nam xưng hào 48
+51649;Việt Nam xưng hào 49
+51650;Việt Nam xưng hào 50
+51651;Việt Nam xưng hào 51
+51652;Việt Nam xưng hào 52
+51653;Việt Nam xưng hào 53
+51654;Việt Nam xưng hào 54
+51655;Việt Nam xưng hào 55
+51656;Việt Nam xưng hào 56
+51657;Việt Nam xưng hào 57
+51658;Việt Nam xưng hào 58
+51659;Việt Nam xưng hào 59
+51660;Việt Nam xưng hào 60
+51661;Việt Nam xưng hào 61
+51662;Việt Nam xưng hào 62
+51663;Việt Nam xưng hào 63
+51664;Việt Nam xưng hào 64
+51665;Việt Nam xưng hào 65
+51666;Việt Nam xưng hào 66
+51667;Việt Nam xưng hào 67
+51668;Việt Nam xưng hào 68
+51669;Việt Nam xưng hào 69
+51670;Việt Nam xưng hào 70
+51671;Việt Nam xưng hào 71
+51672;Việt Nam xưng hào 72
+51673;Việt Nam xưng hào 73
+51674;Việt Nam xưng hào 74
+51675;Việt Nam xưng hào 75
+51676;Việt Nam xưng hào 76
+51677;Việt Nam xưng hào 77
+51678;Việt Nam xưng hào 78
+51679;Việt Nam xưng hào 79
+51680;Việt Nam xưng hào 80
+51681;Việt Nam xưng hào 81
+51682;Việt Nam xưng hào 82
+51683;Việt Nam xưng hào 83
+51700;Đồ giám 4 Cấp kỷ niệm trang trí
+51800;Đồ giám 8 Cấp kỷ niệm trang trí
+51900;Chúng tinh phủng nguyệt kỷ niệm trang trí
+52000;Grand Line 200 Kỷ niệm trang trí
+52100;Grand Line 400 Kỷ niệm trang trí
+52200;Grand Line 600 Kỷ niệm trang trí
+52300;8 Trời đánh dấu kỷ niệm trang trí
+52400;30 Trời đánh dấu kỷ niệm trang trí
+52500;60 Trời đánh dấu kỷ niệm trang trí
+52600;100 Trời đánh dấu kỷ niệm trang trí
+52700;Thí luyện 210 Tầng kỷ niệm trang trí
+52800;Thí luyện 450 Tầng kỷ niệm trang trí
+52900;Thí luyện 720 Tầng kỷ niệm trang trí
+53000;Hàng hải nhật ký kỷ niệm trang trí
+53100;Nhiệt huyết thí luyện kỷ niệm trang trí
+53200;Đỉnh phong quán quân kỷ niệm trang trí
+53300;Đỉnh phong vương giả kỷ niệm trang trí
+53400;Đỉnh phong đấu giả kỷ niệm trang trí
+53500;Đỉnh phong dũng giả kỷ niệm trang trí
+53600;Tinh quang rạng rỡ kỷ niệm trang trí
+53700;Tuổi sơ tán dương kỷ niệm trang trí
+53800;Tường thụy đưa phúc kỷ niệm trang trí
+53900;Đầu mùa xuân mầm non kỷ niệm trang trí
+54000;Hoa hồng người yêu kỷ niệm trang trí
+54100;Halloween kỷ niệm trang trí
+54200;Việt Nam trang trí 1
+54210;Việt Nam trang trí 2
+54220;Việt Nam trang trí 3
+54230;Việt Nam trang trí 4
+54240;Việt Nam trang trí 5
+54250;Việt Nam trang trí 6
+54260;Việt Nam trang trí 7
+54270;Việt Nam trang trí 8
+54280;Việt Nam trang trí 9
+54290;Việt Nam trang trí 10
+54300;Việt Nam trang trí 11
+54310;Việt Nam trang trí 12
+54320;Việt Nam trang trí 13
+54330;Việt Nam trang trí 14
+54340;Việt Nam trang trí 15
+54350;Việt Nam trang trí 16
+54360;Việt Nam trang trí 17
+54370;Việt Nam trang trí 18
+54380;Việt Nam trang trí 19
+54390;Việt Nam trang trí 20
+54400;Việt Nam trang trí 21
+54410;Việt Nam trang trí 22
+54420;Việt Nam trang trí 23
+54430;Việt Nam trang trí 24
+54440;Việt Nam trang trí 25
+54450;Việt Nam trang trí 26
+54460;Việt Nam trang trí 27
+54500;Kim Long chúc tuổi trang trí
+54510;Kim Long chúc tuổi bối cảnh
+54511;Chúc mừng Quốc Khánh ảnh chân dung khung
+54512;Chúc mừng Quốc Khánh trang trí
+54513;Chúc mừng Quốc Khánh bối cảnh
+55101;Nguyên tố chi lực
+55102;Nguyên tố chưởng khống
+55103;Nguyên tố lãnh chúa
+55104;Nguyên tố chúa tể
+55181;Vị diện · Thám hiểm
+55182;Vị diện · Đột phá
+55183;Vị diện · Dẫn dắt
+55184;Vị diện · Đỉnh phong
+55185;Vị diện · Chinh chiến
+55201;Vị diện chinh chiến · Nước
+55202;Vị diện chinh chiến · Lửa
+55203;Vị diện chinh chiến · Gió
+55204;Vị diện chinh chiến · Chỉ riêng
+55205;Vị diện chinh chiến · Ngầm
+55301;Vô tận · Sơ cấp
+55302;Vô tận · Trung cấp
+55303;Vô tận · Cao cấp
+55304;Vô tận · Đỉnh phong
+55311;Công vô bất khắc
+55312;Chiến vô bất thắng
+55313;Đánh đâu thắng đó
+55401;Tầm bảo người
+55402;Thám hiểm giả
+55403;Lớn nhà thám hiểm
+55411;Giải quán quân ·32 Mạnh
+55412;Giải quán quân ·8 Mạnh
+55413;Quán quân chi miện
+55421;Vinh quang chi quan ·64 Mạnh
+55422;Vinh quang chi quan ·8 Mạnh
+55423;Dũng quan thần giới
+55431;Đỉnh phong vinh quang ·64 Mạnh
+55432;Đỉnh phong vinh quang ·8 Mạnh
+55433;Chúng thần chi đỉnh
+55501;Thí luyện · Đột phá người
+55502;Thí luyện · Người dẫn lĩnh
+55601;Trận đấu mùa giải tinh anh
+55602;Cường giả chi chứng
+55603;Vương giả chi tâm
+55604;Siêu phàm chi đỉnh
+55701;Thần minh chiếu cố
+55702;Mới lộ đường kiếm
+55703;Quan tuyệt một đời
+55704;Ai dám tranh phong
+55705;Âu khí tràn đầy
+55706;Âu hoàng giáng lâm
+55707;Thần chi ân sủng
+55708;Trí tuệ chi thần
+55709;Thần lực thức tỉnh
+55801;Thí luyện chi cảnh
+55802;Hoàng kim dũng giả
+55803;Mạo hiểm hoa tiêu người
+55804;Hoàng gia kỵ sĩ đoàn
+55805;Trí tuệ chi hiền giả
+55806;Thí luyện chi tinh
+55807;Cảnh kỳ lạ nhà thám hiểm
+55808;Mạo hiểm Carnival
+55809;Kim thụy chúc tân xuân
+55901;Hữu nghị cùng vinh quang
+55902;Dũng trèo cao phong
+55903;Dãy núi chi đỉnh
+55951;Vực sâu người khiêu chiến
+55952;Vực sâu cô dũng giả
+55953;Vực sâu nhà thám hiểm
+55954;Vực sâu người dẫn đường
+55955;Vực sâu kẻ thống trị
+55956;Vực sâu chi chủ
+55961;Bánh xe cuồn cuộn
+55962;Huyết chiến đến cùng
+55963;Nhất kỵ đương thiên
+60001;V4 Chuyên môn ảnh chân dung
+60002;V7 Chuyên môn ảnh chân dung
+60003;Năm mới hoạt động chuyên môn ảnh chân dung
+60101;V5 Chuyên môn ảnh chân dung khung
+60102;Lãnh chúa kỷ niệm ảnh chân dung khung
+60120;Quan thế vương giả kỷ niệm ảnh chân dung khung
+60131;Đỉnh phong chí tôn ảnh chân dung khung
+60132;Bất phàm truyền thuyết ảnh chân dung khung
+60133;Hơn người ảnh chân dung khung
+60134;Hợp tác chí thượng ảnh chân dung khung
+60201;Tam hệ phụ trợ tự do gói quà
+60202;Tam hệ chuyển vận tự do gói quà
+60203;Thủy hệ chuyển vận tự do gói quà
+60204;Tam hệ 5 Tinh vật liệu tự do
+60301;VIP Chuyên môn gói quà
+60302;VIP Ngày lễ chuyên môn gói quà
+60305;Anh linh gói quà
+61000;Công bằng PVP Kỷ niệm bối cảnh
+61100;Vương giả PVP Kỷ niệm bối cảnh
+61200;Đạt nhân PVP Kỷ niệm bối cảnh
+61300;Đấu sĩ PVP Kỷ niệm bối cảnh
+61400;Quý tộc kỷ niệm bối cảnh
+61500;Lãnh chúa kỷ niệm bối cảnh
+61600;Quan thế vương giả kỷ niệm bối cảnh
+61700;8 Trời đánh dấu kỷ niệm bối cảnh
+61800;30 Trời đánh dấu kỷ niệm bối cảnh
+61900;60 Trời đánh dấu kỷ niệm bối cảnh
+62000;100 Trời đánh dấu kỷ niệm bối cảnh
+62100;Hàng hải nhật ký kỷ niệm bối cảnh
+62200;Nhiệt huyết thí luyện kỷ niệm bối cảnh
+62300;Đỉnh phong quán quân kỷ niệm bối cảnh
+62400;Đỉnh phong vương giả kỷ niệm bối cảnh
+62500;Đỉnh phong đấu giả kỷ niệm bối cảnh
+62600;Đỉnh phong dũng giả kỷ niệm bối cảnh
+62700;Tàu Merry ấn tượng ảnh chân dung khung
+62800;Luffy ấn tượng ảnh chân dung khung
+62900;Chopper ấn tượng ảnh chân dung khung
+63000;Mắt ưng ấn tượng ảnh chân dung khung
+63100;Có chút ấn tượng ảnh chân dung khung
+63200;Chuyên môn thuyền trưởng ấn tượng ảnh chân dung khung
+63300;Zoro ấn tượng ảnh chân dung khung
+63400;Sanji ấn tượng ảnh chân dung khung
+63500;Nói láo bố ấn tượng ảnh chân dung khung
+64000;Halloween kỷ niệm bối cảnh
+64100;Việt Nam bối cảnh 1
+64101;Việt Nam bối cảnh 2
+64102;Việt Nam bối cảnh 3
+64103;Việt Nam bối cảnh 4
+64104;Việt Nam bối cảnh 5
+64105;Việt Nam bối cảnh 6
+64106;Việt Nam bối cảnh 7
+64107;Việt Nam bối cảnh 8
+64108;Việt Nam bối cảnh 9
+64109;Việt Nam bối cảnh 10
+64110;Việt Nam bối cảnh 11
+64111;Việt Nam bối cảnh 12
+64112;Việt Nam bối cảnh 13
+64113;Việt Nam bối cảnh 14
+64114;Việt Nam bối cảnh 15
+72001;Vật liệu gỗ
+72002;Chiến hạm phù thạch
+72003;Truyền thừa thạch
+72101;Bách thú cờ hải tặc ( Vứt bỏ )
+72102;Garp quân hạm
+72103;Râu đen bè gỗ
+72104;Hoàng Kim Mai lệ hào
+72105;Muse thụ cầm ( Vứt bỏ )
+72106;Cấp tốc thiên nga hào
+72107;Cửu Xà hào
+72108;Enel chi thuẫn ( Vứt bỏ )
+72109;Mũ rơm cờ hải tặc
+72110;Baroque cờ hải tặc
+72111;Cửu Xà cờ hải tặc
+72112;Bách thú cờ hải tặc
+72120;Cực địa lặn xuống nước hào
+80101;Thuyền trưởng huy chương
+80102;Vào đông bông tuyết
+80103;Tân xuân phúc ấn
+80104;Tế điển vé xổ số
+80105;Nguyên Tiêu chè trôi nước
+80106;Dạo chơi công viên vé xổ số
+80107;Sinh mệnh chi mầm
+80108;Phá Lôi đào nhánh
+80109;Oánh lam băng tinh
+80110;Liệt diễm chi vũ
+80111;Ánh rạng đông chi thuẫn
+80112;Hắc ám mã não
+80113;Oánh lam băng tinh
+80114;Liệt diễm chi vũ
+80115;Ánh rạng đông chi thuẫn
+80116;Hắc ám mã não
+80117;Oánh lam băng tinh
+80118;Liệt diễm chi vũ
+80119;Ánh rạng đông chi thuẫn
+80120;Vinh quang tệ chương
+80121;Hắc ám mã não
+80122;Oánh lam băng tinh
+80123;Liệt diễm chi vũ
+80124;Ánh rạng đông chi thuẫn
+80125;Hắc ám mã não
+80126;Oánh lam băng tinh
+80127;Liệt diễm chi vũ
+80128;Ánh rạng đông chi thuẫn
+80129;Hắc ám mã não
+80130;Oánh lam băng tinh
+80131;Liệt diễm chi vũ
+80132;Ánh rạng đông chi thuẫn
+80133;Hắc ám mã não
+80134;Oánh lam băng tinh
+80135;Liệt diễm chi vũ
+80136;Ánh rạng đông chi thuẫn
+80137;Hắc ám mã não
+80138;Oánh lam băng tinh
+80139;Liệt diễm chi vũ
+80140;Ánh rạng đông chi thuẫn
+80141;Hắc ám mã não
+80142;Oánh lam băng tinh
+80143;Liệt diễm chi vũ
+80144;Ánh rạng đông chi thuẫn
+80145;Hắc ám mã não
+80146;Oánh lam băng tinh
+80147;Liệt diễm chi vũ
+80148;Ánh rạng đông chi thuẫn
+80149;Hắc ám mã não
+80150;Oánh lam băng tinh
+80151;Liệt diễm chi vũ
+80152;Ánh rạng đông chi thuẫn
+80153;Xanh ngắt chi thạch
+80154;Thần bí chi thủy
+80155;Liệt diễm chi vũ
+80156;Ánh rạng đông chi thuẫn
+80201;Nguyên Tiêu hoa đăng
+80202;Chúc mừng Nguyên Tiêu
+80203;Hưởng phúc Nguyên Tiêu
+80204;Được mùa Nguyên Tiêu
+80205;Bát Bảo Nguyên Tiêu
+80206;Phát sáng Nguyên Tiêu
+80207;Thần bí Nguyên Tiêu
+80208;Không thể diễn tả chi vật
+80209;Đặc cấp đường phấn
+80210;Đen hạt vừng
+80211;Gạo nếp phấn
+80212;Mạo hiểm lịch duyệt
+80213;Mạo hiểm lịch duyệt
+80214;Hi vọng ấn ký
+80215;Hi vọng ấn ký
+80216;Mạo hiểm lịch duyệt
+80217;Hi vọng ấn ký
+80218;Mạo hiểm lịch duyệt
+80219;Hi vọng ấn ký
+80220;Mạo hiểm lịch duyệt
+80221;Sinh động giá trị
+80222;Hi vọng ấn ký
+80223;Ngày mùa hè điểm tích lũy
+80224;Dũng giả kinh nghiệm
+80225;Mạo hiểm kinh nghiệm
+80226;Bãi cát vỏ sò
+80227;Giải tỏa ngoài định mức kinh nghiệm bao
+80228;Thí luyện màu tinh
+80229;Huyến bướm âm phù
+80230;Viết không hết sách bài tập
+80231;Giải tỏa ngoài định mức kinh nghiệm bao
+80232;Max điểm bài thi
+80233;Thất lạc chuẩn khảo chứng
+80234;Mạnh nhất thuyền trưởng huy chương nhận định
+80235;Ngày mùa thu lá phong
+80236;Hoa lửa điểm tích lũy
+80237;Lưu tinh đạn
+80238;Pháo hoa pháo
+80239;Hợp phục điểm tích lũy
+80240;Hợp phục bảo rương
+80243;Bí đỏ đầu
+80244;Vạn thánh bánh kẹo
+80245;Cảnh kỳ lạ khiêu chiến quyển
+80246;Bí đỏ cơ
+80247;Ma pháp bí tịch
+80248;Xông vịt!
+80249;Tấn tấn tấn Vodka
+80250;Cái này, chính là hi vọng a
+80251;Ma nữ thuốc nồi
+80252;Lực công kích tăng lên!
+80253;HP tăng lên!
+80254;A, là cạm bẫy!
+80255;Bí đỏ gói quà lớn
+80256;Cường giả quyết đấu
+80257;Sự kiện thần bí
+80258;Trên trời rơi xuống hồng bao
+80259;Lớn boss Xuất hiện
+80260;Phất Lạp cách
+80261;Điểm cuối cùng
+80262;Bông tuyết phi nhận
+80263;Kim cá chép
+80264;Xuân Lôi mầm nhánh
+80265;Dũng sĩ công huân
+80266;Ma pháp chi thư
+80267;Thi đấu tác chiến tâm đắc
+80268;Hỏa linh vòng
+80301;Kim
+80302;Rồng
+80303;Hiến
+80304;Thụy
+80351;Cống phẩm
+80352;Pháo hoa
+80401;Q Bản thuyền tượng · Franky hình tượng
+81001;Ngọt ngào điểm tích lũy tệ
+81002;Bơ
+81003;Bánh kẹo
+81004;Sô cô la
+85001;[ Tuần thẻ ] Kim cương tuần thẻ
+85002;[ Tuần thẻ ] Phù văn tinh hoa tuần thẻ
+90501;5 Tinh Thủy hệ anh linh
+90502;5 Tinh hỏa hệ anh linh
+90503;5 Tinh Phong hệ anh linh
+90504;5 Tinh quang hệ anh linh
+90505;5 Tinh ám hệ anh linh
+90506;5 Tinh anh linh tự do
+90601;6 Tinh Thủy hệ anh linh
+90602;6 Tinh hỏa hệ anh linh
+90603;6 Tinh Phong hệ anh linh
+90604;6 Tinh quang hệ anh linh
+90605;6 Tinh ám hệ anh linh
+90606;6 Tinh anh linh tự do
+90900;9 Tinh anh linh
+91000;10 Tinh anh linh
+99000;Đầu tư kế hoạch
+99001;Tân xuân hồng bao
+99006;Giải tỏa tiến giai ban thưởng
+99007;Giải tỏa tiến giai ban thưởng
+89010301;[ Cực phẩm ] Dũng khí sáo trang ngẫu nhiên bộ vị
+89010501;[ Cực phẩm ] Dũng khí sáo trang ngẫu nhiên bộ vị
+89020301;[ Cực phẩm ] Cuồng nộ sáo trang ngẫu nhiên bộ vị
+89020501;[ Cực phẩm ] Cuồng nộ sáo trang ngẫu nhiên bộ vị
+89030301;[ Cực phẩm ] Đấu chí sáo trang ngẫu nhiên bộ vị
+89030501;[ Cực phẩm ] Đấu chí sáo trang ngẫu nhiên bộ vị
+89040301;[ Cực phẩm ] Linh vịnh sáo trang ngẫu nhiên bộ vị
+89040501;[ Cực phẩm ] Linh vịnh sáo trang ngẫu nhiên bộ vị
+89050301;[ Cực phẩm ] Xuyên giáp sáo trang ngẫu nhiên bộ vị
+89050501;[ Cực phẩm ] Xuyên giáp sáo trang ngẫu nhiên bộ vị
+89060301;[ Cực phẩm ] Phá pháp sáo trang ngẫu nhiên bộ vị
+89060501;[ Cực phẩm ] Phá pháp sáo trang ngẫu nhiên bộ vị
+89070301;[ Cực phẩm ] Đấu chiến sáo trang ngẫu nhiên bộ vị
+89070501;[ Cực phẩm ] Đấu chiến sáo trang ngẫu nhiên bộ vị
+89080301;[ Cực phẩm ] Trấn linh sáo trang ngẫu nhiên bộ vị
+89080501;[ Cực phẩm ] Trấn linh sáo trang ngẫu nhiên bộ vị
+89090301;[ Cực phẩm ] Ma giáp sáo trang ngẫu nhiên bộ vị
+89090501;[ Cực phẩm ] Ma giáp sáo trang ngẫu nhiên bộ vị
+89100301;[ Cực phẩm ] Thần chiến sáo trang ngẫu nhiên bộ vị
+89100501;[ Cực phẩm ] Thần chiến sáo trang ngẫu nhiên bộ vị
+89110301;[ Cực phẩm ] Long uy sáo trang ngẫu nhiên bộ vị
+89110501;[ Cực phẩm ] Long uy sáo trang ngẫu nhiên bộ vị
+89120301;[ Cực phẩm ] Thần càng sáo trang ngẫu nhiên bộ vị
+89120501;[ Cực phẩm ] Thần càng sáo trang ngẫu nhiên bộ vị
+89130301;[ Cực phẩm ] Cực tốc sáo trang ngẫu nhiên bộ vị
+89130501;[ Cực phẩm ] Cực tốc sáo trang ngẫu nhiên bộ vị
+89140301;[ Cực phẩm ] Huyền hộ sáo trang ngẫu nhiên bộ vị
+89140501;[ Cực phẩm ] Huyền hộ sáo trang ngẫu nhiên bộ vị
+99010101;1 Tinh dũng khí vòng tai
+99010102;1 Tinh dũng khí dây chuyền
+99010103;1 Tinh dũng khí chiếc nhẫn
+99010104;1 Tinh dũng khí vòng tay
+99010201;2 Tinh dũng khí vòng tai
+99010202;2 Tinh dũng khí dây chuyền
+99010203;2 Tinh dũng khí chiếc nhẫn
+99010204;2 Tinh dũng khí vòng tay
+99010301;3 Tinh dũng khí vòng tai
+99010302;3 Tinh dũng khí dây chuyền
+99010303;3 Tinh dũng khí chiếc nhẫn
+99010304;3 Tinh dũng khí vòng tay
+99010401;4 Tinh dũng khí vòng tai
+99010402;4 Tinh dũng khí dây chuyền
+99010403;4 Tinh dũng khí chiếc nhẫn
+99010404;4 Tinh dũng khí vòng tay
+99010501;5 Tinh dũng khí vòng tai
+99010502;5 Tinh dũng khí dây chuyền
+99010503;5 Tinh dũng khí chiếc nhẫn
+99010504;5 Tinh dũng khí vòng tay
+99010601;6 Tinh dũng khí vòng tai
+99010602;6 Tinh dũng khí dây chuyền
+99010603;6 Tinh dũng khí chiếc nhẫn
+99010604;6 Tinh dũng khí vòng tay
+99010701;7 Tinh dũng khí vòng tai
+99010702;7 Tinh dũng khí dây chuyền
+99010703;7 Tinh dũng khí chiếc nhẫn
+99010704;7 Tinh dũng khí vòng tay
+99010801;8 Tinh dũng khí vòng tai
+99010802;8 Tinh dũng khí dây chuyền
+99010803;8 Tinh dũng khí chiếc nhẫn
+99010804;8 Tinh dũng khí vòng tay
+99010901;9 Tinh dũng khí vòng tai
+99010902;9 Tinh dũng khí dây chuyền
+99010903;9 Tinh dũng khí chiếc nhẫn
+99010904;9 Tinh dũng khí vòng tay
+99011001;10 Tinh dũng khí vòng tai
+99011002;10 Tinh dũng khí dây chuyền
+99011003;10 Tinh dũng khí chiếc nhẫn
+99011004;10 Tinh dũng khí vòng tay
+99020101;1 Tinh cuồng nộ vòng tai
+99020102;1 Tinh cuồng nộ dây chuyền
+99020103;1 Tinh cuồng nộ chiếc nhẫn
+99020104;1 Tinh cuồng nộ vòng tay
+99020201;2 Tinh cuồng nộ vòng tai
+99020202;2 Tinh cuồng nộ dây chuyền
+99020203;2 Tinh cuồng nộ chiếc nhẫn
+99020204;2 Tinh cuồng nộ vòng tay
+99020301;3 Tinh cuồng nộ vòng tai
+99020302;3 Tinh cuồng nộ dây chuyền
+99020303;3 Tinh cuồng nộ chiếc nhẫn
+99020304;3 Tinh cuồng nộ vòng tay
+99020401;4 Tinh cuồng nộ vòng tai
+99020402;4 Tinh cuồng nộ dây chuyền
+99020403;4 Tinh cuồng nộ chiếc nhẫn
+99020404;4 Tinh cuồng nộ vòng tay
+99020501;5 Tinh cuồng nộ vòng tai
+99020502;5 Tinh cuồng nộ dây chuyền
+99020503;5 Tinh cuồng nộ chiếc nhẫn
+99020504;5 Tinh cuồng nộ vòng tay
+99020601;6 Tinh cuồng nộ vòng tai
+99020602;6 Tinh cuồng nộ dây chuyền
+99020603;6 Tinh cuồng nộ chiếc nhẫn
+99020604;6 Tinh cuồng nộ vòng tay
+99020701;7 Tinh cuồng nộ vòng tai
+99020702;7 Tinh cuồng nộ dây chuyền
+99020703;7 Tinh cuồng nộ chiếc nhẫn
+99020704;7 Tinh cuồng nộ vòng tay
+99020801;8 Tinh cuồng nộ vòng tai
+99020802;8 Tinh cuồng nộ dây chuyền
+99020803;8 Tinh cuồng nộ chiếc nhẫn
+99020804;8 Tinh cuồng nộ vòng tay
+99020901;9 Tinh cuồng nộ vòng tai
+99020902;9 Tinh cuồng nộ dây chuyền
+99020903;9 Tinh cuồng nộ chiếc nhẫn
+99020904;9 Tinh cuồng nộ vòng tay
+99021001;10 Tinh cuồng nộ vòng tai
+99021002;10 Tinh cuồng nộ dây chuyền
+99021003;10 Tinh cuồng nộ chiếc nhẫn
+99021004;10 Tinh cuồng nộ vòng tay
+99030101;1 Tinh đấu chí vòng tai
+99030102;1 Tinh đấu chí dây chuyền
+99030103;1 Tinh đấu chí chiếc nhẫn
+99030104;1 Tinh đấu chí vòng tay
+99030201;2 Tinh đấu chí vòng tai
+99030202;2 Tinh đấu chí dây chuyền
+99030203;2 Tinh đấu chí chiếc nhẫn
+99030204;2 Tinh đấu chí vòng tay
+99030301;3 Tinh đấu chí vòng tai
+99030302;3 Tinh đấu chí dây chuyền
+99030303;3 Tinh đấu chí chiếc nhẫn
+99030304;3 Tinh đấu chí vòng tay
+99030401;4 Tinh đấu chí vòng tai
+99030402;4 Tinh đấu chí dây chuyền
+99030403;4 Tinh đấu chí chiếc nhẫn
+99030404;4 Tinh đấu chí vòng tay
+99030501;5 Tinh đấu chí vòng tai
+99030502;5 Tinh đấu chí dây chuyền
+99030503;5 Tinh đấu chí chiếc nhẫn
+99030504;5 Tinh đấu chí vòng tay
+99030601;6 Tinh đấu chí vòng tai
+99030602;6 Tinh đấu chí dây chuyền
+99030603;6 Tinh đấu chí chiếc nhẫn
+99030604;6 Tinh đấu chí vòng tay
+99030701;7 Tinh đấu chí vòng tai
+99030702;7 Tinh đấu chí dây chuyền
+99030703;7 Tinh đấu chí chiếc nhẫn
+99030704;7 Tinh đấu chí vòng tay
+99030801;8 Tinh đấu chí vòng tai
+99030802;8 Tinh đấu chí dây chuyền
+99030803;8 Tinh đấu chí chiếc nhẫn
+99030804;8 Tinh đấu chí vòng tay
+99030901;9 Tinh đấu chí vòng tai
+99030902;9 Tinh đấu chí dây chuyền
+99030903;9 Tinh đấu chí chiếc nhẫn
+99030904;9 Tinh đấu chí vòng tay
+99031001;10 Tinh đấu chí vòng tai
+99031002;10 Tinh đấu chí dây chuyền
+99031003;10 Tinh đấu chí chiếc nhẫn
+99031004;10 Tinh đấu chí vòng tay
+99040101;1 Tinh linh vịnh vòng tai
+99040102;1 Tinh linh vịnh dây chuyền
+99040103;1 Tinh linh vịnh chiếc nhẫn
+99040104;1 Tinh linh vịnh vòng tay
+99040201;2 Tinh linh vịnh vòng tai
+99040202;2 Tinh linh vịnh dây chuyền
+99040203;2 Tinh linh vịnh chiếc nhẫn
+99040204;2 Tinh linh vịnh vòng tay
+99040301;3 Tinh linh vịnh vòng tai
+99040302;3 Tinh linh vịnh dây chuyền
+99040303;3 Tinh linh vịnh chiếc nhẫn
+99040304;3 Tinh linh vịnh vòng tay
+99040401;4 Tinh linh vịnh vòng tai
+99040402;4 Tinh linh vịnh dây chuyền
+99040403;4 Tinh linh vịnh chiếc nhẫn
+99040404;4 Tinh linh vịnh vòng tay
+99040501;5 Tinh linh vịnh vòng tai
+99040502;5 Tinh linh vịnh dây chuyền
+99040503;5 Tinh linh vịnh chiếc nhẫn
+99040504;5 Tinh linh vịnh vòng tay
+99040601;6 Tinh linh vịnh vòng tai
+99040602;6 Tinh linh vịnh dây chuyền
+99040603;6 Tinh linh vịnh chiếc nhẫn
+99040604;6 Tinh linh vịnh vòng tay
+99040701;7 Tinh linh vịnh vòng tai
+99040702;7 Tinh linh vịnh dây chuyền
+99040703;7 Tinh linh vịnh chiếc nhẫn
+99040704;7 Tinh linh vịnh vòng tay
+99040801;8 Tinh linh vịnh vòng tai
+99040802;8 Tinh linh vịnh dây chuyền
+99040803;8 Tinh linh vịnh chiếc nhẫn
+99040804;8 Tinh linh vịnh vòng tay
+99040901;9 Tinh linh vịnh vòng tai
+99040902;9 Tinh linh vịnh dây chuyền
+99040903;9 Tinh linh vịnh chiếc nhẫn
+99040904;9 Tinh linh vịnh vòng tay
+99041001;10 Tinh linh vịnh vòng tai
+99041002;10 Tinh linh vịnh dây chuyền
+99041003;10 Tinh linh vịnh chiếc nhẫn
+99041004;10 Tinh linh vịnh vòng tay
+99050101;1 Tinh xuyên giáp vòng tai
+99050102;1 Tinh xuyên giáp dây chuyền
+99050103;1 Tinh xuyên giáp chiếc nhẫn
+99050104;1 Tinh xuyên giáp vòng tay
+99050201;2 Tinh xuyên giáp vòng tai
+99050202;2 Tinh xuyên giáp dây chuyền
+99050203;2 Tinh xuyên giáp chiếc nhẫn
+99050204;2 Tinh xuyên giáp vòng tay
+99050301;3 Tinh xuyên giáp vòng tai
+99050302;3 Tinh xuyên giáp dây chuyền
+99050303;3 Tinh xuyên giáp chiếc nhẫn
+99050304;3 Tinh xuyên giáp vòng tay
+99050401;4 Tinh xuyên giáp vòng tai
+99050402;4 Tinh xuyên giáp dây chuyền
+99050403;4 Tinh xuyên giáp chiếc nhẫn
+99050404;4 Tinh xuyên giáp vòng tay
+99050501;5 Tinh xuyên giáp vòng tai
+99050502;5 Tinh xuyên giáp dây chuyền
+99050503;5 Tinh xuyên giáp chiếc nhẫn
+99050504;5 Tinh xuyên giáp vòng tay
+99050601;6 Tinh xuyên giáp vòng tai
+99050602;6 Tinh xuyên giáp dây chuyền
+99050603;6 Tinh xuyên giáp chiếc nhẫn
+99050604;6 Tinh xuyên giáp vòng tay
+99050701;7 Tinh xuyên giáp vòng tai
+99050702;7 Tinh xuyên giáp dây chuyền
+99050703;7 Tinh xuyên giáp chiếc nhẫn
+99050704;7 Tinh xuyên giáp vòng tay
+99050801;8 Tinh xuyên giáp vòng tai
+99050802;8 Tinh xuyên giáp dây chuyền
+99050803;8 Tinh xuyên giáp chiếc nhẫn
+99050804;8 Tinh xuyên giáp vòng tay
+99050901;9 Tinh xuyên giáp vòng tai
+99050902;9 Tinh xuyên giáp dây chuyền
+99050903;9 Tinh xuyên giáp chiếc nhẫn
+99050904;9 Tinh xuyên giáp vòng tay
+99051001;10 Tinh xuyên giáp vòng tai
+99051002;10 Tinh xuyên giáp dây chuyền
+99051003;10 Tinh xuyên giáp chiếc nhẫn
+99051004;10 Tinh xuyên giáp vòng tay
+99060101;1 Tinh phá pháp vòng tai
+99060102;1 Tinh phá pháp dây chuyền
+99060103;1 Tinh phá pháp chiếc nhẫn
+99060104;1 Tinh phá pháp vòng tay
+99060201;2 Tinh phá pháp vòng tai
+99060202;2 Tinh phá pháp dây chuyền
+99060203;2 Tinh phá pháp chiếc nhẫn
+99060204;2 Tinh phá pháp vòng tay
+99060301;3 Tinh phá pháp vòng tai
+99060302;3 Tinh phá pháp dây chuyền
+99060303;3 Tinh phá pháp chiếc nhẫn
+99060304;3 Tinh phá pháp vòng tay
+99060401;4 Tinh phá pháp vòng tai
+99060402;4 Tinh phá pháp dây chuyền
+99060403;4 Tinh phá pháp chiếc nhẫn
+99060404;4 Tinh phá pháp vòng tay
+99060501;5 Tinh phá pháp vòng tai
+99060502;5 Tinh phá pháp dây chuyền
+99060503;5 Tinh phá pháp chiếc nhẫn
+99060504;5 Tinh phá pháp vòng tay
+99060601;6 Tinh phá pháp vòng tai
+99060602;6 Tinh phá pháp dây chuyền
+99060603;6 Tinh phá pháp chiếc nhẫn
+99060604;6 Tinh phá pháp vòng tay
+99060701;7 Tinh phá pháp vòng tai
+99060702;7 Tinh phá pháp dây chuyền
+99060703;7 Tinh phá pháp chiếc nhẫn
+99060704;7 Tinh phá pháp vòng tay
+99060801;8 Tinh phá pháp vòng tai
+99060802;8 Tinh phá pháp dây chuyền
+99060803;8 Tinh phá pháp chiếc nhẫn
+99060804;8 Tinh phá pháp vòng tay
+99060901;9 Tinh phá pháp vòng tai
+99060902;9 Tinh phá pháp dây chuyền
+99060903;9 Tinh phá pháp chiếc nhẫn
+99060904;9 Tinh phá pháp vòng tay
+99061001;10 Tinh phá pháp vòng tai
+99061002;10 Tinh phá pháp dây chuyền
+99061003;10 Tinh phá pháp chiếc nhẫn
+99061004;10 Tinh phá pháp vòng tay
+99070101;1 Tinh đấu chiến vòng tai
+99070102;1 Tinh đấu chiến dây chuyền
+99070103;1 Tinh đấu chiến chiếc nhẫn
+99070104;1 Tinh đấu chiến vòng tay
+99070201;2 Tinh đấu chiến vòng tai
+99070202;2 Tinh đấu chiến dây chuyền
+99070203;2 Tinh đấu chiến chiếc nhẫn
+99070204;2 Tinh đấu chiến vòng tay
+99070301;3 Tinh đấu chiến vòng tai
+99070302;3 Tinh đấu chiến dây chuyền
+99070303;3 Tinh đấu chiến chiếc nhẫn
+99070304;3 Tinh đấu chiến vòng tay
+99070401;4 Tinh đấu chiến vòng tai
+99070402;4 Tinh đấu chiến dây chuyền
+99070403;4 Tinh đấu chiến chiếc nhẫn
+99070404;4 Tinh đấu chiến vòng tay
+99070501;5 Tinh đấu chiến vòng tai
+99070502;5 Tinh đấu chiến dây chuyền
+99070503;5 Tinh đấu chiến chiếc nhẫn
+99070504;5 Tinh đấu chiến vòng tay
+99070601;6 Tinh đấu chiến vòng tai
+99070602;6 Tinh đấu chiến dây chuyền
+99070603;6 Tinh đấu chiến chiếc nhẫn
+99070604;6 Tinh đấu chiến vòng tay
+99070701;7 Tinh đấu chiến vòng tai
+99070702;7 Tinh đấu chiến dây chuyền
+99070703;7 Tinh đấu chiến chiếc nhẫn
+99070704;7 Tinh đấu chiến vòng tay
+99070801;8 Tinh đấu chiến vòng tai
+99070802;8 Tinh đấu chiến dây chuyền
+99070803;8 Tinh đấu chiến chiếc nhẫn
+99070804;8 Tinh đấu chiến vòng tay
+99070901;9 Tinh đấu chiến vòng tai
+99070902;9 Tinh đấu chiến dây chuyền
+99070903;9 Tinh đấu chiến chiếc nhẫn
+99070904;9 Tinh đấu chiến vòng tay
+99071001;10 Tinh đấu chiến vòng tai
+99071002;10 Tinh đấu chiến dây chuyền
+99071003;10 Tinh đấu chiến chiếc nhẫn
+99071004;10 Tinh đấu chiến vòng tay
+99080101;1 Tinh trấn linh vòng tai
+99080102;1 Tinh trấn linh dây chuyền
+99080103;1 Tinh trấn linh giới chỉ
+99080104;1 Tinh trấn linh vòng tay
+99080201;2 Tinh trấn linh vòng tai
+99080202;2 Tinh trấn linh dây chuyền
+99080203;2 Tinh trấn linh giới chỉ
+99080204;2 Tinh trấn linh vòng tay
+99080301;3 Tinh trấn linh vòng tai
+99080302;3 Tinh trấn linh dây chuyền
+99080303;3 Tinh trấn linh giới chỉ
+99080304;3 Tinh trấn linh vòng tay
+99080401;4 Tinh trấn linh vòng tai
+99080402;4 Tinh trấn linh dây chuyền
+99080403;4 Tinh trấn linh giới chỉ
+99080404;4 Tinh trấn linh vòng tay
+99080501;5 Tinh trấn linh vòng tai
+99080502;5 Tinh trấn linh dây chuyền
+99080503;5 Tinh trấn linh giới chỉ
+99080504;5 Tinh trấn linh vòng tay
+99080601;6 Tinh trấn linh vòng tai
+99080602;6 Tinh trấn linh dây chuyền
+99080603;6 Tinh trấn linh giới chỉ
+99080604;6 Tinh trấn linh vòng tay
+99080701;7 Tinh trấn linh vòng tai
+99080702;7 Tinh trấn linh dây chuyền
+99080703;7 Tinh trấn linh giới chỉ
+99080704;7 Tinh trấn linh vòng tay
+99080801;8 Tinh trấn linh vòng tai
+99080802;8 Tinh trấn linh dây chuyền
+99080803;8 Tinh trấn linh giới chỉ
+99080804;8 Tinh trấn linh vòng tay
+99080901;9 Tinh trấn linh vòng tai
+99080902;9 Tinh trấn linh dây chuyền
+99080903;9 Tinh trấn linh giới chỉ
+99080904;9 Tinh trấn linh vòng tay
+99081001;10 Tinh trấn linh vòng tai
+99081002;10 Tinh trấn linh dây chuyền
+99081003;10 Tinh trấn linh giới chỉ
+99081004;10 Tinh trấn linh vòng tay
+99090101;1 Tinh ma giáp vòng tai
+99090102;1 Tinh ma giáp dây chuyền
+99090103;1 Tinh ma giáp chiếc nhẫn
+99090104;1 Tinh ma giáp vòng tay
+99090201;2 Tinh ma giáp vòng tai
+99090202;2 Tinh ma giáp dây chuyền
+99090203;2 Tinh ma giáp chiếc nhẫn
+99090204;2 Tinh ma giáp vòng tay
+99090301;3 Tinh ma giáp vòng tai
+99090302;3 Tinh ma giáp dây chuyền
+99090303;3 Tinh ma giáp chiếc nhẫn
+99090304;3 Tinh ma giáp vòng tay
+99090401;4 Tinh ma giáp vòng tai
+99090402;4 Tinh ma giáp dây chuyền
+99090403;4 Tinh ma giáp chiếc nhẫn
+99090404;4 Tinh ma giáp vòng tay
+99090501;5 Tinh ma giáp vòng tai
+99090502;5 Tinh ma giáp dây chuyền
+99090503;5 Tinh ma giáp chiếc nhẫn
+99090504;5 Tinh ma giáp vòng tay
+99090601;6 Tinh ma giáp vòng tai
+99090602;6 Tinh ma giáp dây chuyền
+99090603;6 Tinh ma giáp chiếc nhẫn
+99090604;6 Tinh ma giáp vòng tay
+99090701;7 Tinh ma giáp vòng tai
+99090702;7 Tinh ma giáp dây chuyền
+99090703;7 Tinh ma giáp chiếc nhẫn
+99090704;7 Tinh ma giáp vòng tay
+99090801;8 Tinh ma giáp vòng tai
+99090802;8 Tinh ma giáp dây chuyền
+99090803;8 Tinh ma giáp chiếc nhẫn
+99090804;8 Tinh ma giáp vòng tay
+99090901;9 Tinh ma giáp vòng tai
+99090902;9 Tinh ma giáp dây chuyền
+99090903;9 Tinh ma giáp chiếc nhẫn
+99090904;9 Tinh ma giáp vòng tay
+99091001;10 Tinh ma giáp vòng tai
+99091002;10 Tinh ma giáp dây chuyền
+99091003;10 Tinh ma giáp chiếc nhẫn
+99091004;10 Tinh ma giáp vòng tay
+99100101;1 Tinh Thần chiến vòng tai
+99100102;1 Tinh Thần chiến dây chuyền
+99100103;1 Tinh Thần chiến chiếc nhẫn
+99100104;1 Tinh Thần chiến vòng tay
+99100201;2 Tinh Thần chiến vòng tai
+99100202;2 Tinh Thần chiến dây chuyền
+99100203;2 Tinh Thần chiến chiếc nhẫn
+99100204;2 Tinh Thần chiến vòng tay
+99100301;3 Tinh Thần chiến vòng tai
+99100302;3 Tinh Thần chiến dây chuyền
+99100303;3 Tinh Thần chiến chiếc nhẫn
+99100304;3 Tinh Thần chiến vòng tay
+99100401;4 Tinh Thần chiến vòng tai
+99100402;4 Tinh Thần chiến dây chuyền
+99100403;4 Tinh Thần chiến chiếc nhẫn
+99100404;4 Tinh Thần chiến vòng tay
+99100501;5 Tinh Thần chiến vòng tai
+99100502;5 Tinh Thần chiến dây chuyền
+99100503;5 Tinh Thần chiến chiếc nhẫn
+99100504;5 Tinh Thần chiến vòng tay
+99100601;6 Tinh Thần chiến vòng tai
+99100602;6 Tinh Thần chiến dây chuyền
+99100603;6 Tinh Thần chiến chiếc nhẫn
+99100604;6 Tinh Thần chiến vòng tay
+99100701;7 Tinh Thần chiến vòng tai
+99100702;7 Tinh Thần chiến dây chuyền
+99100703;7 Tinh Thần chiến chiếc nhẫn
+99100704;7 Tinh Thần chiến vòng tay
+99100801;8 Tinh Thần chiến vòng tai
+99100802;8 Tinh Thần chiến dây chuyền
+99100803;8 Tinh Thần chiến chiếc nhẫn
+99100804;8 Tinh Thần chiến vòng tay
+99100901;9 Tinh Thần chiến vòng tai
+99100902;9 Tinh Thần chiến dây chuyền
+99100903;9 Tinh Thần chiến chiếc nhẫn
+99100904;9 Tinh Thần chiến vòng tay
+99101001;10 Tinh Thần chiến vòng tai
+99101002;10 Tinh Thần chiến dây chuyền
+99101003;10 Tinh Thần chiến chiếc nhẫn
+99101004;10 Tinh Thần chiến vòng tay
+99110101;1 Tinh long uy vòng tai
+99110102;1 Tinh long uy dây chuyền
+99110103;1 Tinh long uy chiếc nhẫn
+99110104;1 Tinh long uy vòng tay
+99110201;2 Tinh long uy vòng tai
+99110202;2 Tinh long uy dây chuyền
+99110203;2 Tinh long uy chiếc nhẫn
+99110204;2 Tinh long uy vòng tay
+99110301;3 Tinh long uy vòng tai
+99110302;3 Tinh long uy dây chuyền
+99110303;3 Tinh long uy chiếc nhẫn
+99110304;3 Tinh long uy vòng tay
+99110401;4 Tinh long uy vòng tai
+99110402;4 Tinh long uy dây chuyền
+99110403;4 Tinh long uy chiếc nhẫn
+99110404;4 Tinh long uy vòng tay
+99110501;5 Tinh long uy vòng tai
+99110502;5 Tinh long uy dây chuyền
+99110503;5 Tinh long uy chiếc nhẫn
+99110504;5 Tinh long uy vòng tay
+99110601;6 Tinh long uy vòng tai
+99110602;6 Tinh long uy dây chuyền
+99110603;6 Tinh long uy chiếc nhẫn
+99110604;6 Tinh long uy vòng tay
+99110701;7 Tinh long uy vòng tai
+99110702;7 Tinh long uy dây chuyền
+99110703;7 Tinh long uy chiếc nhẫn
+99110704;7 Tinh long uy vòng tay
+99110801;8 Tinh long uy vòng tai
+99110802;8 Tinh long uy dây chuyền
+99110803;8 Tinh long uy chiếc nhẫn
+99110804;8 Tinh long uy vòng tay
+99110901;9 Tinh long uy vòng tai
+99110902;9 Tinh long uy dây chuyền
+99110903;9 Tinh long uy chiếc nhẫn
+99110904;9 Tinh long uy vòng tay
+99111001;10 Tinh long uy vòng tai
+99111002;10 Tinh long uy dây chuyền
+99111003;10 Tinh long uy chiếc nhẫn
+99111004;10 Tinh long uy vòng tay
+99120101;1 Tinh Thần càng vòng tai
+99120102;1 Tinh Thần càng dây chuyền
+99120103;1 Tinh Thần càng chiếc nhẫn
+99120104;1 Tinh Thần càng vòng tay
+99120201;2 Tinh Thần càng vòng tai
+99120202;2 Tinh Thần càng dây chuyền
+99120203;2 Tinh Thần càng chiếc nhẫn
+99120204;2 Tinh Thần càng vòng tay
+99120301;3 Tinh Thần càng vòng tai
+99120302;3 Tinh Thần càng dây chuyền
+99120303;3 Tinh Thần càng chiếc nhẫn
+99120304;3 Tinh Thần càng vòng tay
+99120401;4 Tinh Thần càng vòng tai
+99120402;4 Tinh Thần càng dây chuyền
+99120403;4 Tinh Thần càng chiếc nhẫn
+99120404;4 Tinh Thần càng vòng tay
+99120501;5 Tinh Thần càng vòng tai
+99120502;5 Tinh Thần càng dây chuyền
+99120503;5 Tinh Thần càng chiếc nhẫn
+99120504;5 Tinh Thần càng vòng tay
+99120601;6 Tinh Thần càng vòng tai
+99120602;6 Tinh Thần càng dây chuyền
+99120603;6 Tinh Thần càng chiếc nhẫn
+99120604;6 Tinh Thần càng vòng tay
+99120701;7 Tinh Thần càng vòng tai
+99120702;7 Tinh Thần càng dây chuyền
+99120703;7 Tinh Thần càng chiếc nhẫn
+99120704;7 Tinh Thần càng vòng tay
+99120801;8 Tinh Thần càng vòng tai
+99120802;8 Tinh Thần càng dây chuyền
+99120803;8 Tinh Thần càng chiếc nhẫn
+99120804;8 Tinh Thần càng vòng tay
+99120901;9 Tinh Thần càng vòng tai
+99120902;9 Tinh Thần càng dây chuyền
+99120903;9 Tinh Thần càng chiếc nhẫn
+99120904;9 Tinh Thần càng vòng tay
+99121001;10 Tinh Thần càng vòng tai
+99121002;10 Tinh Thần càng dây chuyền
+99121003;10 Tinh Thần càng chiếc nhẫn
+99121004;10 Tinh Thần càng vòng tay
+99130101;1 Tinh cực nhanh vòng tai
+99130102;1 Tinh cực nhanh dây chuyền
+99130103;1 Tinh cực nhanh chiếc nhẫn
+99130104;1 Tinh cực nhanh vòng tay
+99130201;2 Tinh cực nhanh vòng tai
+99130202;2 Tinh cực nhanh dây chuyền
+99130203;2 Tinh cực nhanh chiếc nhẫn
+99130204;2 Tinh cực nhanh vòng tay
+99130301;3 Tinh cực nhanh vòng tai
+99130302;3 Tinh cực nhanh dây chuyền
+99130303;3 Tinh cực nhanh chiếc nhẫn
+99130304;3 Tinh cực nhanh vòng tay
+99130401;4 Tinh cực nhanh vòng tai
+99130402;4 Tinh cực nhanh dây chuyền
+99130403;4 Tinh cực nhanh chiếc nhẫn
+99130404;4 Tinh cực nhanh vòng tay
+99130501;5 Tinh cực nhanh vòng tai
+99130502;5 Tinh cực nhanh dây chuyền
+99130503;5 Tinh cực nhanh chiếc nhẫn
+99130504;5 Tinh cực nhanh vòng tay
+99130601;6 Tinh cực nhanh vòng tai
+99130602;6 Tinh cực nhanh dây chuyền
+99130603;6 Tinh cực nhanh chiếc nhẫn
+99130604;6 Tinh cực nhanh vòng tay
+99130701;7 Tinh cực nhanh vòng tai
+99130702;7 Tinh cực nhanh dây chuyền
+99130703;7 Tinh cực nhanh chiếc nhẫn
+99130704;7 Tinh cực nhanh vòng tay
+99130801;8 Tinh cực nhanh vòng tai
+99130802;8 Tinh cực nhanh dây chuyền
+99130803;8 Tinh cực nhanh chiếc nhẫn
+99130804;8 Tinh cực nhanh vòng tay
+99130901;9 Tinh cực nhanh vòng tai
+99130902;9 Tinh cực nhanh dây chuyền
+99130903;9 Tinh cực nhanh chiếc nhẫn
+99130904;9 Tinh cực nhanh vòng tay
+99131001;10 Tinh cực nhanh vòng tai
+99131002;10 Tinh cực nhanh dây chuyền
+99131003;10 Tinh cực nhanh chiếc nhẫn
+99131004;10 Tinh cực nhanh vòng tay
+99140101;1 Tinh huyền che tai vòng
+99140102;1 Tinh huyền hộ dây chuyền
+99140103;1 Tinh huyền hộ chiếc nhẫn
+99140104;1 Tinh huyền hộ thủ vòng tay
+99140201;2 Tinh huyền che tai vòng
+99140202;2 Tinh huyền hộ dây chuyền
+99140203;2 Tinh huyền hộ chiếc nhẫn
+99140204;2 Tinh huyền hộ thủ vòng tay
+99140301;3 Tinh huyền che tai vòng
+99140302;3 Tinh huyền hộ dây chuyền
+99140303;3 Tinh huyền hộ chiếc nhẫn
+99140304;3 Tinh huyền hộ thủ vòng tay
+99140401;4 Tinh huyền che tai vòng
+99140402;4 Tinh huyền hộ dây chuyền
+99140403;4 Tinh huyền hộ chiếc nhẫn
+99140404;4 Tinh huyền hộ thủ vòng tay
+99140501;5 Tinh huyền che tai vòng
+99140502;5 Tinh huyền hộ dây chuyền
+99140503;5 Tinh huyền hộ chiếc nhẫn
+99140504;5 Tinh huyền hộ thủ vòng tay
+99140601;6 Tinh huyền che tai vòng
+99140602;6 Tinh huyền hộ dây chuyền
+99140603;6 Tinh huyền hộ chiếc nhẫn
+99140604;6 Tinh huyền hộ thủ vòng tay
+99140701;7 Tinh huyền che tai vòng
+99140702;7 Tinh huyền hộ dây chuyền
+99140703;7 Tinh huyền hộ chiếc nhẫn
+99140704;7 Tinh huyền hộ thủ vòng tay
+99140801;8 Tinh huyền che tai vòng
+99140802;8 Tinh huyền hộ dây chuyền
+99140803;8 Tinh huyền hộ chiếc nhẫn
+99140804;8 Tinh huyền hộ thủ vòng tay
+99140901;9 Tinh huyền che tai vòng
+99140902;9 Tinh huyền hộ dây chuyền
+99140903;9 Tinh huyền hộ chiếc nhẫn
+99140904;9 Tinh huyền hộ thủ vòng tay
+99141001;10 Tinh huyền che tai vòng
+99141002;10 Tinh huyền hộ dây chuyền
+99141003;10 Tinh huyền hộ chiếc nhẫn
+99141004;10 Tinh huyền hộ thủ vòng tay
+40101;Lang Nha bổng
+40102;Chế thức súng ngắn
+40103;Trường kiếm
+40104;Shigure
+40105;Võ sĩ thái đao
+40106;Hắc túi
+40107;Quải trượng kiếm
+40108;Thời tiết bổng
+40109;Thu thuỷ
+40110;Wado Ichimonji
+40111;Hoàng kim côn
+40112;Kim sắc tay câu
+40113;Ác ma chiến phủ
+40114;Thất Tinh Kiếm
+40115;Đời thứ nhất quỷ triệt
+40116;Vương giả thế đao
+40117;Hắc đao đêm
+40201;Lang thang áo choàng
+40202;Mạo hiểm trường bào
+40203;Lữ giả áo dài
+40204;Quý tộc áo khoác
+40205;Hoàng kim giáp
+40206;Vũ trang áo khoác
+40207;Thống ngự áo khoác
+40208;Tinh cương cương giáp
+40209;Kỵ sĩ chiến giáp
+40210;Ác ma áo choàng
+40211;Kẻ thống trị áo choàng
+40212;Hoa hồng chiến giáp
+40213;Hải tặc áo choàng
+40214;Hải quân chế phục
+40215;Hỏa Liệt Điểu áo khoác
+40216;Thập tự chiến giáp
+40217;Chính nghĩa áo khoác
+40301;Mũ rơm
+40302;Thủy thủ khăn trùm đầu
+40303;Hải tặc khăn trùm đầu
+40304;Hải tặc mũ
+40305;Kính bảo hộ mũ da
+40306;Mũ nồi
+40307;Sừng hươu mũ
+40308;Quý tộc mũ
+40309;Báo tuyết mũ
+40310;Mái vòm mũ dạ
+40311;Màu đen mũ dạ
+40312;Nón cao bồi
+40313;Thuyền trưởng mũ
+40314;Đầu chó mũ
+40315;Chiến thần mũ giáp
+40316;Thập tự mũ giáp
+40317;Hải âu nón lính
+40401;Làm thô giày chiến
+40402;Hắc thiết giày chiến
+40403;Tinh cương giày chiến
+40404;Kỵ sĩ giày chiến
+40405;Khế ước giày chiến
+40406;Sư Vương giày chiến
+40407;Thắng lợi giày chiến
+40408;Lôi đình giày chiến
+40409;Quang huy giày chiến
+40410;Ma linh giày chiến
+40411;Quang minh giày chiến
+40412;Chúc phúc giày chiến
+40413;Thánh quang giày chiến
+40414;Linh tê giày chiến
+40415;Gió văn chiến giày
+40416;Vực sâu giày chiến
+40417;Thần phạt giày chiến
+10428;Thần Diệu phù văn mảnh vỡ
+10429;Ma linh phù văn mảnh vỡ
+24000;Hải tặc kiếm sĩ
+24100;Hải tặc pháo thủ
+24101;Hải quân tay súng
+24200;Mạnh cao
+24201;Có thể so sánh
+24202;Yêu so đạt
+24203;A Kim
+24204;Niết Bàn
+24300;Luffy
+24301;Kumadori
+24302;Zoro
+24303;Vi khăn
+24304;Naga thị nữ
+24310;Ngũ tinh Luffy
+24312;Ngũ tinh Zoro
+24314;Ngũ tinh Naga thị nữ
+24400;Bạch Tinh
+24401;Thanh Trĩ
+24402;Magellan
+24403;Smoker
+24404;Jinbe
+24405;Kho Lôi a
+24406;Trơn mềm người · Yêu so đạt
+24407;Monet
+24408;A Long
+24409;Crocodile
+24410;Reiju
+24411;Smoothie
+24500;Hải tặc kiếm sĩ mảnh vỡ
+24600;Hải tặc pháo thủ mảnh vỡ
+24601;Hải quân tay súng mảnh vỡ
+24700;Mạnh cao mảnh vỡ
+24701;Có thể so sánh mảnh vỡ
+24702;Yêu so đạt mảnh vỡ
+24703;A Kim mảnh vỡ
+24704;Niết Bàn mảnh vỡ
+24800;Luffy mảnh vỡ
+24801;Kumadori mảnh vỡ
+24802;Zoro mảnh vỡ
+24803;Vi khăn mảnh vỡ
+24804;Naga thị nữ mảnh vỡ
+24900;Bạch Tinh mảnh vỡ
+24901;Thanh Trĩ mảnh vỡ
+24902;Magellan mảnh vỡ
+24903;Smoker mảnh vỡ
+24904;Jinbe mảnh vỡ
+24905;Kho Lôi a mảnh vỡ
+24906;Trơn mềm người · Yêu so đạt mảnh vỡ
+24907;Monet mảnh vỡ
+24908;A Long mảnh vỡ
+24909;Crocodile mảnh vỡ
+24910;Reiju mảnh vỡ
+24911;Smoothie mảnh vỡ
+25000;Lông kỳ
+25100;Ngư nhân kiếm sĩ
+25101;Helmeppo
+25200;Kurou
+25201;Hamburger
+25202;A thu
+25203;Toa Đức Lợi
+25204;Mr.5
+25300;Nói láo bố
+25301;Jabra
+25302;Bruno
+25303;Mr.2
+25304;Wapol
+25314;Ngũ tinh Wapol
+25400;Garp
+25401;Franky
+25402;Long Mã
+25403;Marco
+25404;Hannibal
+25405;Lucci
+25406;Ivankov
+25407;Ace
+25408;Thất Vũ Hải · Bucky
+25409;Đầu bếp · Sanji
+25410;Người chèo thuyền · Franky
+25411;Trafalgar · La
+25500;Lông kỳ mảnh vỡ
+25600;Ngư nhân kiếm sĩ mảnh vỡ
+25601;Helmeppo mảnh vỡ
+25700;Kurou mảnh vỡ
+25701;Hamburger mảnh vỡ
+25702;A thu mảnh vỡ
+25703;Toa Đức Lợi mảnh vỡ
+25704;Mr.5 Mảnh vỡ
+25800;Nói láo bố mảnh vỡ
+25801;Jabra mảnh vỡ
+25802;Bruno mảnh vỡ
+25803;Mr.2 Mảnh vỡ
+25804;Wapol mảnh vỡ
+25900;Garp mảnh vỡ
+25901;Franky mảnh vỡ
+25902;Long Mã mảnh vỡ
+25903;Marco mảnh vỡ
+25904;Hannibal mảnh vỡ
+25905;Lucci mảnh vỡ
+25906;Ivankov mảnh vỡ
+25907;Ace mảnh vỡ
+25908;Thất Vũ Hải · Bucky mảnh vỡ
+25909;Đầu bếp · Sanji mảnh vỡ
+25910;Người chèo thuyền · Franky mảnh vỡ
+25911;Trafalgar · La mảnh vỡ
+26000;Hải quân kiếm sĩ
+26100;Pol kỳ
+26101;Chiến sĩ người cá
+26200;Mr.3
+26201;Morgan
+26202;Mr.1
+26203;Tu La
+26204;Spandam
+26300;Miss.Golden Week
+26301;Sanji
+26302;Krieg
+26303;Miss.Valentine
+26304;Chopper
+26305;Ngũ tinh Sanji
+26312;Ngũ tinh Krieg
+26313;Ngũ tinh Miss.Valentine
+26314;Ngũ tinh Chopper
+26400;Bellamy
+26401;Jozu
+26402;Vi Vi
+26403;Vergo
+26404;Caesar
+26405;Ngắm bắn vương · Nói láo bố
+26406;Thuyền y · Chopper
+26407;Mắt ưng
+26408;Shanks
+26409;Sử cơ
+26410;Thêm Lott
+26411;Kid
+26500;Hải quân kiếm sĩ mảnh vỡ
+26600;Pol kỳ mảnh vỡ
+26601;Chiến sĩ người cá mảnh vỡ
+26700;Mr.3 Mảnh vỡ
+26701;Morgan mảnh vỡ
+26702;Mr.1 Mảnh vỡ
+26703;Tu La mảnh vỡ
+26704;Spandam mảnh vỡ
+26800;Miss.Golden Week Mảnh vỡ
+26801;Sanji mảnh vỡ
+26802;Krieg mảnh vỡ
+26803;Miss.Valentine Mảnh vỡ
+26804;Chopper mảnh vỡ
+26900;Bellamy mảnh vỡ
+26901;Jozu mảnh vỡ
+26902;Vi Vi mảnh vỡ
+26903;Vergo mảnh vỡ
+26904;Caesar mảnh vỡ
+26905;Ngắm bắn vương · Nói láo bố mảnh vỡ
+26906;Thuyền y · Chopper mảnh vỡ
+26907;Mắt ưng mảnh vỡ
+26908;Shanks mảnh vỡ
+26909;Sử cơ mảnh vỡ
+26910;Thêm Lott mảnh vỡ
+26911;Kid mảnh vỡ
+27200;Absalom
+27300;Quang minh mục sư
+27301;Thiếu tá · Helmeppo
+27302;Tháp hi gạo
+27303;Nami
+27304;Ngũ tinh Nami
+27305;Ngũ tinh thiếu tá Helmeppo
+27306;Ngũ tinh quang minh mục sư
+27400;Kaku
+27401;Enel
+27402;Hoàng vượn
+27403;Chiến đấu viên · Zoro
+27404;Thượng tá · Có thể so sánh
+27405;Hawkins
+27406;Nhà khảo cổ học · Robin
+27407;Hoa tiêu · Nami
+27408;Thất Vũ Hải · Râu đen
+27409;Thuyền trưởng · Luffy
+27700;Absalom mảnh vỡ
+27800;Quang minh mục sư mảnh vỡ
+27801;Thiếu tá · Helmeppo mảnh vỡ
+27802;Tháp hi gạo mảnh vỡ
+27803;Nami mảnh vỡ
+27900;Kaku mảnh vỡ
+27901;Enel mảnh vỡ
+27902;Hoàng vượn mảnh vỡ
+27903;Chiến đấu viên · Zoro mảnh vỡ
+27904;Thượng tá · Có thể so sánh mảnh vỡ
+27905;Hawkins mảnh vỡ
+27906;Nhà khảo cổ học · Robin mảnh vỡ
+27907;Hoa tiêu · Nami mảnh vỡ
+27908;Thất Vũ Hải · Râu đen mảnh vỡ
+27909;Thuyền trưởng · Luffy mảnh vỡ
+28200;Ôm
+28300;Hogback
+28301;Cam · Phúc ngươi
+28302;Bucky
+28303;Foxy
+28400;Robin
+28401;Hancock
+28402;Moriah
+28403;Katakuri
+28404;Perona
+28405;Brook
+28406;Bartholomew · Gấu
+28407;Doflamingo
+28408;Rayleigh
+28409;Nhà âm nhạc · Brook
+28700;Ôm mảnh vỡ
+28800;Hogback mảnh vỡ
+28801;Cam · Phúc ngươi mảnh vỡ
+28802;Bucky mảnh vỡ
+28803;Foxy mảnh vỡ
+28900;Robin mảnh vỡ
+28901;Hancock mảnh vỡ
+28902;Moriah mảnh vỡ
+28903;Katakuri mảnh vỡ
+28904;Perona mảnh vỡ
+28905;Brook mảnh vỡ
+28906;Bartholomew · Gấu mảnh vỡ
+28907;Doflamingo mảnh vỡ
+28908;Rayleigh mảnh vỡ
+28909;Nhà âm nhạc · Brook mảnh vỡ
+29103;3 Tinh Thủy hệ mảnh vỡ
+29104;4 Tinh Thủy hệ mảnh vỡ
+29105;5 Tinh Thủy hệ mảnh vỡ
+29203;3 Tinh hỏa hệ mảnh vỡ
+29204;4 Tinh hỏa hệ mảnh vỡ
+29205;5 Tinh hỏa hệ mảnh vỡ
+29303;3 Tinh Phong hệ mảnh vỡ
+29304;4 Tinh Phong hệ mảnh vỡ
+29305;5 Tinh Phong hệ mảnh vỡ
+29404;4 Tinh quang minh mảnh vỡ
+29405;5 Tinh quang minh mảnh vỡ
+29504;4 Tinh hắc ám mảnh vỡ
+29505;5 Tinh hắc ám mảnh vỡ
+29903;3 Tinh ngẫu nhiên mảnh vỡ
+29904;4 Tinh ngẫu nhiên mảnh vỡ
+29905;5 Tinh ngẫu nhiên mảnh vỡ
+29906;5 Tinh quang ngầm mảnh vỡ
+29907;Tam hệ 5 Tinh tinh anh mảnh vỡ
+29908;Quang ám 5 Tinh tinh anh mảnh vỡ
+29960;Đồng bạn vật liệu nơi phát ra
+29961;5 Tinh tinh anh đồng bạn mảnh vỡ
+29962;5 Tinh tinh anh đồng bạn mảnh vỡ
+29999;Điểm tích lũy triệu hoán đồ tiêu

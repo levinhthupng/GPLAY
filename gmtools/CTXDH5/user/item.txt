@@ -1,0 +1,1361 @@
+coin;Xu
+gold;Vàng
+food;Lương
+wood;Gỗ
+iron;Sắt
+merit;Công huân
+------------【Tinh Trần】------------
+star01;Tinh trần Bạo kích Vàng
+star02;Tinh trần Chặn đỡ Vàng
+star03;Tinh trần Bền bỉ Vàng
+star04;Tinh trần Thống kích Vàng
+star05;Tinh trần Tấn công Đỏ
+star06;Tinh trần Binh lực Tím
+star07;Tinh trần Phòng ngự Xanh lá
+star08;Thần văn Võ lực Thanh Long
+star09;Thần văn Hiệu lệnh Thanh Long
+star10;Thần văn Trí lực Bạch Hổ
+star11;Thần văn Lợi nhận Bạch Hổ
+star12;Thần văn Mị lực Chu Tước
+star13;Thần văn Nhanh nhẹn Chu Tước
+star14;Thần văn Thống ngự Huyền Vũ
+star15;Thần văn Cố thủ Huyền Vũ
+star16;Tinh trần Anh hồn Vàng
+star17;Tinh trần Kiên định Vàng
+star18;Tinh trần Bộ binh Vàng
+star19;Tinh trần Kỵ binh Vàng
+star20;Tinh trần Cung binh Vàng
+star21;Tinh trần Phương sĩ Vàng
+star50;Tinh trần Bộ binh Đỏ
+star51;Tinh trần Kỵ binh Đỏ
+star52;Tinh trần Cung binh Đỏ
+star53;Tinh trần Phương sĩ Đỏ
+star60;Tinh trần Bộ binh Tím
+star61;Tinh trần Kỵ binh Tím
+star62;Tinh trần Cung binh Tím
+star63;Tinh trần Phương sĩ Tím
+star70;Tinh trần Bộ binh Xanh lá
+star71;Tinh trần Kỵ binh Xanh lá
+star72;Tinh trần Cung binh Xanh lá
+star73;Tinh trần Phương sĩ Xanh lá
+
+item001;Sách EXP-Sơ
+item002;Sách EXP-Trung
+item003;Sách EXP-Cao
+item004;Sách EXP-Đặc
+item005;Rương Cường Hóa Trân Bảo
+item006;Rương Tướng Siêu-Chọn 1
+item007;Rương Tướng Siêu-Chọn 2
+item008;Rương KN Nội Chính-Chọn 1
+item009;Rương KN Nội Chính-Chọn 2
+item010;Lồng Đèn
+item011;Bánh Gio
+item012;Thuyền Rồng
+item013;Rương Cường Hóa Thường-Chọn
+item014;Rương Cường Hóa Tốt-Chọn
+item015;Rương Cường Hóa Cực-Chọn
+item016;Rương Cường Hóa Tiên-Chọn
+item017;Rương Tướng-Chọn 3
+item018;Rương Tướng-Chọn 4
+item019;Rương Tướng-Chọn 5
+item020;Đồng Hồ Bạc
+item021;Đồng Hồ Vàng
+item023;Lệnh Nghiên Cứu Bạc
+item024;Lệnh Nghiên Cứu Vàng
+item026;Mộ Lệnh Bạc
+item027;Mộ Lệnh Vàng
+item029;Hành Quân Nhanh
+item030;Hành Quân Cấp Tốc
+item032;Rượu Nếp
+item033;Vạc Rượu
+item034;Mảnh Vạn Năng
+item035;Quyển Quên
+item036;Rương Quân Nhu-Chọn
+item037;Túi Gấm
+item038;Xu Phiên Bang
+item039;Tên đạo cụ trống
+item040;Tên đạo cụ trống
+item041;Ch.Công
+item042;Xu Ngũ Thù
+item043;Xu Võ Đế
+item044;Xu Thiên Phạt
+item045;Xu Đấu Thần
+item046;Tên đạo cụ trống
+item047;Rương Tiến Bậc Kỵ Binh Lam
+item048;Rương Tiến Bậc Bộ Binh Lam
+item049;Rương Tiến Bậc Phương Sĩ Lam
+item050;Rương Tiến Bậc Cung Binh Lam
+item051;Rương Tiến Bậc Kỵ Binh Lục
+item052;Rương Tiến Bậc Bộ Binh Lục
+item053;Rương Tiến Bậc Phương Sĩ Lục
+item054;Rương Tiến Bậc Cung Binh Lục
+item055;Rương Bảo Vật
+item056;Rương Bảo Vật-Cao
+item057;Rương Tẩy Luyện
+item058;Rương Tẩy Luyện-Cao
+item059;Rương Mộ Phủ
+item060;Rương Gỗ
+item061;Rương Đạo Cụ Sản Nghiệp
+item062;Kỵ Binh Văn Thư
+item063;Bộ Binh Văn Thư
+item064;Phương Sĩ Văn Thư
+item065;Cung Binh Văn Thư
+item066;Võ Quan Văn Thư
+item067;Quan Văn Văn Thư
+item068;Toàn Tài Văn Thư
+item069;Sổ Sách
+item070;Thiệp
+item071;Kèn Lệnh
+item072;L.Đốn Cây
+item073;L.Đồn Điền
+item074;L.Đào Khoáng
+item075;Tinh Quỹ
+item076;Tinh Bàn
+item077;Lệnh Thí Luyện
+item078;Huy Hiệu Tỷ Võ
+item079;Túi Gấm Kỵ Binh Kỹ
+item080;Túi Gấm Bộ Binh Kỹ
+item081;Túi Gấm Phương Sĩ Kỹ
+item082;Túi Gấm Cung Binh Kỹ
+item083;Rương Bí Bảo-Chọn
+item084;Ngón Tay Vàng
+item085;Rương Thiên Phạt
+item086;Rương KN Mị Lực
+item087;Rương Tướng Hợp Kích-Chọn
+item088;Rương Tướng Túc Mệnh-Chọn
+item089;Cờ Ngà Voi
+item090;Rương KN Tương Dương
+item091;Thẻ Đổi Tên
+item092;Túi Phúc Năm Mới
+item093;Rương Vàng
+item094;Danh Vọng Giang Hồ
+item095;Đá Nữ Oa
+item096;Rương Tướng T.Kỳ-Chọn 1
+item097;Rương Tướng T.Kỳ-Chọn 2
+item098;Rương Tướng T.Kỳ-Chọn 3
+item099;Rương Tướng T.Kỳ-Chọn 4
+item100;Mảnh Lương Tài
+item101;Mảnh Danh Tướng-1
+item102;Mảnh Danh Tướng-2
+item103;Mảnh Danh Tướng-3
+item104;Mảnh Quốc Sĩ.1
+item105;Mảnh Quốc Sĩ.2
+item106;Mảnh Quốc Sĩ.3
+item107;Túi Gấm KN Tướng.1
+item108;Túi Gấm KN Tướng.2
+item109;Túi Gấm KN Tướng.3
+item110;Túi Gấm KN Tướng.4
+item111;Túi Gấm KN Tướng.5
+item112;Túi Gấm KN Tướng.6
+item113;Túi Gấm KN Hỗ Trợ.1
+item114;Túi Gấm KN Hỗ Trợ.2
+item115;Túi Gấm KN Hỗ Trợ.3
+item116;Túi Gấm KN Hỗ Trợ.4
+item117;Túi Gấm KN Hỗ Trợ.5
+item118;Túi Gấm KN Hỗ Trợ.6
+item119;Túi Gấm KN Hỗ Trợ.7
+item120;Túi Gấm KN Hỗ Trợ.8
+item121;Túi Gấm KN Hỗ Trợ.9
+item122;Túi Gấm KN Hỗ Trợ.10
+item123;Túi Gấm KN Hỗ Trợ.11
+item124;Túi Gấm KN Nội Chính.1
+item125;Túi Gấm KN Nội Chính.2
+item126;Túi Gấm KN Nội Chính.3
+item127;Túi Gấm KN Nội Chính.4
+item128;Túi Gấm KN Nội Chính.5
+item129;Túi Gấm KN Nội Chính.6
+item130;Túi Gấm KN Binh Chủng.1
+item131;Túi Gấm KN Binh Chủng.2
+item132;Túi Gấm KN Binh Chủng.3
+item133;Túi Gấm KN Binh Chủng.4
+item134;Túi Gấm KN Binh Chủng.5
+item135;Túi Gấm KN Binh Chủng.6
+item136;Túi Gấm KN Binh Chủng.7
+item137;Túi Gấm KN Binh Chủng.8
+item138;Túi Gấm KN Binh Chủng.9
+item139;Túi Gấm KN Binh Chủng.10
+item140;Túi Gấm KN Binh Chủng.11
+item141;Mảnh Quốc Sĩ
+item142;Rương Chiến Công.1
+item143;Rương Chiến Công.2
+item144;Rương Chiến Công.3
+item145;Rương Chiến Công.4
+item146;Rương Chiến Công.5
+item147;Rương Chiến Công.6
+item148;Rương Chiến Công.7
+item149;Rương Chiến Công.8
+item150;Rương Chiến Công.9
+item151;Rương Chiến Công.10
+item152;Rương Chiến Công.11
+item153;Rương Chiến Công.12
+item154;Rương Chiến Công.13
+item155;Rương Chiến Công.14
+item156;Rương Chiến Công.15
+item157;Rương Chiến Công.16
+item158;Rương Chiến Công.17
+item159;Rương Chiến Công.18
+item160;Rương Chiến Công.19
+item161;Rương Chiến Công.20
+item162;Linh Thạch
+item163;Quẻ Xăm
+item164;Phong Thỉ Chiến Kỳ
+item165;Câu Hành Chiến Kỳ
+item166;Nhạn Hình Chiến Kỳ
+item167;Hạc Dực Chiến Kỳ
+item168;Thiết Đồng Chiến Kỳ
+item169;Bát Quái Chiến Kỳ
+item170;Phong Thỉ Tâm Đắc
+item171;Câu Hành Tâm Đắc
+item172;Nhạn Hình Tâm Đắc
+item173;Hạc Dực Tâm Đắc
+item174;Thiết Đồng Tâm Đắc
+item175;Bát Quái Tâm Đắc
+item176;Thượng Cổ Bảo Ngọc
+item177;Hoa Đào
+item178;Bánh Ngải
+item179;Diều
+item180;Rương Thức Tỉnh.1
+item181;Rương Thức Tỉnh.2
+item182;Rương Thức Tỉnh.3
+item183;Rương Thức Tỉnh.4
+item184;Rương Thức Tỉnh.5
+item185;Rương Thức Tỉnh.6
+item186;Rương Thức Tỉnh.7
+item187;Trống Trận
+item188;Lệnh Viện Binh
+item189;Rương Chiến Kỳ
+item190;Rương Chiến Kỳ-Cao
+item191;Rương Tâm Đắc
+item192;Rương Tâm Đắc-Cao
+item193;Rương KN Phú Giáp
+item194;Xu Hiên Viên
+item195;Xu Vũ Lâm
+item196;Rương Chiến Công-Cao
+item197;Huy Chương Chăm Chỉ
+item198;Huy Chương Phấn Đấu
+item199;Huy Chương Phụng Hiến
+item201;Mảnh Tường Chắn
+item202;Mảnh Kiên Thủ
+item203;Mảnh Phản Kích
+item204;Mảnh Xung Phong
+item205;Mảnh Liệt Giáp
+item206;Mảnh Trận Địa
+item207;Mảnh Thiết Đề
+item208;Mảnh Bất Khuất
+item209;Mảnh Bôn Kích
+item210;Mảnh Đột Kích
+item211;Mảnh Vây Kín
+item212;Mảnh Cương Nghị
+item213;Mảnh Cường Nỏ
+item214;Mảnh Hồi Xạ
+item215;Mảnh Né Tránh
+item216;Mảnh Hỏa Tiễn
+item217;Mảnh Kim Châm
+item218;Mảnh Cùng Bắn
+item219;Mảnh Canh Khí
+item220;Mảnh Thực Giáp
+item221;Mảnh Gió Lốc
+item222;Mảnh Địa Thích
+item223;Mảnh Chú Ấn
+item224;Mảnh Quỷ Ảnh
+item225;Mảnh Vạn Tiễn
+item226;Mảnh Võ Thánh
+item227;Mảnh Vô Song
+item228;Mảnh Ly Gián
+item229;Mảnh Lạc Lôi
+item230;Mảnh Khuynh Quốc
+item231;Mảnh Cổ Vũ
+item232;Mảnh Kỳ Sách
+item233;Mảnh Càn Khôn
+item234;Mảnh Kim Cang
+item235;Mảnh Bi Ca
+item236;Mảnh Loạn Vũ
+item237;Mảnh Nghiệp Hỏa
+item238;Mảnh Thiên Mệnh
+item239;Mảnh Công Tâm
+item240;Mảnh Ban Phúc
+item241;Mảnh Thương Vương
+item242;Mảnh Ảo Thuật
+item243;Mảnh Cự Tượng
+item244;Mảnh Long Nộ
+item245;Mảnh Xung Trận
+item246;Mảnh Tử Đấu
+item247;Băng Hà Toái Phiến
+item248;Câu Hồn Toái Phiến
+item250;Cuồng Cốt Toái Phiến
+item251;Bác Văn Toái Phiến
+item252;Nhân Nghĩa Toái Phiến
+item253;Thôi Diễn Toái Phiến
+item254;Hung Sát Toái Phiến
+item260;Mảnh Kế Sách
+item261;Mảnh Bạo Liệt
+item262;Mảnh Dũng Võ
+item263;Mảnh Tài Học
+item264;Mảnh Tu Dưỡng
+item265;Mảnh Binh Pháp
+item266;Mảnh Tăng Viện
+item267;Mảnh Mở Rộng
+item268;Mảnh Cang Thể
+item269;Mảnh Linh Cảm
+item270;Mảnh Quân Lược
+item271;Mảnh Dụ Địch
+item272;Mảnh Cấp Cứu
+item273;Mảnh Kín Kẽ
+item274;Mảnh Vong Ưu
+item275;Mảnh Độn Giáp
+item276;Mảnh Châu Liên
+item277;Mảnh Tập Trí
+item278;Động Giám Toái Phiến
+item279;Thối Tị Toái Phiến
+item280;Mảnh Sát Ý
+item281;Mảnh Xây Thành
+item282;Mảnh Hành Quân
+item283;Mảnh Phú Hào
+item284;Mảnh Nông Canh
+item285;Mảnh Tìm Khoáng
+item286;Mảnh Trồng Cây
+item287;Mảnh Hùng Biện
+item288;Mảnh Hào Kiệt
+item289;Mảnh Kịch Chiến
+item290;Mảnh Xả Thân
+item291;Mảnh Bắn Vòng
+item292;Mảnh Thần Quang
+item293;Súc Thế Toái Phiến
+item294;Thiết Cát Toái Phiến
+item295;Phá Không Toái Phiến
+item296;Huyết Đồng Toái Phiến
+item297;Thương Giả Toái Phiến
+item301;Kiếm Tân Binh
+item302;Thương Tân Binh
+item303;Thuẫn Tân Binh
+item304;Bố Giáp Tân Binh
+item305;Kỵ Giáp Tân Binh
+item306;Yên Ngựa Tân Binh
+item307;Bàn Đạp Tân Binh
+item308;Ngựa Tân Binh
+item309;Cung Tân Binh
+item310;Ống Tiễn Tân Binh
+item311;Tiễn Tân Binh
+item312;Lệnh Kỳ Tân Binh
+item313;Trượng Tân Binh
+item314;Sách Tân Binh
+item315;Đai Tân Binh
+item316;Áo Tân Binh
+item317;Kiếm Ưu Tiên
+item318;Thương Ưu Tiên
+item319;Thuẫn Ưu Tiên
+item320;Bố Giáp Ưu Tiên
+item321;Kỵ Giáp Ưu Tiên
+item322;Yên Ngựa Ưu Tiên
+item323;Bàn Đạp Ưu Tiên
+item324;Ngựa Ưu Tiên
+item325;Cung Ưu Tiên
+item326;Ống Tiễn Ưu Tiên
+item327;Tiễn Ưu Tiên
+item328;Lệnh Kỳ Ưu Tiên
+item329;Trượng Ưu Tiên
+item330;Sách Ưu Tiên
+item331;Đai Ưu Tiên
+item332;Áo Ưu Tiên
+item333;Kiếm Tốt
+item334;Thương Tốt
+item335;Thuẫn Tốt
+item336;Bố Giáp Tốt
+item337;Kỵ Giáp Tốt
+item338;Yên Ngựa Tốt
+item339;Bàn Đạp Tốt
+item340;Ngựa Tốt
+item341;Cung Tốt
+item342;Ống Tiễn Tốt
+item343;Tiễn Tốt
+item344;Lệnh Kỳ Tốt
+item345;Trượng Tốt
+item346;Sách Tốt
+item347;Đai Tốt
+item348;Áo Tốt
+item349;Hiệu Úy Thối Giáp
+item350;Hiệu Úy Phi Phong
+item351;Hiệu Úy Hộ Ngạch
+item352;Hiệu Úy Nội Giáp
+item353;Kỳ Môn Hộ Oản
+item354;Kỳ Môn Phi Phong
+item355;Kỳ Môn Hộ Kiên
+item356;Kỳ Môn Quan Ngoa
+item357;Hổ Bí Trường Đao
+item358;Hổ Bí Phi
+item359;Hổ Bí Oản
+item360;Hổ Bí Lý
+item401;Thép
+item402;Bảo Yên
+item403;Huyền Tinh
+item404;Đàn Chỉ
+item405;Phác Ngọc
+item406;Tinh Hoa Thần Binh
+item407;Tinh Túy Bảo Điển
+item408;Tinh Túy Kỳ Trân
+item409;Tinh Túy Tọa Kỵ
+item410;Tinh Túy Lệnh Phù
+item411;Hỏa Dược
+item412;Lạc Hương Bố
+item413;Đá Liệt Thiên
+item414;Đá Đạp Thiên
+item415;Đá Khống Thiên
+item416;Hiên Viên Long Phách
+item417;Quỷ Hỏa
+item418;Đá Chấn Thiên
+item419;Chân Long Sa
+item420;Hồn Dũng Mãnh
+item421;Đá Luật Thiên
+item422;Phù Tang Thần Mộc
+item423;Quy Giáp Trúc Phiến
+item424;Đuôi Tên Gỗ
+item425;Niên Thạch
+item426;Tinh Hoa Tam Giới
+item427;Võ Đế Huyết
+item428;Vu Tộc Tinh Huyết
+item429;Quyển Đan Thanh
+item430;Thiên Niên Cổ Nha
+item431;Ngưng Hoa Thúy Ngọc
+item432;Pháo
+item433;Thú Hồn
+item434;Hiên Viên Thú Hồn
+item435;Hiên Viên Phù
+item436;Mảnh Phương Thiên Họa Kích
+item437;Mảnh Thanh Giang Kiếm
+item438;Mảnh Long Đảm Thương
+item439;Mảnh Kỳ Lân Cung
+item440;Mảnh Đích Lô
+item441;Mảnh Kinh Phàm
+item442;Mảnh Son
+item443;Mảnh Binh Pháp Tôn Tử
+item444;Mảnh Thanh Nang Thư
+item445;Mảnh Độn Giáp Thư
+item446;Mảnh Độc Cầu Phi Phong
+item447;Mảnh Hung Nô Liệt Tửu
+item448;Mảnh Thần Thú Nghiên
+item449;Mảnh Đèn Khổng Minh
+item450;Mảnh Thái Công Binh Phù
+item451;Mảnh Hoàng Thiên Lệnh Kỳ
+item452;Thiên Vẫn Kim
+item453;Thiên Vẫn Kim-Tốt
+item454;Thiên Vẫn Kim-Cực
+item455;Thiên Vẫn Kim-Tiên
+item456;Ngọc Long Tuyền
+item457;Ngọc Long Tuyền-Tinh
+item458;Ngọc Long Tuyền-Cực
+item459;Ngọc Long Tuyền-Tiên
+item460;Da Hoang Thú
+item461;Da Hoang Thú-Tốt
+item462;Da Hoang Thú-Cực
+item463;Da Hoang Thú-Tiên
+item464;Lá Vàng
+item465;Lá Vàng-Tốt
+item466;Lá Vàng-Cực
+item467;Lá Vàng-Tiên
+item468;Đế Hoàng Sa
+item469;Đế Hoàng Sa-Tốt
+item470;Đế Hoàng Sa-Cực
+item471;Đế Hoàng Sa-Tiên
+item472;Mảnh Thập Tự Kích
+item473;Mảnh Chiếu Dạ Ngọc Sư
+item474;Mảnh Ngũ Cầm Hí
+item475;Mảnh Tuần Lệnh Hương
+item476;Mảnh Sinh Tử Phù
+item477;Mảnh Tức Nhưỡng
+item478;Mảnh Bồng Lai Trượng
+item479;Mảnh Vân Đỉnh Tiên Hạc
+item480;Mảnh Quỷ Nguyệt Đao
+item481;Mảnh Hồ Già Phách
+item482;Chiêu Liệt Kiếm Hồn
+item483;Ngụy Vũ Binh Hồn
+item484;Thái Học Bút Toái Phiến
+item485;Tiện Nghi Thập Lục Sách Toái Phiến
+item486;Trường Tín Cung Đăng Toái Phiến
+item487;Dạ Quang Bôi Toái Phiến
+item488;Thái Cực Ngư Phù Toái Phiến
+item489;Hài Cốt Linh Câu Toái Phiến
+item490;Phục Hi Chi Quang
+item491;Kim Ngưu Ấn Toái Phiến
+item492;Bách Thảo Uẩn Tiên Lộ
+item493;Hỏa Thần Đao Phách
+item494;Thanh Long Tinh Phách
+item495;Thiên Mã Anh Hồn
+item496;Mỹ Ngọc Chi Hồn
+item497;Dưỡng Do Cơ Cung Toái Phiến
+item498;Mộc Ngưu Lưu Mã Toái Phiến
+item499;Đằng Giáp Toái Phiến
+item500;Phong Hậu Bát Trận Đồ Toái Phiến
+item501;Xi Vưu Hổ Phách Toái Phiến
+item502;Tinh Kim Thạch
+item503;Thiên Cương Nam Mộc
+item504;Kim Tôn Ngọc Dịch
+item505;Lăng Phong Hạc Vũ
+item506;Mạn Đà La Hoa
+item507;Hán Đình Cống Mặc
+item508;Thanh Long Lệnh Phù Toái Phiến
+item509;Bạch Hổ Lệnh Phù Toái Phiến
+item510;Chu Tước Lệnh Phù Toái Phiến
+item511;Huyền Vũ Lệnh Phù Toái Phiến
+item512;Chiến Quốc Ngọc Hổ Toái Phiến
+item513;Hung Thú Tinh Hồn
+item514;Vũ Đế Chi Tôn Toái Phiến
+item515;Thiên Phạt Bí Thư Toái Phiến
+item516;Đấu Hồn La Sát Thú Toái Phiến
+item517;Hiên Viên Ngọc Bội Toái Phiến
+item518;Nữ Oa Linh Châu Toái Phiến
+item519;Phục Hi Huyễn Thế Đồ Toái Phiến
+item520;Thần Nông Ngũ Huyền Sắt Toái Phiến
+item521;Thao Thiết Chi Tâm Toái Phiến
+item522;Thái Bình Thanh Lĩnh Thư Toái Phiến
+item523;Phi Phượng Linh Lung Quan Toái Phiến
+item524;Vô Ảnh Thần Châm
+item525;Hạng Vương Mã Khải
+item526;Thiên Trúc Tượng Giáp
+item527;Cửu U Minh Hỏa
+item528;Vong Hồn Huy Chương Toái Phiến
+item529;Khúc Hạng Tỳ Bà Toái Phiến
+item530;Độ Kim Bác Sơn Lô Toái Phiến
+item531;Phân Tranh Tàn Quyển Toái Phiến
+item532;Thánh Linh Lộc Toái Phiến
+item533;Xích Vĩ Điêu Linh Tiễn Toái Phiến
+item535;Nguyệt Cung Tiên Thố Toái Phiến
+item536;Thiếu Ngu Kiếm Toái Phiến
+item537;Hỏa Sư Bá Vương Thương Toái Phiến
+item538;Long Lân Đao Toái Phiến
+item539;Vũ Cương Xa Toái Phiến
+item540;Ô Vân Đạp Tuyết Toái Phiến
+item541;Xuân Hậu Địch Toái Phiến
+item542;Hổ Đầu Trạm Kim Thương Toái Phiến
+item543;Ô Thiết Chấn Sơn Chùy Toái Phiến
+item544;Sở Chuy Toái Phiến
+item545;Tôn Tẫn Binh Pháp Toái Phiến
+item546;Luyện Yêu Hồ Toái Phiến
+item547;Trạm Lư Kiếm Toái Phiến
+item548;Lý Quảng Cung Toái Phiến
+item549;Mặc Vũ Hàn Sương Phiến Toái Phiến
+item550;Tử Tuynh Toái Phiến
+item551;Hỏa Ngưu Chiến Xa Toái Phiến
+item552;Tiên Linh Phù Toái Phiến
+item553;Bôn Tiêu Toái Phiến
+item554;Lục Thao Toái Phiến
+item555;Tam Lược Toái Phiến
+item556;Bích Ngọc Như Ý Toái Phiến
+item557;Tác Sách Ngô Ngọc Qua Toái Phiến
+item558;Huyền Thiết Báo Phù Toái Phiến
+item559;Phù Điêu Thập Huyền Cầm Toái Phiến
+item560;Hầu Mã Minh Thư Toái Phiến
+item561;Hổ Tọa Phượng Giá Cổ Toái Phiến
+item562;Ngũ Phương Tường Thụy Phù Toái Phiến
+item563;Ngô Vương Phu Soa Mâu Toái Phiến
+item564;Tinh Cương Câu Liêm Thương Toái Phiến
+item565;Xích Điện Toái Phiến
+item566;Quỷ Cốc Tử Toái Phiến
+item567;Côn Luân Kính Toái Phiến
+item568;Việt Vương Câu Tiễn Kiếm Toái Phiến
+item569;Thực Hỏa Thú Toái Phiến
+item570;Hoàng Đế Nội Kinh Toái Phiến
+item571;Tùy Hầu Châu Toái Phiến
+item572;Hòa Thị Bích Toái Phiến
+item573;Truyện Thế Long Hồn
+item574;Giang Sơn Xã Tắc Đồ Toái Phiến
+item575;Bác Sĩ Hương Nang Toái Phiến
+item576;Thừa Long Thăng Tiên Đồ Toái Phiến
+item577;Tu La Huyết Sa
+item578;Tu La Giới Tán Toái Phiến
+item601;EXP Thần Văn-Nhỏ
+item602;EXP Thần Văn-Vừa
+item603;EXP Thần Văn-Lớn
+item604;EXP Tinh Thần-Nhỏ
+item605;EXP Tinh Thần-Vừa
+item606;EXP Tinh Thần-Lớn
+item701;Mảnh Mã Siêu
+item702;Mảnh Hứa Chử
+item703;Mảnh Điêu Thuyền
+item704;Mảnh Mã Vân Lộc
+item705;Mảnh Hoàng Nguyệt Anh
+item706;Mảnh Quan Vũ
+item707;Mảnh Tư Mã Ý
+item708;Mảnh Lữ Bố
+item709;Mảnh Chu Du
+item710;Mảnh Tôn Sách
+item711;Mảnh Mạnh Hoạch
+item712;Mảnh Trương Liêu
+item713;Mảnh Đổng Trác
+item714;Mảnh Gia Cát Lượng
+item715;Mảnh Giả Hủ
+item716;Mảnh Triệu Vân
+item717;Mảnh Quách Gia
+item718;Mảnh Lục Tốn
+item719;Mảnh Chân Cơ
+item720;Mảnh Chúc Dung
+item721;Mảnh Thái Văn Cơ
+item722;Mảnh Tôn Thượng Hương
+item723;Mảnh Tiểu Kiều
+item724;Mảnh Đại Kiều
+item725;Mảnh Lữ Mông
+item726;Mảnh Hạ Hầu Đôn
+item727;Mảnh Hạ Hầu Uyên
+item728;Mảnh Thái Sử Từ
+item729;Mảnh Khương Duy
+item730;Mảnh Trương Cáp
+item731;Mảnh Trương Phi
+item732;Mảnh Pháp Chính
+item733;Mảnh Cam Ninh
+item734;Mảnh Tuân Úc
+item735;Mảnh Ngụy Diên
+item736;Mảnh Hoàng Trung
+item737;Mảnh Từ Thứ
+item738;Mảnh Tôn Càn
+item739;Mảnh Bàng Đức
+item740;Mảnh Liêu Hóa
+item741;Mảnh Từ Hoảng
+item742;Mảnh Văn Xú
+item743;Mảnh Tào Nhân
+item744;Mảnh Trình Phổ
+item745;Mảnh Tuân Du
+item746;Mảnh Gia Cát Cẩn
+item747;Mảnh Trần Cung
+item748;Mảnh Hàn Đương
+item749;Mảnh Nhan Lương
+item750;Mảnh Mã Đại
+item751;Mảnh Lỗ Túc
+item752;Mảnh Hoàng Cái
+item753;Mảnh Lăng Thống
+item754;Mảnh Hạ Hầu Bá
+item755;Mảnh Chu Thái
+item756;Mảnh Hoa Hùng
+item757;Mảnh Điển Vi
+item758;Mảnh Vu Cấm
+item759;Mảnh Nhạc Tiến
+item760;Mảnh Vương Tư Đồ
+item761;Mảnh Bàng Thống
+item762;Mảnh Tào Tháo
+item763;Mảnh Lưu Bị
+item764;Mảnh Tôn Quyền
+item765;Mảnh Hoa Đà
+item766;Mảnh Vu Cát
+item767;Mảnh Tư Mã Huy
+item768;Mảnh Đổng Uyên
+item769;Mảnh Trương Giác
+item770;Mảnh Hán Hiến Đế
+item771;Mảnh Lữ Linh Khởi
+item772;Mảnh Ban Dục Song Thù
+item773;Mảnh Quan Ngân Bình
+item774;Mảnh Bộ Luyện Sư
+item775;Mảnh Ngô Quốc Thái
+item776;Mảnh Trương Tinh Thái
+item777;Mảnh Trương Xuân Hoa
+item778;Mảnh Lưu Thiền
+item779;Mảnh Văn Ương
+item780;Mảnh Tào Phi
+item781;Mảnh Ngột Đột Cốt
+item782;Mảnh Mã Trung
+item783;Mảnh Vương Việt
+item784;Mảnh Tả Từ
+item785;Mảnh Trần Thọ
+item786;Mảnh Tử Hư Thượng Nhân
+item787;Mảnh Nam Hoa Lão Tiên
+item788;Mảnh Hoàng Thừa Ngạn
+item789;Mảnh Viên Thiệu
+item792;Mảnh Tôn Kiên
+item793;Mảnh Lưu Bang
+item794;Mảnh Hạng Vũ
+item795;Mảnh Ngu Cơ
+item797;Mảnh Trương Lương
+item798;Mảnh Hàn Tín
+item799;Mảnh Vương Nguyên Cơ
+item801;Tướng Hồn
+item802;Huy Chương Vương Giả
+item803;Xu Đấu
+item804;
+item805;Muối Riêng
+item806;Quân Giới
+item807;Thôn Dân
+item808;Linh Ngọc Hoàng
+item809;Kim Tường Vân
+item810;Huyền Ngọc
+item811;Thiên Niên Bàn Đào
+item812;Kỳ Phúc Hương Nang
+item901;Cống Phẩm Tài Nguyên Lv1
+item902;Cống Phẩm Gia Tốc Lv1
+item903;Cống Phẩm Kỹ Năng Lv1
+item904;Cống Phẩm Tướng Lv1
+item905;Cống Phẩm Tài Nguyên Lv2
+item906;Cống Phẩm Gia Tốc Lv2
+item907;Cống Phẩm Kỹ Năng Lv2
+item908;Cống Phẩm Tướng Lv2
+item909;Cống Phẩm Tài Nguyên Lv3
+item910;Cống Phẩm Gia Tốc Lv3
+item911;Cống Phẩm Kỹ Năng Lv3
+item912;Cống Phẩm Tướng Lv3
+item913;Cống Phẩm Tài Nguyên Lv4
+item914;Cống Phẩm Gia Tốc Lv4
+item915;Cống Phẩm Kỹ Năng Lv4
+item916;Cống Phẩm Tướng Lv4
+item917;Cống Phẩm Tài Nguyên Lv5
+item918;Cống Phẩm Gia Tốc Lv5
+item919;Cống Phẩm Kỹ Năng Lv5
+item920;Cống Phẩm Tướng Lv5
+item921;Cống Phẩm Tài Nguyên Lv6
+item922;Cống Phẩm Gia Tốc Lv6
+item923;Cống Phẩm Kỹ Năng Lv6
+item924;Cống Phẩm Tướng Lv6
+item925;Cống Phẩm Tài Nguyên Lv7
+item926;Cống Phẩm Gia Tốc Lv7
+item927;Cống Phẩm Kỹ Năng Lv7
+item928;Cống Phẩm Tướng Lv7
+item929;Cống Phẩm Tài Nguyên Lv8
+item930;Cống Phẩm Gia Tốc Lv8
+item931;Cống Phẩm Kỹ Năng Lv8
+item932;Cống Phẩm Tướng Lv8
+item933;Cống Phẩm Tài Nguyên Lv9
+item934;Cống Phẩm Gia Tốc Lv9
+item935;Cống Phẩm Kỹ Năng Lv9
+item936;Cống Phẩm Tướng Lv9
+item937;Cống Phẩm Tài Nguyên Lv10
+item938;Cống Phẩm Gia Tốc Lv10
+item939;Cống Phẩm Kỹ Năng Lv10
+item940;Cống Phẩm Tướng Lv10
+item941;Cống Phẩm Tài Nguyên Lv11
+item942;Cống Phẩm Gia Tốc Lv11
+item943;Cống Phẩm Kỹ Năng Lv11
+item944;Cống Phẩm Tướng Lv11
+item945;Cống Phẩm Tài Nguyên Lv12
+item946;Cống Phẩm Gia Tốc Lv12
+item947;Cống Phẩm Kỹ Năng Lv12
+item948;Cống Phẩm Tướng Lv12
+item949;Kho Báu Phiên Bang Lv9
+item950;Kho Báu Phiên Bang Lv10
+item951;Lì Xì Chia Sẻ
+item960;Mảnh Thánh Giáp
+item961;Mảnh Chướng Độc
+item962;Mảnh Nghịch Nhận
+item963;Mảnh Lục Trần
+item964;Mảnh Diễm Vũ
+item965;Mảnh Tinh Vẫn
+item966;Mảnh Cảnh Giác
+item967;Mảnh Kỵ Trụ
+item968;Mảnh Yểm Tế
+item969;Mảnh Thạch Phu
+item970;Mảnh Bá Quân
+item971;Mảnh Tiên Âm
+item972;Mảnh Lưỡng Nghi
+item973;Mảnh Tứ Tượng
+item974;Mảnh Chiết Trùng
+item975;Mảnh Trọng Sinh
+item976;Mảnh Ưng Thị
+item977;Mảnh Đầu Kích
+item978;Mảnh Trịch Mâu
+item979;Mảnh Lạc Nguyệt
+item980;Mảnh Hãm Tịnh
+item982;Mảnh Phục Cừu
+item983;Mảnh Tế Tác
+item984;Mảnh Chiến Hào
+item985;Mảnh Dật Tích
+item1000;Nhẫn Bạc
+item1001;Dây Chuyền Bạc
+item1002;Vòng Bạc
+item1003;Khóa Đồng Tâm
+item1004;Đá Tam Sinh
+item1005;Khăn Tay
+item1006;Xu Lôi Đài
+item1007;Nguyên Khí Thú Linh
+item1008;Nguyên Thần Thú Linh
+item1009;Lý Ngư Dược
+item1010;Bách Hợp Áp
+item1011;Chuông Gió
+item1012;Bánh Trung Thu
+item1013;Hoa Đăng
+item1014;Rượu Hoa Đào
+item1015;Rương Thú Linh
+item1016;Hoa Ẩn Dật
+item1017;Tường Vân
+item1018;Đại Nhạn
+item1019;Nhẫn Cô Lâu
+item1020;Kẹo Bí Ngô
+item1021;Lệnh Qua Ải Halloween
+item1022;Rương Thú Linh Bắc
+item1023;Rương Thú Linh Đông
+item1024;Rương Thú Linh Nam
+item1025;Rương Thú Linh Tây
+item1026;Rương Thú Linh Bắc-Tốt
+item1027;Rương Thú Linh Đông-Tốt
+item1028;Rương Thú Linh Nam-Tốt
+item1029;Rương Thú Linh Tây-Tốt
+item1030;Rương Thú Linh-Trung
+item1031;Rương Thú Linh-Cao
+item1032;Linh Thú Cao Cấp·Man Ngưu
+item1033;Linh Thú Cao Cấp·Liệt Ưng
+item1034;Linh Thú Cao Cấp·Cự Viên
+item1035;Linh Thú Cao Cấp·Huyền Quy
+item1036;Linh Thú Cao Cấp·Mãnh Hổ
+item1037;Rương Linh Thú Cao-Chọn
+item1038;Thú Linh Vàng·Man Ngưu
+item1039;Thú Linh Vàng·Liệt Ưng
+item1040;Thú Linh Vàng·Cự Viên
+item1041;Thú Linh Vàng·Huyền Quy
+item1042;Thú Linh Vàng·Mãnh Hổ
+item1043;Rương Thú Linh Vàng-Chọn
+item1044;Rương Thú Linh-Siêu
+item1045;Rương Thú Linh Tương Dương
+item1046;Rương Thú Linh Tương Dương-Tốt
+item1047;Rương Thú Linh Mùa Giải
+item1048;Rương Thú Linh Mùa Giải-Tốt
+item1049;Linh Thú Cao Cấp·Yêu Hồ
+item1050;Linh Thú Cao Cấp·Linh Xà
+item1051;Linh Thú Cao Cấp·Phụng Điệp
+item1052;Linh Thú Cao Cấp·Hung Lang
+item1053;Thú Linh Vàng·Yêu Hồ
+item1054;Thú Linh Vàng·Linh Xà
+item1055;Thú Linh Vàng·Phụng Điệp
+item1056;Thú Linh Vàng·Hung Lang
+item1057;Rương Kỳ Trân·Phong
+item1058;Rương Kỳ Trân·Hỏa
+item1059;Rương Kỳ Trân·Sơn
+item1060;Rương Kỳ Trân·Lâm
+item1061;Xá Xíu
+item1062;Bánh Đường Đỏ
+item1063;Cá Khô
+item1064;Vọng Khước Đan
+item1065;Cầu Tử Loan
+item1066;Cầu Hướng Dương
+item1067;Cầu Bảy Màu
+item1068;Mũ Giáng Sinh
+item1069;Vớ Giáng Sinh
+item1070;Bánh Gừng
+item1071;Tuế Chi Nguyên
+item1072;Nguyệt Chi Nguyên
+item1073;Thời Chi Nguyên
+item1074;Túi Binh Chủng Bí Truyền
+item1075;Giấy Hoa
+item1076;Kẹo Lò
+item1077;Câu Đối
+item1078;Tiền Lì Xì
+item1079;Cơm Tất Niên
+item1080;Múa Lân
+item1081;Túi Phúc Chuột
+item1082;Nguyên Tiêu
+item1083;Đèn Hoa
+item1084;Múa Rồng
+item1085;Long Châu Cát Tường
+item1086;Long Châu Phúc Thọ
+item1087;Long Châu Phồn Thịnh
+item1088;Socola
+item1089;Hoa Hồng
+item1090;Bánh Quy
+item1091;Vải Lụa
+item1092;Diều Tường Vân
+item1093;Diều Hỉ Thượng
+item1094;Diều Ngũ Phúc
+item1095;Ngọc Bội Cổ
+item1096;Ngọc Bội Lam Điền
+item1097;Ngọc Bội Long Đằng
+item1098;Giấy Khen Lao Động
+item1099;Huy Hiệu Lao Động
+item1100;Chứng Chỉ Lao Động
+item1101;Hoa Cẩm Chướng
+item1102;Rương Vạn Phúc
+item1103;Linh Lung Binh Phù
+item1104;Rương Kỳ Sĩ Tiên Phong (Chọn)
+item1105;Rương Kỳ Sĩ Giỏi (Chọn)
+item1106;Lúa Sinh Mệnh
+item1107;Lúa Tinh Không
+item1108;Lúa Hà Quang
+item1109;Thánh Tặng Hoa
+item1110;Túi Mạ Non
+item1111;Mơ Ngâm
+item1112; Trượng Phụng Loan
+item1113;Canh Sâm Gà
+item1114;Mì Lạnh
+item1115;Dưa Hấu
+item1116;VL Tăng Sao Hồn Thạch 4 Màu-1
+item1117;VL Tăng Sao Hồn Thạch 4 Màu-2
+item1118;VL Tăng Sao Hồn Thạch 4 Màu-3
+item1119;VL Tăng Sao Hồn Thạch Vàng
+item1120;Thịt Kho
+item1121;Lá Bạch Quả
+item1122;Lá Phong Sương
+item1123;Tam Hồn Đăng Toái Phiến
+item1124;Thất Tinh Đăng Toái Phiến
+item1125;Nhất Phẩm Hồng Sắc Hồn Ngọc Đại. Nhị
+item1126;Nhị Phẩm Hồng Sắc Hồn Ngọc Đại. Nhị
+item1127;Tam Phẩm Hồng Sắc Hồn Ngọc Đại. Nhị
+item1128;Tứ Phẩm Hồng Sắc Hồn Ngọc Đại. Nhị
+item1129;Nhất Phẩm Hồng Sắc Hồn Ngọc Đại. Tam
+item1130;Nhị Phẩm Hồng Sắc Hồn Ngọc Đại. Tam
+item1131;Tam Phẩm Hồng Sắc Hồn Ngọc Đại. Tam
+item1132;Tứ Phẩm Hồng Sắc Hồn Ngọc Đại. Tam
+item1133;Nhất Phẩm Lam Sắc Hồn Ngọc Đại. Nhất
+item1134;Nhị Phẩm Lam Sắc Hồn Ngọc Đại. Nhất
+item1135;Tam Phẩm Lam Sắc Hồn Ngọc Đại. Nhất
+item1136;Tứ Phẩm Lam Sắc Hồn Ngọc Đại. Nhất
+item1137;Nhất Phẩm Lam Sắc Hồn Ngọc Đại. Nhị
+item1138;Nhị Phẩm Lam Sắc Hồn Ngọc Đại. Nhị
+item1139;Tam Phẩm Lam Sắc Hồn Ngọc Đại. Nhị
+item1140;Tứ Phẩm Lam Sắc Hồn Ngọc Đại. Nhị
+item1141;Nhất Phẩm Lam Sắc Hồn Ngọc Đại. Tam
+item1142;Nhị Phẩm Lam Sắc Hồn Ngọc Đại. Tam
+item1143;Tam Phẩm Lam Sắc Hồn Ngọc Đại. Tam
+item1144;Tứ Phẩm Lam Sắc Hồn Ngọc Đại. Tam
+item1145;Nhất Phẩm Lục Sắc Hồn Ngọc Đại. Nhất
+item1146;Nhị Phẩm Lục Sắc Hồn Ngọc Đại. Nhất
+item1147;Tam Phẩm Lục Sắc Hồn Ngọc Đại. Nhất
+item1148;Tứ Phẩm Lục Sắc Hồn Ngọc Đại. Nhất
+item1149;Nhất Phẩm Lục Sắc Hồn Ngọc Đại. Nhị
+item1150;Nhị Phẩm Lục Sắc Hồn Ngọc Đại. Nhị
+item1151;Tam Phẩm Lục Sắc Hồn Ngọc Đại. Nhị
+item1152;Tứ Phẩm Lục Sắc Hồn Ngọc Đại. Nhị
+item1153;Nhất Phẩm Lục Sắc Hồn Ngọc Đại. Tam
+item1154;Nhị Phẩm Lục Sắc Hồn Ngọc Đại. Tam
+item1155;Tam Phẩm Lục Sắc Hồn Ngọc Đại. Tam
+item1156;Tứ Phẩm Lục Sắc Hồn Ngọc Đại. Tam
+item1157;Nhất Phẩm Tử Sắc Hồn Ngọc Đại. Nhất
+item1158;Nhị Phẩm Tử Sắc Hồn Ngọc Đại. Nhất
+item1159;Tam Phẩm Tử Sắc Hồn Ngọc Đại. Nhất
+item1160;Tứ Phẩm Tử Sắc Hồn Ngọc Đại. Nhất
+item1161;Nhất Phẩm Tử Sắc Hồn Ngọc Đại. Nhị
+item1162;Nhị Phẩm Tử Sắc Hồn Ngọc Đại. Nhị
+item1163;Tam Phẩm Tử Sắc Hồn Ngọc Đại. Nhị
+item1164;Tứ Phẩm Tử Sắc Hồn Ngọc Đại. Nhị
+item1165;Nhất Phẩm Tử Sắc Hồn Ngọc Đại. Tam
+item1166;Nhị Phẩm Tử Sắc Hồn Ngọc Đại. Tam
+item1167;Tam Phẩm Tử Sắc Hồn Ngọc Đại. Tam
+item1168;Tứ Phẩm Tử Sắc Hồn Ngọc Đại. Tam
+item1169;Nhất Phẩm Kim Sắc Hồn Ngọc Đại. Nhất
+item1170;Nhị Phẩm Kim Sắc Hồn Ngọc Đại. Nhất
+item1171;Tam Phẩm Kim Sắc Hồn Ngọc Đại. Nhất
+item1172;Tứ Phẩm Kim Sắc Hồn Ngọc Đại. Nhất
+item1173;Nhất Phẩm Kim Sắc Hồn Ngọc Đại. Nhị
+item1174;Nhị Phẩm Kim Sắc Hồn Ngọc Đại. Nhị
+item1175;Tam Phẩm Kim Sắc Hồn Ngọc Đại. Nhị
+item1176;Tứ Phẩm Kim Sắc Hồn Ngọc Đại. Nhị
+item1177;Nhất Phẩm Kim Sắc Hồn Ngọc Đại. Tam
+item1178;Nhị Phẩm Kim Sắc Hồn Ngọc Đại. Tam
+item1179;Tam Phẩm Kim Sắc Hồn Ngọc Đại. Tam
+item1180;Tứ Phẩm Kim Sắc Hồn Ngọc Đại. Tam
+item1181;Nhất Phẩm Hồn Ngọc Đại. Nhất
+item1182;Nhị Phẩm Hồn Ngọc Đại. Nhất
+item1183;Tam Phẩm Hồn Ngọc Đại. Nhất
+item1184;Tứ Phẩm Hồn Ngọc Đại. Nhất
+item1185;Nhất Phẩm Hồn Ngọc Đại. Nhị
+item1186;Nhị Phẩm Hồn Ngọc Đại. Nhị
+item1187;Tam Phẩm Hồn Ngọc Đại. Nhị
+item1188;Tứ Phẩm Hồn Ngọc Đại. Nhị
+item1189;Nhất Phẩm Hồn Ngọc Đại. Tam
+item1190;Nhị Phẩm Hồn Ngọc Đại. Tam
+item1191;Tam Phẩm Hồn Ngọc Đại. Tam
+item1192;Tứ Phẩm Hồn Ngọc Đại. Tam
+item1193;Mộng Huyễn Đích Thú Linh Bảo Rương
+item1194;Kim Sắc Quang Mang Đích Hồn Ngọc Đại
+item1195;Mộng Huyễn Đích Hồn Ngọc Đại
+item1196;Mộng Huyễn Đích Kim Sắc Hồn Ngọc Đại
+item1197;Trầm Điện Điện Đích Hồn Ngọc Đại
+item1198;Ngũ Phẩm Phòng Ngự Hồn Ngọc Đại
+item1199;Ngũ Phẩm Công Kích Hồn Ngọc Đại
+item1200;Lục Phẩm Phòng Ngự Hồn Ngọc Đại
+item1201;Lục Phẩm Công Kích Hồn Ngọc Đại
+item1202;Thất Phẩm Phòng Ngự Hồn Ngọc Đại
+item1203;Thất Phẩm Công Kích Hồn Ngọc Đại
+item1204;Hạnh Vận Hồn Ngọc Đại
+item1205;Kim Sắc Ngũ Phẩm Hồn Ngọc Đại
+item1206;Kim Sắc Lục Phẩm Hồn Ngọc Đại
+item1207;Kim Sắc Siêu Phẩm Hồn Ngọc Đại
+item1208;Hiệu Úy Quân Giới Tương
+item1209;Kỳ Môn Quân Giới Tương
+item1210;Hổ Bí Quân Giới Tương
+item1211;Nữ Oa Tệ
+item1212;Chá Chúc
+item1213;Phấn Bút
+item1214;Đăng Tháp
+item1215;Phượng Loan Kim Quan
+item1216;Cát Tường Tửu
+item1217;Chỉ Diên
+item1218;Trọng Dương Cao
+item1219;Lập Đông Giáo Tử
+item1220;Cam Giá
+item1221;Thảo Căn Thang
+item1222;Hỏa Kê
+item1223;Nam Qua Bính
+item1224;Ngọc Mễ Diện Bao
+item1225;Hoàng Kim Thú Linh Rương Tự Chọn2
+item1226;Kim Sắc Thất Phẩm Hồn Ngọc Đại
+item1227;Hỏa Oa
+item1228;Đường Sao Lật Tử
+item1229;Khảo Bạch Thự
+item1230;Thực Nhu
+item1231;Tung Ẩm
+item1232;Trừ Trần
+item1233;Quá
+item1234;Niên
+item1235;Hảo
+item1236;Phi Phàm Tinh Thần Bảo Rương
+item1237;Tinh Thần Toái Phiến
+item1238;Cát Tường Kết
+item1239;Như Ý Kết
+item1240;Bình An Kết
+item1241;Lục Sắc Chiến Kế Bảo Rương
+item1242;Lục Sắc Chiến Kế Bảo Rương·Thiên
+item1243;Lục Sắc Chiến Kế Bảo Rương·Địa
+item1244;Lục Sắc Chiến Kế Bảo Rương·Nhân
+item1245;Lam Sắc Chiến Kế Bảo Rương
+item1246;Lam Sắc Chiến Kế Bảo Rương·Thiên
+item1247;Lam Sắc Chiến Kế Bảo Rương·Địa
+item1248;Lam Sắc Chiến Kế Bảo Rương·Nhân
+item1249;Tử Sắc Chiến Kế Bảo Rương
+item1250;Tử Sắc Chiến Kế Bảo Rương·Thiên
+item1251;Tử Sắc Chiến Kế Bảo Rương·Địa
+item1252;Tử Sắc Chiến Kế Bảo Rương·Nhân
+item1253;Kim Sắc Chiến Kế Bảo Rương
+item1254;Kim Sắc Chiến Kế Bảo Rương·Thiên
+item1255;Kim Sắc Chiến Kế Bảo Rương·Địa
+item1256;Kim Sắc Chiến Kế Bảo Rương·Nhân
+item1257;Lục Sắc Chiến Kế Rương Tự Chọn·Thiên
+item1258;Lục Sắc Chiến Kế Rương Tự Chọn·Địa
+item1259;Lục Sắc Chiến Kế Rương Tự Chọn·Nhân
+item1260;Lam Sắc Chiến Kế Rương Tự Chọn·Thiên
+item1261;Lam Sắc Chiến Kế Rương Tự Chọn·Địa
+item1262;Lam Sắc Chiến Kế Rương Tự Chọn·Nhân
+item1263;Tử Sắc Chiến Kế Rương Tự Chọn·Thiên
+item1264;Tử Sắc Chiến Kế Rương Tự Chọn·Địa
+item1265;Tử Sắc Chiến Kế Rương Tự Chọn·Nhân
+item1266;Kim Sắc Chiến Kế Rương Tự Chọn·Thiên
+item1267;Kim Sắc Chiến Kế Rương Tự Chọn·Địa
+item1268;Kim Sắc Chiến Kế Rương Tự Chọn·Nhân
+item1269;Tái Quý Anh Hùng Rương Tự Chọn 2
+item1270;Phục Hi Tệ
+item1271;Lương Diện
+item1272;Hồn Đồn
+item1273;Tây Qua
+item1274;Sái Phục Khương
+item1275;Hát Phục Trà
+item1276;Thiêu Phục Hương
+item1277;Ưng Nãi Tế Điểu
+item1278;Thiên Địa Thủy Túc
+item1279;Hòa Nãi Đăng
+item1280;Kim Sắc Lục Phẩm Tự Tuyển Hồn Ngọc Đại
+item1281;Công Kích Lục Phẩm Tự Tuyển Hồn Ngọc Đại
+item1282;Phòng Ngự Lục Phẩm Tự Tuyển Hồn Ngọc Đại
+item1283;Kim Sắc Thất Phẩm Tự Tuyển Hồn Ngọc Đại
+item1284;Công Kích Thất Phẩm Tự Tuyển Hồn Ngọc Đại
+item1285;Phòng Ngự Thất Phẩm Tự Tuyển Hồn Ngọc Đại
+item1286;Kim Sắc Tứ Phẩm Tự Tuyển Hồn Ngọc Đại
+item1287;Kim Sắc Ngũ Phẩm Tự Tuyển Hồn Ngọc Đại
+item1288;Đoái Hoán Phê Văn
+item1289;Thị Tử
+item1290;La Bặc
+item1291;Thưởng Cúc Ẩm Tửu
+item1292;Khương Tảo Thang
+item1293;Quất Tử
+item1294;Hồng Thự Chúc
+item1295;Thần Long
+item1296;Niên Dạ Giáo
+item1297;Song Hoa
+item1298;Thủy Thát Tế Ngư
+item1299;Hồng Nhạn
+item1300;Thảo Mộc Manh Động
+item1301;Thanh Đoàn
+item1302;Thực Thụ
+item1303;Phóng Phong Tranh
+item1304;Cật Nguyên Tiêu
+item1305;Sai Đăng Mê
+item1306;Phóng Yên Hoa
+item1307;Nghênh Xuân Hoa
+item1308;Lê Hoa
+item1309;Đào Hoa
+item1310;Bát Bảo Phạn
+item1311;Tịch Bát Chúc
+item1312;Niên Cao
+item2001;Nhân Tính Toái Phiến
+item2002;Mộng Cảnh Chi Trần
+item2003;Viễn Cổ Hồi Hưởng
+item2004;Văn Minh Ký Ức
+item2005;Anh Dũng Ký Ức
+item2006;Mỹ Đức Ký Ức
+item2007;Kiếp Số Kinh Cức
+item2008;Linh Hồn Tinh Hoa
+item2009;Cân Quắc Anh Hùng Rương Tự Chọn 1
+item2010;Cân Quắc Anh Hùng Rương Tự Chọn 2
+item2011;Cân Quắc Anh Hùng Rương Tự Chọn 3
+item2012;Truyện Kỳ Anh Hùng Rương Tự Chọn 5
+item2013;Tương Tinh Vân Tập Rương Tự Chọn
+item2014;Thần Nông Tệ
+item2015;Tái Quý Anh Hùng Rương Tự Chọn 3
+item2016;Thượng Thanh Miêu Bạc Hà
+item2017;Ngọc Thanh Miêu Bạc Hà
+item2018;Thượng Thanh Ngưng Triêu Lộ
+item2019;Ngọc Thanh Ngưng Triêu Lộ
+item2020;Thượng Thanh Tiên Thảo Kê
+item2021;Ngọc Thanh Tiên Thảo Kê
+item2022;Nhất Tinh Linh Châu
+item2023;Nhị Tinh Linh Châu
+item2024;Tam Tinh Linh Châu
+item2025;Nguyên Khí Thực Hạp
+item2026;Huyền Khí Thực Hạp
+item2027;Thường Nhạc Thực Hạp
+item2028;Tri Mệnh Thực Hạp
+item2029;Tương Tinh Vân Tập Rương Tự Chọn2
+item2030;Truyện Quốc Tệ
+item2101;Hỏa Linh Khí
+item2102;Hỏa Linh Sa
+item2103;Hỏa Linh Đan
+item2104;Kim Linh Khí
+item2105;Kim Linh Sa
+item2106;Kim Linh Đan
+item2107;Mộc Linh Khí
+item2108;Mộc Linh Sa
+item2109;Mộc Linh Đan
+item2110;Thổ Linh Khí
+item2111;Thổ Linh Sa
+item2112;Thổ Linh Đan
+item2113;Thủy Linh Khí
+item2114;Thủy Linh Sa
+item2115;Thủy Linh Đan
+item2116;Phàm Phẩm Đạo Quả
+item2117;Thượng Phẩm Đạo Quả
+item2118;Tinh Phẩm Đạo Quả
+item2119;Cực Phẩm Đạo Quả
+item2120;Tiên Phẩm Đạo Quả
+item2121;Tẩy Tủy Đan
+item2122;Thần Linh Trắc Thí Tương
+item2123;Linh Khí Bảo Rương
+item2124;Linh Khí Tự Tuyển Bảo Rương
+item2125;Linh Sa Bảo Rương
+item2126;Linh Sa Tự Tuyển Bảo Rương
+item2127;Linh Đan Bảo Rương
+item2128;Linh Đan Tự Tuyển Bảo Rương
+item2129;Đạo Quả Bảo Rương
+item2130;Thần Linh Công Pháp Tướng
+item2131;Thần Linh Chúc Tính Công Pháp Tướng
+item2132;Thần Linh Nộ Khí Công Pháp Tướng
+item2133;Thần Linh Công Thủ Công Pháp Tướng
+item2134;Thần Linh Đặc Kỹ Công Pháp Tướng
+item2135;Vi Quang Thần Nguyên·Nhất
+item2136;Vi Quang Thần Nguyên·Nhị
+item2137;Vi Quang Thần Nguyên·Tam
+item2138;Vi Quang Thần Nguyên·Tứ
+item2139;Vi Quang Thần Nguyên·Ngũ
+item2140;Vi Quang Thần Nguyên·Lục
+item2141;Vi Quang Thần Nguyên·Thất
+item2142;Vi Quang Thần Nguyên·Bát
+item2143;Vi Quang Thần Nguyên·Cửu
+item2144;Vi Quang Thần Nguyên·Thập
+item2145;Thất Lạc Thần Nguyên·Nhất
+item2146;Thất Lạc Thần Nguyên·Nhị
+item2147;Thất Lạc Thần Nguyên·Tam
+item2148;Thất Lạc Thần Nguyên·Tứ
+item2149;Thất Lạc Thần Nguyên·Ngũ
+item2150;Thất Lạc Thần Nguyên·Lục
+item2151;Thất Lạc Thần Nguyên·Thất
+item2152;Thất Lạc Thần Nguyên·Bát
+item2153;Thất Lạc Thần Nguyên·Cửu
+item2154;Thất Lạc Thần Nguyên·Thập
+item2155;Hỏa Linh Thần Nguyên
+item2156;Kim Linh Thần Nguyên
+item2157;Mộc Linh Thần Nguyên
+item2158;Thổ Linh Thần Nguyên
+item2159;Thủy Linh Thần Nguyên
+item2160;Thượng Cổ Hỏa Linh Thần Nguyên
+item2161;Thượng Cổ Kim Linh Thần Nguyên
+item2162;Thượng Cổ Mộc Linh Thần Nguyên
+item2163;Thượng Cổ Thổ Linh Thần Nguyên
+item2164;Thượng Cổ Thủy Linh Thần Nguyên
+item2165;Hỏa Linh Thần Nguyên·Dị
+item2166;Kim Linh Thần Nguyên·Dị
+item2167;Mộc Linh Thần Nguyên·Dị
+item2168;Thổ Linh Thần Nguyên·Dị
+item2169;Thủy Linh Thần Nguyên·Dị
+item2170;Thượng Cổ Hỏa Linh Thần Nguyên·Dị
+item2171;Thượng Cổ Kim Linh Thần Nguyên·Dị
+item2172;Thượng Cổ Mộc Linh Thần Nguyên·Dị
+item2173;Thượng Cổ Thổ Linh Thần Nguyên·Dị
+item2174;Thượng Cổ Thủy Linh Thần Nguyên·Dị
+item2175;Thái Sơ Hỏa Linh Thần Nguyên·Dị
+item2176;Thái Sơ Kim Linh Thần Nguyên·Dị
+item2177;Thái Sơ Mộc Linh Thần Nguyên·Dị
+item2178;Thái Sơ Thổ Linh Thần Nguyên·Dị
+item2179;Thái Sơ Thủy Linh Thần Nguyên·Dị
+item2180;Thao Thiết Tệ
+item2181;Kiêu Kỵ Chi Dũng
+item2182;Y Thánh Chi Tâm
+item2183;Hòa Thân Chi Nguyện
+item2184;Công Tôn Toản Giác Tỉnh Lệnh
+item2185;Trương Trọng Cảnh Giác Tỉnh Lệnh
+item2186;Vương Chiêu Quân Giác Tỉnh Lệnh
+item2187;Tái Quý Anh Hùng Rương Tự Chọn4
+item2188;Liên Hoa Thái Tử Thần Nguyên
+item2189;Ngũ Lộ Tài Thần Thần Nguyên
+item2190;Thác Tháp Thiên Vương Thần Nguyên
+item2191;Thường Nga Tiên Tử Thần Nguyên
+item2192;Tây Vương Thánh Mẫu Thần Nguyên
+item2193;Thường Nga Tiên Tử Thần Nguyên
+item2194;Trác Việt Chiến Công Bảo Rương
+item2195;Phủ Việt Chi Phong
+item2196;Ngột Đột Cốt Giác Tỉnh Lệnh
+item2197;Kỳ Trân Dị Bảo Rương·Lâm
+item2198;Quốc Sĩ Anh Hùng Rương Tự Chọn
+item2199;Cân Quắc Anh Hùng Rương Tự Chọn
+item2200;Kịch Tình Kiến Chứng Lễ Bao·Đông
+item2201;Kịch Tình Kiến Chứng Lễ Bao·Nam
+item2202;Kịch Tình Kiến Chứng Lễ Bao·Tây
+item2203;Đầu Hồ Dụng Tiễn
+item2204;Thanh Đồng Đĩnh
+item2205;Tinh Thiết Đĩnh
+item2206;Tinh Cương Đĩnh
+item2207;Bạch Ngân Đĩnh
+item2208;Hoàng Kim Đĩnh
+item2209;Bạch Kim Đĩnh
+item2210;Trúc Tử
+item2211;Liễu Mộc
+item2212;Ngưu Cân Mộc
+item2213;Hắc Đàn Mộc
+item2214;Kim Ti Nam Mộc
+item2215;Hoàng Thất Cống Mộc
+item2216;Thô Chế Bì Cách
+item2217;Thục Hóa Nhuyễn Mao
+item2218;Khinh Chất Bì Cách
+item2219;Ngạnh Chất Giáp Bì
+item2220;Hậu Trọng Mao Bì
+item2221;Trọng Chất Giáp Bì
+item2222;Ma Tổn Xỉ Luân
+item2223;Tân Tạo Xỉ Luân
+item2224;Gia Cố Xỉ Luân
+item2225;Tinh Mật Xỉ Luân
+item2226;Huyền Thiết Xỉ Luân
+item2227;Độ Kim Xỉ Luân
+item2228;Học Đồ Cải Lương Chỉ Nam
+item2229;Xảo Tượng Cải Lương Chỉ Nam
+item2230;Đại Sư Cải Lương Chỉ Nam
+item2231;Linh Sát Thạch
+item2232;Học Đồ Hiệu Chính Chỉ Nam
+item2233;Xảo Tượng Hiệu Chính Chỉ Nam
+item2234;Đại Sư Hiệu Chính Chỉ Nam
+item2235;Huyết Luyện Quỳnh
+item2236;Tinh Mỹ Nhật Quang Thạch
+item2237;Vô Hạ Nhật Quang Thạch
+item2238;Mộng Huyễn Nhật Quang Thạch
+item2239;Thiên Công Tệ
+item2240;Thiên Công Hạch
+item2241;Thiên Công Bí Hạch
+item2242;Thiên Công Khai Vật Tương·Nhất
+item2243;Thiên Công Khai Vật Tương·Nhị
+item2244;Thiên Công Khai Vật Tương·Tam
+item2245;Thiên Công Khai Vật Tương·Tứ
+item2246;Thiên Công Khai Vật Tương·Ngũ
+item2247;Thiên Công Khai Vật Tương·Lục
+item2248;Thiên Cung Bí Tuyển Tương·Nhất
+item2249;Thiên Cung Bí Tuyển Tương·Nhị
+item2250;Thiên Cung Bí Tuyển Tương·Tam
+item2251;Thiên Cung Bí Tuyển Tương·Tứ
+item2252;Thiên Cung Bí Tuyển Tương·Ngũ
+item2253;Thiên Cung Bí Tuyển Tương·Lục
+item2254;Học Đồ Tinh Luyện Rương Tự Chọn
+item2255;Xảo Tượng Tinh Luyện Rương Tự Chọn
+item2256;Đại Sư Tinh Luyện Rương Tự Chọn
+item2257;Thăng Hoa Rương Tự Chọn
+item2258;Vong Hồn Tệ
+item2259;Tái Quý Anh Hùng Rương Tự Chọn5
+item2260;Âm Xà Độc Dịch
+item2261;Huyền Thiết Trảm Cốt Đao
+item2262;Thần Kỳ Đích Lộc Giác
+item2263;Lý Nho Giác Tỉnh Lệnh
+item2264;Hà Tiến Giác Tỉnh Lệnh
+item2265;Mộc Lộc Đại Vương Giác Tỉnh Lệnh
+item2266;Liên Thành Tệ
+item2267;Tương Dương Anh Truyện Tương
+item2268;Binh Chủng Trân Tàng Cẩm Nang
+item2269;Tuần Du Tệ
+item2270;Hồng Hoang Hỏa Linh Thần Nguyên
+item2271;Hồng Hoang Kim Linh Thần Nguyên
+item2272;Hồng Hoang Mộc Linh Thần Nguyên
+item2273;Hồng Hoang Thổ Linh Thần Nguyên
+item2274;Hồng Hoang Thủy Linh Thần Nguyên
+item2275;Hồng Hoang Hỏa Linh Thần Nguyên·Dị
+item2276;Hồng Hoang Kim Linh Thần Nguyên·Dị
+item2277;Hồng Hoang Mộc Linh Thần Nguyên·Dị
+item2278;Hồng Hoang Thổ Linh Thần Nguyên·Dị
+item2279;Hồng Hoang Thủy Linh Thần Nguyên·Dị
+item3000;Mảnh Đan Dương Binh
+item3001;Mảnh Bạch Nhị Binh
+item3002;Mảnh Tiên Đăng Tử Sĩ
+item3003;Mảnh Hãm Trận Doanh
+item3010;Mảnh Vũ Lâm Vệ
+item3011;Mảnh Đại Kích Sĩ
+item3012;Mảnh Đằng Giáp Binh
+item3013;Mảnh Giải Sầu Binh
+item3050;Mảnh Kim Thương Quân
+item3051;Mảnh Hổ Vệ Quân
+item3100;Mảnh Hổ Báo Kỵ
+item3101;Mảnh Tây Lương Kỵ
+item3102;Mảnh Tượng Binh
+item3103;Mảnh Hỏa Ngưu Quân
+item3110;Mảnh Bính Châu Kỵ
+item3111;Mảnh Lạc Đà Binh
+item3112;Mảnh Trọng Giáp Kỵ
+item3113;Mảnh Phi Hùng Kỵ
+item3150;Mảnh Vô Song Quân
+item3151;Mảnh Ám Ảnh Quân
+item3200;Mảnh Vô Đương Quân
+item3201;Mảnh Bạch Mã Tòng
+item3202;Mảnh Liên Nỏ Binh
+item3203;Mảnh Hỏa Du Binh
+item3210;Mảnh Chùy Binh
+item3211;Mảnh Phi Phủ
+item3212;Mảnh Xe Bắn Đá
+item3213;Mảnh Ngũ Khê Cung
+item3250;Mảnh Xa Giảo Nỏ
+item3251;Mảnh Tỉnh Lan Quân
+item3300;Mảnh Vũ Nương
+item3301;Mảnh Nhạc Sư
+item3302;Mảnh Cẩm Phàm Kỳ Thủ
+item3303;Mảnh Tây Vực Tu Sĩ
+item3310;Mảnh Hoàng Cân Thuật Sĩ
+item3311;Mảnh Mặc Giả
+item3312;Mảnh Phong Bá Chúng
+item3313;Mảnh Tăng Binh
+item3350;Mảnh Bán Tiên Đoàn
+item3351;Mảnh Quỷ Võ Giả
+item4100;Tinh Vũ Toái Phiến
+item4101;Sùng Văn Toái Phiến
+item4102;Đức Hành Toái Phiến
+item4103;Thống Lĩnh Toái Phiến
+item4104;Căn Cốt Toái Phiến
+item4105;Linh Tuệ Toái Phiến
+item4200;Trùng Quan Toái Phiến
+item4201;Táo Động Toái Phiến
+item4202;Nhiên Đăng Toái Phiến
+item4203;Tức Nhân Toái Phiến
+item4204;Ninh Tĩnh Toái Phiến
+item4205;An Hồn Toái Phiến
+item4300;Mặc Công Toái Phiến
+item4301;Vân Thê Toái Phiến
+item4302;Tỉnh Lan Toái Phiến
+item4303;Đâu Mâu Toái Phiến
+item4304;Lân Giáp Toái Phiến
+item4305;Mặc Thủ Toái Phiến
+item4306;Trụy Thạch Toái Phiến
+item4307;Nỗ Sàng Toái Phiến
+item4308;Thành Hào Toái Phiến
+item4309;Nữ Tường Toái Phiến
+item4400;Để Ngự Toái Phiến
+item4401;Phá Ngự Toái Phiến
+item4402;Viên Trợ Toái Phiến
+item4403;Phá Viên Toái Phiến
+item4404;Xâm Phệ Toái Phiến
+item4405;Phá Phệ Toái Phiến
+item4406;Bạo Hát Toái Phiến
+item4407;Bạo Đột Toái Phiến
+item4408;Bạo Xạ Toái Phiến
+item4409;Đáng Sách Toái Phiến
+item4410;Đáng Giá Toái Phiến
+item7000;Công Tôn Toản Toái Phiến
+item7001;Trương Trọng Cảnh Toái Phiến
+item7002;Vương Chiêu Quân Toái Phiến
+item7003;Chung Hội Toái Phiến
+item7004;Đặng Ngải Toái Phiến
+item7005;Phan Phượng Toái Phiến
+item7006;Mộc Lộc Đại Vương Toái Phiến
+item7007;Lý Nho Toái Phiến
+item7008;Hà Tiến Toái Phiến
+item7700;Chư Cát Quả Toái Phiến
+item7701;Đổng Bạch Toái Phiến
+item7702;Hà Hoàng Hậu Toái Phiến

@@ -1,0 +1,204 @@
+1001;Kim tệ
+1002;Kim cương
+1003;Vẫn thiết
+1004;Kỹ năng bảo rương
+1005;10 phần chung gia tốc quyển
+1006;Hoạt dược tích phần
+1007;Vinh dự
+1008;Công huân
+1009;Phổ thông pháo đạn
+1010;Nhiên thiêu đạn
+1011;Định thì tạc đạn
+1012;Đầu tử
+1013;Hạnh vận đầu tử
+1014;Pháo đạn thăng cấp đồ chỉ
+1015;Ban thủ
+1016;Năng lượng cầu
+1017;Thiêu chiến khoán
+1018;Bí ngân
+1019;Kinh nghiệm trị
+1020;1 giai sinh mệnh quả
+1021;2 giai sinh mệnh quả
+1022;3 giai sinh mệnh quả
+1023;1 giai lực lượng quả
+1024;2 giai lực lượng quả
+1025;3 giai lực lượng quả
+1026;1 giai thể chất quả
+1027;2 giai thể chất quả
+1028;3 giai thể chất quả
+1029;1 giai mẫn tiệp quả
+1030;2 giai mẫn tiệp quả
+1031;3 giai mẫn tiệp quả
+1032;Khẩn cấp triệt ly truyện tống trận
+1033;Ma thạch toái phiến
+1034;Quang hoàn phù văn
+1035;Nhục cán
+1036;Ti tửu
+1037;Mỹ tửu
+1038;Cán lương
+1039;Cải danh tạp
+1040;Thể lực
+1041;Dụ nhị
+1042;Tích phần
+1043;Điên phong thiêu chiến khoán
+1044;Công hội hoạt dược
+1045;Công hội kinh nghiệm
+1046;Cá nhân cống hiến
+1047;Trừu tưởng khoán
+2001;Lôi đình nhất kích
+2002;Trị dũ thuật
+2003;Vô kiên bất tồi
+2004;Phong ma thuật
+2005;Cuồng loạn thuật
+2006;Cường tập đả kích
+2007;Thi độc thuật
+2008;Hộ thuẫn thuật
+2009;Sinh mệnh liên hoa
+2010;Toàn thần quán chú
+2011;Đột tập
+2012;Cuồng bạo
+2013;Phá giáp thuật
+2014;Phá thuẫn phong ma
+2015;Thần hồn đả kích
+2016;Hoành tảo thiên quân
+2017;Hư nhược xạ tuyến
+2018;Thần thánh chúc phúc
+2019;Quang chi chúc phúc
+2020;Quang chi thiểm diệu
+2021;Liên tập
+2022;Sinh mệnh chi chủng
+2023;Đồng tường thiết bích
+2024;Thiên tung chi dũng
+2025;Tiên phát chế nhân
+2026;Tỏa địch duệ khí
+2027;Duệ bất khả đương
+2028;Phấn dũng tranh tiên
+2029;Liêu sự như thần
+2030;Thúc phược tỏa liên
+3001;Chiến hổ
+3002;Bạch hùng
+3003;Chiến hùng
+3004;Bạch sư
+3005;Ban mã
+3006;U linh chiến điêu
+3007;Tuyết báo
+3008;Trường cảnh lộc
+3009;U minh hổ
+3010;Vinh dự chiến long
+3011;Tinh không hùng
+3012;Sa thạch chiến long
+3013;Tinh linh long
+3014;U linh long
+3015;Thâm lam tê ngưu
+3016;Hàn băng chiến long
+3017;Lôi hệ chiến tích
+3018;U linh thú vương
+3019;Công huân chiến mã
+3020;Hoàng gia chiến sư
+3021;Tuyết lang vương
+3022;Triều lưu dã trư
+3023;Nham rương liệp khuyển
+3024;Hắc sư vương
+3025;Tấn mãnh long
+3026;Tiểu dã trư
+3027;Tật hành điểu
+3028;Lục địa lục quy
+3029;Liệp cẩu
+3030;Liệp cẩu vương
+3031;Hắc lang
+3032;Tinh quang liệp vương
+4001;Liên kích
+4002;Liên kích
+4003;Liên kích
+4004;Liên kích
+4005;Liên kích
+4011;Hốt thị liên kích
+4012;Hốt thị liên kích
+4013;Hốt thị liên kích
+4014;Hốt thị liên kích
+4015;Hốt thị liên kích
+4021;Phản kích
+4022;Phản kích
+4023;Phản kích
+4024;Phản kích
+4025;Phản kích
+4031;Hốt thị phản kích
+4032;Hốt thị phản kích
+4033;Hốt thị phản kích
+4034;Hốt thị phản kích
+4035;Hốt thị phản kích
+4041;Thiểm tị
+4042;Thiểm tị
+4043;Thiểm tị
+4044;Thiểm tị
+4045;Thiểm tị
+4051;Hốt thị thiểm tị
+4052;Hốt thị thiểm tị
+4053;Hốt thị thiểm tị
+4054;Hốt thị thiểm tị
+4055;Hốt thị thiểm tị
+4061;Bạo kích
+4062;Bạo kích
+4063;Bạo kích
+4064;Bạo kích
+4065;Bạo kích
+4071;Hốt thị bạo kích
+4072;Hốt thị bạo kích
+4073;Hốt thị bạo kích
+4074;Hốt thị bạo kích
+4075;Hốt thị bạo kích
+4081;Kỹ năng thương hại
+4082;Kỹ năng thương hại
+4083;Kỹ năng thương hại
+4084;Kỹ năng thương hại
+4085;Kỹ năng thương hại
+4091;Truy kích thương hại
+4092;Truy kích thương hại
+4093;Truy kích thương hại
+4094;Truy kích thương hại
+4095;Truy kích thương hại
+4102;Kỹ năng khái suất
+4103;Kỹ năng khái suất
+4104;Kỹ năng khái suất
+4105;Kỹ năng khái suất
+4112;Truy kích khái suất
+4113;Truy kích khái suất
+4114;Truy kích khái suất
+4115;Truy kích khái suất
+4123;Đại sư tạp
+4124;Đại sư tạp
+4125;Đại sư tạp
+4133;Tông sư tạp
+4134;Tông sư tạp
+4135;Tông sư tạp
+4143;Vương giả tạp
+4144;Vương giả tạp
+4145;Vương giả tạp
+4151;Trị liệu
+4152;Trị liệu
+4153;Trị liệu
+4154;Trị liệu
+4155;Trị liệu
+4401;1 tinh tùy cơ tạp
+4402;2 tinh tùy cơ tạp
+4403;3 tinh tùy cơ tạp
+4404;4 tinh tùy cơ tạp
+4405;5 tinh tùy cơ tạp
+5001;Chiến đấu thiên tài
+5002;Chiến đấu tông sư
+5003;Chiến đấu anh hùng
+6001;Tử phong
+6002;Hoàng gia kỵ sĩ
+6003;Phong chi tức
+6004;Đại kỵ sĩ trường
+6005;Tài quyết chi kiếm
+6011;Dong binh đột kích
+6012;Triều lưu phái đối
+6013;Bằng khắc chiến hỏa
+6014;Thủy tích nhất kích
+6015;Tối chung chiến đấu
+6021;Đại tế ti
+6022;Hôi sắc quỹ tích
+6023;Thanh tịch thì niên
+6024;Hoàng thất tế tự
+6025;Ám hắcLorie

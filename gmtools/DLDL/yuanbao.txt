@@ -1,0 +1,7 @@
+Kim tệ;money
+Thay mặt tệ;token
+Thể lực;energy
+Mặt trời giếng tệ;sunwell_money
+Sân thi đấu tệ;arena_money
+Anh linh tệ;soul_money
+Phụ ma điểm tích lũy;enchant_score

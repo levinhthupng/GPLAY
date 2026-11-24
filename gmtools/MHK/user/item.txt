@@ -1,0 +1,4688 @@
+100;Ngân Lượng
+101;1 Vạn Ngân Lượng
+102;10 Vạn Ngân Lượng
+103;100 Vạn Ngân Lượng
+104;1000 Vạn Ngân Lượng
+105;500 Ngân Lượng
+106;1000 Ngân Lượng
+200;Ngọc Phù
+201;10 Ngọc Phù
+202;100 Ngọc Phù
+203;1000 Ngọc Phù
+204;1 Vạn Ngọc Phù
+205;10 Vạn Ngọc Phù
+206;100 Vạn Ngọc Phù
+207;1000 Vạn Ngọc Phù
+300;1000 Kinh Nghiệm
+301;1 Vạn Kinh Nghiệm
+302;10 Vạn Kinh Nghiệm
+303;100 Vạn Kinh Nghiệm
+304;1000 Vạn Kinh Nghiệm
+305;Kinh Nghiệm
+400;Vinh Dự Điểm
+401;Tông Môn Cống Hiến
+500;Nguyên Bảo
+501;1 Vạn Nguyên Bảo
+510;Hiệp Nghĩa Trị
+600;Bảng Ngọc
+800;Giới Vực Văn Chương
+1201;Thanh Long Lân
+1202;Thanh Long Ấn
+1203;Yêu Vương Lệnh
+1204;Đạo Minh Bí Thược
+1205;Âm Dương La Bàn
+1301;Long Hồn Ngọc
+1302;Thì Không Bàn
+1303;Cửu Nguyên Thần Lôi
+1501;Nữu Đản Tệ
+1701;Phúc Đại Quyển
+2201;Ứng Long Văn Chương
+2301;Thiên Mệnh Thần Thạch
+2302;Thái Hư Thần Thạch
+9001;Nhân Giai Trang Bị
+9002;Địa Giai Trang Bị
+9003;Tiên Giai Trang Bị
+9004;Hỗn Độn Trang Bị
+9005;Vĩnh Hằng Trang Bị
+9006;Thần Cấp Trang Bị
+9007;Kinh Nghiệm
+9008;Trang Bị
+9009;Túc Tích Lễ Bao
+9011;Cố Định Lễ Bao
+9012;Tùy Cơ Lễ Bao
+9013;Tuyển Trạch Lễ Bao
+9014;Đa Tuyển Lễ Bao
+9015;Trang Bị Bảo Thạch
+9016;Ngọc Phù
+9017;Vinh Dự Điểm
+9018;Tông Môn Cống Hiến Điểm
+9019;Ngộ Đạo Điểm
+9020;Kinh Nghiệm
+9021;Dã Ngoạiboss Môn Phiếu
+9022;Ngân Lượng
+9023;Tiên Duyên Điểm Số
+9024;Vi Liệpboss Môn Phiếu
+9025;Chiến Lệnh Kinh Nghiệm
+9026;Khóa Phụcboss Môn Phiếu
+9027;Chanh Sắc Trang Bị
+9028;Hồng Sắc Trang Bị
+9029;Thải Sắc Trang Bị
+9030;Thần Biến Nhân Tử
+9101;1 Cấp Nhân Giai Trang Bị
+9102;1 Cấp Địa Giai Trang Bị
+9103;1 Cấp Tiên Giai Trang Bị
+9104;1 Cấp Hỗn Độn Trang Bị
+9105;1 Cấp Vĩnh Hằng Trang Bị
+9106;Hậu Thiên Nhân Giai Trang Bị
+9107;Hậu Thiên Địa Giai Trang Bị
+9108;Hậu Thiên Tiên Giai Trang Bị
+9109;Hậu Thiên Hỗn Độn Trang Bị
+9110;Hậu Thiên Vĩnh Hằng Trang Bị
+9111;Nhất Giai Lục Sắc Trang Bị
+9112;Nhất Giai Lam Sắc Trang Bị
+9113;Nhất Giai Tử Sắc Trang Bị
+9114;Nhất Giai Chanh Sắc Trang Bị
+9115;Nhất Giai Hồng Sắc Trang Bị
+9116;Nhị Giai Lục Sắc Trang Bị
+9117;Nhị Giai Lam Sắc Trang Bị
+9118;Nhị Giai Tử Sắc Trang Bị
+9119;Nhị Giai Chanh Sắc Trang Bị
+9120;Nhị Giai Hồng Sắc Trang Bị
+9121;Tam Giai Lục Sắc Trang Bị
+9122;Tam Giai Lam Sắc Trang Bị
+9123;Tam Giai Tử Sắc Trang Bị
+9124;Tam Giai Chanh Sắc Trang Bị
+9125;Tam Giai Hồng Sắc Trang Bị
+9126;Tứ Giai Lục Sắc Trang Bị
+9127;Tứ Giai Lam Sắc Trang Bị
+9128;Tứ Giai Tử Sắc Trang Bị
+9129;Tứ Giai Chanh Sắc Trang Bị
+9130;Tứ Giai Hồng Sắc Trang Bị
+9131;Ngũ Giai Lục Sắc Trang Bị
+9132;Ngũ Giai Lam Sắc Trang Bị
+9133;Ngũ Giai Tử Sắc Trang Bị
+9134;Ngũ Giai Chanh Sắc Trang Bị
+9135;Ngũ Giai Hồng Sắc Trang Bị
+9136;Lục Giai Lục Sắc Trang Bị
+9137;Lục Giai Lam Sắc Trang Bị
+9138;Lục Giai Tử Sắc Trang Bị
+9139;Lục Giai Chanh Sắc Trang Bị
+9140;Lục Giai Hồng Sắc Trang Bị
+9141;Thất Giai Lục Sắc Trang Bị
+9142;Thất Giai Lam Sắc Trang Bị
+9143;Thất Giai Tử Sắc Trang Bị
+9144;Thất Giai Chanh Sắc Trang Bị
+9145;Thất Giai Hồng Sắc Trang Bị
+9146;Bát Giai Lục Sắc Trang Bị
+9147;Bát Giai Lam Sắc Trang Bị
+9148;Bát Giai Tử Sắc Trang Bị
+9149;Bát Giai Chanh Sắc Trang Bị
+9150;Bát Giai Hồng Sắc Trang Bị
+9151;Cửu Giai Lục Sắc Trang Bị
+9152;Cửu Giai Lam Sắc Trang Bị
+9153;Cửu Giai Tử Sắc Trang Bị
+9154;Cửu Giai Chanh Sắc Trang Bị
+9155;Cửu Giai Hồng Sắc Trang Bị
+9156;3 Giai Thần Chi Nhĩ Trụy
+9160;Thần Chi Chiến Vũ
+9161;Thần Chi Nhĩ Trụy
+9162;Nhất Giai Vi Liệp Bảo Rương
+9163;Nhị Giai Vi Liệp Bảo Rương
+9164;Tam Giai Vi Liệp Bảo Rương
+9165;Tứ Giai Vi Liệp Bảo Rương
+9166;Ngũ Giai Vi Liệp Bảo Rương
+9167;Lục Giai Vi Liệp Bảo Rương
+9168;Thất Giai Vi Liệp Bảo Rương
+9169;Bát Giai Vi Liệp Bảo Rương
+9201;Nhị Giai Khóa Phục Bảo Rương
+9202;Tam Giai Khóa Phục Bảo Rương
+9203;Tứ Giai Khóa Phục Bảo Rương
+9204;Ngũ Giai Khóa Phục Bảo Rương
+9205;Lục Giai Khóa Phục Bảo Rương
+9206;Nhị Giai Bài Hành Bảo Rương
+9207;Tam Giai Bài Hành Bảo Rương
+9208;Tứ Giai Bài Hành Bảo Rương
+9209;Ngũ Giai Bài Hành Bảo Rương
+9210;Lục Giai Bài Hành Bảo Rương
+9211;Thất Giai Bài Hành Bảo Rương
+9212;Bát Giai Bài Hành Bảo Rương
+9213;Cửu Giai Bài Hành Bảo Rương
+9214;Thất Giai Khóa Phục Bảo Rương
+9215;Bát Giai Khóa Phục Bảo Rương
+9216;Cửu Giai Khóa Phục Bảo Rương
+10001;Tọa Kỵ Thối Luyện Đan
+10002;Thị Tòng Thối Luyện Đan
+10003;Thần Binh Thối Luyện Đan
+10004;Vũ Dực Thối Luyện Đan
+10005;Linh Vũ Thối Luyện Đan
+10006;Linh Vũ Thối Luyện Đan
+10007;Linh Kỵ Thối Luyện Đan
+10008;Thần Tích Thạch
+10112;Tọa Kỵ Bồi Nguyên Đan
+10113;Tọa Kỵ Huyễn Hóa Đan
+10122;Thị Tòng Tiềm Năng Đan
+10123;Thị Tòng Huyễn Hóa Đan
+10132;Thần Binh Bồi Nguyên Đan
+10133;Thần Binh Huyễn Hóa Đan
+10142;Vũ Dực Bồi Nguyên Đan
+10143;Vũ Dực Huyễn Hóa Đan
+10152;Linh Vũ Tiềm Năng Đan
+10153;Linh Vũ Huyễn Hóa Đan
+10162;Linh Vũ Tiềm Năng Đan
+10163;Linh Vũ Huyễn Hóa Đan
+10172;Linh Kỵ Tiềm Năng Đan
+10173;Linh Kỵ Huyễn Hóa Đan
+10201;Tọa Kỵ Kỹ Năng Thư
+10202;Thị Tòng Kỹ Năng Thư
+10203;Thần Binh Kỹ Năng Thư
+10204;Vũ Dực Kỹ Năng Thư
+10205;Linh Vũ Kỹ Năng Thư
+10206;Linh Vũ Kỹ Năng Thư
+10207;Linh Kỵ Kỹ Năng Thư
+10208;Túc Tích Kỹ Năng Thư
+10300;Khoáng Chủ Lệnh
+10301;Hối Chi Phách
+10302;Đoán Chi Viêm
+10303;Chú Chi Cương
+10304;Thiên Chi Dung
+10305;Khoáng Cổ Tinh Phách
+10306;Địa Tâm Nham Tương
+10307;Vẫn Tinh Tàn Phiến
+10308;Hồng Hoang Thiên Khế
+10400;Linh Căn Tinh Hoa
+10401;Linh Căn Trực Thăng Đan
+10402;Linh Căn Chuyển Bàn Quyển
+11001;Thăng Cấp Đan
+11011;Cường Hóa Thạch
+11021;Chú Linh Thạch
+11031;Thần Trang Toái Phiến
+11032;Thần Chi Chiến Vũ Toái Phiến
+11033;Thần Chi Nhĩ Trụy Toái Phiến
+11034;Thần Chi Hạng Liên Toái Phiến
+11035;Thần Chi Giới Chỉ Toái Phiến
+11036;Thần Chi Ngọc Bội Toái Phiến
+11041;Sơ Luyện Kim Đan
+11042;Thập Niên Kim Đan
+11043;Bách Niên Kim Đan
+11044;Thiên Niên Kim Đan
+11045;Vạn Niên Kim Đan
+11046;Thập Vạn Niên Kim Đan
+11047;Bách Vạn Niên Kim Đan
+11048;Tạo Hóa Kim Đan
+11049;Hỗn Độn Kim Đan
+11050;Thâu Thiên Sinh Tử Đan
+11051;Tông Môn Cải Danh Tạp
+11052;Cửu Chuyển Huyền Đan
+11061;Tầm Bảo Phù
+11062;Tàng Bảo Đồ
+11063;Luyện Thần Tài Liệu
+11071;Phục Hoạt Dược Thủy
+11072;Nguyên Khí Đan
+11073;Lục Sắc Luyện Thần Thạch
+11074;Lục Sắc Luyện Thần Thần Tinh
+11075;Lam Sắc Luyện Thần Thạch
+11076;Lam Sắc Luyện Thần Thần Tinh
+11077;Tử Sắc Luyện Thần Thạch
+11078;Tử Sắc Luyện Thần Thần Tinh
+11079;Chanh Sắc Luyện Thần Thạch
+11080;Chanh Sắc Luyện Thần Thần Tinh
+11081;Ly Hỏa Thạch
+11091;Lôi Vân Kiếm Quyết
+11092;Sơn Hải Tru Thiên
+11093;Ảnh Long Bộ Pháp
+11094;Bản Nguyên Chi Quyển
+11095;Huyễn Trần Trận Quyết
+11096;Vũ Thường Độn Thuật
+11097;Tinh Thần Quyết·Thượng
+11098;Chúc Long Thức·Thượng
+11099;Tinh Thần Quyết·Hạ
+11100;Chúc Long Thức·Hạ
+11110;Chú Hồn Thạch
+11111;Kỳ Sơn Hoàng Thạch
+11120;Thần Luyện Đan
+11121;Cổ Đạo Lệnh
+11131;Thiên Luân Kiếm Ý
+11132;Băng Đàm Thánh Liên
+11133;Lôi Long Chân Nguyên
+11134;Tiểu Thiên Kiếm Thuật
+11135;Thanh Hoa Đồ Quyển
+11136;Lôi Long Nguyên Tinh
+11137;Tiên Hữu Tệ
+11140;Giác Sắc Cải Danh Biến Tính Tạp
+11141;Kim Sắc Lưu Sa
+11142;Tinh Thần Chi Hạch
+11143;Càn Khôn Tệ
+11144;Pháp Bảo Luyện Hóa Châu
+11145;Tu Tiên Thạch
+11146;Phi Thăng Thạch
+11147;Huyền Vũ Ngọc Quyết
+11148;Tụ Bảo Bồn
+11151;Bích Lê Nguyệt Trâm
+11152;Lưu Huỳnh Đàn Hoàn
+11153;Bích Quyển Huyền Liên
+11154;Cô Phong Tố Cẩm
+11155;Trạch Phong Phượng Oản
+11156;Tinh Minh Ngự Giới
+11157;Tam Thanh Thúc Câm
+11158;Lan Tịch Linh Bội
+11159;Thanh Hoa Linh Trang
+11160;Ngọc Hư Trọng Lũ
+11161;Thiên Luân Kiếm Ý Toái Phiến
+11162;Băng Đàm Thánh Liên Toái Phiến
+11163;Lôi Long Chân Nguyên Toái Phiến
+11164;Vân Giới Tích Phần
+11171;Thiên Thiều Huyền Ngọc
+11172;Ngự Sương Liên Độc
+11173;Lôi Long Huyễn Ngọc
+11174;Thanh Hoa Đồ Quyển
+11175;Bạch Diễm Liên Quả
+11176;Ngự Sương Liên Độc
+11177;Lôi Long Thối Lân
+11178;Lôi Long Hồn Cốt
+11179;Lôi Long Ma Tinh
+11181;Linh Đồng Xoát Tân Lệnh
+11182;Linh Bảo Tinh Túy
+11183;Vô Tận Huy Ký
+11184;Sơ Cấp Trang Bị Tinh Túy
+11185;Trung Cấp Trang Bị Tinh Túy
+11186;Cao Cấp Trang Bị Tinh Túy
+11201;Kiếm Ảnh Truy Kích
+11202;Kiếm Ảnh Hoành Tảo
+11203;Lăng Không Trảm
+11204;Toàn Trảm
+11205;Kiếm Quang Phá Kích
+11206;Tật Phong Vô Ảnh
+11207;Yên Phong Thức
+11208;Tam Tài Ma Bàn
+11209;Hồn Vẫn Liệt Thiên
+11210;Duy Tâm Kiếm Ý
+11211;Điện Quang Hỏa Thạch
+11212;Liệt Hỏa Oanh Lôi
+11213;Thạch Phá Thiên Kinh
+11214;Thiên Kiếm Cửu Trọng
+11215;Tâm Kiếm Tàng Phong
+11301;Bí Thuật·Thiên Minh Qua Quyển
+11302;Bí Thuật·Linh Xà Càn Khôn
+11303;Bí Thuật·Phần Quang Kiếm Khí
+11304;Bí Thuật·Cửu Nguyên Thần Lôi
+11305;Bí Thuật·Tuyệt Địa Độ Tội
+11306;Bí Thuật·Hi Liên Phượng Vũ
+11311;Bí Thuật1 Đột Phá Đạo Cụ
+11312;Bí Thuật2 Đột Phá Đạo Cụ
+11313;Bí Thuật3 Đột Phá Đạo Cụ
+11314;Bí Thuật4 Đột Phá Đạo Cụ
+11315;Bí Thuật5 Đột Phá Đạo Cụ
+11316;Bí Thuật6 Đột Phá Đạo Cụ
+11321;1 Cấp Bí Thuật Tinh Thạch
+11322;2 Cấp Bí Thuật Tinh Thạch
+11323;3 Cấp Bí Thuật Tinh Thạch
+11401;Bắc Minh Huân Chương
+11402;Tử Quang Huân Chương
+11403;Tinh Hà Huân Chương
+11404;Vụ Nham Huân Chương
+11405;Hắc Liên Huân Chương
+11501;1 Cấp Thông Thiên Lệnh
+11502;2 Cấp Thông Thiên Lệnh
+11503;3 Cấp Thông Thiên Lệnh
+11504;4 Cấp Thông Thiên Lệnh
+11505;5 Cấp Thông Thiên Lệnh
+11506;6 Cấp Thông Thiên Lệnh
+11507;7 Cấp Thông Thiên Lệnh
+11508;8 Cấp Thông Thiên Lệnh
+11509;9 Cấp Thông Thiên Lệnh
+19001;Nhất Giai1 Tinh Hồng Trang Bảo Rương
+19002;Nhị Giai1 Tinh Hồng Trang Bảo Rương
+19003;Nhị Giai2 Tinh Hồng Trang Bảo Rương
+19004;Nhị Giai3 Tinh Hồng Trang Bảo Rương
+20101;1 Cấp Tinh Chuẩn Bảo Thạch
+20102;2 Cấp Tinh Chuẩn Bảo Thạch
+20103;3 Cấp Tinh Chuẩn Bảo Thạch
+20104;4 Cấp Tinh Chuẩn Bảo Thạch
+20105;5 Cấp Tinh Chuẩn Bảo Thạch
+20106;6 Cấp Tinh Chuẩn Bảo Thạch
+20107;7 Cấp Tinh Chuẩn Bảo Thạch
+20108;8 Cấp Tinh Chuẩn Bảo Thạch
+20109;9 Cấp Tinh Chuẩn Bảo Thạch
+20110;10 Cấp Tinh Chuẩn Bảo Thạch
+20111;11 Cấp Tinh Chuẩn Bảo Thạch
+20112;12 Cấp Tinh Chuẩn Bảo Thạch
+20113;13 Cấp Tinh Chuẩn Bảo Thạch
+20114;14 Cấp Tinh Chuẩn Bảo Thạch
+20115;15 Cấp Tinh Chuẩn Bảo Thạch
+20201;1 Cấp Linh Tính Bảo Thạch
+20202;2 Cấp Linh Tính Bảo Thạch
+20203;3 Cấp Linh Tính Bảo Thạch
+20204;4 Cấp Linh Tính Bảo Thạch
+20205;5 Cấp Linh Tính Bảo Thạch
+20206;6 Cấp Linh Tính Bảo Thạch
+20207;7 Cấp Linh Tính Bảo Thạch
+20208;8 Cấp Linh Tính Bảo Thạch
+20209;9 Cấp Linh Tính Bảo Thạch
+20210;10 Cấp Linh Tính Bảo Thạch
+20211;11 Cấp Linh Tính Bảo Thạch
+20212;12 Cấp Linh Tính Bảo Thạch
+20213;13 Cấp Linh Tính Bảo Thạch
+20214;14 Cấp Linh Tính Bảo Thạch
+20215;15 Cấp Linh Tính Bảo Thạch
+20301;1 Cấp Man Lực Bảo Thạch
+20302;2 Cấp Man Lực Bảo Thạch
+20303;3 Cấp Man Lực Bảo Thạch
+20304;4 Cấp Man Lực Bảo Thạch
+20305;5 Cấp Man Lực Bảo Thạch
+20306;6 Cấp Man Lực Bảo Thạch
+20307;7 Cấp Man Lực Bảo Thạch
+20308;8 Cấp Man Lực Bảo Thạch
+20309;9 Cấp Man Lực Bảo Thạch
+20310;10 Cấp Man Lực Bảo Thạch
+20311;11 Cấp Man Lực Bảo Thạch
+20312;12 Cấp Man Lực Bảo Thạch
+20313;13 Cấp Man Lực Bảo Thạch
+20314;14 Cấp Man Lực Bảo Thạch
+20315;15 Cấp Man Lực Bảo Thạch
+20401;1 Cấp Thủ Hộ Bảo Thạch
+20402;2 Cấp Thủ Hộ Bảo Thạch
+20403;3 Cấp Thủ Hộ Bảo Thạch
+20404;4 Cấp Thủ Hộ Bảo Thạch
+20405;5 Cấp Thủ Hộ Bảo Thạch
+20406;6 Cấp Thủ Hộ Bảo Thạch
+20407;7 Cấp Thủ Hộ Bảo Thạch
+20408;8 Cấp Thủ Hộ Bảo Thạch
+20409;9 Cấp Thủ Hộ Bảo Thạch
+20410;10 Cấp Thủ Hộ Bảo Thạch
+20411;11 Cấp Thủ Hộ Bảo Thạch
+20412;12 Cấp Thủ Hộ Bảo Thạch
+20413;13 Cấp Thủ Hộ Bảo Thạch
+20414;14 Cấp Thủ Hộ Bảo Thạch
+20415;15 Cấp Thủ Hộ Bảo Thạch
+20501;1 Cấp Anh Hùng Chi Thạch
+20502;2 Cấp Anh Hùng Chi Thạch
+20503;3 Cấp Anh Hùng Chi Thạch
+20504;4 Cấp Anh Hùng Chi Thạch
+20505;5 Cấp Anh Hùng Chi Thạch
+20506;6 Cấp Anh Hùng Chi Thạch
+20507;7 Cấp Anh Hùng Chi Thạch
+20508;8 Cấp Anh Hùng Chi Thạch
+20509;9 Cấp Anh Hùng Chi Thạch
+20510;10 Cấp Anh Hùng Chi Thạch
+20511;11 Cấp Anh Hùng Chi Thạch
+20512;12 Cấp Anh Hùng Chi Thạch
+20513;13 Cấp Anh Hùng Chi Thạch
+20514;14 Cấp Anh Hùng Chi Thạch
+20515;15 Cấp Anh Hùng Chi Thạch
+20601;1 Cấp Vinh Diệu Chi Thạch
+20602;2 Cấp Vinh Diệu Chi Thạch
+20603;3 Cấp Vinh Diệu Chi Thạch
+20604;4 Cấp Vinh Diệu Chi Thạch
+20605;5 Cấp Vinh Diệu Chi Thạch
+20606;6 Cấp Vinh Diệu Chi Thạch
+20607;7 Cấp Vinh Diệu Chi Thạch
+20608;8 Cấp Vinh Diệu Chi Thạch
+20609;9 Cấp Vinh Diệu Chi Thạch
+20610;10 Cấp Vinh Diệu Chi Thạch
+20611;11 Cấp Vinh Diệu Chi Thạch
+20612;12 Cấp Vinh Diệu Chi Thạch
+20613;13 Cấp Vinh Diệu Chi Thạch
+20614;14 Cấp Vinh Diệu Chi Thạch
+20615;15 Cấp Vinh Diệu Chi Thạch
+20701;1 Cấp Thiên Tuyển Chi Thạch
+20702;2 Cấp Thiên Tuyển Chi Thạch
+20703;3 Cấp Thiên Tuyển Chi Thạch
+20704;4 Cấp Thiên Tuyển Chi Thạch
+20705;5 Cấp Thiên Tuyển Chi Thạch
+20706;6 Cấp Thiên Tuyển Chi Thạch
+20707;7 Cấp Thiên Tuyển Chi Thạch
+20708;8 Cấp Thiên Tuyển Chi Thạch
+20709;9 Cấp Thiên Tuyển Chi Thạch
+20710;10 Cấp Thiên Tuyển Chi Thạch
+20711;11 Cấp Thiên Tuyển Chi Thạch
+20712;12 Cấp Thiên Tuyển Chi Thạch
+20713;13 Cấp Thiên Tuyển Chi Thạch
+20714;14 Cấp Thiên Tuyển Chi Thạch
+20715;15 Cấp Thiên Tuyển Chi Thạch
+20801;1 Cấp Tật Phong Chi Thạch
+20802;2 Cấp Tật Phong Chi Thạch
+20803;3 Cấp Tật Phong Chi Thạch
+20804;4 Cấp Tật Phong Chi Thạch
+20805;5 Cấp Tật Phong Chi Thạch
+20806;6 Cấp Tật Phong Chi Thạch
+20807;7 Cấp Tật Phong Chi Thạch
+20808;8 Cấp Tật Phong Chi Thạch
+20809;9 Cấp Tật Phong Chi Thạch
+20810;10 Cấp Tật Phong Chi Thạch
+20811;11 Cấp Tật Phong Chi Thạch
+20812;12 Cấp Tật Phong Chi Thạch
+20813;13 Cấp Tật Phong Chi Thạch
+20814;14 Cấp Tật Phong Chi Thạch
+20815;15 Cấp Tật Phong Chi Thạch
+21000;Quyên Phách·Tự Tại Thường
+21001;Quyên Phách·Sơ Vân Tố Linh Trang
+21002;Quyên Phách·Ngự Vu Linh Tư Trang
+21003;Quyên Phách·Long Dược Phượng Minh
+21004;Quyên Phách·Kim Lăng Dao Quang
+21005;Quyên Phách·Thiên Cương Yên Diệt
+21006;Quyên Phách·Trục Nhật Thương Khung
+21007;Quyên Phách·Thần Hải Bích Ma Trang
+21008;Quyên Phách·Thiên Tôn Thánh Vũ
+21009;Quyên Phách·Phạm Quỷ Đồng Bi
+21010;Quyên Phách·Vô Gian Mộng Yểm Sáo
+21011;Quyên Phách·Thiên Khôi Nguyệt Thiền
+21012;Quyên Phách·Không Hàng Thần Binh
+22101;Thú Hồn·Kim Khải Hùng Sư
+22102;Thú Hồn·Lưu Diễm Huyền Đồng Dương
+22103;Thú Hồn·Kim Cương Hùng
+22104;Thú Hồn·Ngân Nguyệt Bạch Câu
+22105;Thú Hồn·Dạ Mị U Ảnh Báo
+22106;Thú Hồn·Hàn Sát Hải Kiêu Long
+22107;Thú Hồn·U Minh Kỳ Lân
+22108;Thú Hồn·Thôn Thiên Lang Long
+22109;Thú Hồn·Lưu Viêm Phi Hỏa Phượng
+22110;Thú Hồn·Thâm Uyên Ma Diễm Long
+22111;Thú Hồn·Ngưng Sương Bạch Lộ Mã
+22112;Thú Hồn·Lôi Viêm Lang
+22113;Kiếm Hồn·Trọng Tiêu Tử Hư Kiếm
+22114;Kiếm Hồn·Điện Hỏa Kình Lôi Kiếm
+22201;Mệnh Hồn·Thu Diệp
+22202;Mệnh Hồn·Tiểu Thanh
+22203;Mệnh Hồn·Thanh Nhai Tiểu Vũ
+22204;Mệnh Hồn·Tô Vưu Cơ
+22205;Mệnh Hồn·Cửu Liên
+22206;Mệnh Hồn·Thanh Phạm Tiên Tử
+22207;Mệnh Hồn·Ngu Đạo Quân
+22208;Mệnh Hồn·Thị Họa
+22209;Mệnh Hồn·Mạc Sát
+22210;Mệnh Hồn·Na Á
+22301;Khí Hồn·Phần Phong Hỏa Liên Kiếm
+22302;Khí Hồn·Huyền Sương Phi Tuyết Kiếm
+22303;Khí Hồn·Trấn Yêu Phá Chướng Kiếm
+22304;Khí Hồn·Huyễn Kim Hồng Oanh Kiếm
+22305;Khí Hồn·A Nan Phổ Thế Kiếm
+22306;Khí Hồn·Lưu Tinh Trảm Nguyệt Kiếm
+22307;Khí Hồn·Huyền Thiên Hạo Nguyệt Kiếm
+22308;Khí Hồn·Xi Vưu Nguyên Hỏa Kích
+22309;Khí Hồn·Vu Phán Xích Vẫn Kích
+22310;Khí Hồn·Lam Lân Kinh Lãng Kích
+22311;Khí Hồn·Lôi Lệ Kim Hộc Kiếm
+22312;Khí Hồn·Uyên Ương Phần Quang Kiếm
+22313;Khí Hồn·Bình Để Oa
+22401;Linh Tinh·Linh Tê Ngọc Phách
+22402;Linh Tinh·Thiên Hà Huyền Tinh
+22403;Linh Tinh·Hoa Vũ Lưu Hà
+22404;Linh Tinh·Lãnh Nguyệt Hoa Hồn
+22405;Linh Tinh·Bích Lạc Tàn Dương Vũ
+22406;Linh Tinh·Tuế Hàn Lưu Quang Vũ
+22407;Linh Tinh·Kim Đào Long Thiềm Vũ
+22408;Linh Tinh·Xích Tiêu Diễm Vũ
+22409;Linh Tinh·Bích Huyết Yêu Long
+22410;Linh Tinh·U Quang Minh Không
+22411;Linh Tinh·Kim Linh Thần Vũ
+22412;Linh Tinh·Tử Diệu Thương Khung
+22413;Linh Tinh·Tử Thanh Diễm Lưu Vũ
+22414;Linh Tinh·Phún Khí Bối Bao
+22415;Linh Tinh·Ảm Ảnh Thần Vũ
+22501;Khí Linh·Thất Tinh Diệu Nguyệt
+22502;Khí Linh·Lục La U Ảnh
+22503;Khí Linh·Phá Tinh Truy Hồn
+22504;Khí Linh·Long Ngự Cửu Thiên
+22505;Khí Linh·Khát Huyết Thao Thiết
+22506;Khí Linh·Thiên Cơ Phá Quân
+22507;Khí Linh·Ma Diễm Phần Thiên
+22508;Khí Linh·Xuyên Tâm Một Vũ
+22509;Khí Linh·Độc Nha Sát Lục
+22510;Khí Linh·Tung Hoành Bát Hoang
+22601;Lưu Phách·Bàn Nhược Linh Thứu
+22602;Lưu Phách·Phi Sương Vũ Tuyết
+22603;Lưu Phách·Kim Ngạc Hoa Vũ
+22604;Lưu Phách·Tinh Hà Nguyệt Ảnh
+22605;Lưu Phách·Cửu U Minh Nha
+22606;Lưu Phách·Băng Phách Hàn Tinh
+22607;Lưu Phách·Quỳnh Chi Linh Ngọc
+22608;Lưu Phách·Tuyết Anh Sơ Trán
+22609;Lưu Phách·Thất Bảo Linh San
+22610;Lưu Phách·Cô Xạ Tiên Vũ
+22701;Ngự Hồn·Hàn Tinh Ánh Nguyệt
+22702;Ngự Hồn·Cửu U Lý Long
+22703;Ngự Hồn·Thanh Tâm Chú Luân
+22704;Ngự Hồn·Bích Tinh Thần Luân
+22705;Ngự Hồn·Phần Thiên Yêu Bằng
+22706;Ngự Hồn·Mộng Ảnh Phi Tiên
+22707;Ngự Hồn·Tinh Mang Phi Luân
+22708;Ngự Hồn·Băng Phách Tiên Thạch
+22709;Ngự Hồn·Bảo Châu Phi Luân
+22710;Ngự Hồn·Tinh Huy Bảo Luân
+22801;Thần Tích·Thần Tinh Ấn Ngân
+22802;Thần Tích·Thiên Duyên Ấn Ngân
+22803;Thần Tích·Trục Lãng Ấn Ngân
+22804;Thần Tích·Lưu Kim Ấn Ngân
+22805;Thần Tích·Lăng Sương Ấn Ngân
+22806;Thần Tích·Lưỡng Nghi Ấn Ngân
+22807;Thần Tích·Thương Thúy Ấn Ngân
+23001;Bộ Bộ Thăng Vân
+23002;Huyết Chiến Sa Tràng
+23003;Như Hổ Thiêm Dực
+23004;Sinh Tử Dữ Cộng
+23005;Nhất Bộ Chi Diêu
+23006;Độc Đương Nhất Diện
+23007;Lạc Anh Phạm Thiên
+23008;Trắc Thí Vĩnh Cửu Xưng Hào4
+23009;Trắc Thí Hạn Thì Xưng Hào5
+23010;Kim Thạch Khả Lũ
+23011;Châu Quang Bảo Khí
+23012;Tài Đại Khí Thô
+23013;Yêu Tàng Vạn Quán
+23014;Phú Giáp Nhất Phương
+23015;Phú Khả Địch Quốc
+23016;Vi Sở Dục Vi
+23017;Nhữ Giai Phàm Trần
+23018;Sơ Ngộ Thiên Đạo
+23019;Vọng Niệm Giai Trừ
+23020;Bồ Đề Tam Muội
+23021;Niết Bàn Hợp Đạo
+23022;Nhất Kiếm Sương Hàn
+23023;Vô Hạn Ngạch Độ
+23024;Sở Hướng Phi Mỹ
+23025;Thanh Lương Nhất Hạ
+23026;Mộng Dực Vịnh Thán Điều
+23027;Ngạo Thị Quần Hùng
+23028;Chiến Vô Bất Khắc
+23029;Khắc Địch Chế Thắng
+23030;Bích Huyết Đan Tâm
+23031;Hiệp Can Nghĩa Đảm
+23032;Kiếm Tâm Thông Minh
+23033;Vọng Sơn Chủ Tể
+23034;Tịch Hải Đạo Quân
+23035;Động Thiên Đạo Quân
+23036;Phù Phong Đạo Quân
+23037;Bách Hoa Đạo Quân
+23038;Cấu Vật Cuồng
+23039;Chấn Nhiếp Hư Không
+23040;Ngã Tâm Duy Kiếm
+23041;Dữ Ái Đồng Hành
+23042;Cảm Ân Đích Tâm
+23046;Kim Thử Nghênh Xuân
+23047;Tân Niên Khoái Nhạc
+23048;Cung Hạ Tân Xuân
+23049;Đại Hạ Tiên Đô Tiên Tôn
+23050;Trung Lưu Chỉ Trụ
+23051;Thanh Danh Hiển Hách
+23052;Cực Phẩm Linh Căn
+23053;Thánh Phẩm Linh Căn
+23054;Lao Động Tối Quang Vinh
+23055;Tinh Đấu Vô Song
+23056;Phụ Ái Như Sơn
+24010;Thiên Ngưu Kiếm
+24011;Xích Ngân Thần Thuẫn
+24012;Thần Tử Lệnh
+24013;Mê Trận Kỳ
+24014;Phục Hi Côn
+24015;Tàn Nguyệt Đao
+24016;Địa Hỏa Tâm Đăng
+24017;Cẩm Vân Chướng
+24018;Cửu Diệp Tuyết Liên
+24019;Bàn Long Châu
+24100;Thanh Ti Thần Hỏa Trản
+24101;Tam Tài Tỏa Tiên Quyển
+24102;Hỏa Vân Lưu Quang Phiến
+24103;Phụ Hồn Kim Kiếm
+24104;Hình Tước Trận Hoàn
+24105;Già Lam Phi Thiên Kinh
+24106;Hắc Mộc Đằng Tiên
+24107;Túc Hà Họa Quyển
+24108;Cửu Giới Ấn
+24109;Âm Dương Lưỡng Nghi Trận
+24200;Nhất Niệm Minh Tâm Đăng
+24201;Lưu Quang Nhất Giới Chu
+24202;Cửu Mệnh Tháp
+24203;Lôi Thần Chi Chùy
+24204;Vu Thiên Toa
+24205;Hồng Tán Hỗn Linh Bình
+24206;Thiên Diệp Thải Nghê Hoa
+24207;Tỳ Hưu Minh Vương Toa
+24208;Vạn Cổ Diệt Tuyệt Kiếm
+24209;Bàn Cổ Phủ
+24300;Huyết Vân Tọa
+24301;Hợp Đạo Hỏa Vân Hoa
+24302;Thần Văn Quy Phụ Lệnh
+24303;Sương Giác Y
+24304;Hư U Cung
+24305;Động Minh Ngọc Phù
+24306;Ly Hợp Thạch Phủ Lô
+24307;Thạch Hỏa Châu
+24308;Nguyên Nhất Hồ Lô
+24400;Thuần Nhất Hoàn Ngọc Bình
+24401;Mộc Hỏa Thanh Dương Toa
+24402;Nhiếp Tâm Bách Di Chung
+24403;Tâm Loa
+24404;Thiên Hổ Kim Tán
+24405;Hoàn Liệt Thạch
+24406;Thần Văn Quy Phụ Quyển
+24407;Cổ Vực Lệnh
+24408;Pháp Bảo
+24900;Thuần Nhất Hoàn Ngọc Bình Toái Phiến
+24901;Mộc Hỏa Thanh Dương Toa Toái Phiến
+24902;Nhiếp Tâm Bách Di Chung Toái Phiến
+24903;Tâm Loa Toái Phiến
+24904;Thiên Hổ Kim Tán Toái Phiến
+24905;Hoàn Liệt Thạch Toái Phiến
+24906;Thần Văn Quy Phụ Quyển Toái Phiến
+24907;Cổ Vực Lệnh Toái Phiến
+24908;Phục Hi Côn Toái Phiến
+24909;Tàn Nguyệt Đao Toái Phiến
+24910;Địa Hỏa Tâm Đăng Toái Phiến
+24911;Cẩm Vân Chướng Toái Phiến
+24912;Mê Trận Kỳ Toái Phiến
+24913;Cửu Giới Ấn Toái Phiến
+24914;Tỳ Hưu Minh Vương Toa Toái Phiến
+24915;Cửu Diệp Tuyết Liên Toái Phiến
+25001;Hạ Mang Hoằng
+25002;Ngũ Phong Tiên Nhân
+25003;Chuyên Thủy Tam Phàm
+25004;Sư Hoa Tiên Nhân
+25005;Hỏa Long Tiên Nhân
+25006;Bắc Hành Tiên Nhân
+25007;Thiếu Viêm Tú Thủy
+25008;Phù Vân Tiên Nhân
+25010;Đế Hạo
+25011;Chuyên Thủy Thiên Thần
+25012;Khiếm Nhu Tiên Tử
+25013;Diên Vương
+25014;Thiên Hồ Tiên Nhân
+25015;Điện Tài Kiếm Tiên
+25016;Thông Hợp Kiếm Tiên
+25017;Đà Sơn Tiên Nhân
+25018;Phục Liễu Thiên Thần
+25020;Tiêu Diêu Thiên Tôn
+25021;Huyền Vũ Đại Đế
+25022;Lôi Thần Thiên Tôn
+25023;Lục Ngô Chân Thần
+25024;Hạ Mang Vẫn
+25025;Tam Thọ Đạo Nhân
+25026;Xích Minh Đạo Tổ
+25027;Hình Thiên Chân Thần
+25028;Ứng Long Đạo Tổ
+25029;Lạp Tháp Đạo Nhân
+25030;Toại Nhân Thị
+25031;Phục Hi Thị
+25032;Thần Nông Thị
+25033;Giác Minh Phật Tổ
+25034;Hậu Nghệ
+25035;Tam Thanh Đạo Nhân
+25036;Phật Tổ Như Lai
+25037;Bồ Đề
+25038;Cộng Công
+25039;Chúc Dung
+25040;Tiên Phách
+25041;Tam Giới Tập
+25100;Thanh Phong Thánh Chủ
+25101;Tô Vưu Cơ
+25102;Tôn Ngộ Không
+25103;Thất Hoàng
+25104;Thiên Thanh Tử
+25105;Thiên Tinh Tử
+25106;Cổ Già Vương
+25107;Quang Minh Vương
+25108;Đại Mạc
+25110;Tiên Phách Tinh Thạch
+25111;Giới Vực Tập
+26001;Khổng Tước Vũ
+26002;Lục Chuyển Trích Tinh
+26003;Hỗn Độn Kim Thạch
+26004;Ngũ Hành Cẩm Nang
+26005;Ngũ Hành Chi Tinh
+26011;La Hầu Cung
+26012;Tâm Điển
+26013;Hỗn Độn Thần Huyền
+26014;Hỏa Nguyên Tiễn Thỉ
+26015;Hỗn Độn Đạo Quả
+26021;Thiên Giai Linh Đan
+26022;Tiên Giai Linh Đan
+26023;Thuần Dương Tiên Đan
+26024;Thất Bảo Thanh Dương Sát
+26025;Huyết Hoa Linh Tủy
+27101;Thú Hồn·Kim Khải Hùng Sư Toái Phiến
+27102;Thú Hồn·Lôi Viêm Lang Toái Phiến
+27103;Thú Hồn·Kim Cương Hùng Toái Phiến
+27104;Thú Hồn·Ngân Nguyệt Bạch Câu Toái Phiến
+27105;Thú Hồn·Dạ Mị U Ảnh Báo Toái Phiến
+27106;Thú Hồn·Hàn Sát Hải Kiêu Long Toái Phiến
+27107;Thú Hồn·U Minh Kỳ Lân Toái Phiến
+27108;Thú Hồn·Thôn Thiên Lang Long Toái Phiến
+27109;Thú Hồn·Lưu Viêm Phi Hỏa Phượng Toái Phiến
+27110;Thú Hồn·Thâm Uyên Ma Diễm Long Toái Phiến
+27111;Thú Hồn·Lưu Diễm Huyền Đồng Dương Toái Phiến
+27112;Thú Hồn·Lôi Viêm Lang Toái Phiến Lễ Bao
+27113;Kiếm Hồn·Trọng Tiêu Tử Hư Kiếm Toái Phiến
+27114;Kiếm Hồn·Điện Hỏa Kình Lôi Kiếm Toái Phiến
+27115;Thú Hồn·Ngưng Sương Bạch Lộ Mã Toái Phiến
+27201;Mệnh Hồn·Thu Diệp Toái Phiến
+27202;Mệnh Hồn·Tiểu Thanh Toái Phiến
+27203;Mệnh Hồn·Cửu Liên Toái Phiến
+27204;Mệnh Hồn·Thanh Nhai Tiểu Vũ Toái Phiến
+27205;Mệnh Hồn·Tô Vưu Cơ Toái Phiến
+27206;Mệnh Hồn·Thanh Phạm Tiên Tử Toái Phiến
+27207;Mệnh Hồn·Ngu Đạo Quân Toái Phiến
+27208;Mệnh Hồn·Thị Họa Toái Phiến
+27209;Mệnh Hồn·Mạc Sát Toái Phiến
+27210;Mệnh Hồn·Na Á Toái Phiến
+27301;Khí Hồn·Phần Phong Hỏa Liên Kiếm Toái Phiến
+27302;Khí Hồn·Uyên Ương Phần Quang Kiếm Toái Phiến
+27303;Khí Hồn·Trấn Yêu Phá Chướng Kiếm Toái Phiến
+27304;Khí Hồn·Huyễn Kim Hồng Oanh Kiếm Toái Phiến
+27305;Khí Hồn·A Nan Phổ Thế Kiếm Toái Phiến
+27306;Khí Hồn·Lưu Tinh Trảm Nguyệt Kiếm Toái Phiến
+27307;Khí Hồn·Huyền Thiên Hạo Nguyệt Kiếm Toái Phiến
+27308;Khí Hồn·Xi Vưu Nguyên Hỏa Kích Toái Phiến
+27309;Khí Hồn·Vu Phán Xích Vẫn Kích Toái Phiến
+27310;Khí Hồn·Lam Lân Kinh Lãng Kích Toái Phiến
+27311;Khí Hồn·Lôi Lệ Kim Hộc Kiếm Toái Phiến Lễ Bao
+27312;Khí Hồn·Lôi Lệ Kim Hộc Kiếm Toái Phiến
+27313;Khí Hồn·Huyền Sương Phi Tuyết Kiếm Toái Phiến
+27401;Linh Tinh·Linh Tê Ngọc Phách Toái Phiến
+27402;Linh Tinh·Hoa Vũ Lưu Hà Toái Phiến
+27403;Linh Tinh·Thiên Hà Huyền Tinh Toái Phiến
+27404;Linh Tinh·Lãnh Nguyệt Hoa Hồn Toái Phiến
+27405;Linh Tinh·Bích Lạc Tàn Dương Vũ Toái Phiến
+27406;Linh Tinh·Tuế Hàn Lưu Quang Vũ Toái Phiến
+27407;Linh Tinh·Kim Đào Long Thiềm Vũ Toái Phiến
+27408;Linh Tinh·Xích Tiêu Diễm Vũ Toái Phiến
+27409;Linh Tinh·Bích Huyết Yêu Long Toái Phiến
+27410;Linh Tinh·U Quang Minh Không Toái Phiến
+27411;Linh Tinh·Kim Linh Thần Vũ Toái Phiến
+27412;Linh Tinh·Tử Diệu Thương Khung Toái Phiến
+27413;Linh Tinh·Tử Thanh Diễm Lưu Vũ Toái Phiến
+27414;Linh Tinh·Phún Khí Bối Bao Toái Phiến
+27501;Khí Linh·Xuyên Tâm Một Vũ Toái Phiến
+27502;Khí Linh·Thất Tinh Diệu Nguyệt Toái Phiến
+27503;Khí Linh·Phá Tinh Truy Hồn Toái Phiến
+27504;Khí Linh·Lục La U Ảnh Toái Phiến
+27505;Khí Linh·Thiên Cơ Phá Quân Toái Phiến
+27506;Khí Linh·Long Ngự Cửu Thiên Toái Phiến
+27507;Khí Linh·Ma Diễm Phần Thiên Toái Phiến
+27508;Khí Linh·Khát Huyết Thao Thiết Toái Phiến
+27509;Khí Linh·Độc Nha Sát Lục Toái Phiến
+27510;Khí Linh·Tung Hoành Bát Hoang Toái Phiến
+27601;Lưu Phách·Phi Sương Vũ Tuyết Toái Phiến
+27602;Lưu Phách·Bàn Nhược Linh Thứu Toái Phiến
+27603;Lưu Phách·Tinh Hà Nguyệt Ảnh Toái Phiến
+27604;Lưu Phách·Kim Ngạc Hoa Vũ Toái Phiến
+27605;Lưu Phách·Băng Phách Hàn Tinh Toái Phiến
+27606;Lưu Phách·Tuyết Anh Sơ Trán Toái Phiến
+27607;Lưu Phách·Quỳnh Chi Linh Ngọc Toái Phiến
+27608;Lưu Phách·Cửu U Minh Nha Toái Phiến
+27609;Lưu Phách·Thất Bảo Linh San Toái Phiến
+27610;Lưu Phách·Cô Xạ Tiên Vũ Toái Phiến
+27701;Ngự Hồn·Tinh Mang Phi Luân Toái Phiến
+27702;Ngự Hồn·Hàn Tinh Ánh Nguyệt Toái Phiến
+27703;Ngự Hồn·Thanh Tâm Chú Luân Toái Phiến
+27704;Ngự Hồn·Bích Tinh Thần Luân Toái Phiến
+27705;Ngự Hồn·Băng Phách Tiên Thạch Toái Phiến
+27706;Ngự Hồn·Mộng Ảnh Phi Tiên Toái Phiến
+27707;Ngự Hồn·Bảo Châu Phi Luân Toái Phiến
+27708;Ngự Hồn·Tinh Huy Bảo Luân Toái Phiến
+27709;Ngự Hồn·Phần Thiên Yêu Bằng Toái Phiến
+27710;Ngự Hồn·Cửu U Lý Long Toái Phiến
+27801;Quyên Phách·Sơ Vân Tố Linh Trang Toái Phiến
+27802;Quyên Phách·Ngự Vu Linh Tư Trang Toái Phiến
+27803;Quyên Phách·Long Dược Phượng Minh Toái Phiến
+27804;Quyên Phách·Kim Lăng Dao Quang Toái Phiến
+27805;Quyên Phách·Thiên Cương Yên Diệt Toái Phiến
+27806;Quyên Phách·Trục Nhật Thương Khung Toái Phiến
+27807;Quyên Phách·Thần Hải Bích Ma Trang Toái Phiến
+27808;Quyên Phách·Thiên Tôn Thánh Vũ Toái Phiến
+27809;Quyên Phách·Phạm Quỷ Đồng Bi Toái Phiến
+27810;Quyên Phách·Vô Gian Mộng Yểm Sáo Toái Phiến
+27811;Chanh Sắc Pháp Bảo Lễ Bao Toái Phiến
+27812;Chân Tiên Đồ Giám Lễ Bao Toái Phiến
+27813;10 Cấp Bảo Thạch Phúc Đại Toái Phiến
+27814;Tùy Cơ Đồ Giám Lễ Bao Toái Phiến
+27815;Tùy Cơ Pháp Bảo Lễ Bao Toái Phiến
+27816;Quyên Phách·Thiên Khôi Nguyệt Thiền Toái Phiến
+27817;Thần Tích·Thần Tinh Ấn Ngân Toái Phiến
+27818;Thần Tích·Thiên Duyên Ấn Ngân Toái Phiến
+27819;Thần Tích·Trục Lãng Ấn Ngân Toái Phiến
+27820;Thần Tích·Lưu Kim Ấn Ngân Toái Phiến
+27821;Thần Tích·Lăng Sương Ấn Ngân Toái Phiến
+27822;Thần Tích·Lưỡng Nghi Ấn Ngân Toái Phiến
+27823;Thần Tích·Thương Thúy Ấn Ngân Toái Phiến
+28001;Đầu Tượng - Lưu Kim
+28002;Đầu Tượng - Hồng Nhạn
+28003;Đầu Tượng - Nguyệt Sơ
+28004;Đầu Tượng - Huyễn Dạ
+28005;Đầu Tượng - Tử Diệu
+28006;Đầu Tượng - Thúy Diệp
+28007;Đầu Tượng - Nhan Mặc
+28008;Đầu Tượng - Thần Sương
+28009;Đầu Tượng - Bồng Lai
+28101;Đầu Tượng Khuông - Dật Trúc
+28102;Đầu Tượng Khuông - Phong Diễm
+28103;Đầu Tượng Khuông - Lạc Anh
+28104;Đầu Tượng Khuông - Xán Kim
+28105;Đầu Tượng Khuông - Thức Tinh
+28106;Đầu Tượng Khuông - Phương Hoa
+28107;Đầu Tượng Khuông - Thương Ba
+28108;Đầu Tượng Khuông - Vân Ẩn
+28109;Đầu Tượng Khuông - Ngao Long
+28110;Đầu Tượng Khuông - Kim Thu
+28201;Liêu Thiên Khuông - Quyển Trục
+28202;Liêu Thiên Khuông - Đào Tâm
+28203;Liêu Thiên Khuông - Phòng Tử
+28204;Liêu Thiên Khuông - Kha Cơ
+28205;Liêu Thiên Khuông - Hải Lãng
+28206;Liêu Thiên Khuông - Bảo Kiếm
+28207;Liêu Thiên Khuông - Kim Long
+28208;Liêu Thiên Khuông - Lam Cầu
+29001;Tình Duyên Tinh Thạch
+29002;Tình Duyên Điểm
+29003;Tình Duyên Thư
+29004;Hôn Giới
+29005;Bàn Đào
+29006;Thối Cốt Đan
+29007;Thối Cốt Linh Dịch
+29008;Ngân Hôn Giới
+29009;Kim Hôn Giới
+29010;Mộc Đức Chân Quân Đích Tín Vật
+29011;Hỏa Đức Chân Quân Đích Tín Vật
+29012;Kim Đức Chân Quân Đích Tín Vật
+29013;Thủy Đức Chân Quân Đích Tín Vật
+29014;Thổ Đức Chân Quân Đích Tín Vật
+29030;Thiên Đế Linh Ngọc
+29031;Chí Tôn Ấn
+29101;Lưu Hoa Nguyệt Sức·Nhất
+29102;Lưu Hoa Nguyệt Sức·Nhị
+29103;Lưu Hoa Nguyệt Sức·Tam
+29104;Lưu Hoa Nguyệt Sức·Tứ
+29105;Ảm Tinh Ngự Oản·Nhất
+29106;Ảm Tinh Ngự Oản·Nhị
+29107;Ảm Tinh Ngự Oản·Tam
+29108;Ảm Tinh Ngự Oản·Tứ
+29109;Sóc Phong Ảnh Điệu·Nhất
+29110;Sóc Phong Ảnh Điệu·Nhị
+29111;Sóc Phong Ảnh Điệu·Tam
+29112;Sóc Phong Ảnh Điệu·Tứ
+29113;Đoạn Hải Vạn Quân·Nhất
+29114;Đoạn Hải Vạn Quân·Nhị
+29115;Đoạn Hải Vạn Quân·Tam
+29116;Đoạn Hải Vạn Quân·Tứ
+29117;Thần Tế Huyền Trụy·Nhất
+29118;Thần Tế Huyền Trụy·Nhị
+29119;Thần Tế Huyền Trụy·Tam
+29120;Thần Tế Huyền Trụy·Tứ
+29121;Bát Hoang Trọng Hình·Nhất
+29122;Bát Hoang Trọng Hình·Nhị
+29123;Bát Hoang Trọng Hình·Tam
+29124;Bát Hoang Trọng Hình·Tứ
+29125;Vô Nhai Nghịch Khải·Nhất
+29126;Vô Nhai Nghịch Khải·Nhị
+29127;Vô Nhai Nghịch Khải·Tam
+29128;Vô Nhai Nghịch Khải·Tứ
+29129;Huyết Ức Minh Huy·Nhất
+29130;Huyết Ức Minh Huy·Nhị
+29131;Huyết Ức Minh Huy·Tam
+29132;Huyết Ức Minh Huy·Tứ
+29133;Huỳnh Hoàng Trọng Đạp·Nhất
+29134;Huỳnh Hoàng Trọng Đạp·Nhị
+29135;Huỳnh Hoàng Trọng Đạp·Tam
+29136;Huỳnh Hoàng Trọng Đạp·Tứ
+30100;Tẩy Luyện Thạch
+30101;[Nhân Giai] Nữ Oa Quan Tưởng Đồ·Khảm
+30102;[Địa Giai] Nữ Oa Quan Tưởng Đồ·Khảm
+30103;[Địa Giai] Nữ Oa Quan Tưởng Đồ·Khảm
+30104;[Địa Giai] Nữ Oa Quan Tưởng Đồ·Khảm Bất Đầu
+30105;[Tiên Giai] Nữ Oa Quan Tưởng Đồ·Khảm Bất Đầu
+30106;[Tiên Giai] Nữ Oa Quan Tưởng Đồ·Khảm
+30107;[Tiên Giai] Nữ Oa Quan Tưởng Đồ·Khảm
+30108;[Tiên Giai] Nữ Oa Quan Tưởng Đồ·Khảm Bất Đầu
+30109;[Hỗn Độn] Nữ Oa Quan Tưởng Đồ·Khảm Bất Đầu
+30110;[Hỗn Độn] Nữ Oa Quan Tưởng Đồ·Khảm Bất Đầu
+30111;[Hỗn Độn] Nữ Oa Quan Tưởng Đồ·Khảm
+30112;[Hỗn Độn] Nữ Oa Quan Tưởng Đồ·Khảm
+30113;[Hỗn Độn] Nữ Oa Quan Tưởng Đồ·Khảm Bất Đầu
+30114;[Vĩnh Hằng] Nữ Oa Quan Tưởng Đồ·Khảm
+30115;[Vĩnh Hằng] Nữ Oa Quan Tưởng Đồ·Khảm
+30116;[Vĩnh Hằng] Nữ Oa Quan Tưởng Đồ·Khảm
+30117;[Nhân Giai] Nữ Oa Quan Tưởng Đồ·Ly
+30118;[Địa Giai] Nữ Oa Quan Tưởng Đồ·Ly
+30119;[Địa Giai] Nữ Oa Quan Tưởng Đồ·Ly
+30120;[Địa Giai] Nữ Oa Quan Tưởng Đồ·Ly Bất Đầu
+30121;[Tiên Giai] Nữ Oa Quan Tưởng Đồ·Ly Bất Đầu
+30122;[Tiên Giai] Nữ Oa Quan Tưởng Đồ·Ly
+30123;[Tiên Giai] Nữ Oa Quan Tưởng Đồ·Ly
+30124;[Tiên Giai] Nữ Oa Quan Tưởng Đồ·Ly Bất Đầu
+30125;[Hỗn Độn] Nữ Oa Quan Tưởng Đồ·Ly Bất Đầu
+30126;[Hỗn Độn] Nữ Oa Quan Tưởng Đồ·Ly Bất Đầu
+30127;[Hỗn Độn] Nữ Oa Quan Tưởng Đồ·Ly
+30128;[Hỗn Độn] Nữ Oa Quan Tưởng Đồ·Ly
+30129;[Hỗn Độn] Nữ Oa Quan Tưởng Đồ·Ly Bất Đầu
+30130;[Vĩnh Hằng] Nữ Oa Quan Tưởng Đồ·Ly
+30131;[Vĩnh Hằng] Nữ Oa Quan Tưởng Đồ·Ly
+30132;[Vĩnh Hằng] Nữ Oa Quan Tưởng Đồ·Ly
+30133;[Nhân Giai] Nữ Oa Quan Tưởng Đồ·Cấn
+30134;[Địa Giai] Nữ Oa Quan Tưởng Đồ·Cấn
+30135;[Địa Giai] Nữ Oa Quan Tưởng Đồ·Cấn
+30136;[Địa Giai] Nữ Oa Quan Tưởng Đồ·Cấn Bất Đầu
+30137;[Tiên Giai] Nữ Oa Quan Tưởng Đồ·Cấn Bất Đầu
+30138;[Tiên Giai] Nữ Oa Quan Tưởng Đồ·Cấn
+30139;[Tiên Giai] Nữ Oa Quan Tưởng Đồ·Cấn
+30140;[Tiên Giai] Nữ Oa Quan Tưởng Đồ·Cấn Bất Đầu
+30141;[Hỗn Độn] Nữ Oa Quan Tưởng Đồ·Cấn Bất Đầu
+30142;[Hỗn Độn] Nữ Oa Quan Tưởng Đồ·Cấn Bất Đầu
+30143;[Hỗn Độn] Nữ Oa Quan Tưởng Đồ·Cấn
+30144;[Hỗn Độn] Nữ Oa Quan Tưởng Đồ·Cấn
+30145;[Hỗn Độn] Nữ Oa Quan Tưởng Đồ·Cấn Bất Đầu
+30146;[Vĩnh Hằng] Nữ Oa Quan Tưởng Đồ·Cấn
+30147;[Vĩnh Hằng] Nữ Oa Quan Tưởng Đồ·Cấn
+30148;[Vĩnh Hằng] Nữ Oa Quan Tưởng Đồ·Cấn
+30149;[Nhân Giai] Nữ Oa Quan Tưởng Đồ·Tốn
+30150;[Địa Giai] Nữ Oa Quan Tưởng Đồ·Tốn
+30151;[Địa Giai] Nữ Oa Quan Tưởng Đồ·Tốn
+30152;[Địa Giai] Nữ Oa Quan Tưởng Đồ·Tốn Bất Đầu
+30153;[Tiên Giai] Nữ Oa Quan Tưởng Đồ·Tốn Bất Đầu
+30154;[Tiên Giai] Nữ Oa Quan Tưởng Đồ·Tốn
+30155;[Tiên Giai] Nữ Oa Quan Tưởng Đồ·Tốn
+30156;[Tiên Giai] Nữ Oa Quan Tưởng Đồ·Tốn Bất Đầu
+30157;[Hỗn Độn] Nữ Oa Quan Tưởng Đồ·Tốn Bất Đầu
+30158;[Hỗn Độn] Nữ Oa Quan Tưởng Đồ·Tốn Bất Đầu
+30159;[Hỗn Độn] Nữ Oa Quan Tưởng Đồ·Tốn
+30160;[Hỗn Độn] Nữ Oa Quan Tưởng Đồ·Tốn
+30161;[Hỗn Độn] Nữ Oa Quan Tưởng Đồ·Tốn Bất Đầu
+30162;[Vĩnh Hằng] Nữ Oa Quan Tưởng Đồ·Tốn
+30163;[Vĩnh Hằng] Nữ Oa Quan Tưởng Đồ·Tốn
+30164;[Vĩnh Hằng] Nữ Oa Quan Tưởng Đồ·Tốn
+30165;[Nhân Giai] Nữ Oa Quan Tưởng Đồ·Chấn
+30166;[Địa Giai] Nữ Oa Quan Tưởng Đồ·Chấn
+30167;[Địa Giai] Nữ Oa Quan Tưởng Đồ·Chấn
+30168;[Địa Giai] Nữ Oa Quan Tưởng Đồ·Chấn Bất Đầu
+30169;[Tiên Giai] Nữ Oa Quan Tưởng Đồ·Chấn Bất Đầu
+30170;[Tiên Giai] Nữ Oa Quan Tưởng Đồ·Chấn
+30171;[Tiên Giai] Nữ Oa Quan Tưởng Đồ·Chấn
+30172;[Tiên Giai] Nữ Oa Quan Tưởng Đồ·Chấn Bất Đầu
+30173;[Hỗn Độn] Nữ Oa Quan Tưởng Đồ·Chấn Bất Đầu
+30174;[Hỗn Độn] Nữ Oa Quan Tưởng Đồ·Chấn Bất Đầu
+30175;[Hỗn Độn] Nữ Oa Quan Tưởng Đồ·Chấn
+30176;[Hỗn Độn] Nữ Oa Quan Tưởng Đồ·Chấn
+30177;[Hỗn Độn] Nữ Oa Quan Tưởng Đồ·Chấn Bất Đầu
+30178;[Vĩnh Hằng] Nữ Oa Quan Tưởng Đồ·Chấn
+30179;[Vĩnh Hằng] Nữ Oa Quan Tưởng Đồ·Chấn
+30180;[Vĩnh Hằng] Nữ Oa Quan Tưởng Đồ·Chấn
+30201;[Nhân Giai] Thần Ma Thuẫn·Khảm
+30202;[Địa Giai] Thần Ma Thuẫn·Khảm
+30203;[Địa Giai] Thần Ma Thuẫn·Khảm
+30204;[Địa Giai] Thần Ma Thuẫn·Khảm Bất Đầu
+30205;[Tiên Giai] Thần Ma Thuẫn·Khảm Bất Đầu
+30206;[Tiên Giai] Thần Ma Thuẫn·Khảm
+30207;[Tiên Giai] Thần Ma Thuẫn·Khảm
+30208;[Tiên Giai] Thần Ma Thuẫn·Khảm Bất Đầu
+30209;[Hỗn Độn] Thần Ma Thuẫn·Khảm Bất Đầu
+30210;[Hỗn Độn] Thần Ma Thuẫn·Khảm Bất Đầu
+30211;[Hỗn Độn] Thần Ma Thuẫn·Khảm
+30212;[Hỗn Độn] Thần Ma Thuẫn·Khảm
+30213;[Hỗn Độn] Thần Ma Thuẫn·Khảm Bất Đầu
+30214;[Vĩnh Hằng] Thần Ma Thuẫn·Khảm
+30215;[Vĩnh Hằng] Thần Ma Thuẫn·Khảm
+30216;[Vĩnh Hằng] Thần Ma Thuẫn·Khảm
+30217;[Nhân Giai] Thần Ma Thuẫn·Ly
+30218;[Địa Giai] Thần Ma Thuẫn·Ly
+30219;[Địa Giai] Thần Ma Thuẫn·Ly
+30220;[Địa Giai] Thần Ma Thuẫn·Ly Bất Đầu
+30221;[Tiên Giai] Thần Ma Thuẫn·Ly Bất Đầu
+30222;[Tiên Giai] Thần Ma Thuẫn·Ly
+30223;[Tiên Giai] Thần Ma Thuẫn·Ly
+30224;[Tiên Giai] Thần Ma Thuẫn·Ly Bất Đầu
+30225;[Hỗn Độn] Thần Ma Thuẫn·Ly Bất Đầu
+30226;[Hỗn Độn] Thần Ma Thuẫn·Ly Bất Đầu
+30227;[Hỗn Độn] Thần Ma Thuẫn·Ly
+30228;[Hỗn Độn] Thần Ma Thuẫn·Ly
+30229;[Hỗn Độn] Thần Ma Thuẫn·Ly Bất Đầu
+30230;[Vĩnh Hằng] Thần Ma Thuẫn·Ly
+30231;[Vĩnh Hằng] Thần Ma Thuẫn·Ly
+30232;[Vĩnh Hằng] Thần Ma Thuẫn·Ly
+30233;[Nhân Giai] Thần Ma Thuẫn·Cấn
+30234;[Địa Giai] Thần Ma Thuẫn·Cấn
+30235;[Địa Giai] Thần Ma Thuẫn·Cấn
+30236;[Địa Giai] Thần Ma Thuẫn·Cấn Bất Đầu
+30237;[Tiên Giai] Thần Ma Thuẫn·Cấn Bất Đầu
+30238;[Tiên Giai] Thần Ma Thuẫn·Cấn
+30239;[Tiên Giai] Thần Ma Thuẫn·Cấn
+30240;[Tiên Giai] Thần Ma Thuẫn·Cấn Bất Đầu
+30241;[Hỗn Độn] Thần Ma Thuẫn·Cấn Bất Đầu
+30242;[Hỗn Độn] Thần Ma Thuẫn·Cấn Bất Đầu
+30243;[Hỗn Độn] Thần Ma Thuẫn·Cấn
+30244;[Hỗn Độn] Thần Ma Thuẫn·Cấn
+30245;[Hỗn Độn] Thần Ma Thuẫn·Cấn Bất Đầu
+30246;[Vĩnh Hằng] Thần Ma Thuẫn·Cấn
+30247;[Vĩnh Hằng] Thần Ma Thuẫn·Cấn
+30248;[Vĩnh Hằng] Thần Ma Thuẫn·Cấn
+30249;[Nhân Giai] Thần Ma Thuẫn·Tốn
+30250;[Địa Giai] Thần Ma Thuẫn·Tốn
+30251;[Địa Giai] Thần Ma Thuẫn·Tốn
+30252;[Địa Giai] Thần Ma Thuẫn·Tốn Bất Đầu
+30253;[Tiên Giai] Thần Ma Thuẫn·Tốn Bất Đầu
+30254;[Tiên Giai] Thần Ma Thuẫn·Tốn
+30255;[Tiên Giai] Thần Ma Thuẫn·Tốn
+30256;[Tiên Giai] Thần Ma Thuẫn·Tốn Bất Đầu
+30257;[Hỗn Độn] Thần Ma Thuẫn·Tốn Bất Đầu
+30258;[Hỗn Độn] Thần Ma Thuẫn·Tốn Bất Đầu
+30259;[Hỗn Độn] Thần Ma Thuẫn·Tốn
+30260;[Hỗn Độn] Thần Ma Thuẫn·Tốn
+30261;[Hỗn Độn] Thần Ma Thuẫn·Tốn Bất Đầu
+30262;[Vĩnh Hằng] Thần Ma Thuẫn·Tốn
+30263;[Vĩnh Hằng] Thần Ma Thuẫn·Tốn
+30264;[Vĩnh Hằng] Thần Ma Thuẫn·Tốn
+30265;[Nhân Giai] Thần Ma Thuẫn·Chấn
+30266;[Địa Giai] Thần Ma Thuẫn·Chấn
+30267;[Địa Giai] Thần Ma Thuẫn·Chấn
+30268;[Địa Giai] Thần Ma Thuẫn·Chấn Bất Đầu
+30269;[Tiên Giai] Thần Ma Thuẫn·Chấn Bất Đầu
+30270;[Tiên Giai] Thần Ma Thuẫn·Chấn
+30271;[Tiên Giai] Thần Ma Thuẫn·Chấn
+30272;[Tiên Giai] Thần Ma Thuẫn·Chấn Bất Đầu
+30273;[Hỗn Độn] Thần Ma Thuẫn·Chấn Bất Đầu
+30274;[Hỗn Độn] Thần Ma Thuẫn·Chấn Bất Đầu
+30275;[Hỗn Độn] Thần Ma Thuẫn·Chấn
+30276;[Hỗn Độn] Thần Ma Thuẫn·Chấn
+30277;[Hỗn Độn] Thần Ma Thuẫn·Chấn Bất Đầu
+30278;[Vĩnh Hằng] Thần Ma Thuẫn·Chấn
+30279;[Vĩnh Hằng] Thần Ma Thuẫn·Chấn
+30280;[Vĩnh Hằng] Thần Ma Thuẫn·Chấn
+30301;[Nhân Giai] Ngũ Hành Thần Đỉnh·Khảm
+30302;[Địa Giai] Ngũ Hành Thần Đỉnh·Khảm
+30303;[Địa Giai] Ngũ Hành Thần Đỉnh·Khảm
+30304;[Địa Giai] Ngũ Hành Thần Đỉnh·Khảm Bất Đầu
+30305;[Tiên Giai] Ngũ Hành Thần Đỉnh·Khảm Bất Đầu
+30306;[Tiên Giai] Ngũ Hành Thần Đỉnh·Khảm
+30307;[Tiên Giai] Ngũ Hành Thần Đỉnh·Khảm
+30308;[Tiên Giai] Ngũ Hành Thần Đỉnh·Khảm Bất Đầu
+30309;[Hỗn Độn] Ngũ Hành Thần Đỉnh·Khảm Bất Đầu
+30310;[Hỗn Độn] Ngũ Hành Thần Đỉnh·Khảm Bất Đầu
+30311;[Hỗn Độn] Ngũ Hành Thần Đỉnh·Khảm
+30312;[Hỗn Độn] Ngũ Hành Thần Đỉnh·Khảm
+30313;[Hỗn Độn] Ngũ Hành Thần Đỉnh·Khảm Bất Đầu
+30314;[Vĩnh Hằng] Ngũ Hành Thần Đỉnh·Khảm
+30315;[Vĩnh Hằng] Ngũ Hành Thần Đỉnh·Khảm
+30316;[Vĩnh Hằng] Ngũ Hành Thần Đỉnh·Khảm
+30317;[Nhân Giai] Ngũ Hành Thần Đỉnh·Ly
+30318;[Địa Giai] Ngũ Hành Thần Đỉnh·Ly
+30319;[Địa Giai] Ngũ Hành Thần Đỉnh·Ly
+30320;[Địa Giai] Ngũ Hành Thần Đỉnh·Ly Bất Đầu
+30321;[Tiên Giai] Ngũ Hành Thần Đỉnh·Ly Bất Đầu
+30322;[Tiên Giai] Ngũ Hành Thần Đỉnh·Ly
+30323;[Tiên Giai] Ngũ Hành Thần Đỉnh·Ly
+30324;[Tiên Giai] Ngũ Hành Thần Đỉnh·Ly Bất Đầu
+30325;[Hỗn Độn] Ngũ Hành Thần Đỉnh·Ly Bất Đầu
+30326;[Hỗn Độn] Ngũ Hành Thần Đỉnh·Ly Bất Đầu
+30327;[Hỗn Độn] Ngũ Hành Thần Đỉnh·Ly
+30328;[Hỗn Độn] Ngũ Hành Thần Đỉnh·Ly
+30329;[Hỗn Độn] Ngũ Hành Thần Đỉnh·Ly Bất Đầu
+30330;[Vĩnh Hằng] Ngũ Hành Thần Đỉnh·Ly
+30331;[Vĩnh Hằng] Ngũ Hành Thần Đỉnh·Ly
+30332;[Vĩnh Hằng] Ngũ Hành Thần Đỉnh·Ly
+30333;[Nhân Giai] Ngũ Hành Thần Đỉnh·Cấn
+30334;[Địa Giai] Ngũ Hành Thần Đỉnh·Cấn
+30335;[Địa Giai] Ngũ Hành Thần Đỉnh·Cấn
+30336;[Địa Giai] Ngũ Hành Thần Đỉnh·Cấn Bất Đầu
+30337;[Tiên Giai] Ngũ Hành Thần Đỉnh·Cấn Bất Đầu
+30338;[Tiên Giai] Ngũ Hành Thần Đỉnh·Cấn
+30339;[Tiên Giai] Ngũ Hành Thần Đỉnh·Cấn
+30340;[Tiên Giai] Ngũ Hành Thần Đỉnh·Cấn Bất Đầu
+30341;[Hỗn Độn] Ngũ Hành Thần Đỉnh·Cấn Bất Đầu
+30342;[Hỗn Độn] Ngũ Hành Thần Đỉnh·Cấn Bất Đầu
+30343;[Hỗn Độn] Ngũ Hành Thần Đỉnh·Cấn
+30344;[Hỗn Độn] Ngũ Hành Thần Đỉnh·Cấn
+30345;[Hỗn Độn] Ngũ Hành Thần Đỉnh·Cấn Bất Đầu
+30346;[Vĩnh Hằng] Ngũ Hành Thần Đỉnh·Cấn
+30347;[Vĩnh Hằng] Ngũ Hành Thần Đỉnh·Cấn
+30348;[Vĩnh Hằng] Ngũ Hành Thần Đỉnh·Cấn
+30349;[Nhân Giai] Ngũ Hành Thần Đỉnh·Tốn
+30350;[Địa Giai] Ngũ Hành Thần Đỉnh·Tốn
+30351;[Địa Giai] Ngũ Hành Thần Đỉnh·Tốn
+30352;[Địa Giai] Ngũ Hành Thần Đỉnh·Tốn Bất Đầu
+30353;[Tiên Giai] Ngũ Hành Thần Đỉnh·Tốn Bất Đầu
+30354;[Tiên Giai] Ngũ Hành Thần Đỉnh·Tốn
+30355;[Tiên Giai] Ngũ Hành Thần Đỉnh·Tốn
+30356;[Tiên Giai] Ngũ Hành Thần Đỉnh·Tốn Bất Đầu
+30357;[Hỗn Độn] Ngũ Hành Thần Đỉnh·Tốn Bất Đầu
+30358;[Hỗn Độn] Ngũ Hành Thần Đỉnh·Tốn Bất Đầu
+30359;[Hỗn Độn] Ngũ Hành Thần Đỉnh·Tốn
+30360;[Hỗn Độn] Ngũ Hành Thần Đỉnh·Tốn
+30361;[Hỗn Độn] Ngũ Hành Thần Đỉnh·Tốn Bất Đầu
+30362;[Vĩnh Hằng] Ngũ Hành Thần Đỉnh·Tốn
+30363;[Vĩnh Hằng] Ngũ Hành Thần Đỉnh·Tốn
+30364;[Vĩnh Hằng] Ngũ Hành Thần Đỉnh·Tốn
+30365;[Nhân Giai] Ngũ Hành Thần Đỉnh·Chấn
+30366;[Địa Giai] Ngũ Hành Thần Đỉnh·Chấn
+30367;[Địa Giai] Ngũ Hành Thần Đỉnh·Chấn
+30368;[Địa Giai] Ngũ Hành Thần Đỉnh·Chấn Bất Đầu
+30369;[Tiên Giai] Ngũ Hành Thần Đỉnh·Chấn Bất Đầu
+30370;[Tiên Giai] Ngũ Hành Thần Đỉnh·Chấn
+30371;[Tiên Giai] Ngũ Hành Thần Đỉnh·Chấn
+30372;[Tiên Giai] Ngũ Hành Thần Đỉnh·Chấn Bất Đầu
+30373;[Hỗn Độn] Ngũ Hành Thần Đỉnh·Chấn Bất Đầu
+30374;[Hỗn Độn] Ngũ Hành Thần Đỉnh·Chấn Bất Đầu
+30375;[Hỗn Độn] Ngũ Hành Thần Đỉnh·Chấn
+30376;[Hỗn Độn] Ngũ Hành Thần Đỉnh·Chấn
+30377;[Hỗn Độn] Ngũ Hành Thần Đỉnh·Chấn Bất Đầu
+30378;[Vĩnh Hằng] Ngũ Hành Thần Đỉnh·Chấn
+30379;[Vĩnh Hằng] Ngũ Hành Thần Đỉnh·Chấn
+30380;[Vĩnh Hằng] Ngũ Hành Thần Đỉnh·Chấn
+30401;[Nhân Giai] Hậu Nghệ Thần Cung·Khảm
+30402;[Địa Giai] Hậu Nghệ Thần Cung·Khảm
+30403;[Địa Giai] Hậu Nghệ Thần Cung·Khảm
+30404;[Địa Giai] Hậu Nghệ Thần Cung·Khảm Bất Đầu
+30405;[Tiên Giai] Hậu Nghệ Thần Cung·Khảm Bất Đầu
+30406;[Tiên Giai] Hậu Nghệ Thần Cung·Khảm
+30407;[Tiên Giai] Hậu Nghệ Thần Cung·Khảm
+30408;[Tiên Giai] Hậu Nghệ Thần Cung·Khảm Bất Đầu
+30409;[Hỗn Độn] Hậu Nghệ Thần Cung·Khảm Bất Đầu
+30410;[Hỗn Độn] Hậu Nghệ Thần Cung·Khảm Bất Đầu
+30411;[Hỗn Độn] Hậu Nghệ Thần Cung·Khảm
+30412;[Hỗn Độn] Hậu Nghệ Thần Cung·Khảm
+30413;[Hỗn Độn] Hậu Nghệ Thần Cung·Khảm Bất Đầu
+30414;[Vĩnh Hằng] Hậu Nghệ Thần Cung·Khảm
+30415;[Vĩnh Hằng] Hậu Nghệ Thần Cung·Khảm
+30416;[Vĩnh Hằng] Hậu Nghệ Thần Cung·Khảm
+30417;[Nhân Giai] Hậu Nghệ Thần Cung·Ly
+30418;[Địa Giai] Hậu Nghệ Thần Cung·Ly
+30419;[Địa Giai] Hậu Nghệ Thần Cung·Ly
+30420;[Địa Giai] Hậu Nghệ Thần Cung·Ly Bất Đầu
+30421;[Tiên Giai] Hậu Nghệ Thần Cung·Ly Bất Đầu
+30422;[Tiên Giai] Hậu Nghệ Thần Cung·Ly
+30423;[Tiên Giai] Hậu Nghệ Thần Cung·Ly
+30424;[Tiên Giai] Hậu Nghệ Thần Cung·Ly Bất Đầu
+30425;[Hỗn Độn] Hậu Nghệ Thần Cung·Ly Bất Đầu
+30426;[Hỗn Độn] Hậu Nghệ Thần Cung·Ly Bất Đầu
+30427;[Hỗn Độn] Hậu Nghệ Thần Cung·Ly
+30428;[Hỗn Độn] Hậu Nghệ Thần Cung·Ly
+30429;[Hỗn Độn] Hậu Nghệ Thần Cung·Ly Bất Đầu
+30430;[Vĩnh Hằng] Hậu Nghệ Thần Cung·Ly
+30431;[Vĩnh Hằng] Hậu Nghệ Thần Cung·Ly
+30432;[Vĩnh Hằng] Hậu Nghệ Thần Cung·Ly
+30433;[Nhân Giai] Hậu Nghệ Thần Cung·Cấn
+30434;[Địa Giai] Hậu Nghệ Thần Cung·Cấn
+30435;[Địa Giai] Hậu Nghệ Thần Cung·Cấn
+30436;[Địa Giai] Hậu Nghệ Thần Cung·Cấn Bất Đầu
+30437;[Tiên Giai] Hậu Nghệ Thần Cung·Cấn Bất Đầu
+30438;[Tiên Giai] Hậu Nghệ Thần Cung·Cấn
+30439;[Tiên Giai] Hậu Nghệ Thần Cung·Cấn
+30440;[Tiên Giai] Hậu Nghệ Thần Cung·Cấn Bất Đầu
+30441;[Hỗn Độn] Hậu Nghệ Thần Cung·Cấn Bất Đầu
+30442;[Hỗn Độn] Hậu Nghệ Thần Cung·Cấn Bất Đầu
+30443;[Hỗn Độn] Hậu Nghệ Thần Cung·Cấn
+30444;[Hỗn Độn] Hậu Nghệ Thần Cung·Cấn
+30445;[Hỗn Độn] Hậu Nghệ Thần Cung·Cấn Bất Đầu
+30446;[Vĩnh Hằng] Hậu Nghệ Thần Cung·Cấn
+30447;[Vĩnh Hằng] Hậu Nghệ Thần Cung·Cấn
+30448;[Vĩnh Hằng] Hậu Nghệ Thần Cung·Cấn
+30449;[Nhân Giai] Hậu Nghệ Thần Cung·Tốn
+30450;[Địa Giai] Hậu Nghệ Thần Cung·Tốn
+30451;[Địa Giai] Hậu Nghệ Thần Cung·Tốn
+30452;[Địa Giai] Hậu Nghệ Thần Cung·Tốn Bất Đầu
+30453;[Tiên Giai] Hậu Nghệ Thần Cung·Tốn Bất Đầu
+30454;[Tiên Giai] Hậu Nghệ Thần Cung·Tốn
+30455;[Tiên Giai] Hậu Nghệ Thần Cung·Tốn
+30456;[Tiên Giai] Hậu Nghệ Thần Cung·Tốn Bất Đầu
+30457;[Hỗn Độn] Hậu Nghệ Thần Cung·Tốn Bất Đầu
+30458;[Hỗn Độn] Hậu Nghệ Thần Cung·Tốn Bất Đầu
+30459;[Hỗn Độn] Hậu Nghệ Thần Cung·Tốn
+30460;[Hỗn Độn] Hậu Nghệ Thần Cung·Tốn
+30461;[Hỗn Độn] Hậu Nghệ Thần Cung·Tốn Bất Đầu
+30462;[Vĩnh Hằng] Hậu Nghệ Thần Cung·Tốn
+30463;[Vĩnh Hằng] Hậu Nghệ Thần Cung·Tốn
+30464;[Vĩnh Hằng] Hậu Nghệ Thần Cung·Tốn
+30465;[Nhân Giai] Hậu Nghệ Thần Cung·Chấn
+30466;[Địa Giai] Hậu Nghệ Thần Cung·Chấn
+30467;[Địa Giai] Hậu Nghệ Thần Cung·Chấn
+30468;[Địa Giai] Hậu Nghệ Thần Cung·Chấn Bất Đầu
+30469;[Tiên Giai] Hậu Nghệ Thần Cung·Chấn Bất Đầu
+30470;[Tiên Giai] Hậu Nghệ Thần Cung·Chấn
+30471;[Tiên Giai] Hậu Nghệ Thần Cung·Chấn
+30472;[Tiên Giai] Hậu Nghệ Thần Cung·Chấn Bất Đầu
+30473;[Hỗn Độn] Hậu Nghệ Thần Cung·Chấn Bất Đầu
+30474;[Hỗn Độn] Hậu Nghệ Thần Cung·Chấn Bất Đầu
+30475;[Hỗn Độn] Hậu Nghệ Thần Cung·Chấn
+30476;[Hỗn Độn] Hậu Nghệ Thần Cung·Chấn
+30477;[Hỗn Độn] Hậu Nghệ Thần Cung·Chấn Bất Đầu
+30478;[Vĩnh Hằng] Hậu Nghệ Thần Cung·Chấn
+30479;[Vĩnh Hằng] Hậu Nghệ Thần Cung·Chấn
+30480;[Vĩnh Hằng] Hậu Nghệ Thần Cung·Chấn
+30501;[Nhân Giai] Nhất Khí Cửu Nguyên Châu·Khảm
+30502;[Địa Giai] Nhất Khí Cửu Nguyên Châu·Khảm
+30503;[Địa Giai] Nhất Khí Cửu Nguyên Châu·Khảm
+30504;[Địa Giai] Nhất Khí Cửu Nguyên Châu·Khảm Bất Đầu
+30505;[Tiên Giai] Nhất Khí Cửu Nguyên Châu·Khảm Bất Đầu
+30506;[Tiên Giai] Nhất Khí Cửu Nguyên Châu·Khảm
+30507;[Tiên Giai] Nhất Khí Cửu Nguyên Châu·Khảm
+30508;[Tiên Giai] Nhất Khí Cửu Nguyên Châu·Khảm Bất Đầu
+30509;[Hỗn Độn] Nhất Khí Cửu Nguyên Châu·Khảm Bất Đầu
+30510;[Hỗn Độn] Nhất Khí Cửu Nguyên Châu·Khảm Bất Đầu
+30511;[Hỗn Độn] Nhất Khí Cửu Nguyên Châu·Khảm
+30512;[Hỗn Độn] Nhất Khí Cửu Nguyên Châu·Khảm
+30513;[Hỗn Độn] Nhất Khí Cửu Nguyên Châu·Khảm Bất Đầu
+30514;[Vĩnh Hằng] Nhất Khí Cửu Nguyên Châu·Khảm
+30515;[Vĩnh Hằng] Nhất Khí Cửu Nguyên Châu·Khảm
+30516;[Vĩnh Hằng] Nhất Khí Cửu Nguyên Châu·Khảm
+30517;[Nhân Giai] Nhất Khí Cửu Nguyên Châu·Ly
+30518;[Địa Giai] Nhất Khí Cửu Nguyên Châu·Ly
+30519;[Địa Giai] Nhất Khí Cửu Nguyên Châu·Ly
+30520;[Địa Giai] Nhất Khí Cửu Nguyên Châu·Ly Bất Đầu
+30521;[Tiên Giai] Nhất Khí Cửu Nguyên Châu·Ly Bất Đầu
+30522;[Tiên Giai] Nhất Khí Cửu Nguyên Châu·Ly
+30523;[Tiên Giai] Nhất Khí Cửu Nguyên Châu·Ly
+30524;[Tiên Giai] Nhất Khí Cửu Nguyên Châu·Ly Bất Đầu
+30525;[Hỗn Độn] Nhất Khí Cửu Nguyên Châu·Ly Bất Đầu
+30526;[Hỗn Độn] Nhất Khí Cửu Nguyên Châu·Ly Bất Đầu
+30527;[Hỗn Độn] Nhất Khí Cửu Nguyên Châu·Ly
+30528;[Hỗn Độn] Nhất Khí Cửu Nguyên Châu·Ly
+30529;[Hỗn Độn] Nhất Khí Cửu Nguyên Châu·Ly Bất Đầu
+30530;[Vĩnh Hằng] Nhất Khí Cửu Nguyên Châu·Ly
+30531;[Vĩnh Hằng] Nhất Khí Cửu Nguyên Châu·Ly
+30532;[Vĩnh Hằng] Nhất Khí Cửu Nguyên Châu·Ly
+30533;[Nhân Giai] Nhất Khí Cửu Nguyên Châu·Cấn
+30534;[Địa Giai] Nhất Khí Cửu Nguyên Châu·Cấn
+30535;[Địa Giai] Nhất Khí Cửu Nguyên Châu·Cấn
+30536;[Địa Giai] Nhất Khí Cửu Nguyên Châu·Cấn Bất Đầu
+30537;[Tiên Giai] Nhất Khí Cửu Nguyên Châu·Cấn Bất Đầu
+30538;[Tiên Giai] Nhất Khí Cửu Nguyên Châu·Cấn
+30539;[Tiên Giai] Nhất Khí Cửu Nguyên Châu·Cấn
+30540;[Tiên Giai] Nhất Khí Cửu Nguyên Châu·Cấn Bất Đầu
+30541;[Hỗn Độn] Nhất Khí Cửu Nguyên Châu·Cấn Bất Đầu
+30542;[Hỗn Độn] Nhất Khí Cửu Nguyên Châu·Cấn Bất Đầu
+30543;[Hỗn Độn] Nhất Khí Cửu Nguyên Châu·Cấn
+30544;[Hỗn Độn] Nhất Khí Cửu Nguyên Châu·Cấn
+30545;[Hỗn Độn] Nhất Khí Cửu Nguyên Châu·Cấn Bất Đầu
+30546;[Vĩnh Hằng] Nhất Khí Cửu Nguyên Châu·Cấn
+30547;[Vĩnh Hằng] Nhất Khí Cửu Nguyên Châu·Cấn
+30548;[Vĩnh Hằng] Nhất Khí Cửu Nguyên Châu·Cấn
+30549;[Nhân Giai] Nhất Khí Cửu Nguyên Châu·Tốn
+30550;[Địa Giai] Nhất Khí Cửu Nguyên Châu·Tốn
+30551;[Địa Giai] Nhất Khí Cửu Nguyên Châu·Tốn
+30552;[Địa Giai] Nhất Khí Cửu Nguyên Châu·Tốn Bất Đầu
+30553;[Tiên Giai] Nhất Khí Cửu Nguyên Châu·Tốn Bất Đầu
+30554;[Tiên Giai] Nhất Khí Cửu Nguyên Châu·Tốn
+30555;[Tiên Giai] Nhất Khí Cửu Nguyên Châu·Tốn
+30556;[Tiên Giai] Nhất Khí Cửu Nguyên Châu·Tốn Bất Đầu
+30557;[Hỗn Độn] Nhất Khí Cửu Nguyên Châu·Tốn Bất Đầu
+30558;[Hỗn Độn] Nhất Khí Cửu Nguyên Châu·Tốn Bất Đầu
+30559;[Hỗn Độn] Nhất Khí Cửu Nguyên Châu·Tốn
+30560;[Hỗn Độn] Nhất Khí Cửu Nguyên Châu·Tốn
+30561;[Hỗn Độn] Nhất Khí Cửu Nguyên Châu·Tốn Bất Đầu
+30562;[Vĩnh Hằng] Nhất Khí Cửu Nguyên Châu·Tốn
+30563;[Vĩnh Hằng] Nhất Khí Cửu Nguyên Châu·Tốn
+30564;[Vĩnh Hằng] Nhất Khí Cửu Nguyên Châu·Tốn
+30565;[Nhân Giai] Nhất Khí Cửu Nguyên Châu·Chấn
+30566;[Địa Giai] Nhất Khí Cửu Nguyên Châu·Chấn
+30567;[Địa Giai] Nhất Khí Cửu Nguyên Châu·Chấn
+30568;[Địa Giai] Nhất Khí Cửu Nguyên Châu·Chấn Bất Đầu
+30569;[Tiên Giai] Nhất Khí Cửu Nguyên Châu·Chấn Bất Đầu
+30570;[Tiên Giai] Nhất Khí Cửu Nguyên Châu·Chấn
+30571;[Tiên Giai] Nhất Khí Cửu Nguyên Châu·Chấn
+30572;[Tiên Giai] Nhất Khí Cửu Nguyên Châu·Chấn Bất Đầu
+30573;[Hỗn Độn] Nhất Khí Cửu Nguyên Châu·Chấn Bất Đầu
+30574;[Hỗn Độn] Nhất Khí Cửu Nguyên Châu·Chấn Bất Đầu
+30575;[Hỗn Độn] Nhất Khí Cửu Nguyên Châu·Chấn
+30576;[Hỗn Độn] Nhất Khí Cửu Nguyên Châu·Chấn
+30577;[Hỗn Độn] Nhất Khí Cửu Nguyên Châu·Chấn Bất Đầu
+30578;[Vĩnh Hằng] Nhất Khí Cửu Nguyên Châu·Chấn
+30579;[Vĩnh Hằng] Nhất Khí Cửu Nguyên Châu·Chấn
+30580;[Vĩnh Hằng] Nhất Khí Cửu Nguyên Châu·Chấn
+31101;1 Giai Mã Tiên
+31102;2 Giai Mã Tiên
+31103;3 Giai Mã Tiên
+31104;4 Giai Mã Tiên
+31105;5 Giai Mã Tiên
+31106;6 Giai Mã Tiên
+31107;7 Giai Mã Tiên
+31108;8 Giai Mã Tiên
+31109;9 Giai Mã Tiên
+31110;10 Giai Mã Tiên
+31201;1 Giai Đề Thiết
+31202;2 Giai Đề Thiết
+31203;3 Giai Đề Thiết
+31204;4 Giai Đề Thiết
+31205;5 Giai Đề Thiết
+31206;6 Giai Đề Thiết
+31207;7 Giai Đề Thiết
+31208;8 Giai Đề Thiết
+31209;9 Giai Đề Thiết
+31210;10 Giai Đề Thiết
+31301;1 Giai Mã An
+31302;2 Giai Mã An
+31303;3 Giai Mã An
+31304;4 Giai Mã An
+31305;5 Giai Mã An
+31306;6 Giai Mã An
+31307;7 Giai Mã An
+31308;8 Giai Mã An
+31309;9 Giai Mã An
+31310;10 Giai Mã An
+31401;1 Giai Mã Đăng
+31402;2 Giai Mã Đăng
+31403;3 Giai Mã Đăng
+31404;4 Giai Mã Đăng
+31405;5 Giai Mã Đăng
+31406;6 Giai Mã Đăng
+31407;7 Giai Mã Đăng
+31408;8 Giai Mã Đăng
+31409;9 Giai Mã Đăng
+31410;10 Giai Mã Đăng
+31501;1 Giai Thần Thạch
+31502;2 Giai Thần Thạch
+31503;3 Giai Thần Thạch
+31504;4 Giai Thần Thạch
+31505;5 Giai Thần Thạch
+31506;6 Giai Thần Thạch
+31507;7 Giai Thần Thạch
+31508;8 Giai Thần Thạch
+31509;9 Giai Thần Thạch
+31510;10 Giai Thần Thạch
+31601;1 Giai Thần Thiết
+31602;2 Giai Thần Thiết
+31603;3 Giai Thần Thiết
+31604;4 Giai Thần Thiết
+31605;5 Giai Thần Thiết
+31606;6 Giai Thần Thiết
+31607;7 Giai Thần Thiết
+31608;8 Giai Thần Thiết
+31609;9 Giai Thần Thiết
+31610;10 Giai Thần Thiết
+31701;1 Giai Thần Bính
+31702;2 Giai Thần Bính
+31703;3 Giai Thần Bính
+31704;4 Giai Thần Bính
+31705;5 Giai Thần Bính
+31706;6 Giai Thần Bính
+31707;7 Giai Thần Bính
+31708;8 Giai Thần Bính
+31709;9 Giai Thần Bính
+31710;10 Giai Thần Bính
+31801;1 Giai Thần Cốt
+31802;2 Giai Thần Cốt
+31803;3 Giai Thần Cốt
+31804;4 Giai Thần Cốt
+31805;5 Giai Thần Cốt
+31806;6 Giai Thần Cốt
+31807;7 Giai Thần Cốt
+31808;8 Giai Thần Cốt
+31809;9 Giai Thần Cốt
+31810;10 Giai Thần Cốt
+31901;1 Giai Tiên Huyết
+31902;2 Giai Tiên Huyết
+31903;3 Giai Tiên Huyết
+31904;4 Giai Tiên Huyết
+31905;5 Giai Tiên Huyết
+31906;6 Giai Tiên Huyết
+31907;7 Giai Tiên Huyết
+31908;8 Giai Tiên Huyết
+31909;9 Giai Tiên Huyết
+31910;10 Giai Tiên Huyết
+32001;1 Giai Tiên Giáp
+32002;2 Giai Tiên Giáp
+32003;3 Giai Tiên Giáp
+32004;4 Giai Tiên Giáp
+32005;5 Giai Tiên Giáp
+32006;6 Giai Tiên Giáp
+32007;7 Giai Tiên Giáp
+32008;8 Giai Tiên Giáp
+32009;9 Giai Tiên Giáp
+32010;10 Giai Tiên Giáp
+32101;1 Giai Tiên Vũ
+32102;2 Giai Tiên Vũ
+32103;3 Giai Tiên Vũ
+32104;4 Giai Tiên Vũ
+32105;5 Giai Tiên Vũ
+32106;6 Giai Tiên Vũ
+32107;7 Giai Tiên Vũ
+32108;8 Giai Tiên Vũ
+32109;9 Giai Tiên Vũ
+32110;10 Giai Tiên Vũ
+32201;1 Giai Tiên Phù
+32202;2 Giai Tiên Phù
+32203;3 Giai Tiên Phù
+32204;4 Giai Tiên Phù
+32205;5 Giai Tiên Phù
+32206;6 Giai Tiên Phù
+32207;7 Giai Tiên Phù
+32208;8 Giai Tiên Phù
+32209;9 Giai Tiên Phù
+32210;10 Giai Tiên Phù
+33000;Kim Linh Châu
+33001;Kim Linh Châu
+33002;Kim Linh Châu
+33010;Mộc Linh Châu
+33011;Mộc Linh Châu
+33012;Mộc Linh Châu
+33020;Thủy Linh Châu
+33021;Thủy Linh Châu
+33022;Thủy Linh Châu
+33030;Hỏa Linh Châu
+33031;Hỏa Linh Châu
+33032;Hỏa Linh Châu
+33040;Thổ Linh Châu
+33041;Thổ Linh Châu
+33042;Thổ Linh Châu
+33100;Linh Tủy
+34000;Thanh Phật Pháp Thân
+34001;Minh Uyên Pháp Thân
+34002;Thất Giới Pháp Thân
+34003;Bạo Hành Pháp Thân
+34004;Cương Lôi Pháp Thân
+34005;Huyền Nữ Pháp Thân
+34006;Ngục Huyết Pháp Thân
+34007;Phán Quan Pháp Thân
+34008;Hoặc Hải Pháp Thân
+34009;Huyết Nhiêm Pháp Thân
+34010;Thanh Phật Pháp Thân Toái Phiến
+34011;Minh Uyên Pháp Thân Toái Phiến
+34012;Thất Giới Pháp Thân Toái Phiến
+34013;Bạo Hành Pháp Thân Toái Phiến
+34014;Cương Lôi Pháp Thân Toái Phiến
+34015;Huyền Nữ Pháp Thân Toái Phiến
+34016;Ngục Huyết Pháp Thân Toái Phiến
+34017;Phán Quan Pháp Thân Toái Phiến
+34018;Hoặc Hải Pháp Thân Toái Phiến
+34019;Huyết Nhiêm Pháp Thân Toái Phiến
+34020;Đê Giai Pháp Thân Tinh Thạch
+34021;Trung Giai Pháp Thân Tinh Thạch
+34022;Cao Giai Pháp Thân Tinh Thạch
+34030;Tiên Linh Thạch
+34031;Tị Thủy Châu
+34100;Thanh Phật Pháp Quan
+34101;Thanh Phật Quyền Cương
+34102;Thanh Phật Pháp Bào
+34103;Thanh Phật Hộ Oản
+34104;Thanh Phật Yêu Đái
+34110;Minh Uyên Pháp Quan
+34111;Minh Uyên Quyền Cương
+34112;Minh Uyên Pháp Bào
+34113;Minh Uyên Hộ Oản
+34114;Minh Uyên Yêu Đái
+34120;Thất Giới Pháp Quan
+34121;Thất Giới Quyền Cương
+34122;Thất Giới Pháp Bào
+34123;Thất Giới Hộ Oản
+34124;Thất Giới Yêu Đái
+34130;Bạo Hành Pháp Quan
+34131;Bạo Hành Quyền Cương
+34132;Bạo Hành Pháp Bào
+34133;Bạo Hành Hộ Oản
+34134;Bạo Hành Yêu Đái
+34140;Cương Lôi Pháp Quan
+34141;Cương Lôi Quyền Cương
+34142;Cương Lôi Pháp Bào
+34143;Cương Lôi Hộ Oản
+34144;Cương Lôi Yêu Đái
+34150;Huyền Nữ Pháp Quan
+34151;Huyền Nữ Quyền Cương
+34152;Huyền Nữ Pháp Bào
+34153;Huyền Nữ Hộ Oản
+34154;Huyền Nữ Yêu Đái
+34160;Ngục Huyết Pháp Quan
+34161;Ngục Huyết Quyền Cương
+34162;Ngục Huyết Pháp Bào
+34163;Ngục Huyết Hộ Oản
+34164;Ngục Huyết Yêu Đái
+34170;Phán Quan Pháp Quan
+34171;Phán Quan Quyền Cương
+34172;Phán Quan Pháp Bào
+34173;Phán Quan Hộ Oản
+34174;Phán Quan Yêu Đái
+34180;Hoặc Hải Pháp Quan
+34181;Hoặc Hải Quyền Cương
+34182;Hoặc Hải Pháp Bào
+34183;Hoặc Hải Hộ Oản
+34184;Hoặc Hải Yêu Đái
+34190;Huyết Nhiêm Pháp Quan
+34191;Huyết Nhiêm Quyền Cương
+34192;Huyết Nhiêm Pháp Bào
+34193;Huyết Nhiêm Hộ Oản
+34194;Huyết Nhiêm Yêu Đái
+35101;Tam Sinh Ngư Cổ1 Giai
+35102;Trấn Sát Tiên Kiếm1 Giai
+35103;Vạn Lại Tử Tiêu1 Giai
+35104;Tịnh Thần Thanh Hà1 Giai
+35105;Phổ Độ Tiên Hồ1 Giai
+35106;Ninh Thần Ngọc Bản1 Giai
+35107;Thần Dẫn Hoa Lam1 Giai
+35108;Đào Nhiên Tiên Phiến1 Giai
+35111;Tam Sinh Ngư Cổ2 Giai
+35112;Trấn Sát Tiên Kiếm2 Giai
+35113;Vạn Lại Tử Tiêu2 Giai
+35114;Tịnh Thần Thanh Hà2 Giai
+35115;Phổ Độ Tiên Hồ2 Giai
+35116;Ninh Thần Ngọc Bản2 Giai
+35117;Thần Dẫn Hoa Lam2 Giai
+35118;Đào Nhiên Tiên Phiến2 Giai
+35121;Tam Sinh Ngư Cổ3 Giai
+35122;Trấn Sát Tiên Kiếm3 Giai
+35123;Vạn Lại Tử Tiêu3 Giai
+35124;Tịnh Thần Thanh Hà3 Giai
+35125;Phổ Độ Tiên Hồ3 Giai
+35126;Ninh Thần Ngọc Bản3 Giai
+35127;Thần Dẫn Hoa Lam3 Giai
+35128;Đào Nhiên Tiên Phiến3 Giai
+35131;Tam Sinh Ngư Cổ4 Giai
+35132;Trấn Sát Tiên Kiếm4 Giai
+35133;Vạn Lại Tử Tiêu4 Giai
+35134;Tịnh Thần Thanh Hà4 Giai
+35135;Phổ Độ Tiên Hồ4 Giai
+35136;Ninh Thần Ngọc Bản4 Giai
+35137;Thần Dẫn Hoa Lam4 Giai
+35138;Đào Nhiên Tiên Phiến4 Giai
+35141;Tam Sinh Ngư Cổ5 Giai
+35142;Trấn Sát Tiên Kiếm5 Giai
+35143;Vạn Lại Tử Tiêu5 Giai
+35144;Tịnh Thần Thanh Hà5 Giai
+35145;Phổ Độ Tiên Hồ5 Giai
+35146;Ninh Thần Ngọc Bản5 Giai
+35147;Thần Dẫn Hoa Lam5 Giai
+35148;Đào Nhiên Tiên Phiến5 Giai
+35151;Tam Sinh Ngư Cổ6 Giai
+35152;Trấn Sát Tiên Kiếm6 Giai
+35153;Vạn Lại Tử Tiêu6 Giai
+35154;Tịnh Thần Thanh Hà6 Giai
+35155;Phổ Độ Tiên Hồ6 Giai
+35156;Ninh Thần Ngọc Bản6 Giai
+35157;Thần Dẫn Hoa Lam6 Giai
+35158;Đào Nhiên Tiên Phiến6 Giai
+35161;Tam Sinh Ngư Cổ7 Giai
+35162;Trấn Sát Tiên Kiếm7 Giai
+35163;Vạn Lại Tử Tiêu7 Giai
+35164;Tịnh Thần Thanh Hà7 Giai
+35165;Phổ Độ Tiên Hồ7 Giai
+35166;Ninh Thần Ngọc Bản7 Giai
+35167;Thần Dẫn Hoa Lam7 Giai
+35168;Đào Nhiên Tiên Phiến7 Giai
+35171;Tam Sinh Ngư Cổ8 Giai
+35172;Trấn Sát Tiên Kiếm8 Giai
+35173;Vạn Lại Tử Tiêu8 Giai
+35174;Tịnh Thần Thanh Hà8 Giai
+35175;Phổ Độ Tiên Hồ8 Giai
+35176;Ninh Thần Ngọc Bản8 Giai
+35177;Thần Dẫn Hoa Lam8 Giai
+35178;Đào Nhiên Tiên Phiến8 Giai
+35181;Tam Sinh Ngư Cổ9 Giai
+35182;Trấn Sát Tiên Kiếm9 Giai
+35183;Vạn Lại Tử Tiêu9 Giai
+35184;Tịnh Thần Thanh Hà9 Giai
+35185;Phổ Độ Tiên Hồ9 Giai
+35186;Ninh Thần Ngọc Bản9 Giai
+35187;Thần Dẫn Hoa Lam9 Giai
+35188;Đào Nhiên Tiên Phiến9 Giai
+35191;Tam Sinh Ngư Cổ10 Giai
+35192;Trấn Sát Tiên Kiếm10 Giai
+35193;Vạn Lại Tử Tiêu10 Giai
+35194;Tịnh Thần Thanh Hà10 Giai
+35195;Phổ Độ Tiên Hồ10 Giai
+35196;Ninh Thần Ngọc Bản10 Giai
+35197;Thần Dẫn Hoa Lam10 Giai
+35198;Đào Nhiên Tiên Phiến10 Giai
+35201;Tam Sinh Ngư Cổ1 Giai
+35202;Trấn Sát Tiên Kiếm1 Giai
+35203;Vạn Lại Tử Tiêu1 Giai
+35204;Tịnh Thần Thanh Hà1 Giai
+35205;Phổ Độ Tiên Hồ1 Giai
+35206;Ninh Thần Ngọc Bản1 Giai
+35207;Thần Dẫn Hoa Lam1 Giai
+35208;Đào Nhiên Tiên Phiến1 Giai
+35211;Tam Sinh Ngư Cổ2 Giai
+35212;Trấn Sát Tiên Kiếm2 Giai
+35213;Vạn Lại Tử Tiêu2 Giai
+35214;Tịnh Thần Thanh Hà2 Giai
+35215;Phổ Độ Tiên Hồ2 Giai
+35216;Ninh Thần Ngọc Bản2 Giai
+35217;Thần Dẫn Hoa Lam2 Giai
+35218;Đào Nhiên Tiên Phiến2 Giai
+35221;Tam Sinh Ngư Cổ3 Giai
+35222;Trấn Sát Tiên Kiếm3 Giai
+35223;Vạn Lại Tử Tiêu3 Giai
+35224;Tịnh Thần Thanh Hà3 Giai
+35225;Phổ Độ Tiên Hồ3 Giai
+35226;Ninh Thần Ngọc Bản3 Giai
+35227;Thần Dẫn Hoa Lam3 Giai
+35228;Đào Nhiên Tiên Phiến3 Giai
+35231;Tam Sinh Ngư Cổ4 Giai
+35232;Trấn Sát Tiên Kiếm4 Giai
+35233;Vạn Lại Tử Tiêu4 Giai
+35234;Tịnh Thần Thanh Hà4 Giai
+35235;Phổ Độ Tiên Hồ4 Giai
+35236;Ninh Thần Ngọc Bản4 Giai
+35237;Thần Dẫn Hoa Lam4 Giai
+35238;Đào Nhiên Tiên Phiến4 Giai
+35241;Tam Sinh Ngư Cổ5 Giai
+35242;Trấn Sát Tiên Kiếm5 Giai
+35243;Vạn Lại Tử Tiêu5 Giai
+35244;Tịnh Thần Thanh Hà5 Giai
+35245;Phổ Độ Tiên Hồ5 Giai
+35246;Ninh Thần Ngọc Bản5 Giai
+35247;Thần Dẫn Hoa Lam5 Giai
+35248;Đào Nhiên Tiên Phiến5 Giai
+35251;Tam Sinh Ngư Cổ6 Giai
+35252;Trấn Sát Tiên Kiếm6 Giai
+35253;Vạn Lại Tử Tiêu6 Giai
+35254;Tịnh Thần Thanh Hà6 Giai
+35255;Phổ Độ Tiên Hồ6 Giai
+35256;Ninh Thần Ngọc Bản6 Giai
+35257;Thần Dẫn Hoa Lam6 Giai
+35258;Đào Nhiên Tiên Phiến6 Giai
+35261;Tam Sinh Ngư Cổ7 Giai
+35262;Trấn Sát Tiên Kiếm7 Giai
+35263;Vạn Lại Tử Tiêu7 Giai
+35264;Tịnh Thần Thanh Hà7 Giai
+35265;Phổ Độ Tiên Hồ7 Giai
+35266;Ninh Thần Ngọc Bản7 Giai
+35267;Thần Dẫn Hoa Lam7 Giai
+35268;Đào Nhiên Tiên Phiến7 Giai
+35271;Tam Sinh Ngư Cổ8 Giai
+35272;Trấn Sát Tiên Kiếm8 Giai
+35273;Vạn Lại Tử Tiêu8 Giai
+35274;Tịnh Thần Thanh Hà8 Giai
+35275;Phổ Độ Tiên Hồ8 Giai
+35276;Ninh Thần Ngọc Bản8 Giai
+35277;Thần Dẫn Hoa Lam8 Giai
+35278;Đào Nhiên Tiên Phiến8 Giai
+35281;Tam Sinh Ngư Cổ9 Giai
+35282;Trấn Sát Tiên Kiếm9 Giai
+35283;Vạn Lại Tử Tiêu9 Giai
+35284;Tịnh Thần Thanh Hà9 Giai
+35285;Phổ Độ Tiên Hồ9 Giai
+35286;Ninh Thần Ngọc Bản9 Giai
+35287;Thần Dẫn Hoa Lam9 Giai
+35288;Đào Nhiên Tiên Phiến9 Giai
+35291;Tam Sinh Ngư Cổ10 Giai
+35292;Trấn Sát Tiên Kiếm10 Giai
+35293;Vạn Lại Tử Tiêu10 Giai
+35294;Tịnh Thần Thanh Hà10 Giai
+35295;Phổ Độ Tiên Hồ10 Giai
+35296;Ninh Thần Ngọc Bản10 Giai
+35297;Thần Dẫn Hoa Lam10 Giai
+35298;Đào Nhiên Tiên Phiến10 Giai
+35301;Tam Sinh Ngư Cổ1 Giai
+35302;Trấn Sát Tiên Kiếm1 Giai
+35303;Vạn Lại Tử Tiêu1 Giai
+35304;Tịnh Thần Thanh Hà1 Giai
+35305;Phổ Độ Tiên Hồ1 Giai
+35306;Ninh Thần Ngọc Bản1 Giai
+35307;Thần Dẫn Hoa Lam1 Giai
+35308;Đào Nhiên Tiên Phiến1 Giai
+35311;Tam Sinh Ngư Cổ2 Giai
+35312;Trấn Sát Tiên Kiếm2 Giai
+35313;Vạn Lại Tử Tiêu2 Giai
+35314;Tịnh Thần Thanh Hà2 Giai
+35315;Phổ Độ Tiên Hồ2 Giai
+35316;Ninh Thần Ngọc Bản2 Giai
+35317;Thần Dẫn Hoa Lam2 Giai
+35318;Đào Nhiên Tiên Phiến2 Giai
+35321;Tam Sinh Ngư Cổ3 Giai
+35322;Trấn Sát Tiên Kiếm3 Giai
+35323;Vạn Lại Tử Tiêu3 Giai
+35324;Tịnh Thần Thanh Hà3 Giai
+35325;Phổ Độ Tiên Hồ3 Giai
+35326;Ninh Thần Ngọc Bản3 Giai
+35327;Thần Dẫn Hoa Lam3 Giai
+35328;Đào Nhiên Tiên Phiến3 Giai
+35331;Tam Sinh Ngư Cổ4 Giai
+35332;Trấn Sát Tiên Kiếm4 Giai
+35333;Vạn Lại Tử Tiêu4 Giai
+35334;Tịnh Thần Thanh Hà4 Giai
+35335;Phổ Độ Tiên Hồ4 Giai
+35336;Ninh Thần Ngọc Bản4 Giai
+35337;Thần Dẫn Hoa Lam4 Giai
+35338;Đào Nhiên Tiên Phiến4 Giai
+35341;Tam Sinh Ngư Cổ5 Giai
+35342;Trấn Sát Tiên Kiếm5 Giai
+35343;Vạn Lại Tử Tiêu5 Giai
+35344;Tịnh Thần Thanh Hà5 Giai
+35345;Phổ Độ Tiên Hồ5 Giai
+35346;Ninh Thần Ngọc Bản5 Giai
+35347;Thần Dẫn Hoa Lam5 Giai
+35348;Đào Nhiên Tiên Phiến5 Giai
+35351;Tam Sinh Ngư Cổ6 Giai
+35352;Trấn Sát Tiên Kiếm6 Giai
+35353;Vạn Lại Tử Tiêu6 Giai
+35354;Tịnh Thần Thanh Hà6 Giai
+35355;Phổ Độ Tiên Hồ6 Giai
+35356;Ninh Thần Ngọc Bản6 Giai
+35357;Thần Dẫn Hoa Lam6 Giai
+35358;Đào Nhiên Tiên Phiến6 Giai
+35361;Tam Sinh Ngư Cổ7 Giai
+35362;Trấn Sát Tiên Kiếm7 Giai
+35363;Vạn Lại Tử Tiêu7 Giai
+35364;Tịnh Thần Thanh Hà7 Giai
+35365;Phổ Độ Tiên Hồ7 Giai
+35366;Ninh Thần Ngọc Bản7 Giai
+35367;Thần Dẫn Hoa Lam7 Giai
+35368;Đào Nhiên Tiên Phiến7 Giai
+35371;Tam Sinh Ngư Cổ8 Giai
+35372;Trấn Sát Tiên Kiếm8 Giai
+35373;Vạn Lại Tử Tiêu8 Giai
+35374;Tịnh Thần Thanh Hà8 Giai
+35375;Phổ Độ Tiên Hồ8 Giai
+35376;Ninh Thần Ngọc Bản8 Giai
+35377;Thần Dẫn Hoa Lam8 Giai
+35378;Đào Nhiên Tiên Phiến8 Giai
+35381;Tam Sinh Ngư Cổ9 Giai
+35382;Trấn Sát Tiên Kiếm9 Giai
+35383;Vạn Lại Tử Tiêu9 Giai
+35384;Tịnh Thần Thanh Hà9 Giai
+35385;Phổ Độ Tiên Hồ9 Giai
+35386;Ninh Thần Ngọc Bản9 Giai
+35387;Thần Dẫn Hoa Lam9 Giai
+35388;Đào Nhiên Tiên Phiến9 Giai
+35391;Tam Sinh Ngư Cổ10 Giai
+35392;Trấn Sát Tiên Kiếm10 Giai
+35393;Vạn Lại Tử Tiêu10 Giai
+35394;Tịnh Thần Thanh Hà10 Giai
+35395;Phổ Độ Tiên Hồ10 Giai
+35396;Ninh Thần Ngọc Bản10 Giai
+35397;Thần Dẫn Hoa Lam10 Giai
+35398;Đào Nhiên Tiên Phiến10 Giai
+35401;Tam Sinh Ngư Cổ1 Giai
+35402;Trấn Sát Tiên Kiếm1 Giai
+35403;Vạn Lại Tử Tiêu1 Giai
+35404;Tịnh Thần Thanh Hà1 Giai
+35405;Phổ Độ Tiên Hồ1 Giai
+35406;Ninh Thần Ngọc Bản1 Giai
+35407;Thần Dẫn Hoa Lam1 Giai
+35408;Đào Nhiên Tiên Phiến1 Giai
+35411;Tam Sinh Ngư Cổ2 Giai
+35412;Trấn Sát Tiên Kiếm2 Giai
+35413;Vạn Lại Tử Tiêu2 Giai
+35414;Tịnh Thần Thanh Hà2 Giai
+35415;Phổ Độ Tiên Hồ2 Giai
+35416;Ninh Thần Ngọc Bản2 Giai
+35417;Thần Dẫn Hoa Lam2 Giai
+35418;Đào Nhiên Tiên Phiến2 Giai
+35421;Tam Sinh Ngư Cổ3 Giai
+35422;Trấn Sát Tiên Kiếm3 Giai
+35423;Vạn Lại Tử Tiêu3 Giai
+35424;Tịnh Thần Thanh Hà3 Giai
+35425;Phổ Độ Tiên Hồ3 Giai
+35426;Ninh Thần Ngọc Bản3 Giai
+35427;Thần Dẫn Hoa Lam3 Giai
+35428;Đào Nhiên Tiên Phiến3 Giai
+35431;Tam Sinh Ngư Cổ4 Giai
+35432;Trấn Sát Tiên Kiếm4 Giai
+35433;Vạn Lại Tử Tiêu4 Giai
+35434;Tịnh Thần Thanh Hà4 Giai
+35435;Phổ Độ Tiên Hồ4 Giai
+35436;Ninh Thần Ngọc Bản4 Giai
+35437;Thần Dẫn Hoa Lam4 Giai
+35438;Đào Nhiên Tiên Phiến4 Giai
+35441;Tam Sinh Ngư Cổ5 Giai
+35442;Trấn Sát Tiên Kiếm5 Giai
+35443;Vạn Lại Tử Tiêu5 Giai
+35444;Tịnh Thần Thanh Hà5 Giai
+35445;Phổ Độ Tiên Hồ5 Giai
+35446;Ninh Thần Ngọc Bản5 Giai
+35447;Thần Dẫn Hoa Lam5 Giai
+35448;Đào Nhiên Tiên Phiến5 Giai
+35451;Tam Sinh Ngư Cổ6 Giai
+35452;Trấn Sát Tiên Kiếm6 Giai
+35453;Vạn Lại Tử Tiêu6 Giai
+35454;Tịnh Thần Thanh Hà6 Giai
+35455;Phổ Độ Tiên Hồ6 Giai
+35456;Ninh Thần Ngọc Bản6 Giai
+35457;Thần Dẫn Hoa Lam6 Giai
+35458;Đào Nhiên Tiên Phiến6 Giai
+35461;Tam Sinh Ngư Cổ7 Giai
+35462;Trấn Sát Tiên Kiếm7 Giai
+35463;Vạn Lại Tử Tiêu7 Giai
+35464;Tịnh Thần Thanh Hà7 Giai
+35465;Phổ Độ Tiên Hồ7 Giai
+35466;Ninh Thần Ngọc Bản7 Giai
+35467;Thần Dẫn Hoa Lam7 Giai
+35468;Đào Nhiên Tiên Phiến7 Giai
+35471;Tam Sinh Ngư Cổ8 Giai
+35472;Trấn Sát Tiên Kiếm8 Giai
+35473;Vạn Lại Tử Tiêu8 Giai
+35474;Tịnh Thần Thanh Hà8 Giai
+35475;Phổ Độ Tiên Hồ8 Giai
+35476;Ninh Thần Ngọc Bản8 Giai
+35477;Thần Dẫn Hoa Lam8 Giai
+35478;Đào Nhiên Tiên Phiến8 Giai
+35481;Tam Sinh Ngư Cổ9 Giai
+35482;Trấn Sát Tiên Kiếm9 Giai
+35483;Vạn Lại Tử Tiêu9 Giai
+35484;Tịnh Thần Thanh Hà9 Giai
+35485;Phổ Độ Tiên Hồ9 Giai
+35486;Ninh Thần Ngọc Bản9 Giai
+35487;Thần Dẫn Hoa Lam9 Giai
+35488;Đào Nhiên Tiên Phiến9 Giai
+35491;Tam Sinh Ngư Cổ10 Giai
+35492;Trấn Sát Tiên Kiếm10 Giai
+35493;Vạn Lại Tử Tiêu10 Giai
+35494;Tịnh Thần Thanh Hà10 Giai
+35495;Phổ Độ Tiên Hồ10 Giai
+35496;Ninh Thần Ngọc Bản10 Giai
+35497;Thần Dẫn Hoa Lam10 Giai
+35498;Đào Nhiên Tiên Phiến10 Giai
+49901;Vô Hạn Thủ Sáo
+49902;Tâm Linh Nguyên Thạch
+49903;Hiện Thực Nguyên Thạch
+49904;Không Gian Nguyên Thạch
+49905;Lực Lượng Nguyên Thạch
+49906;Thì Gian Nguyên Thạch
+49907;Linh Hồn Nguyên Thạch
+50001;1 Cấp Bảo Thạch Phúc Đại
+50002;2 Cấp Bảo Thạch Phúc Đại
+50003;3 Cấp Bảo Thạch Phúc Đại
+50004;4 Cấp Bảo Thạch Phúc Đại
+50005;5 Cấp Bảo Thạch Phúc Đại
+50006;6 Cấp Bảo Thạch Phúc Đại
+50007;7 Cấp Bảo Thạch Phúc Đại
+50008;8 Cấp Bảo Thạch Phúc Đại
+50009;9 Cấp Bảo Thạch Phúc Đại
+50010;10 Cấp Bảo Thạch Phúc Đại
+50011;11 Cấp Bảo Thạch Phúc Đại
+50012;12 Cấp Bảo Thạch Phúc Đại
+50013;13 Cấp Bảo Thạch Phúc Đại
+50014;14 Cấp Bảo Thạch Phúc Đại
+50015;15 Cấp Bảo Thạch Phúc Đại
+50016;1 Cấp Truyện Thuyết Bảo Thạch Phúc Đại
+50017;2 Cấp Truyện Thuyết Bảo Thạch Phúc Đại
+50018;3 Cấp Truyện Thuyết Bảo Thạch Phúc Đại
+50019;4 Cấp Truyện Thuyết Bảo Thạch Phúc Đại
+50020;5 Cấp Truyện Thuyết Bảo Thạch Phúc Đại
+50021;6 Cấp Truyện Thuyết Bảo Thạch Phúc Đại
+50022;7 Cấp Truyện Thuyết Bảo Thạch Phúc Đại
+50023;8 Cấp Truyện Thuyết Bảo Thạch Phúc Đại
+50024;9 Cấp Truyện Thuyết Bảo Thạch Phúc Đại
+50025;10 Cấp Truyện Thuyết Bảo Thạch Phúc Đại
+50026;11 Cấp Truyện Thuyết Bảo Thạch Phúc Đại
+50027;12 Cấp Truyện Thuyết Bảo Thạch Phúc Đại
+50028;13 Cấp Truyện Thuyết Bảo Thạch Phúc Đại
+50029;14 Cấp Truyện Thuyết Bảo Thạch Phúc Đại
+50030;15 Cấp Truyện Thuyết Bảo Thạch Phúc Đại
+50101;Dưỡng Thành Kỹ Năng Thư Lễ Hạp
+50102;Thần Bí Pháp Bảo Lễ Hạp
+50103;Bảo Thạch Nguyên Khoáng
+50104;Truyện Kỳ Nguyên Khoáng
+50201;Khai Phục Lễ Bao
+50202;Thối Luyện Đan Lễ Bao
+50204;Tiềm Năng Đan Lễ Bao
+50205;Tiến Giai Kỹ Năng Thư Lễ Bao
+50206;Bạn Sinh Thối Luyện Đan Lễ Bao
+50207;Bách Vạn Ngân Lượng Bảo Rương
+50208;Tông Môn Truyện Thừa Bảo Rương
+50209;Tông Môn Bí Kỹ Bảo Rương
+50210;Luyện Khí Tài Liệu Bảo Rương
+50211;Huyễn Hóa Đan Lễ Bao
+50212;Đê Cấp Đồ Giám Lễ Bao
+50213;Tùy Cơ Pháp Bảo Lễ Bao
+50214;Dược Thiện Thảo Vật Bảo Rương
+50215;Pháp Bảo Kỹ Năng Thăng Cấp Lễ Bao
+50216;Cường Hóa Thạch Bảo Rương
+50217;Luyện Hóa Châu Bảo Rương
+50218;Thị Tòng Thối Luyện Bảo Rương
+50219;Thần Binh Thối Luyện Bảo Rương
+50220;Tọa Kỵ Thối Luyện Bảo Rương
+50221;Vũ Dực Thối Luyện Bảo Rương
+50222;2 Cấp Truyện Kỳ Bảo Thạch Phúc Đại
+50223;3 Cấp Truyện Kỳ Bảo Thạch Phúc Đại
+50224;4 Cấp Truyện Kỳ Bảo Thạch Phúc Đại
+50225;5 Giai Dị Bảo Lễ Bao
+50226;5 Cấp Truyện Kỳ Bảo Thạch Phúc Đại
+50227;6 Cấp Truyện Kỳ Bảo Thạch Phúc Đại
+50301;Tinh Phẩm Pháp Bảo Rương
+50302;Cực Phẩm Pháp Bảo Rương
+50303;Truyện Thuyết Pháp Bảo Rương
+50304;Phàm Phẩm Tích Phần Lễ Bao
+50305;Tinh Phẩm Tích Phần Lễ Bao
+50306;Cực Phẩm Tích Phần Lễ Bao
+50307;Truyện Thuyết Tích Phần Lễ Bao
+50401;V6 Chí Tôn Bảo Rương
+50402;Svip2 Chí Tôn Bảo Rương
+50403;Svip4 Chí Tôn Bảo Rương
+50404;Svip6 Chí Tôn Bảo Rương
+50405;Svip5 Thần Trang Bảo Rương
+50406;Svip8 Thần Trang Bảo Rương
+50407;Svip11 Thần Trang Bảo Rương
+50408;Svip13 Thần Trang Bảo Rương
+50409;Chanh Sắc Pháp Bảo Lễ Bao
+50410;Hồng Sắc Pháp Bảo Lễ Bao
+50411;Lam Sắc Pháp Bảo Lễ Bao
+50412;Tử Sắc Pháp Bảo Lễ Bao
+50413;Lục Sắc Pháp Bảo Lễ Bao
+50501;Bảo Thạch Kinh Hỉ Lễ Bao
+50502;Bảo Thạch Kinh Hỉ Lễ Bao
+50503;Bảo Thạch Kinh Hỉ Lễ Bao
+50504;Bảo Thạch Kinh Hỉ Lễ Bao
+50505;Bảo Thạch Kinh Hỉ Lễ Bao
+50506;Bảo Thạch Kinh Hỉ Lễ Bao
+50507;Bảo Thạch Kinh Hỉ Lễ Bao
+50508;Bảo Thạch Kinh Hỉ Lễ Bao
+50509;Bảo Thạch Kinh Hỉ Lễ Bao
+50510;Bảo Thạch Kinh Hỉ Lễ Bao
+50601;Đê Giai Đồ Giám Lễ Bao
+50602;Trung Giai Đồ Giám Lễ Bao
+50603;Cao Giai Đồ Giám Lễ Bao
+50605;Phản Hư Đồ Giám Bảo Rương
+50606;Thiên Tiên Đồ Giám Bảo Rương
+50607;Chân Tiên Đồ Giám Bảo Rương
+50608;Tổ Tiên Đồ Giám Bảo Rương
+50609;Giới Vực Đồ Giám Bảo Rương
+50610;Hư Không Phúc Đại
+50611;Lục Sắc Thần Nguyên Hạp
+50612;Lam Sắc Thần Nguyên Hạp
+50613;Tử Sắc Thần Nguyên Hạp
+50621;1 Cấp Thần Nguyên Bảo Rương
+50622;2 Cấp Thần Nguyên Bảo Rương
+50623;3 Cấp Thần Nguyên Bảo Rương
+50624;4 Cấp Thần Nguyên Bảo Rương
+50625;5 Cấp Thần Nguyên Bảo Rương
+50626;6 Cấp Thần Nguyên Bảo Rương
+50627;7 Cấp Thần Nguyên Bảo Rương
+50628;8 Cấp Thần Nguyên Bảo Rương
+50629;9 Cấp Thần Nguyên Bảo Rương
+50630;10 Cấp Thần Nguyên Bảo Rương
+50631;11 Cấp Thần Nguyên Bảo Rương
+50632;12 Cấp Thần Nguyên Bảo Rương
+50633;13 Cấp Thần Nguyên Bảo Rương
+50634;14 Cấp Thần Nguyên Bảo Rương
+50635;15 Cấp Thần Nguyên Bảo Rương
+50636;16 Cấp Thần Nguyên Bảo Rương
+50637;17 Cấp Thần Nguyên Bảo Rương
+50638;18 Cấp Thần Nguyên Bảo Rương
+50639;19 Cấp Thần Nguyên Bảo Rương
+50640;20 Cấp Thần Nguyên Bảo Rương
+50641;21 Cấp Thần Nguyên Bảo Rương
+50642;22 Cấp Thần Nguyên Bảo Rương
+50643;23 Cấp Thần Nguyên Bảo Rương
+50644;24 Cấp Thần Nguyên Bảo Rương
+50645;25 Cấp Thần Nguyên Bảo Rương
+50646;26 Cấp Thần Nguyên Bảo Rương
+50647;27 Cấp Thần Nguyên Bảo Rương
+50648;28 Cấp Thần Nguyên Bảo Rương
+50649;29 Cấp Thần Nguyên Bảo Rương
+50650;30 Cấp Thần Nguyên Bảo Rương
+50701;Nhất Giai Tùy Cơ Hồng Trang Bảo Rương
+50702;Nhị Giai Tùy Cơ Hồng Trang Bảo Rương
+50703;Tam Giai Tùy Cơ Hồng Trang Bảo Rương
+50704;Tứ Giai Tùy Cơ Hồng Trang Bảo Rương
+50705;Ngũ Giai Tùy Cơ Hồng Trang Bảo Rương
+50706;Nhất Giai Tùy Cơ Chanh Trang Bảo Rương
+50707;Nhị Giai Tùy Cơ Chanh Trang Bảo Rương
+50708;Tam Giai Tùy Cơ Chanh Trang Bảo Rương
+50709;Tứ Giai Tùy Cơ Chanh Trang Bảo Rương
+50710;Ngũ Giai Tùy Cơ Chanh Trang Bảo Rương
+50711;Nhị Giai Hồng Trang Bảo Rương
+50712;Tam Giai Hồng Trang Bảo Rương
+50713;Tứ Giai Hồng Trang Bảo Rương
+50714;Ngũ Giai Hồng Trang Bảo Rương
+50715;Lục Giai Hồng Trang Bảo Rương
+50716;Thất Giai Hồng Trang Bảo Rương
+50717;Bát Giai Hồng Trang Bảo Rương
+50718;Cửu Giai Hồng Trang Bảo Rương
+50800;Tĩnh Mật Chi Địa Bảo Rương
+50900;Trích Tinh Thủ Tài Liệu Lễ Đại
+50901;Hậu Nghệ Tiễn Thuật Tài Liệu Lễ Đại
+50902;Bát Cửu Thần Công Tài Liệu Lễ Đại
+50910;Vi Liệp Bảo Rương
+50911;4 Giai Thần Khí Tự Tuyển Bảo Hạp
+50912;Linh Trang Tự Tuyển Bảo Hạp
+50913;Tổ Tiên Đồ Giám Tự Tuyển Bảo Hạp
+50914;Chanh Sắc Thần Nguyên Tùy Cơ Cẩm Nang
+50915;Hồng Sắc Thần Nguyên Tùy Cơ Cẩm Nang
+50916;Công Kích Thần Trang Toái Phiến Tự Tuyển Bảo Rương
+50917;Trích Tinh Thủ Tự Tuyển Bảo Hạp
+50918;Hậu Nghệ Tiễn Thuật Tự Tuyển Bảo Hạp
+50919;Bát Cửu Thần Công Tự Tuyển Bảo Hạp
+50920;1 Giai1 Tinh Hồng Trang Tự Tuyển Bảo Hạp
+50921;2 Giai2 Tinh Hồng Trang Tự Tuyển Bảo Hạp
+50922;3 Giai3 Tinh Hồng Trang Tự Tuyển Bảo Hạp
+51000;1 Giai Công Kích Thần Trang Lễ Hạp
+51001;2 Giai Công Kích Thần Trang Lễ Hạp
+51002;3 Giai Công Kích Thần Trang Lễ Hạp
+51003;4 Giai Công Kích Thần Trang Lễ Hạp
+51004;5 Giai Công Kích Thần Trang Lễ Hạp
+51005;6 Giai Công Kích Thần Trang Lễ Hạp
+51006;7 Giai Công Kích Thần Trang Lễ Hạp
+51007;8 Giai Công Kích Thần Trang Lễ Hạp
+51008;9 Giai Công Kích Thần Trang Lễ Hạp
+51009;10 Giai Công Kích Thần Trang Lễ Hạp
+51010;1 Giai Phòng Ngự Thần Trang Lễ Hạp
+51011;2 Giai Phòng Ngự Thần Trang Lễ Hạp
+51012;3 Giai Phòng Ngự Thần Trang Lễ Hạp
+51013;4 Giai Phòng Ngự Thần Trang Lễ Hạp
+51014;5 Giai Phòng Ngự Thần Trang Lễ Hạp
+51015;6 Giai Phòng Ngự Thần Trang Lễ Hạp
+51016;7 Giai Phòng Ngự Thần Trang Lễ Hạp
+51017;8 Giai Phòng Ngự Thần Trang Lễ Hạp
+51018;9 Giai Phòng Ngự Thần Trang Lễ Hạp
+51019;10 Giai Phòng Ngự Thần Trang Lễ Hạp
+51096;Nhất Giai Lam Trang
+51097;Nhất Giai Tử Trang
+51098;Nhất Giai Chanh Trang
+51099;Nhất Giai Hồng Trang
+51100;Nhất Giai Hồng Trang Nhất Tinh
+51101;Nhị Giai Lam Trang
+51102;Nhị Giai Tử Trang
+51103;Nhị Giai Chanh Trang
+51104;Nhị Giai Hồng Trang
+51105;Nhị Giai Hồng Trang Nhất Tinh
+51201;Tam Giai Lam Trang
+51202;Tam Giai Tử Trang
+51203;Tam Giai Chanh Trang
+51204;Tam Giai Hồng Trang
+51205;Tam Giai Hồng Trang Nhất Tinh
+51301;Tứ Giai Lam Trang
+51302;Tứ Giai Tử Trang
+51303;Tứ Giai Chanh Trang
+51304;Tứ Giai Hồng Trang
+51305;Tứ Giai Hồng Trang Nhất Tinh
+51307;Tứ Giai Hồng Trang Tam Tinh
+51401;Ngũ Giai Lam Trang
+51402;Ngũ Giai Tử Trang
+51403;Ngũ Giai Chanh Trang
+51404;Ngũ Giai Hồng Trang
+51405;Ngũ Giai Hồng Trang Nhất Tinh
+51501;Lục Giai Lam Trang
+51502;Lục Giai Tử Trang
+51503;Lục Giai Chanh Trang
+51504;Lục Giai Hồng Trang
+51505;Lục Giai Hồng Trang Nhất Tinh
+51601;Thất Giai Lam Trang
+51602;Thất Giai Tử Trang
+51603;Thất Giai Chanh Trang
+51604;Thất Giai Hồng Trang
+51605;Thất Giai Hồng Trang Nhất Tinh
+51701;Bát Giai Lam Trang
+51702;Bát Giai Tử Trang
+51703;Bát Giai Chanh Trang
+51704;Bát Giai Hồng Trang
+51705;Bát Giai Hồng Trang Nhất Tinh
+51801;Cửu Giai Lam Trang
+51802;Cửu Giai Tử Trang
+51803;Cửu Giai Chanh Trang
+51804;Cửu Giai Hồng Trang
+51805;Cửu Giai Hồng Trang Nhất Tinh
+52094;Nhất Giai Trang Bị Bảo Rương
+52095;Nhất Giai Trang Bị Bảo Rương
+52096;Nhất Giai Trang Bị Bảo Rương
+52097;Nhất Giai Trang Bị Bảo Rương
+52098;Nhất Giai Trang Bị Bảo Rương
+52099;Nhất Giai Trang Bị Bảo Rương
+52100;Nhất Giai Trang Bị Bảo Rương
+52101;Nhị Giai Trang Bị Bảo Rương
+52102;Nhị Giai Trang Bị Bảo Rương
+52103;Nhị Giai Trang Bị Bảo Rương
+52104;Nhị Giai Trang Bị Bảo Rương
+52105;Nhị Giai Trang Bị Bảo Rương
+52106;Nhị Giai Trang Bị Bảo Rương
+52107;Nhị Giai Trang Bị Bảo Rương
+52201;Tam Giai Trang Bị Bảo Rương
+52202;Tam Giai Trang Bị Bảo Rương
+52203;Tam Giai Trang Bị Bảo Rương
+52204;Tam Giai Trang Bị Bảo Rương
+52205;Tam Giai Trang Bị Bảo Rương
+52206;Tam Giai Trang Bị Bảo Rương
+52207;Tam Giai Trang Bị Bảo Rương
+52301;Tứ Giai Trang Bị Bảo Rương
+52302;Tứ Giai Trang Bị Bảo Rương
+52303;Tứ Giai Trang Bị Bảo Rương
+52304;Tứ Giai Trang Bị Bảo Rương
+52305;Tứ Giai Trang Bị Bảo Rương
+52306;Tứ Giai Trang Bị Bảo Rương
+52307;Tứ Giai Trang Bị Bảo Rương
+52401;Ngũ Giai Trang Bị Bảo Rương
+52402;Ngũ Giai Trang Bị Bảo Rương
+52403;Ngũ Giai Trang Bị Bảo Rương
+52404;Ngũ Giai Trang Bị Bảo Rương
+52405;Ngũ Giai Trang Bị Bảo Rương
+52406;Ngũ Giai Trang Bị Bảo Rương
+52407;Ngũ Giai Trang Bị Bảo Rương
+52501;Lục Giai Trang Bị Bảo Rương
+52502;Lục Giai Trang Bị Bảo Rương
+52503;Lục Giai Trang Bị Bảo Rương
+52504;Lục Giai Trang Bị Bảo Rương
+52505;Lục Giai Trang Bị Bảo Rương
+52506;Lục Giai Trang Bị Bảo Rương
+52507;Lục Giai Trang Bị Bảo Rương
+52601;Thất Giai Trang Bị Bảo Rương
+52602;Thất Giai Trang Bị Bảo Rương
+52603;Thất Giai Trang Bị Bảo Rương
+52604;Thất Giai Trang Bị Bảo Rương
+52605;Thất Giai Trang Bị Bảo Rương
+52606;Thất Giai Trang Bị Bảo Rương
+52607;Thất Giai Trang Bị Bảo Rương
+52701;Bát Giai Trang Bị Bảo Rương
+52702;Bát Giai Trang Bị Bảo Rương
+52703;Bát Giai Trang Bị Bảo Rương
+52704;Bát Giai Trang Bị Bảo Rương
+52705;Bát Giai Trang Bị Bảo Rương
+52706;Bát Giai Trang Bị Bảo Rương
+52707;Bát Giai Trang Bị Bảo Rương
+52801;Cửu Giai Trang Bị Bảo Rương
+52802;Cửu Giai Trang Bị Bảo Rương
+52803;Cửu Giai Trang Bị Bảo Rương
+52804;Cửu Giai Trang Bị Bảo Rương
+52805;Cửu Giai Trang Bị Bảo Rương
+52806;Cửu Giai Trang Bị Bảo Rương
+52807;Cửu Giai Trang Bị Bảo Rương
+53094;Nhất Giai Hi Hữu Trang Bị Bảo Rương
+53095;Nhất Giai Hi Hữu Trang Bị Bảo Rương
+53096;Nhất Giai Hi Hữu Trang Bị Bảo Rương
+53097;Nhất Giai Hi Hữu Trang Bị Bảo Rương
+53098;Nhất Giai Hi Hữu Trang Bị Bảo Rương
+53099;Nhất Giai Hi Hữu Trang Bị Bảo Rương
+53100;Nhất Giai Hi Hữu Trang Bị Bảo Rương
+53101;Nhị Giai Hi Hữu Trang Bị Bảo Rương
+53102;Nhị Giai Hi Hữu Trang Bị Bảo Rương
+53103;Nhị Giai Hi Hữu Trang Bị Bảo Rương
+53104;Nhị Giai Hi Hữu Trang Bị Bảo Rương
+53105;Nhị Giai Hi Hữu Trang Bị Bảo Rương
+53106;Nhị Giai Hi Hữu Trang Bị Bảo Rương
+53107;Nhị Giai Hi Hữu Trang Bị Bảo Rương
+53201;Tam Giai Hi Hữu Trang Bị Bảo Rương
+53202;Tam Giai Hi Hữu Trang Bị Bảo Rương
+53203;Tam Giai Hi Hữu Trang Bị Bảo Rương
+53204;Tam Giai Hi Hữu Trang Bị Bảo Rương
+53205;Tam Giai Hi Hữu Trang Bị Bảo Rương
+53206;Tam Giai Hi Hữu Trang Bị Bảo Rương
+53207;Tam Giai Hi Hữu Trang Bị Bảo Rương
+53301;Tứ Giai Hi Hữu Trang Bị Bảo Rương
+53302;Tứ Giai Hi Hữu Trang Bị Bảo Rương
+53303;Tứ Giai Hi Hữu Trang Bị Bảo Rương
+53304;Tứ Giai Hi Hữu Trang Bị Bảo Rương
+53305;Tứ Giai Hi Hữu Trang Bị Bảo Rương
+53306;Tứ Giai Hi Hữu Trang Bị Bảo Rương
+53307;Tứ Giai Hi Hữu Trang Bị Bảo Rương
+53401;Ngũ Giai Hi Hữu Trang Bị Bảo Rương
+53402;Ngũ Giai Hi Hữu Trang Bị Bảo Rương
+53403;Ngũ Giai Hi Hữu Trang Bị Bảo Rương
+53404;Ngũ Giai Hi Hữu Trang Bị Bảo Rương
+53405;Ngũ Giai Hi Hữu Trang Bị Bảo Rương
+53406;Ngũ Giai Hi Hữu Trang Bị Bảo Rương
+53407;Ngũ Giai Hi Hữu Trang Bị Bảo Rương
+53501;Lục Giai Hi Hữu Trang Bị Bảo Rương
+53502;Lục Giai Hi Hữu Trang Bị Bảo Rương
+53503;Lục Giai Hi Hữu Trang Bị Bảo Rương
+53504;Lục Giai Hi Hữu Trang Bị Bảo Rương
+53505;Lục Giai Hi Hữu Trang Bị Bảo Rương
+53506;Lục Giai Hi Hữu Trang Bị Bảo Rương
+53507;Lục Giai Hi Hữu Trang Bị Bảo Rương
+53601;Thất Giai Hi Hữu Trang Bị Bảo Rương
+53602;Thất Giai Hi Hữu Trang Bị Bảo Rương
+53603;Thất Giai Hi Hữu Trang Bị Bảo Rương
+53604;Thất Giai Hi Hữu Trang Bị Bảo Rương
+53605;Thất Giai Hi Hữu Trang Bị Bảo Rương
+53606;Thất Giai Hi Hữu Trang Bị Bảo Rương
+53607;Thất Giai Hi Hữu Trang Bị Bảo Rương
+53701;Bát Giai Hi Hữu Trang Bị Bảo Rương
+53702;Bát Giai Hi Hữu Trang Bị Bảo Rương
+53703;Bát Giai Hi Hữu Trang Bị Bảo Rương
+53704;Bát Giai Hi Hữu Trang Bị Bảo Rương
+53705;Bát Giai Hi Hữu Trang Bị Bảo Rương
+53706;Bát Giai Hi Hữu Trang Bị Bảo Rương
+53707;Bát Giai Hi Hữu Trang Bị Bảo Rương
+53801;Cửu Giai Hi Hữu Trang Bị Bảo Rương
+53802;Cửu Giai Hi Hữu Trang Bị Bảo Rương
+53803;Cửu Giai Hi Hữu Trang Bị Bảo Rương
+53804;Cửu Giai Hi Hữu Trang Bị Bảo Rương
+53805;Cửu Giai Hi Hữu Trang Bị Bảo Rương
+53806;Cửu Giai Hi Hữu Trang Bị Bảo Rương
+53807;Cửu Giai Hi Hữu Trang Bị Bảo Rương
+53901;Tông Môn Quỹ Tặng Bảo Rương
+53902;Tích Phần Hào Lễ Bảo Rương
+53903;13 Cấp Công Kích Bảo Thạch Lễ Bao
+53904;12 Cấp Công Kích Bảo Thạch Lễ Bao
+53905;8 Cấp Công Kích Bảo Thạch Lễ Bao
+54001;Nhất Giai Vi Liệp Trung Cấp Bảo Rương
+54002;Nhị Giai Vi Liệp Trung Cấp Bảo Rương
+54003;Tam Giai Vi Liệp Trung Cấp Bảo Rương
+54004;Tứ Giai Vi Liệp Trung Cấp Bảo Rương
+54005;Ngũ Giai Vi Liệp Trung Cấp Bảo Rương
+54006;Lục Giai Vi Liệp Trung Cấp Bảo Rương
+54007;Thất Giai Vi Liệp Trung Cấp Bảo Rương
+54008;Bát Giai Vi Liệp Trung Cấp Bảo Rương
+54101;Nhất Giai Vi Liệp Cao Cấp Bảo Rương
+54102;Nhị Giai Vi Liệp Cao Cấp Bảo Rương
+54103;Tam Giai Vi Liệp Cao Cấp Bảo Rương
+54104;Tứ Giai Vi Liệp Cao Cấp Bảo Rương
+54105;Ngũ Giai Vi Liệp Cao Cấp Bảo Rương
+54106;Lục Giai Vi Liệp Cao Cấp Bảo Rương
+54107;Thất Giai Vi Liệp Cao Cấp Bảo Rương
+54108;Bát Giai Vi Liệp Cao Cấp Bảo Rương
+54109;Nhất Giai Vi Liệp Quy Chúc Bảo Rương
+54110;Nhất Giai Vi Liệp Quy Chúc Bảo Rương
+54111;Nhị Giai Vi Liệp Quy Chúc Bảo Rương
+54112;Nhị Giai Vi Liệp Quy Chúc Bảo Rương
+54113;Nhị Giai Vi Liệp Quy Chúc Bảo Rương
+54114;Tam Giai Vi Liệp Quy Chúc Bảo Rương
+54115;Tam Giai Vi Liệp Quy Chúc Bảo Rương
+54116;Tứ Giai Vi Liệp Quy Chúc Bảo Rương
+54117;Tứ Giai Vi Liệp Quy Chúc Bảo Rương
+54118;Ngũ Giai Vi Liệp Quy Chúc Bảo Rương
+54119;Ngũ Giai Vi Liệp Quy Chúc Bảo Rương
+54120;Lục Giai Vi Liệp Quy Chúc Bảo Rương
+54121;Lục Giai Vi Liệp Quy Chúc Bảo Rương
+54122;Thất Giai Vi Liệp Quy Chúc Bảo Rương
+54123;Bát Giai Vi Liệp Quy Chúc Bảo Rương
+54124;Cửu Giai Vi Liệp Quy Chúc Bảo Rương
+55001;Vô Tận Tương Lĩnh Bảo Rương
+55002;Nghịch Kim Kình Lôi Bảo Rương
+55003;Sâm La Vạn Tượng Bảo Rương
+55004;Bích Hải Nộ Đào Bảo Rương
+55005;Thương Diễm Dung Tâm Bảo Rương
+55006;Băng Nham Hàng Thế Bảo Rương
+55007;Tà Tâm Mị Ngục Bảo Rương
+56001;Minh Thụ Nguyên Tinh Bảo Rương
+56002;Cực Phách Tâm Thạch Bảo Rương
+56003;Hỗn Độn Linh Bảo Bảo Rương
+57001;Thiên Ma Thảo
+57002;Dưỡng Nguyên Thảo
+57003;Hoàng Long Thảo
+57004;Long Hổ Thảo
+57005;Khai Dương Thảo
+57006;Tương Lộ Thảo
+57007;Tử Linh Thảo
+57008;Song Long Thảo
+57009;Ô Đầu Thảo
+57010;Minh Tinh Thảo
+57011;Thiên Xu Thảo
+57012;Quỷ Vương Thảo
+57013;Thái Âm Thảo
+57014;Hồi Hồn Thảo
+57015;Thái Huyền Thảo
+57016;Long Lân Thảo
+57301;Băng Linh Quả
+57302;Cửu Đỉnh Quả
+57303;Thiên Tuyền Quả
+57304;Tịch Thần Quả
+57305;Huyền Minh Quả
+57306;Vô Cực Quả
+57307;Bích Ngẫu Quả
+57308;Kim Ô Quả
+57309;Giao Long Quả
+57310;Càn Nguyên Quả
+57311;Âm Dương Quả
+57312;Cửu Tiêu Quả
+57313;Huyết Ngưng Quả
+57314;Bắc Cực Quả
+57315;Huyền Hỏa Quả
+57316;Tuyết Liên Quả
+57601;Đỉnh Thực Chưng Nhũ Cáp
+57602;Càn Nguyên Bính
+57603;Vô Cực Tuyết Hoa Kê
+57604;Lương Phan Tương Lộ Ti
+57605;Thiên Xu Huyền Quả Chúc
+57606;Kim Ô Tương Tiên Ngư
+57607;Khiếu Nguyệt Lang Cốt
+57608;Tiên Thiên Khảo Yêu Hoa
+57609;Long Hổ Hương Xuyến
+57610;Hoàng Long Cao
+57611;Dưỡng Nguyên Tịch Thần Phạn
+57612;Minh Hỏa Thiêu Nhục
+57613;Địch Hồn Nguyên Anh Diện
+57614;Long Lân Cốt Quái Phạn
+57615;Thiên Tuyền Khảo Thú Tích
+57616;Dưỡng Nguyên Thần Ma Tửu
+57801;2 Giai Dưỡng Thành Trang Bị Lễ Bao
+57802;3 Giai Dưỡng Thành Trang Bị Lễ Bao
+57803;4 Giai Dưỡng Thành Trang Bị Lễ Bao
+57804;5 Giai Dưỡng Thành Trang Bị Lễ Bao
+57805;6 Giai Dưỡng Thành Trang Bị Lễ Bao
+57901;5 Giai Dưỡng Thành Trang Bị Lễ Bao
+57902;5 Giai Dưỡng Thành Trang Bị Lễ Bao
+57903;7 Giai Tọa Kỵ Dưỡng Thành Trang Bị Lễ Bao
+57904;1 Giai Thần Binh Dưỡng Thành Trang Bị
+57905;2 Giai Thần Binh Dưỡng Thành Trang Bị
+57906;3 Giai Thần Binh Dưỡng Thành Trang Bị
+57907;4 Giai Thần Binh Dưỡng Thành Trang Bị
+57908;5 Giai Thần Binh Dưỡng Thành Trang Bị
+57909;6 Giai Thần Binh Dưỡng Thành Trang Bị
+57910;7 Giai Thần Binh Dưỡng Thành Trang Bị
+57911;8 Giai Thần Binh Dưỡng Thành Trang Bị
+57912;9 Giai Thần Binh Dưỡng Thành Trang Bị
+57913;10 Giai Thần Binh Dưỡng Thành Trang Bị
+57914;1 Giai Vũ Dực Dưỡng Thành Trang Bị
+57915;2 Giai Vũ Dực Dưỡng Thành Trang Bị
+57916;3 Giai Vũ Dực Dưỡng Thành Trang Bị
+57917;4 Giai Vũ Dực Dưỡng Thành Trang Bị
+57918;5 Giai Vũ Dực Dưỡng Thành Trang Bị
+57919;6 Giai Vũ Dực Dưỡng Thành Trang Bị
+57920;7 Giai Vũ Dực Dưỡng Thành Trang Bị
+57921;8 Giai Vũ Dực Dưỡng Thành Trang Bị
+57922;9 Giai Vũ Dực Dưỡng Thành Trang Bị
+57923;10 Giai Vũ Dực Dưỡng Thành Trang Bị
+57924;1 Giai Tọa Kỵ Dưỡng Thành Trang Bị
+57925;2 Giai Tọa Kỵ Dưỡng Thành Trang Bị
+57926;3 Giai Tọa Kỵ Dưỡng Thành Trang Bị
+57927;4 Giai Tọa Kỵ Dưỡng Thành Trang Bị
+57928;5 Giai Tọa Kỵ Dưỡng Thành Trang Bị
+57929;6 Giai Tọa Kỵ Dưỡng Thành Trang Bị
+57930;7 Giai Tọa Kỵ Dưỡng Thành Trang Bị
+57931;8 Giai Tọa Kỵ Dưỡng Thành Trang Bị
+57932;9 Giai Tọa Kỵ Dưỡng Thành Trang Bị
+57933;10 Giai Tọa Kỵ Dưỡng Thành Trang Bị
+57999;Tùy Cơ Dưỡng Thành Trang Bị Lễ Bao
+58001;Đệ Nhị Trọng Quỷ Chu Tham Dữ Bảo Rương
+58002;Đệ Nhị Trọng Quỷ Chu Quy Chúc Bảo Rương
+58003;Đệ Nhị Trọng Bạo Hùng Tham Dữ Bảo Rương
+58004;Đệ Nhị Trọng Bạo Hùng Quy Chúc Bảo Rương
+58005;Đệ Nhị Trọng Tuyệt Tiên Tham Dữ Bảo Rương
+58006;Đệ Nhị Trọng Tuyệt Tiên Quy Chúc Bảo Rương
+58007;Đệ Nhị Trọng Nham Thú Tham Dữ Bảo Rương
+58008;Đệ Nhị Trọng Nham Thú Quy Chúc Bảo Rương
+58009;Đệ Nhị Trọng Ma Nữ Tham Dữ Bảo Rương
+58010;Đệ Nhị Trọng Ma Nữ Quy Chúc Bảo Rương
+58011;Đệ Nhị Trọng Kiếm Ma Tham Dữ Bảo Rương
+58012;Đệ Nhị Trọng Kiếm Ma Quy Chúc Bảo Rương
+58013;Đệ Nhị Trọng Giao Long Tham Dữ Bảo Rương
+58014;Đệ Nhị Trọng Giao Long Quy Chúc Bảo Rương
+58015;Đệ Tam Trọng Quỷ Chu Tham Dữ Bảo Rương
+58016;Đệ Tam Trọng Quỷ Chu Quy Chúc Bảo Rương
+58017;Đệ Tam Trọng Bạo Hùng Tham Dữ Bảo Rương
+58018;Đệ Tam Trọng Bạo Hùng Quy Chúc Bảo Rương
+58019;Đệ Tam Trọng Tuyệt Tiên Tham Dữ Bảo Rương
+58020;Đệ Tam Trọng Tuyệt Tiên Quy Chúc Bảo Rương
+58021;Đệ Tam Trọng Nham Thú Tham Dữ Bảo Rương
+58022;Đệ Tam Trọng Nham Thú Quy Chúc Bảo Rương
+58023;Đệ Tam Trọng Ma Nữ Tham Dữ Bảo Rương
+58024;Đệ Tam Trọng Ma Nữ Quy Chúc Bảo Rương
+58025;Đệ Tam Trọng Kiếm Ma Tham Dữ Bảo Rương
+58026;Đệ Tam Trọng Kiếm Ma Quy Chúc Bảo Rương
+58027;Đệ Tam Trọng Giao Long Tham Dữ Bảo Rương
+58028;Đệ Tam Trọng Giao Long Quy Chúc Bảo Rương
+58029;Đệ Tứ Trọng Quỷ Chu Tham Dữ Bảo Rương
+58030;Đệ Tứ Trọng Quỷ Chu Quy Chúc Bảo Rương
+58031;Đệ Tứ Trọng Bạo Hùng Tham Dữ Bảo Rương
+58032;Đệ Tứ Trọng Bạo Hùng Quy Chúc Bảo Rương
+58033;Đệ Tứ Trọng Tuyệt Tiên Tham Dữ Bảo Rương
+58034;Đệ Tứ Trọng Tuyệt Tiên Quy Chúc Bảo Rương
+58035;Đệ Tứ Trọng Nham Thú Tham Dữ Bảo Rương
+58036;Đệ Tứ Trọng Nham Thú Quy Chúc Bảo Rương
+58037;Đệ Tứ Trọng Ma Nữ Tham Dữ Bảo Rương
+58038;Đệ Tứ Trọng Ma Nữ Quy Chúc Bảo Rương
+58039;Đệ Tứ Trọng Kiếm Ma Tham Dữ Bảo Rương
+58040;Đệ Tứ Trọng Kiếm Ma Quy Chúc Bảo Rương
+58041;Đệ Tứ Trọng Giao Long Tham Dữ Bảo Rương
+58042;Đệ Tứ Trọng Giao Long Quy Chúc Bảo Rương
+58043;Đệ Ngũ Trọng Quỷ Chu Tham Dữ Bảo Rương
+58044;Đệ Ngũ Trọng Quỷ Chu Quy Chúc Bảo Rương
+58045;Đệ Ngũ Trọng Bạo Hùng Tham Dữ Bảo Rương
+58046;Đệ Ngũ Trọng Bạo Hùng Quy Chúc Bảo Rương
+58047;Đệ Ngũ Trọng Tuyệt Tiên Tham Dữ Bảo Rương
+58048;Đệ Ngũ Trọng Tuyệt Tiên Quy Chúc Bảo Rương
+58049;Đệ Ngũ Trọng Nham Thú Tham Dữ Bảo Rương
+58050;Đệ Ngũ Trọng Nham Thú Quy Chúc Bảo Rương
+58051;Đệ Ngũ Trọng Ma Nữ Tham Dữ Bảo Rương
+58052;Đệ Ngũ Trọng Ma Nữ Quy Chúc Bảo Rương
+58053;Đệ Ngũ Trọng Kiếm Ma Tham Dữ Bảo Rương
+58054;Đệ Ngũ Trọng Kiếm Ma Quy Chúc Bảo Rương
+58055;Đệ Ngũ Trọng Giao Long Tham Dữ Bảo Rương
+58056;Đệ Ngũ Trọng Giao Long Quy Chúc Bảo Rương
+58057;Đệ Lục Trọng Quỷ Chu Tham Dữ Bảo Rương
+58058;Đệ Lục Trọng Quỷ Chu Quy Chúc Bảo Rương
+58059;Đệ Lục Trọng Bạo Hùng Tham Dữ Bảo Rương
+58060;Đệ Lục Trọng Bạo Hùng Quy Chúc Bảo Rương
+58061;Đệ Lục Trọng Tuyệt Tiên Tham Dữ Bảo Rương
+58062;Đệ Lục Trọng Tuyệt Tiên Quy Chúc Bảo Rương
+58063;Đệ Lục Trọng Nham Thú Tham Dữ Bảo Rương
+58064;Đệ Lục Trọng Nham Thú Quy Chúc Bảo Rương
+58065;Đệ Lục Trọng Ma Nữ Tham Dữ Bảo Rương
+58066;Đệ Lục Trọng Ma Nữ Quy Chúc Bảo Rương
+58067;Đệ Lục Trọng Kiếm Ma Tham Dữ Bảo Rương
+58068;Đệ Lục Trọng Kiếm Ma Quy Chúc Bảo Rương
+58069;Đệ Lục Trọng Giao Long Tham Dữ Bảo Rương
+58070;Đệ Lục Trọng Giao Long Quy Chúc Bảo Rương
+58071;Đệ Thất Trọng Quỷ Chu Tham Dữ Bảo Rương
+58072;Đệ Thất Trọng Quỷ Chu Quy Chúc Bảo Rương
+58073;Đệ Thất Trọng Bạo Hùng Tham Dữ Bảo Rương
+58074;Đệ Thất Trọng Bạo Hùng Quy Chúc Bảo Rương
+58075;Đệ Thất Trọng Tuyệt Tiên Tham Dữ Bảo Rương
+58076;Đệ Thất Trọng Tuyệt Tiên Quy Chúc Bảo Rương
+58077;Đệ Thất Trọng Nham Thú Tham Dữ Bảo Rương
+58078;Đệ Thất Trọng Nham Thú Quy Chúc Bảo Rương
+58079;Đệ Thất Trọng Ma Nữ Tham Dữ Bảo Rương
+58080;Đệ Thất Trọng Ma Nữ Quy Chúc Bảo Rương
+58081;Đệ Thất Trọng Kiếm Ma Tham Dữ Bảo Rương
+58082;Đệ Thất Trọng Kiếm Ma Quy Chúc Bảo Rương
+58083;Đệ Thất Trọng Giao Long Tham Dữ Bảo Rương
+58084;Đệ Thất Trọng Giao Long Quy Chúc Bảo Rương
+58085;Đệ Bát Trọng Quỷ Chu Tham Dữ Bảo Rương
+58086;Đệ Bát Trọng Quỷ Chu Quy Chúc Bảo Rương
+58087;Đệ Bát Trọng Bạo Hùng Tham Dữ Bảo Rương
+58088;Đệ Bát Trọng Bạo Hùng Quy Chúc Bảo Rương
+58089;Đệ Bát Trọng Tuyệt Tiên Tham Dữ Bảo Rương
+58090;Đệ Bát Trọng Tuyệt Tiên Quy Chúc Bảo Rương
+58091;Đệ Bát Trọng Nham Thú Tham Dữ Bảo Rương
+58092;Đệ Bát Trọng Nham Thú Quy Chúc Bảo Rương
+58093;Đệ Bát Trọng Ma Nữ Tham Dữ Bảo Rương
+58094;Đệ Bát Trọng Ma Nữ Quy Chúc Bảo Rương
+58095;Đệ Bát Trọng Kiếm Ma Tham Dữ Bảo Rương
+58096;Đệ Bát Trọng Kiếm Ma Quy Chúc Bảo Rương
+58097;Đệ Bát Trọng Giao Long Tham Dữ Bảo Rương
+58098;Đệ Bát Trọng Giao Long Quy Chúc Bảo Rương
+58099;Đệ Cửu Trọng Quỷ Chu Tham Dữ Bảo Rương
+58100;Đệ Cửu Trọng Quỷ Chu Quy Chúc Bảo Rương
+58101;Đệ Cửu Trọng Bạo Hùng Tham Dữ Bảo Rương
+58102;Đệ Cửu Trọng Bạo Hùng Quy Chúc Bảo Rương
+58103;Đệ Cửu Trọng Tuyệt Tiên Tham Dữ Bảo Rương
+58104;Đệ Cửu Trọng Tuyệt Tiên Quy Chúc Bảo Rương
+58105;Đệ Cửu Trọng Nham Thú Tham Dữ Bảo Rương
+58106;Đệ Cửu Trọng Nham Thú Quy Chúc Bảo Rương
+58107;Đệ Cửu Trọng Ma Nữ Tham Dữ Bảo Rương
+58108;Đệ Cửu Trọng Ma Nữ Quy Chúc Bảo Rương
+58109;Đệ Cửu Trọng Kiếm Ma Tham Dữ Bảo Rương
+58110;Đệ Cửu Trọng Kiếm Ma Quy Chúc Bảo Rương
+58111;Đệ Cửu Trọng Giao Long Tham Dữ Bảo Rương
+58112;Đệ Cửu Trọng Giao Long Quy Chúc Bảo Rương
+58113;Đệ Nhất Trọng Quỷ Chu Tham Dữ Bảo Rương
+58114;Đệ Nhất Trọng Quỷ Chu Quy Chúc Bảo Rương
+58115;Đệ Nhất Trọng Bạo Hùng Tham Dữ Bảo Rương
+58116;Đệ Nhất Trọng Bạo Hùng Quy Chúc Bảo Rương
+58117;Đệ Nhất Trọng Tuyệt Tiên Tham Dữ Bảo Rương
+58118;Đệ Nhất Trọng Tuyệt Tiên Quy Chúc Bảo Rương
+58119;Đệ Nhất Trọng Nham Thú Tham Dữ Bảo Rương
+58120;Đệ Nhất Trọng Nham Thú Quy Chúc Bảo Rương
+58121;Đệ Nhất Trọng Ma Nữ Tham Dữ Bảo Rương
+58122;Đệ Nhất Trọng Ma Nữ Quy Chúc Bảo Rương
+58123;Đệ Nhất Trọng Kiếm Ma Tham Dữ Bảo Rương
+58124;Đệ Nhất Trọng Kiếm Ma Quy Chúc Bảo Rương
+58125;Đệ Nhất Trọng Giao Long Tham Dữ Bảo Rương
+58126;Đệ Nhất Trọng Giao Long Quy Chúc Bảo Rương
+59001;1 Giai Dưỡng Thành Lễ Bao
+59002;2 Giai Dưỡng Thành Lễ Bao
+59003;3 Giai Dưỡng Thành Lễ Bao
+59004;4 Giai Dưỡng Thành Lễ Bao
+59006;5 Giai Dưỡng Thành Lễ Bao
+59008;1 Giai Trang Bị Lễ Bao
+59009;2 Giai Trang Bị Lễ Bao
+59010;3 Giai Trang Bị Lễ Bao
+59012;4 Giai Trang Bị Lễ Bao
+59013;5 Cực Trang Bị Lễ Bao
+59015;1 Giai Pháp Bảo Lễ Bao
+59016;2 Cực Pháp Bảo Lễ Bao
+59017;3 Cấp Pháp Bảo Lễ Bao
+59018;4 Cấp Pháp Bảo Lễ Bao
+59020;5 Cấp Pháp Bảo Lễ Bao
+59021;Thối Luyện Đan Lễ Bao
+59022;Tiềm Năng Đan Lễ Bao
+59023;Thần Binh Trang Bị Đại Lễ Bao
+59024;Vũ Dực Trang Bị Đại Lễ Bao
+59025;Tọa Kỵ Trang Bị Đại Lễ Bao
+59100;Mỗi Nhật Đặc Huệ Lễ Bao
+59110;Sơ Cấp Ngân Lượng Lễ Bao
+59120;Trung Cấp Ngân Lượng Lễ Bao
+59130;Cao Cấp Ngân Lượng Lễ Bao
+59140;Chí Tôn Ngân Lượng Lễ Bao
+59150;Sơ Cấp Thần Binh Lễ Bao
+59160;Trung Cấp Thần Binh Lễ Bao
+59161;Thần Binh Dưỡng Thành
+59170;Cao Cấp Thần Binh Lễ Bao
+59180;Chí Tôn Thần Binh Lễ Bao
+59181;Thần Binh Dưỡng Thành
+59190;Sơ Cấp Vũ Dực Lễ Bao
+59200;Trung Cấp Vũ Dực Lễ Bao
+59201;Vũ Dực Dưỡng Thành
+59210;Cao Cấp Vũ Dực Lễ Bao
+59220;Chí Tôn Vũ Dực Lễ Bao
+59221;Vũ Dực Dưỡng Thành
+59230;Sơ Cấp Tọa Kỵ Lễ Bao
+59240;Trung Cấp Tọa Kỵ Lễ Bao
+59241;Tọa Kỵ Dưỡng Thành
+59250;Cao Cấp Tọa Kỵ Lễ Bao
+59260;Chí Tôn Tọa Kỵ Lễ Bao
+59261;Tọa Kỵ Dưỡng Thành
+59270;Sơ Cấp Trang Bị Lễ Bao
+59271;Hồng Trang Lễ Bao
+59280;Trung Cấp Trang Bị Lễ Bao
+59290;Cao Cấp Trang Bị Lễ Bao
+59300;Chí Tôn Trang Bị Lễ Bao
+59310;Sơ Cấp Pháp Bảo Lễ Bao
+59320;Trung Cấp Pháp Bảo Lễ Bao
+59330;Cao Cấp Pháp Bảo Lễ Bao
+59340;Chí Tôn Pháp Bảo Lễ Bao
+59350;Sơ Cấp Thì Trang Lễ Bao
+59360;Trung Cấp Thì Trang Lễ Bao
+59361;Thì Trang Lễ Bao Nhị
+59370;Cao Cấp Thì Trang Lễ Bao
+59371;Thì Trang Lễ Bao Ba
+59380;Chí Tôn Thì Trang Lễ Bao
+59381;Thì Trang Lễ Bao Tứ
+59390;Đê Cấp Bí Thuật Điển Tịch
+59400;Sơ Cấp Túc Tích Lễ Bao
+59410;Trung Cấp Túc Tích Lễ Bao
+59420;Cao Cấp Túc Tích Lễ Bao
+59430;Chí Tôn Túc Tích Lễ Bao
+59502;2 Giai Thần Binh Trang Bị
+59504;4 Giai Thần Binh Trang Bị
+59512;2 Giai Tọa Kỵ Trang Bị
+59514;4 Giai Tọa Kỵ Trang Bị
+59522;2 Giai Vũ Dực Trang Bị
+59524;2 Giai Vũ Dực Trang Bị
+59901;Dịch Ba Nhất Tằng Ảm Đạm Bảo Rương
+59902;Dịch Ba Nhất Tằng Sơ Cấp Bảo Rương
+59903;Dịch Ba Nhất Tằng Trung Cấp Bảo Rương
+59904;Dịch Ba Nhất Tằng Cao Cấp Bảo Rương
+59905;Dịch Ba Nhị Tằng Sơ Cấp Bảo Rương
+59906;Dịch Ba Nhị Tằng Trung Cấp Bảo Rương
+59907;Dịch Ba Nhị Tằng Cao Cấp Bảo Rương
+59908;Dịch Ba Tam Tằng Sơ Cấp Bảo Rương
+59909;Dịch Ba Tam Tằng Trung Cấp Bảo Rương
+59910;Dịch Ba Tam Tằng Cao Cấp Bảo Rương
+59911;Dịch Ba Tứ Tằng Sơ Cấp Bảo Rương
+59912;Dịch Ba Tứ Tằng Trung Cấp Bảo Rương
+59913;Dịch Ba Tứ Tằng Cao Cấp Bảo Rương
+59914;Dịch Ba Ngũ Tằng Sơ Cấp Bảo Rương
+59915;Dịch Ba Ngũ Tằng Trung Cấp Bảo Rương
+59916;Dịch Ba Ngũ Tằng Cao Cấp Bảo Rương
+59917;Dịch Ba Lục Tằng Sơ Cấp Bảo Rương
+59918;Dịch Ba Lục Tằng Trung Cấp Bảo Rương
+59919;Dịch Ba Lục Tằng Cao Cấp Bảo Rương
+60001;Nhất Giai Kích Sát Bảo Rương
+60002;Nhị Giai Kích Sát Bảo Rương
+60003;Tam Giai Kích Sát Bảo Rương
+60004;Tứ Giai Kích Sát Bảo Rương
+60005;Ngũ Giai Kích Sát Bảo Rương
+60006;Lục Giai Kích Sát Bảo Rương
+60007;Thất Giai Kích Sát Bảo Rương
+60008;Bát Giai Kích Sát Bảo Rương
+60009;Cửu Giai Kích Sát Bảo Rương
+60105;Cự Huệ5 Chiết Khoán
+60106;Cự Huệ6 Chiết Khoán
+60107;Cự Huệ7 Chiết Khoán
+60108;Cự Huệ8 Chiết Khoán
+60109;Cự Huệ9 Chiết Khoán
+61001;200 Ngọc Phù Để Dụng Khoán
+61002;2000 Ngọc Phù Để Dụng Khoán
+61003;5000 Ngọc Phù Để Dụng Khoán
+61004;1000 Ngọc Phù Để Dụng Khoán
+61005;2000 Ngọc Phù Để Dụng Khoán
+61006;Quái Thú Phúc Đại
+62000;Xuân Tiết Phúc Đại
+62001;Phi Hỏa Lưu Tinh
+62002;Bạo Trúc
+62003;Ứng Long Bảo Rương
+62004;Thiên Công Tạc
+62005;1 Giai Công Kích Phụ Ma
+62006;2 Giai Công Kích Phụ Ma
+62007;3 Giai Công Kích Phụ Ma
+62008;4 Giai Công Kích Phụ Ma
+62009;5 Giai Công Kích Phụ Ma
+62010;6 Giai Công Kích Phụ Ma
+62011;7 Giai Công Kích Phụ Ma
+62012;8 Giai Công Kích Phụ Ma
+62013;9 Giai Công Kích Phụ Ma
+62014;1 Giai Công Kích Phụ Ma
+62015;2 Giai Công Kích Phụ Ma
+62016;3 Giai Công Kích Phụ Ma
+62017;4 Giai Công Kích Phụ Ma
+62018;5 Giai Công Kích Phụ Ma
+62019;6 Giai Công Kích Phụ Ma
+62020;7 Giai Công Kích Phụ Ma
+62021;8 Giai Công Kích Phụ Ma
+62022;9 Giai Công Kích Phụ Ma
+62023;1 Giai Công Kích Phụ Ma
+62024;2 Giai Công Kích Phụ Ma
+62025;3 Giai Công Kích Phụ Ma
+62026;4 Giai Công Kích Phụ Ma
+62027;5 Giai Công Kích Phụ Ma
+62028;6 Giai Công Kích Phụ Ma
+62029;7 Giai Công Kích Phụ Ma
+62030;8 Giai Công Kích Phụ Ma
+62031;9 Giai Công Kích Phụ Ma
+62032;1 Giai Công Kích Phụ Ma
+62033;2 Giai Công Kích Phụ Ma
+62034;3 Giai Công Kích Phụ Ma
+62035;4 Giai Công Kích Phụ Ma
+62036;5 Giai Công Kích Phụ Ma
+62037;6 Giai Công Kích Phụ Ma
+62038;7 Giai Công Kích Phụ Ma
+62039;8 Giai Công Kích Phụ Ma
+62040;9 Giai Công Kích Phụ Ma
+62041;Truyện Thuyết Công Kích Phụ Ma
+62042;Siêu Thần Công Kích Phụ Ma
+62043;Thiên Đạo Công Kích Phụ Ma
+62044;Chí Thánh Công Kích Phụ Ma
+62045;1 Giai Khí Huyết Phụ Ma
+62046;2 Giai Khí Huyết Phụ Ma
+62047;3 Giai Khí Huyết Phụ Ma
+62048;4 Giai Khí Huyết Phụ Ma
+62049;5 Giai Khí Huyết Phụ Ma
+62050;6 Giai Khí Huyết Phụ Ma
+62051;7 Giai Khí Huyết Phụ Ma
+62052;8 Giai Khí Huyết Phụ Ma
+62053;9 Giai Khí Huyết Phụ Ma
+62054;1 Giai Khí Huyết Phụ Ma
+62055;2 Giai Khí Huyết Phụ Ma
+62056;3 Giai Khí Huyết Phụ Ma
+62057;4 Giai Khí Huyết Phụ Ma
+62058;5 Giai Khí Huyết Phụ Ma
+62059;6 Giai Khí Huyết Phụ Ma
+62060;7 Giai Khí Huyết Phụ Ma
+62061;8 Giai Khí Huyết Phụ Ma
+62062;9 Giai Khí Huyết Phụ Ma
+62063;1 Giai Khí Huyết Phụ Ma
+62064;2 Giai Khí Huyết Phụ Ma
+62065;3 Giai Khí Huyết Phụ Ma
+62066;4 Giai Khí Huyết Phụ Ma
+62067;5 Giai Khí Huyết Phụ Ma
+62068;6 Giai Khí Huyết Phụ Ma
+62069;7 Giai Khí Huyết Phụ Ma
+62070;8 Giai Khí Huyết Phụ Ma
+62071;9 Giai Khí Huyết Phụ Ma
+62072;1 Giai Khí Huyết Phụ Ma
+62073;2 Giai Khí Huyết Phụ Ma
+62074;3 Giai Khí Huyết Phụ Ma
+62075;4 Giai Khí Huyết Phụ Ma
+62076;5 Giai Khí Huyết Phụ Ma
+62077;6 Giai Khí Huyết Phụ Ma
+62078;7 Giai Khí Huyết Phụ Ma
+62079;8 Giai Khí Huyết Phụ Ma
+62080;9 Giai Khí Huyết Phụ Ma
+62081;Truyện Thuyết Khí Huyết Phụ Ma
+62082;Siêu Thần Khí Huyết Phụ Ma
+62083;Thiên Đạo Khí Huyết Phụ Ma
+62084;Chí Thánh Khí Huyết Phụ Ma
+62085;1 Giai Mệnh Trung Phụ Ma
+62086;2 Giai Mệnh Trung Phụ Ma
+62087;3 Giai Mệnh Trung Phụ Ma
+62088;4 Giai Mệnh Trung Phụ Ma
+62089;5 Giai Mệnh Trung Phụ Ma
+62090;6 Giai Mệnh Trung Phụ Ma
+62091;7 Giai Mệnh Trung Phụ Ma
+62092;8 Giai Mệnh Trung Phụ Ma
+62093;9 Giai Mệnh Trung Phụ Ma
+62094;1 Giai Mệnh Trung Phụ Ma
+62095;2 Giai Mệnh Trung Phụ Ma
+62096;3 Giai Mệnh Trung Phụ Ma
+62097;4 Giai Mệnh Trung Phụ Ma
+62098;5 Giai Mệnh Trung Phụ Ma
+62099;6 Giai Mệnh Trung Phụ Ma
+62100;7 Giai Mệnh Trung Phụ Ma
+62101;8 Giai Mệnh Trung Phụ Ma
+62102;9 Giai Mệnh Trung Phụ Ma
+62103;1 Giai Mệnh Trung Phụ Ma
+62104;2 Giai Mệnh Trung Phụ Ma
+62105;3 Giai Mệnh Trung Phụ Ma
+62106;4 Giai Mệnh Trung Phụ Ma
+62107;5 Giai Mệnh Trung Phụ Ma
+62108;6 Giai Mệnh Trung Phụ Ma
+62109;7 Giai Mệnh Trung Phụ Ma
+62110;8 Giai Mệnh Trung Phụ Ma
+62111;9 Giai Mệnh Trung Phụ Ma
+62112;1 Giai Mệnh Trung Phụ Ma
+62113;2 Giai Mệnh Trung Phụ Ma
+62114;3 Giai Mệnh Trung Phụ Ma
+62115;4 Giai Mệnh Trung Phụ Ma
+62116;5 Giai Mệnh Trung Phụ Ma
+62117;6 Giai Mệnh Trung Phụ Ma
+62118;7 Giai Mệnh Trung Phụ Ma
+62119;8 Giai Mệnh Trung Phụ Ma
+62120;9 Giai Mệnh Trung Phụ Ma
+62121;Truyện Thuyết Mệnh Trung Phụ Ma
+62122;Siêu Thần Mệnh Trung Phụ Ma
+62123;Thiên Đạo Mệnh Trung Phụ Ma
+62124;Chí Thánh Mệnh Trung Phụ Ma
+62125;1 Giai Thiểm Tị Phụ Ma
+62126;2 Giai Thiểm Tị Phụ Ma
+62127;3 Giai Thiểm Tị Phụ Ma
+62128;4 Giai Thiểm Tị Phụ Ma
+62129;5 Giai Thiểm Tị Phụ Ma
+62130;6 Giai Thiểm Tị Phụ Ma
+62131;7 Giai Thiểm Tị Phụ Ma
+62132;8 Giai Thiểm Tị Phụ Ma
+62133;9 Giai Thiểm Tị Phụ Ma
+62134;1 Giai Thiểm Tị Phụ Ma
+62135;2 Giai Thiểm Tị Phụ Ma
+62136;3 Giai Thiểm Tị Phụ Ma
+62137;4 Giai Thiểm Tị Phụ Ma
+62138;5 Giai Thiểm Tị Phụ Ma
+62139;6 Giai Thiểm Tị Phụ Ma
+62140;7 Giai Thiểm Tị Phụ Ma
+62141;8 Giai Thiểm Tị Phụ Ma
+62142;9 Giai Thiểm Tị Phụ Ma
+62143;1 Giai Thiểm Tị Phụ Ma
+62144;2 Giai Thiểm Tị Phụ Ma
+62145;3 Giai Thiểm Tị Phụ Ma
+62146;4 Giai Thiểm Tị Phụ Ma
+62147;5 Giai Thiểm Tị Phụ Ma
+62148;6 Giai Thiểm Tị Phụ Ma
+62149;7 Giai Thiểm Tị Phụ Ma
+62150;8 Giai Thiểm Tị Phụ Ma
+62151;9 Giai Thiểm Tị Phụ Ma
+62152;1 Giai Thiểm Tị Phụ Ma
+62153;2 Giai Thiểm Tị Phụ Ma
+62154;3 Giai Thiểm Tị Phụ Ma
+62155;4 Giai Thiểm Tị Phụ Ma
+62156;5 Giai Thiểm Tị Phụ Ma
+62157;6 Giai Thiểm Tị Phụ Ma
+62158;7 Giai Thiểm Tị Phụ Ma
+62159;8 Giai Thiểm Tị Phụ Ma
+62160;9 Giai Thiểm Tị Phụ Ma
+62161;Truyện Thuyết Thiểm Tị Phụ Ma
+62162;Siêu Thần Thiểm Tị Phụ Ma
+62163;Thiên Đạo Thiểm Tị Phụ Ma
+62164;Chí Thánh Thiểm Tị Phụ Ma
+62165;1 Giai Bạo Kích Phụ Ma
+62166;2 Giai Bạo Kích Phụ Ma
+62167;3 Giai Bạo Kích Phụ Ma
+62168;4 Giai Bạo Kích Phụ Ma
+62169;5 Giai Bạo Kích Phụ Ma
+62170;6 Giai Bạo Kích Phụ Ma
+62171;7 Giai Bạo Kích Phụ Ma
+62172;8 Giai Bạo Kích Phụ Ma
+62173;9 Giai Bạo Kích Phụ Ma
+62174;1 Giai Bạo Kích Phụ Ma
+62175;2 Giai Bạo Kích Phụ Ma
+62176;3 Giai Bạo Kích Phụ Ma
+62177;4 Giai Bạo Kích Phụ Ma
+62178;5 Giai Bạo Kích Phụ Ma
+62179;6 Giai Bạo Kích Phụ Ma
+62180;7 Giai Bạo Kích Phụ Ma
+62181;8 Giai Bạo Kích Phụ Ma
+62182;9 Giai Bạo Kích Phụ Ma
+62183;1 Giai Bạo Kích Phụ Ma
+62184;2 Giai Bạo Kích Phụ Ma
+62185;3 Giai Bạo Kích Phụ Ma
+62186;4 Giai Bạo Kích Phụ Ma
+62187;5 Giai Bạo Kích Phụ Ma
+62188;6 Giai Bạo Kích Phụ Ma
+62189;7 Giai Bạo Kích Phụ Ma
+62190;8 Giai Bạo Kích Phụ Ma
+62191;9 Giai Bạo Kích Phụ Ma
+62192;1 Giai Bạo Kích Phụ Ma
+62193;2 Giai Bạo Kích Phụ Ma
+62194;3 Giai Bạo Kích Phụ Ma
+62195;4 Giai Bạo Kích Phụ Ma
+62196;5 Giai Bạo Kích Phụ Ma
+62197;6 Giai Bạo Kích Phụ Ma
+62198;7 Giai Bạo Kích Phụ Ma
+62199;8 Giai Bạo Kích Phụ Ma
+62200;9 Giai Bạo Kích Phụ Ma
+62201;Truyện Thuyết Bạo Kích Phụ Ma
+62202;Siêu Thần Bạo Kích Phụ Ma
+62203;Thiên Đạo Bạo Kích Phụ Ma
+62204;Chí Thánh Bạo Kích Phụ Ma
+62205;1 Giai Nhận Tính Phụ Ma
+62206;2 Giai Nhận Tính Phụ Ma
+62207;3 Giai Nhận Tính Phụ Ma
+62208;4 Giai Nhận Tính Phụ Ma
+62209;5 Giai Nhận Tính Phụ Ma
+62210;6 Giai Nhận Tính Phụ Ma
+62211;7 Giai Nhận Tính Phụ Ma
+62212;8 Giai Nhận Tính Phụ Ma
+62213;9 Giai Nhận Tính Phụ Ma
+62214;1 Giai Nhận Tính Phụ Ma
+62215;2 Giai Nhận Tính Phụ Ma
+62216;3 Giai Nhận Tính Phụ Ma
+62217;4 Giai Nhận Tính Phụ Ma
+62218;5 Giai Nhận Tính Phụ Ma
+62219;6 Giai Nhận Tính Phụ Ma
+62220;7 Giai Nhận Tính Phụ Ma
+62221;8 Giai Nhận Tính Phụ Ma
+62222;9 Giai Nhận Tính Phụ Ma
+62223;1 Giai Nhận Tính Phụ Ma
+62224;2 Giai Nhận Tính Phụ Ma
+62225;3 Giai Nhận Tính Phụ Ma
+62226;4 Giai Nhận Tính Phụ Ma
+62227;5 Giai Nhận Tính Phụ Ma
+62228;6 Giai Nhận Tính Phụ Ma
+62229;7 Giai Nhận Tính Phụ Ma
+62230;8 Giai Nhận Tính Phụ Ma
+62231;9 Giai Nhận Tính Phụ Ma
+62232;1 Giai Nhận Tính Phụ Ma
+62233;2 Giai Nhận Tính Phụ Ma
+62234;3 Giai Nhận Tính Phụ Ma
+62235;4 Giai Nhận Tính Phụ Ma
+62236;5 Giai Nhận Tính Phụ Ma
+62237;6 Giai Nhận Tính Phụ Ma
+62238;7 Giai Nhận Tính Phụ Ma
+62239;8 Giai Nhận Tính Phụ Ma
+62240;9 Giai Nhận Tính Phụ Ma
+62241;Truyện Thuyết Nhận Tính Phụ Ma
+62242;Siêu Thần Nhận Tính Phụ Ma
+62243;Thiên Đạo Nhận Tính Phụ Ma
+62244;Chí Thánh Nhận Tính Phụ Ma
+62245;Trang Bị Tầm Bảo Phù
+62246;Phụ Ma Quyển Trục
+62249;Phụ Ma Tinh Thạch
+62301;1 Giai Lam Sắc Phụ Ma Bảo Rương
+62302;2 Giai Lam Sắc Phụ Ma Bảo Rương
+62303;3 Giai Lam Sắc Phụ Ma Bảo Rương
+62304;4 Giai Lam Sắc Phụ Ma Bảo Rương
+62305;5 Giai Lam Sắc Phụ Ma Bảo Rương
+62306;6 Giai Lam Sắc Phụ Ma Bảo Rương
+62307;7 Giai Lam Sắc Phụ Ma Bảo Rương
+62308;8 Giai Lam Sắc Phụ Ma Bảo Rương
+62309;9 Giai Lam Sắc Phụ Ma Bảo Rương
+62311;1 Giai Tử Sắc Phụ Ma Bảo Rương
+62312;2 Giai Tử Sắc Phụ Ma Bảo Rương
+62313;3 Giai Tử Sắc Phụ Ma Bảo Rương
+62314;4 Giai Tử Sắc Phụ Ma Bảo Rương
+62315;5 Giai Tử Sắc Phụ Ma Bảo Rương
+62316;6 Giai Tử Sắc Phụ Ma Bảo Rương
+62317;7 Giai Tử Sắc Phụ Ma Bảo Rương
+62318;8 Giai Tử Sắc Phụ Ma Bảo Rương
+62319;9 Giai Tử Sắc Phụ Ma Bảo Rương
+62321;1 Giai Chanh Sắc Phụ Ma Bảo Rương
+62322;2 Giai Chanh Sắc Phụ Ma Bảo Rương
+62323;3 Giai Chanh Sắc Phụ Ma Bảo Rương
+62324;4 Giai Chanh Sắc Phụ Ma Bảo Rương
+62325;5 Giai Chanh Sắc Phụ Ma Bảo Rương
+62326;6 Giai Chanh Sắc Phụ Ma Bảo Rương
+62327;7 Giai Chanh Sắc Phụ Ma Bảo Rương
+62328;8 Giai Chanh Sắc Phụ Ma Bảo Rương
+62329;9 Giai Chanh Sắc Phụ Ma Bảo Rương
+62331;1 Giai Hồng Sắc Phụ Ma Bảo Rương
+62332;2 Giai Hồng Sắc Phụ Ma Bảo Rương
+62333;3 Giai Hồng Sắc Phụ Ma Bảo Rương
+62334;4 Giai Hồng Sắc Phụ Ma Bảo Rương
+62335;5 Giai Hồng Sắc Phụ Ma Bảo Rương
+62336;6 Giai Hồng Sắc Phụ Ma Bảo Rương
+62337;7 Giai Hồng Sắc Phụ Ma Bảo Rương
+62338;8 Giai Hồng Sắc Phụ Ma Bảo Rương
+62339;9 Giai Hồng Sắc Phụ Ma Bảo Rương
+62341;Truyện Thuyết Phụ Ma Bảo Rương
+62342;Siêu Thần Phụ Ma Bảo Rương
+62343;Thiên Đạo Phụ Ma Bảo Rương
+62344;Chí Thánh Phụ Ma Bảo Rương
+62345;Hồng Sắc Phụ Ma Hào Hoa Lễ Bao
+62900;Nguyên Thần Trang Bị
+62990;Hâm Long Thánh Kiếm Toái Phiến
+62991;Kinh Nguyệt Thánh Trượng Toái Phiến
+62992;Thương Miểu Thánh Thương Toái Phiến
+62993;Minh Viêm Thánh Kích Toái Phiến
+62994;Hạo Trần Thánh Đao Toái Phiến
+62995;Hâm Long Thánh Kiếm
+62996;Kinh Nguyệt Thánh Trượng
+62997;Thương Miểu Thánh Thương
+62998;Minh Viêm Thánh Kích
+62999;Hạo Trần Thánh Đao
+63000;Linh Nguyên Đan
+63001;Xích Kim Vũ Khí
+63002;Xích Kim Hạng Liên
+63003;Xích Kim Giới Chỉ
+63004;Xích Kim Ngọc Bội
+63005;Xích Kim Y Phục
+63006;Xích Kim Hộ Oản
+63007;Xích Kim Yêu Đái
+63008;Xích Kim Chiến Ngoa
+63009;Xích Kim Vũ Khí
+63010;Xích Kim Hạng Liên
+63011;Xích Kim Giới Chỉ
+63012;Xích Kim Ngọc Bội
+63013;Xích Kim Y Phục
+63014;Xích Kim Hộ Oản
+63015;Xích Kim Yêu Đái
+63016;Xích Kim Chiến Ngoa
+63017;Xích Kim Vũ Khí
+63018;Xích Kim Hạng Liên
+63019;Xích Kim Giới Chỉ
+63020;Xích Kim Ngọc Bội
+63021;Xích Kim Y Phục
+63022;Xích Kim Hộ Oản
+63023;Xích Kim Yêu Đái
+63024;Xích Kim Chiến Ngoa
+63025;Xích Kim Vũ Khí
+63026;Xích Kim Hạng Liên
+63027;Xích Kim Giới Chỉ
+63028;Xích Kim Ngọc Bội
+63029;Xích Kim Y Phục
+63030;Xích Kim Hộ Oản
+63031;Xích Kim Yêu Đái
+63032;Xích Kim Chiến Ngoa
+63033;Xích Kim Vũ Khí
+63034;Xích Kim Hạng Liên
+63035;Xích Kim Giới Chỉ
+63036;Xích Kim Ngọc Bội
+63037;Xích Kim Y Phục
+63038;Xích Kim Hộ Oản
+63039;Xích Kim Yêu Đái
+63040;Xích Kim Chiến Ngoa
+63041;Xích Kim Vũ Khí
+63042;Xích Kim Hạng Liên
+63043;Xích Kim Giới Chỉ
+63044;Xích Kim Ngọc Bội
+63045;Xích Kim Y Phục
+63046;Xích Kim Hộ Oản
+63047;Xích Kim Yêu Đái
+63048;Xích Kim Chiến Ngoa
+63049;Xích Kim Vũ Khí
+63050;Xích Kim Hạng Liên
+63051;Xích Kim Giới Chỉ
+63052;Xích Kim Ngọc Bội
+63053;Xích Kim Y Phục
+63054;Xích Kim Hộ Oản
+63055;Xích Kim Yêu Đái
+63056;Xích Kim Chiến Ngoa
+63057;Xích Kim Vũ Khí
+63058;Xích Kim Hạng Liên
+63059;Xích Kim Giới Chỉ
+63060;Xích Kim Ngọc Bội
+63061;Xích Kim Y Phục
+63062;Xích Kim Hộ Oản
+63063;Xích Kim Yêu Đái
+63064;Xích Kim Chiến Ngoa
+63065;Xích Kim Vũ Khí
+63066;Xích Kim Hạng Liên
+63067;Xích Kim Giới Chỉ
+63068;Xích Kim Ngọc Bội
+63069;Xích Kim Y Phục
+63070;Xích Kim Hộ Oản
+63071;Xích Kim Yêu Đái
+63072;Xích Kim Chiến Ngoa
+63073;Xích Kim Vũ Khí
+63074;Xích Kim Hạng Liên
+63075;Xích Kim Giới Chỉ
+63076;Xích Kim Ngọc Bội
+63077;Xích Kim Y Phục
+63078;Xích Kim Hộ Oản
+63079;Xích Kim Yêu Đái
+63080;Xích Kim Chiến Ngoa
+63081;Thương Diệp Vũ Khí
+63082;Thương Diệp Hạng Liên
+63083;Thương Diệp Giới Chỉ
+63084;Thương Diệp Ngọc Bội
+63085;Thương Diệp Y Phục
+63086;Thương Diệp Hộ Oản
+63087;Thương Diệp Yêu Đái
+63088;Thương Diệp Chiến Ngoa
+63089;Thương Diệp Vũ Khí
+63090;Thương Diệp Hạng Liên
+63091;Thương Diệp Giới Chỉ
+63092;Thương Diệp Ngọc Bội
+63093;Thương Diệp Y Phục
+63094;Thương Diệp Hộ Oản
+63095;Thương Diệp Yêu Đái
+63096;Thương Diệp Chiến Ngoa
+63097;Thương Diệp Vũ Khí
+63098;Thương Diệp Hạng Liên
+63099;Thương Diệp Giới Chỉ
+63100;Thương Diệp Ngọc Bội
+63101;Thương Diệp Y Phục
+63102;Thương Diệp Hộ Oản
+63103;Thương Diệp Yêu Đái
+63104;Thương Diệp Chiến Ngoa
+63105;Thương Diệp Vũ Khí
+63106;Thương Diệp Hạng Liên
+63107;Thương Diệp Giới Chỉ
+63108;Thương Diệp Ngọc Bội
+63109;Thương Diệp Y Phục
+63110;Thương Diệp Hộ Oản
+63111;Thương Diệp Yêu Đái
+63112;Thương Diệp Chiến Ngoa
+63113;Thương Diệp Vũ Khí
+63114;Thương Diệp Hạng Liên
+63115;Thương Diệp Giới Chỉ
+63116;Thương Diệp Ngọc Bội
+63117;Thương Diệp Y Phục
+63118;Thương Diệp Hộ Oản
+63119;Thương Diệp Yêu Đái
+63120;Thương Diệp Chiến Ngoa
+63121;Thương Diệp Vũ Khí
+63122;Thương Diệp Hạng Liên
+63123;Thương Diệp Giới Chỉ
+63124;Thương Diệp Ngọc Bội
+63125;Thương Diệp Y Phục
+63126;Thương Diệp Hộ Oản
+63127;Thương Diệp Yêu Đái
+63128;Thương Diệp Chiến Ngoa
+63129;Thương Diệp Vũ Khí
+63130;Thương Diệp Hạng Liên
+63131;Thương Diệp Giới Chỉ
+63132;Thương Diệp Ngọc Bội
+63133;Thương Diệp Y Phục
+63134;Thương Diệp Hộ Oản
+63135;Thương Diệp Yêu Đái
+63136;Thương Diệp Chiến Ngoa
+63137;Thương Diệp Vũ Khí
+63138;Thương Diệp Hạng Liên
+63139;Thương Diệp Giới Chỉ
+63140;Thương Diệp Ngọc Bội
+63141;Thương Diệp Y Phục
+63142;Thương Diệp Hộ Oản
+63143;Thương Diệp Yêu Đái
+63144;Thương Diệp Chiến Ngoa
+63145;Thương Diệp Vũ Khí
+63146;Thương Diệp Hạng Liên
+63147;Thương Diệp Giới Chỉ
+63148;Thương Diệp Ngọc Bội
+63149;Thương Diệp Y Phục
+63150;Thương Diệp Hộ Oản
+63151;Thương Diệp Yêu Đái
+63152;Thương Diệp Chiến Ngoa
+63153;Thương Diệp Vũ Khí
+63154;Thương Diệp Hạng Liên
+63155;Thương Diệp Giới Chỉ
+63156;Thương Diệp Ngọc Bội
+63157;Thương Diệp Y Phục
+63158;Thương Diệp Hộ Oản
+63159;Thương Diệp Yêu Đái
+63160;Thương Diệp Chiến Ngoa
+63161;Nộ Đào Vũ Khí
+63162;Nộ Đào Hạng Liên
+63163;Nộ Đào Giới Chỉ
+63164;Nộ Đào Ngọc Bội
+63165;Nộ Đào Y Phục
+63166;Nộ Đào Hộ Oản
+63167;Nộ Đào Yêu Đái
+63168;Nộ Đào Chiến Ngoa
+63169;Nộ Đào Vũ Khí
+63170;Nộ Đào Hạng Liên
+63171;Nộ Đào Giới Chỉ
+63172;Nộ Đào Ngọc Bội
+63173;Nộ Đào Y Phục
+63174;Nộ Đào Hộ Oản
+63175;Nộ Đào Yêu Đái
+63176;Nộ Đào Chiến Ngoa
+63177;Nộ Đào Vũ Khí
+63178;Nộ Đào Hạng Liên
+63179;Nộ Đào Giới Chỉ
+63180;Nộ Đào Ngọc Bội
+63181;Nộ Đào Y Phục
+63182;Nộ Đào Hộ Oản
+63183;Nộ Đào Yêu Đái
+63184;Nộ Đào Chiến Ngoa
+63185;Nộ Đào Vũ Khí
+63186;Nộ Đào Hạng Liên
+63187;Nộ Đào Giới Chỉ
+63188;Nộ Đào Ngọc Bội
+63189;Nộ Đào Y Phục
+63190;Nộ Đào Hộ Oản
+63191;Nộ Đào Yêu Đái
+63192;Nộ Đào Chiến Ngoa
+63193;Nộ Đào Vũ Khí
+63194;Nộ Đào Hạng Liên
+63195;Nộ Đào Giới Chỉ
+63196;Nộ Đào Ngọc Bội
+63197;Nộ Đào Y Phục
+63198;Nộ Đào Hộ Oản
+63199;Nộ Đào Yêu Đái
+63200;Nộ Đào Chiến Ngoa
+63201;Nộ Đào Vũ Khí
+63202;Nộ Đào Hạng Liên
+63203;Nộ Đào Giới Chỉ
+63204;Nộ Đào Ngọc Bội
+63205;Nộ Đào Y Phục
+63206;Nộ Đào Hộ Oản
+63207;Nộ Đào Yêu Đái
+63208;Nộ Đào Chiến Ngoa
+63209;Nộ Đào Vũ Khí
+63210;Nộ Đào Hạng Liên
+63211;Nộ Đào Giới Chỉ
+63212;Nộ Đào Ngọc Bội
+63213;Nộ Đào Y Phục
+63214;Nộ Đào Hộ Oản
+63215;Nộ Đào Yêu Đái
+63216;Nộ Đào Chiến Ngoa
+63217;Nộ Đào Vũ Khí
+63218;Nộ Đào Hạng Liên
+63219;Nộ Đào Giới Chỉ
+63220;Nộ Đào Ngọc Bội
+63221;Nộ Đào Y Phục
+63222;Nộ Đào Hộ Oản
+63223;Nộ Đào Yêu Đái
+63224;Nộ Đào Chiến Ngoa
+63225;Nộ Đào Vũ Khí
+63226;Nộ Đào Hạng Liên
+63227;Nộ Đào Giới Chỉ
+63228;Nộ Đào Ngọc Bội
+63229;Nộ Đào Y Phục
+63230;Nộ Đào Hộ Oản
+63231;Nộ Đào Yêu Đái
+63232;Nộ Đào Chiến Ngoa
+63233;Nộ Đào Vũ Khí
+63234;Nộ Đào Hạng Liên
+63235;Nộ Đào Giới Chỉ
+63236;Nộ Đào Ngọc Bội
+63237;Nộ Đào Y Phục
+63238;Nộ Đào Hộ Oản
+63239;Nộ Đào Yêu Đái
+63240;Nộ Đào Chiến Ngoa
+63241;Phần Thiên Vũ Khí
+63242;Phần Thiên Hạng Liên
+63243;Phần Thiên Giới Chỉ
+63244;Phần Thiên Ngọc Bội
+63245;Phần Thiên Y Phục
+63246;Phần Thiên Hộ Oản
+63247;Phần Thiên Yêu Đái
+63248;Phần Thiên Chiến Ngoa
+63249;Phần Thiên Vũ Khí
+63250;Phần Thiên Hạng Liên
+63251;Phần Thiên Giới Chỉ
+63252;Phần Thiên Ngọc Bội
+63253;Phần Thiên Y Phục
+63254;Phần Thiên Hộ Oản
+63255;Phần Thiên Yêu Đái
+63256;Phần Thiên Chiến Ngoa
+63257;Phần Thiên Vũ Khí
+63258;Phần Thiên Hạng Liên
+63259;Phần Thiên Giới Chỉ
+63260;Phần Thiên Ngọc Bội
+63261;Phần Thiên Y Phục
+63262;Phần Thiên Hộ Oản
+63263;Phần Thiên Yêu Đái
+63264;Phần Thiên Chiến Ngoa
+63265;Phần Thiên Vũ Khí
+63266;Phần Thiên Hạng Liên
+63267;Phần Thiên Giới Chỉ
+63268;Phần Thiên Ngọc Bội
+63269;Phần Thiên Y Phục
+63270;Phần Thiên Hộ Oản
+63271;Phần Thiên Yêu Đái
+63272;Phần Thiên Chiến Ngoa
+63273;Phần Thiên Vũ Khí
+63274;Phần Thiên Hạng Liên
+63275;Phần Thiên Giới Chỉ
+63276;Phần Thiên Ngọc Bội
+63277;Phần Thiên Y Phục
+63278;Phần Thiên Hộ Oản
+63279;Phần Thiên Yêu Đái
+63280;Phần Thiên Chiến Ngoa
+63281;Phần Thiên Vũ Khí
+63282;Phần Thiên Hạng Liên
+63283;Phần Thiên Giới Chỉ
+63284;Phần Thiên Ngọc Bội
+63285;Phần Thiên Y Phục
+63286;Phần Thiên Hộ Oản
+63287;Phần Thiên Yêu Đái
+63288;Phần Thiên Chiến Ngoa
+63289;Phần Thiên Vũ Khí
+63290;Phần Thiên Hạng Liên
+63291;Phần Thiên Giới Chỉ
+63292;Phần Thiên Ngọc Bội
+63293;Phần Thiên Y Phục
+63294;Phần Thiên Hộ Oản
+63295;Phần Thiên Yêu Đái
+63296;Phần Thiên Chiến Ngoa
+63297;Phần Thiên Vũ Khí
+63298;Phần Thiên Hạng Liên
+63299;Phần Thiên Giới Chỉ
+63300;Phần Thiên Ngọc Bội
+63301;Phần Thiên Y Phục
+63302;Phần Thiên Hộ Oản
+63303;Phần Thiên Yêu Đái
+63304;Phần Thiên Chiến Ngoa
+63305;Phần Thiên Vũ Khí
+63306;Phần Thiên Hạng Liên
+63307;Phần Thiên Giới Chỉ
+63308;Phần Thiên Ngọc Bội
+63309;Phần Thiên Y Phục
+63310;Phần Thiên Hộ Oản
+63311;Phần Thiên Yêu Đái
+63312;Phần Thiên Chiến Ngoa
+63313;Phần Thiên Vũ Khí
+63314;Phần Thiên Hạng Liên
+63315;Phần Thiên Giới Chỉ
+63316;Phần Thiên Ngọc Bội
+63317;Phần Thiên Y Phục
+63318;Phần Thiên Hộ Oản
+63319;Phần Thiên Yêu Đái
+63320;Phần Thiên Chiến Ngoa
+63321;Linh Nhạc Vũ Khí
+63322;Linh Nhạc Hạng Liên
+63323;Linh Nhạc Giới Chỉ
+63324;Linh Nhạc Ngọc Bội
+63325;Linh Nhạc Y Phục
+63326;Linh Nhạc Hộ Oản
+63327;Linh Nhạc Yêu Đái
+63328;Linh Nhạc Chiến Ngoa
+63329;Linh Nhạc Vũ Khí
+63330;Linh Nhạc Hạng Liên
+63331;Linh Nhạc Giới Chỉ
+63332;Linh Nhạc Ngọc Bội
+63333;Linh Nhạc Y Phục
+63334;Linh Nhạc Hộ Oản
+63335;Linh Nhạc Yêu Đái
+63336;Linh Nhạc Chiến Ngoa
+63337;Linh Nhạc Vũ Khí
+63338;Linh Nhạc Hạng Liên
+63339;Linh Nhạc Giới Chỉ
+63340;Linh Nhạc Ngọc Bội
+63341;Linh Nhạc Y Phục
+63342;Linh Nhạc Hộ Oản
+63343;Linh Nhạc Yêu Đái
+63344;Linh Nhạc Chiến Ngoa
+63345;Linh Nhạc Vũ Khí
+63346;Linh Nhạc Hạng Liên
+63347;Linh Nhạc Giới Chỉ
+63348;Linh Nhạc Ngọc Bội
+63349;Linh Nhạc Y Phục
+63350;Linh Nhạc Hộ Oản
+63351;Linh Nhạc Yêu Đái
+63352;Linh Nhạc Chiến Ngoa
+63353;Linh Nhạc Vũ Khí
+63354;Linh Nhạc Hạng Liên
+63355;Linh Nhạc Giới Chỉ
+63356;Linh Nhạc Ngọc Bội
+63357;Linh Nhạc Y Phục
+63358;Linh Nhạc Hộ Oản
+63359;Linh Nhạc Yêu Đái
+63360;Linh Nhạc Chiến Ngoa
+63361;Linh Nhạc Vũ Khí
+63362;Linh Nhạc Hạng Liên
+63363;Linh Nhạc Giới Chỉ
+63364;Linh Nhạc Ngọc Bội
+63365;Linh Nhạc Y Phục
+63366;Linh Nhạc Hộ Oản
+63367;Linh Nhạc Yêu Đái
+63368;Linh Nhạc Chiến Ngoa
+63369;Linh Nhạc Vũ Khí
+63370;Linh Nhạc Hạng Liên
+63371;Linh Nhạc Giới Chỉ
+63372;Linh Nhạc Ngọc Bội
+63373;Linh Nhạc Y Phục
+63374;Linh Nhạc Hộ Oản
+63375;Linh Nhạc Yêu Đái
+63376;Linh Nhạc Chiến Ngoa
+63377;Linh Nhạc Vũ Khí
+63378;Linh Nhạc Hạng Liên
+63379;Linh Nhạc Giới Chỉ
+63380;Linh Nhạc Ngọc Bội
+63381;Linh Nhạc Y Phục
+63382;Linh Nhạc Hộ Oản
+63383;Linh Nhạc Yêu Đái
+63384;Linh Nhạc Chiến Ngoa
+63385;Linh Nhạc Vũ Khí
+63386;Linh Nhạc Hạng Liên
+63387;Linh Nhạc Giới Chỉ
+63388;Linh Nhạc Ngọc Bội
+63389;Linh Nhạc Y Phục
+63390;Linh Nhạc Hộ Oản
+63391;Linh Nhạc Yêu Đái
+63392;Linh Nhạc Chiến Ngoa
+63393;Linh Nhạc Vũ Khí
+63394;Linh Nhạc Hạng Liên
+63395;Linh Nhạc Giới Chỉ
+63396;Linh Nhạc Ngọc Bội
+63397;Linh Nhạc Y Phục
+63398;Linh Nhạc Hộ Oản
+63399;Linh Nhạc Yêu Đái
+63400;Linh Nhạc Chiến Ngoa
+63401;Xích Kim Vũ Khí
+63402;Xích Kim Hạng Liên
+63403;Xích Kim Giới Chỉ
+63404;Xích Kim Ngọc Bội
+63405;Xích Kim Y Phục
+63406;Xích Kim Hộ Oản
+63407;Xích Kim Yêu Đái
+63408;Xích Kim Hài Tử
+63409;Xích Kim Vũ Khí
+63410;Xích Kim Hạng Liên
+63411;Xích Kim Giới Chỉ
+63412;Xích Kim Ngọc Bội
+63413;Xích Kim Y Phục
+63414;Xích Kim Hộ Oản
+63415;Xích Kim Yêu Đái
+63416;Xích Kim Hài Tử
+63417;Xích Kim Vũ Khí
+63418;Xích Kim Hạng Liên
+63419;Xích Kim Giới Chỉ
+63420;Xích Kim Ngọc Bội
+63421;Xích Kim Y Phục
+63422;Xích Kim Hộ Oản
+63423;Xích Kim Yêu Đái
+63424;Xích Kim Hài Tử
+63425;Thương Diệp Vũ Khí
+63426;Thương Diệp Hạng Liên
+63427;Thương Diệp Giới Chỉ
+63428;Thương Diệp Ngọc Bội
+63429;Thương Diệp Y Phục
+63430;Thương Diệp Hộ Oản
+63431;Thương Diệp Yêu Đái
+63432;Thương Diệp Hài Tử
+63433;Thương Diệp Vũ Khí
+63434;Thương Diệp Hạng Liên
+63435;Thương Diệp Giới Chỉ
+63436;Thương Diệp Ngọc Bội
+63437;Thương Diệp Y Phục
+63438;Thương Diệp Hộ Oản
+63439;Thương Diệp Yêu Đái
+63440;Thương Diệp Hài Tử
+63441;Thương Diệp Vũ Khí
+63442;Thương Diệp Hạng Liên
+63443;Thương Diệp Giới Chỉ
+63444;Thương Diệp Ngọc Bội
+63445;Thương Diệp Y Phục
+63446;Thương Diệp Hộ Oản
+63447;Thương Diệp Yêu Đái
+63448;Thương Diệp Hài Tử
+63449;Nộ Đào Vũ Khí
+63450;Nộ Đào Hạng Liên
+63451;Nộ Đào Giới Chỉ
+63452;Nộ Đào Ngọc Bội
+63453;Nộ Đào Y Phục
+63454;Nộ Đào Hộ Oản
+63455;Nộ Đào Yêu Đái
+63456;Nộ Đào Hài Tử
+63457;Nộ Đào Vũ Khí
+63458;Nộ Đào Hạng Liên
+63459;Nộ Đào Giới Chỉ
+63460;Nộ Đào Ngọc Bội
+63461;Nộ Đào Y Phục
+63462;Nộ Đào Hộ Oản
+63463;Nộ Đào Yêu Đái
+63464;Nộ Đào Hài Tử
+63465;Nộ Đào Vũ Khí
+63466;Nộ Đào Hạng Liên
+63467;Nộ Đào Giới Chỉ
+63468;Nộ Đào Ngọc Bội
+63469;Nộ Đào Y Phục
+63470;Nộ Đào Hộ Oản
+63471;Nộ Đào Yêu Đái
+63472;Nộ Đào Hài Tử
+63473;Phần Thiên Vũ Khí
+63474;Phần Thiên Hạng Liên
+63475;Phần Thiên Giới Chỉ
+63476;Phần Thiên Ngọc Bội
+63477;Phần Thiên Y Phục
+63478;Phần Thiên Hộ Oản
+63479;Phần Thiên Yêu Đái
+63480;Phần Thiên Hài Tử
+63481;Phần Thiên Vũ Khí
+63482;Phần Thiên Hạng Liên
+63483;Phần Thiên Giới Chỉ
+63484;Phần Thiên Ngọc Bội
+63485;Phần Thiên Y Phục
+63486;Phần Thiên Hộ Oản
+63487;Phần Thiên Yêu Đái
+63488;Phần Thiên Hài Tử
+63489;Phần Thiên Vũ Khí
+63490;Phần Thiên Hạng Liên
+63491;Phần Thiên Giới Chỉ
+63492;Phần Thiên Ngọc Bội
+63493;Phần Thiên Y Phục
+63494;Phần Thiên Hộ Oản
+63495;Phần Thiên Yêu Đái
+63496;Phần Thiên Hài Tử
+63497;Linh Nhạc Vũ Khí
+63498;Linh Nhạc Hạng Liên
+63499;Linh Nhạc Giới Chỉ
+63500;Linh Nhạc Ngọc Bội
+63501;Linh Nhạc Y Phục
+63502;Linh Nhạc Hộ Oản
+63503;Linh Nhạc Yêu Đái
+63504;Linh Nhạc Hài Tử
+63505;Linh Nhạc Vũ Khí
+63506;Linh Nhạc Hạng Liên
+63507;Linh Nhạc Giới Chỉ
+63508;Linh Nhạc Ngọc Bội
+63509;Linh Nhạc Y Phục
+63510;Linh Nhạc Hộ Oản
+63511;Linh Nhạc Yêu Đái
+63512;Linh Nhạc Hài Tử
+63513;Linh Nhạc Vũ Khí
+63514;Linh Nhạc Hạng Liên
+63515;Linh Nhạc Giới Chỉ
+63516;Linh Nhạc Ngọc Bội
+63517;Linh Nhạc Y Phục
+63518;Linh Nhạc Hộ Oản
+63519;Linh Nhạc Yêu Đái
+63520;Linh Nhạc Hài Tử
+70001;Kỳ Sơn Hoàng Thạch
+70002;Hảo Vận Tệ
+70003;Tiểu Kim Chùy
+70004;Tiên Ngưng Linh Ngọc
+70005;Phiên Tạp Tệ
+70006;Tiết Nhật Chuyển Bàn Tệ
+70007;2 Bội Sung Trị Tạp
+70008;3 Bội Sung Trị Tạp
+70009;4 Bội Sung Trị Tạp
+70010;5 Bội Sung Trị Tạp
+70011;6 Nguyên2 Bội Sung Trị Tạp
+70012;30 Nguyên2 Bội Sung Trị Tạp
+70013;60 Nguyên2 Bội Sung Trị Tạp
+70014;98 Nguyên2 Bội Sung Trị Tạp
+70015;198 Nguyên2 Bội Sung Trị Tạp
+70016;328 Nguyên2 Bội Sung Trị Tạp
+70017;648 Nguyên2 Bội Sung Trị Tạp
+70018;980 Nguyên2 Bội Sung Trị Tạp
+70019;6 Nguyên2 Bội Sung Trị Tạp
+70020;30 Nguyên2 Bội Sung Trị Tạp
+70021;60 Nguyên2 Bội Sung Trị Tạp
+70022;98 Nguyên2 Bội Sung Trị Tạp
+70023;198 Nguyên2 Bội Sung Trị Tạp
+70024;328 Nguyên2 Bội Sung Trị Tạp
+70025;648 Nguyên2 Bội Sung Trị Tạp
+70026;980 Nguyên2 Bội Sung Trị Tạp
+70027;Liễu Điều
+70028;Hảo Vận Tệ
+71001;Đoạt Bảo Khoán
+79401;2 Bội Sung Trị Tạp Lễ Bao
+79501;Sơ Cấp Tiên Ngưng Linh Ngọc Lễ Đại
+79502;Trung Cấp Tiên Ngưng Linh Ngọc Lễ Đại
+79503;Cao Cấp Tiên Ngưng Linh Ngọc Lễ Đại
+79504;Sơ Cấp Dược Thiện Bảo Rương
+79505;Trung Cấp Dược Thiện Bảo Rương
+79506;Cao Cấp Dược Thiện Bảo Rương
+79601;Đường Quả
+79602;Nam Qua Đăng
+79603;Thanh Hoa Bí Thược
+79604;Hoàng Kim Sừ Đầu
+79605;Bổng Bổng Đường
+79606;Tống Tử
+79611;Tam Giới Ma Phương
+79612;Thái Hư Thần Thạch
+79701;Tiên Các Chí Bảo
+79702;Tiên Các Mật Tàng
+79703;Tiên Các Kỳ Trân
+79704;Tiên Các Bảo Hạp
+79705;Cộng Kiến Chí Bảo
+79706;Cộng Kiến Mật Tàng
+79707;Cộng Kiến Kỳ Trân
+79708;Cộng Kiến Bảo Hạp
+79709;Tiên Các Bảo Hạp
+79710;Cộng Kiến Chí Bảo
+79711;Cộng Kiến Mật Tàng
+79712;Cộng Kiến Kỳ Trân
+79713;Cộng Kiến Bảo Hạp
+79714;Cộng Kiến Chí Bảo
+79715;Cộng Kiến Mật Tàng
+79716;Cộng Kiến Kỳ Trân
+79717;Cộng Kiến Bảo Hạp
+79801;Lưu Ly Tịnh Thổ
+79802;Hồng Hoang Kiến Mộc
+79803;Tam Thiên Nhược Thủy
+79901;Viêm Hạch Tinh Tinh
+79902;Huyễn Hải Chi Lệ
+79905;Khai Thiên Kiến Tài Lễ Bao
+79906;Linh Trang Bảo Rương
+79907;Công Kích Thần Trang Toái Phiến Lễ Bao
+79908;Thăng Tiên Các Tài Liệu Lễ Bao
+79909;Ti Cân
+79910;Khang Nãi Hinh
+79999;Chiến Đấu Lực
+80000;Kinh Nghiệm Thần Nguyên
+80001;Đê Cấp Kinh Nghiệm Thần Nguyên
+80002;Sơ Cấp Kinh Nghiệm Thần Nguyên
+80003;Trung Cấp Kinh Nghiệm Thần Nguyên
+80004;Cao Cấp Kinh Nghiệm Thần Nguyên
+80005;Đặc Cấp Kinh Nghiệm Thần Nguyên
+80101;Kỳ Thiên Thạch
+80201;Ngọc Lung Bảo Đài Tàn Viên
+80202;Huyễn Nguyệt Bảo Đài Tàn Viên
+80203;Quân Thiên Thần Đài Tàn Viên
+80204;Thiên Diệu Thần Đài Tàn Viên
+81001;Uẩn Lôi Đoạn
+81002;Huyền Minh Ngự Hà
+81003;Thần Diên Vũ Đồng
+81004;Đằng Long Giáng Vân
+81005;Thiên Xu Bát Chuyển
+81006;Thái Cực Long Tiên
+81007;Thủy Linh Trù Ba
+81008;Đình Uấn Quy Nguyên
+81009;Thiên Cơ Long Đảm
+81010;Càn Nguyên Phục
+81011;Băng Phong Khiếu Phạm
+81012;Thước Kim Lưu Ly
+81013;Thác Nguyệt Kim Nhân
+81014;Thiên Sư Hồn 镙
+81015;Vũ Lang Lưu Phong
+81016;Quang Diễm
+81017;Thiên Tàn Tịnh
+81018;Tru Viêm
+81019;Vực Đình Chướng
+81020;Ám Giản Kinh Hồng
+82001;Uẩn Lôi Đoạn
+82002;Huyền Minh Ngự Hà
+82003;Thần Diên Vũ Đồng
+82004;Đằng Long Giáng Vân
+82005;Thiên Xu Bát Chuyển
+82006;Thái Cực Long Tiên
+82007;Thủy Linh Trù Ba
+82008;Đình Uấn Quy Nguyên
+82009;Thiên Cơ Long Đảm
+82010;Càn Nguyên Phục
+82011;Băng Phong Khiếu Phạm
+82012;Thước Kim Lưu Ly
+82013;Thác Nguyệt Kim Nhân
+82014;Thiên Sư Hồn 镙
+82015;Vũ Lang Lưu Phong
+82016;Quang Diễm
+82017;Thiên Tàn Tịnh
+82018;Tru Viêm
+82019;Vực Đình Chướng
+82020;Ám Giản Kinh Hồng
+83001;Uẩn Lôi Đoạn
+83002;Huyền Minh Ngự Hà
+83003;Thần Diên Vũ Đồng
+83004;Đằng Long Giáng Vân
+83005;Thiên Xu Bát Chuyển
+83006;Thái Cực Long Tiên
+83007;Thủy Linh Trù Ba
+83008;Đình Uấn Quy Nguyên
+83009;Thiên Cơ Long Đảm
+83010;Càn Nguyên Phục
+83011;Băng Phong Khiếu Phạm
+83012;Thước Kim Lưu Ly
+83013;Thác Nguyệt Kim Nhân
+83014;Thiên Sư Hồn 镙
+83015;Vũ Lang Lưu Phong
+83016;Quang Diễm
+83017;Thiên Tàn Tịnh
+83018;Tru Viêm
+83019;Vực Đình Chướng
+83020;Ám Giản Kinh Hồng
+84001;Uẩn Lôi Đoạn
+84002;Huyền Minh Ngự Hà
+84003;Thần Diên Vũ Đồng
+84004;Đằng Long Giáng Vân
+84005;Thiên Xu Bát Chuyển
+84006;Thái Cực Long Tiên
+84007;Thủy Linh Trù Ba
+84008;Đình Uấn Quy Nguyên
+84009;Thiên Cơ Long Đảm
+84010;Càn Nguyên Phục
+84011;Băng Phong Khiếu Phạm
+84012;Thước Kim Lưu Ly
+84013;Thác Nguyệt Kim Nhân
+84014;Thiên Sư Hồn 镙
+84015;Vũ Lang Lưu Phong
+84016;Quang Diễm
+84017;Thiên Tàn Tịnh
+84018;Tru Viêm
+84019;Vực Đình Chướng
+84020;Ám Giản Kinh Hồng
+85001;Uẩn Lôi Đoạn
+85002;Huyền Minh Ngự Hà
+85003;Thần Diên Vũ Đồng
+85004;Đằng Long Giáng Vân
+85005;Thiên Xu Bát Chuyển
+85006;Thái Cực Long Tiên
+85007;Thủy Linh Trù Ba
+85008;Đình Uấn Quy Nguyên
+85009;Thiên Cơ Long Đảm
+85010;Càn Nguyên Phục
+85011;Băng Phong Khiếu Phạm
+85012;Thước Kim Lưu Ly
+85013;Thác Nguyệt Kim Nhân
+85014;Thiên Sư Hồn 镙
+85015;Vũ Lang Lưu Phong
+85016;Quang Diễm
+85017;Thiên Tàn Tịnh
+85018;Tru Viêm
+85019;Vực Đình Chướng
+85020;Ám Giản Kinh Hồng
+100001;Tinh Thần Các Tài Liệu Lễ Bao
+9000001;Khôn Ca Bá Khí
+9000011;Khôn Ca Bá Khí
+9000002;Khôn Ca Đau Lòng-Truỵ
+9000003;Khôn Ca Càn Băng-Liệm
+9000004;Khôn Ca Thiết Đầu-Giáp
+9000005;Khôn Ca Mạc Ngư-Hộ Uyển
+9000006;Khôn Ca Trư Bá-Giới
+9000007;Khôn Ca Xà Bì-Đai
+9000008;Khôn Ca Gả Mạo-Bội
+9000009;Khôn Ca Trúng Tiễn-Hộ Thoái
+9000010;Khôn Ca Cước Khí
+1011011;Thuỷ Nguyên Kiếm
+1011012;Thuỷ Nguyên Kiếm
+1011013;Thuỷ Nguyên Kiếm
+1011014;Thuỷ Nguyên Kiếm
+1011015;Thuỷ Nguyên Kiếm
+1011016;Thuỷ Nguyên Kiếm
+1011017;Thuỷ Nguyên Kiếm
+1011018;Thuỷ Nguyên Kiếm
+1011021;Thuỷ Nguyên Truỵ
+1011022;Thuỷ Nguyên Truỵ
+1011023;Thuỷ Nguyên Truỵ
+1011024;Thuỷ Nguyên Truỵ
+1011025;Thuỷ Nguyên Truỵ
+1011026;Thuỷ Nguyên Truỵ
+1011027;Thuỷ Nguyên Truỵ
+1011028;Thuỷ Nguyên Truỵ
+1011031;Thuỷ Nguyên Liệm
+1011032;Thuỷ Nguyên Liệm
+1011033;Thuỷ Nguyên Liệm
+1011034;Thuỷ Nguyên Liệm
+1011035;Thuỷ Nguyên Liệm
+1011036;Thuỷ Nguyên Liệm
+1011037;Thuỷ Nguyên Liệm
+1011038;Thuỷ Nguyên Liệm
+1011041;Thuỷ Nguyên Giáp
+1011042;Thuỷ Nguyên Giáp
+1011043;Thuỷ Nguyên Giáp
+1011044;Thuỷ Nguyên Giáp
+1011045;Thuỷ Nguyên Giáp
+1011046;Thuỷ Nguyên Giáp
+1011047;Thuỷ Nguyên Giáp
+1011048;Thuỷ Nguyên Giáp
+1011051;Thuỷ Nguyên Hộ Uyển
+1011052;Thuỷ Nguyên Hộ Uyển
+1011053;Thuỷ Nguyên Hộ Uyển
+1011054;Thuỷ Nguyên Hộ Uyển
+1011055;Thuỷ Nguyên Hộ Uyển
+1011056;Thuỷ Nguyên Hộ Uyển
+1011057;Thuỷ Nguyên Hộ Uyển
+1011058;Thuỷ Nguyên Hộ Uyển
+1011061;Thuỷ Nguyên Giới
+1011062;Thuỷ Nguyên Giới
+1011063;Thuỷ Nguyên Giới
+1011064;Thuỷ Nguyên Giới
+1011065;Thuỷ Nguyên Giới
+1011066;Thuỷ Nguyên Giới
+1011067;Thuỷ Nguyên Giới
+1011068;Thuỷ Nguyên Giới
+1011071;Thuỷ Nguyên Đai
+1011072;Thuỷ Nguyên Đai
+1011073;Thuỷ Nguyên Đai
+1011074;Thuỷ Nguyên Đai
+1011075;Thuỷ Nguyên Đai
+1011076;Thuỷ Nguyên Đai
+1011077;Thuỷ Nguyên Đai
+1011078;Thuỷ Nguyên Đai
+1011081;Thuỷ Nguyên Bội
+1011082;Thuỷ Nguyên Bội
+1011083;Thuỷ Nguyên Bội
+1011084;Thuỷ Nguyên Bội
+1011085;Thuỷ Nguyên Bội
+1011086;Thuỷ Nguyên Bội
+1011087;Thuỷ Nguyên Bội
+1011088;Thuỷ Nguyên Bội
+1011091;Thuỷ Nguyên Hộ Thoái
+1011092;Thuỷ Nguyên Hộ Thoái
+1011093;Thuỷ Nguyên Hộ Thoái
+1011094;Thuỷ Nguyên Hộ Thoái
+1011095;Thuỷ Nguyên Hộ Thoái
+1011096;Thuỷ Nguyên Hộ Thoái
+1011097;Thuỷ Nguyên Hộ Thoái
+1011098;Thuỷ Nguyên Hộ Thoái
+1011101;Thuỷ Nguyên Ngoa
+1011102;Thuỷ Nguyên Ngoa
+1011103;Thuỷ Nguyên Ngoa
+1011104;Thuỷ Nguyên Ngoa
+1011105;Thuỷ Nguyên Ngoa
+1011106;Thuỷ Nguyên Ngoa
+1011107;Thuỷ Nguyên Ngoa
+1011108;Thuỷ Nguyên Ngoa
+1021010;Pháp Thiên Kiếm
+1021011;Pháp Thiên Kiếm
+1021012;Pháp Thiên Kiếm
+1021013;Pháp Thiên Kiếm
+1021014;Pháp Thiên Kiếm
+1021015;Pháp Thiên Kiếm
+1021016;Pháp Thiên Kiếm
+1021017;Pháp Thiên Kiếm
+1021018;Pháp Thiên Kiếm
+1021019;Pháp Thiên Kiếm
+1021020;Pháp Thiên Truỵ
+1021021;Pháp Thiên Truỵ
+1021022;Pháp Thiên Truỵ
+1021023;Pháp Thiên Truỵ
+1021024;Pháp Thiên Truỵ
+1021025;Pháp Thiên Truỵ
+1021026;Pháp Thiên Truỵ
+1021027;Pháp Thiên Truỵ
+1021028;Pháp Thiên Truỵ
+1021029;Pháp Thiên Truỵ
+1021030;Pháp Thiên Liệm
+1021031;Pháp Thiên Liệm
+1021032;Pháp Thiên Liệm
+1021033;Pháp Thiên Liệm
+1021034;Pháp Thiên Liệm
+1021035;Pháp Thiên Liệm
+1021036;Pháp Thiên Liệm
+1021037;Pháp Thiên Liệm
+1021038;Pháp Thiên Liệm
+1021039;Pháp Thiên Liệm
+1021040;Pháp Thiên Giáp
+1021041;Pháp Thiên Giáp
+1021042;Pháp Thiên Giáp
+1021043;Pháp Thiên Giáp
+1021044;Pháp Thiên Giáp
+1021045;Pháp Thiên Giáp
+1021046;Pháp Thiên Giáp
+1021047;Pháp Thiên Giáp
+1021048;Pháp Thiên Giáp
+1021049;Pháp Thiên Giáp
+1021050;Pháp Thiên Hộ Uyển
+1021051;Pháp Thiên Hộ Uyển
+1021052;Pháp Thiên Hộ Uyển
+1021053;Pháp Thiên Hộ Uyển
+1021054;Pháp Thiên Hộ Uyển
+1021055;Pháp Thiên Hộ Uyển
+1021056;Pháp Thiên Hộ Uyển
+1021057;Pháp Thiên Hộ Uyển
+1021058;Pháp Thiên Hộ Uyển
+1021059;Pháp Thiên Hộ Uyển
+1021060;Pháp Thiên Giới
+1021061;Pháp Thiên Giới
+1021062;Pháp Thiên Giới
+1021063;Pháp Thiên Giới
+1021064;Pháp Thiên Giới
+1021065;Pháp Thiên Giới
+1021066;Pháp Thiên Giới
+1021067;Pháp Thiên Giới
+1021068;Pháp Thiên Giới
+1021069;Pháp Thiên Giới
+1021070;Pháp Thiên Đai
+1021071;Pháp Thiên Đai
+1021072;Pháp Thiên Đai
+1021073;Pháp Thiên Đai
+1021074;Pháp Thiên Đai
+1021075;Pháp Thiên Đai
+1021076;Pháp Thiên Đai
+1021077;Pháp Thiên Đai
+1021078;Pháp Thiên Đai
+1021079;Pháp Thiên Đai
+1021080;Pháp Thiên Bội
+1021081;Pháp Thiên Bội
+1021082;Pháp Thiên Bội
+1021083;Pháp Thiên Bội
+1021084;Pháp Thiên Bội
+1021085;Pháp Thiên Bội
+1021086;Pháp Thiên Bội
+1021087;Pháp Thiên Bội
+1021088;Pháp Thiên Bội
+1021089;Pháp Thiên Bội
+1021090;Pháp Thiên Hộ Thoái
+1021091;Pháp Thiên Hộ Thoái
+1021092;Pháp Thiên Hộ Thoái
+1021093;Pháp Thiên Hộ Thoái
+1021094;Pháp Thiên Hộ Thoái
+1021095;Pháp Thiên Hộ Thoái
+1021096;Pháp Thiên Hộ Thoái
+1021097;Pháp Thiên Hộ Thoái
+1021098;Pháp Thiên Hộ Thoái
+1021099;Pháp Thiên Hộ Thoái
+1021100;Pháp Thiên Ngoa
+1021101;Pháp Thiên Ngoa
+1021102;Pháp Thiên Ngoa
+1021103;Pháp Thiên Ngoa
+1021104;Pháp Thiên Ngoa
+1021105;Pháp Thiên Ngoa
+1021106;Pháp Thiên Ngoa
+1021107;Pháp Thiên Ngoa
+1021108;Pháp Thiên Ngoa
+1021109;Pháp Thiên Ngoa
+1031010;Ngũ Lôi Kiếm
+1031011;Ngũ Lôi Kiếm
+1031012;Ngũ Lôi Kiếm
+1031013;Ngũ Lôi Kiếm
+1031014;Ngũ Lôi Kiếm
+1031015;Ngũ Lôi Kiếm
+1031016;Ngũ Lôi Kiếm
+1031017;Ngũ Lôi Kiếm
+1031018;Ngũ Lôi Kiếm
+1031019;Ngũ Lôi Kiếm
+1031020;Ngũ Lôi Truỵ
+1031021;Ngũ Lôi Truỵ
+1031022;Ngũ Lôi Truỵ
+1031023;Ngũ Lôi Truỵ
+1031024;Ngũ Lôi Truỵ
+1031025;Ngũ Lôi Truỵ
+1031026;Ngũ Lôi Truỵ
+1031027;Ngũ Lôi Truỵ
+1031028;Ngũ Lôi Truỵ
+1031029;Ngũ Lôi Truỵ
+1031030;Ngũ Lôi Liệm
+1031031;Ngũ Lôi Liệm
+1031032;Ngũ Lôi Liệm
+1031033;Ngũ Lôi Liệm
+1031034;Ngũ Lôi Liệm
+1031035;Ngũ Lôi Liệm
+1031036;Ngũ Lôi Liệm
+1031037;Ngũ Lôi Liệm
+1031038;Ngũ Lôi Liệm
+1031039;Ngũ Lôi Liệm
+1031040;Ngũ Lôi Giáp
+1031041;Ngũ Lôi Giáp
+1031042;Ngũ Lôi Giáp
+1031043;Ngũ Lôi Giáp
+1031044;Ngũ Lôi Giáp
+1031045;Ngũ Lôi Giáp
+1031046;Ngũ Lôi Giáp
+1031047;Ngũ Lôi Giáp
+1031048;Ngũ Lôi Giáp
+1031049;Ngũ Lôi Giáp
+1031050;Ngũ Lôi Hộ Uyển
+1031051;Ngũ Lôi Hộ Uyển
+1031052;Ngũ Lôi Hộ Uyển
+1031053;Ngũ Lôi Hộ Uyển
+1031054;Ngũ Lôi Hộ Uyển
+1031055;Ngũ Lôi Hộ Uyển
+1031056;Ngũ Lôi Hộ Uyển
+1031057;Ngũ Lôi Hộ Uyển
+1031058;Ngũ Lôi Hộ Uyển
+1031059;Ngũ Lôi Hộ Uyển
+1031060;Ngũ Lôi Giới
+1031061;Ngũ Lôi Giới
+1031062;Ngũ Lôi Giới
+1031063;Ngũ Lôi Giới
+1031064;Ngũ Lôi Giới
+1031065;Ngũ Lôi Giới
+1031066;Ngũ Lôi Giới
+1031067;Ngũ Lôi Giới
+1031068;Ngũ Lôi Giới
+1031069;Ngũ Lôi Giới
+1031070;Ngũ Lôi Đai
+1031071;Ngũ Lôi Đai
+1031072;Ngũ Lôi Đai
+1031073;Ngũ Lôi Đai
+1031074;Ngũ Lôi Đai
+1031075;Ngũ Lôi Đai
+1031076;Ngũ Lôi Đai
+1031077;Ngũ Lôi Đai
+1031078;Ngũ Lôi Đai
+1031079;Ngũ Lôi Đai
+1031080;Ngũ Lôi Bội
+1031081;Ngũ Lôi Bội
+1031082;Ngũ Lôi Bội
+1031083;Ngũ Lôi Bội
+1031084;Ngũ Lôi Bội
+1031085;Ngũ Lôi Bội
+1031086;Ngũ Lôi Bội
+1031087;Ngũ Lôi Bội
+1031088;Ngũ Lôi Bội
+1031089;Ngũ Lôi Bội
+1031090;Ngũ Lôi Hộ Thoái
+1031091;Ngũ Lôi Hộ Thoái
+1031092;Ngũ Lôi Hộ Thoái
+1031093;Ngũ Lôi Hộ Thoái
+1031094;Ngũ Lôi Hộ Thoái
+1031095;Ngũ Lôi Hộ Thoái
+1031096;Ngũ Lôi Hộ Thoái
+1031097;Ngũ Lôi Hộ Thoái
+1031098;Ngũ Lôi Hộ Thoái
+1031099;Ngũ Lôi Hộ Thoái
+1031100;Ngũ Lôi Ngoa
+1031101;Ngũ Lôi Ngoa
+1031102;Ngũ Lôi Ngoa
+1031103;Ngũ Lôi Ngoa
+1031104;Ngũ Lôi Ngoa
+1031105;Ngũ Lôi Ngoa
+1031106;Ngũ Lôi Ngoa
+1031107;Ngũ Lôi Ngoa
+1031108;Ngũ Lôi Ngoa
+1031109;Ngũ Lôi Ngoa
+1041010;Chúc Long Kiếm
+1041011;Chúc Long Kiếm
+1041012;Chúc Long Kiếm
+1041013;Chúc Long Kiếm
+1041014;Chúc Long Kiếm
+1041015;Chúc Long Kiếm
+1041016;Chúc Long Kiếm
+1041017;Chúc Long Kiếm
+1041018;Chúc Long Kiếm
+1041019;Chúc Long Kiếm
+1041020;Chúc Long Truỵ
+1041021;Chúc Long Truỵ
+1041022;Chúc Long Truỵ
+1041023;Chúc Long Truỵ
+1041024;Chúc Long Truỵ
+1041025;Chúc Long Truỵ
+1041026;Chúc Long Truỵ
+1041027;Chúc Long Truỵ
+1041028;Chúc Long Truỵ
+1041029;Chúc Long Truỵ
+1041030;Chúc Long Liệm
+1041031;Chúc Long Liệm
+1041032;Chúc Long Liệm
+1041033;Chúc Long Liệm
+1041034;Chúc Long Liệm
+1041035;Chúc Long Liệm
+1041036;Chúc Long Liệm
+1041037;Chúc Long Liệm
+1041038;Chúc Long Liệm
+1041039;Chúc Long Liệm
+1041040;Chúc Long Giáp
+1041041;Chúc Long Giáp
+1041042;Chúc Long Giáp
+1041043;Chúc Long Giáp
+1041044;Chúc Long Giáp
+1041045;Chúc Long Giáp
+1041046;Chúc Long Giáp
+1041047;Chúc Long Giáp
+1041048;Chúc Long Giáp
+1041049;Chúc Long Giáp
+1041050;Chúc Long Hộ Uyển
+1041051;Chúc Long Hộ Uyển
+1041052;Chúc Long Hộ Uyển
+1041053;Chúc Long Hộ Uyển
+1041054;Chúc Long Hộ Uyển
+1041055;Chúc Long Hộ Uyển
+1041056;Chúc Long Hộ Uyển
+1041057;Chúc Long Hộ Uyển
+1041058;Chúc Long Hộ Uyển
+1041059;Chúc Long Hộ Uyển
+1041060;Chúc Long Giới
+1041061;Chúc Long Giới
+1041062;Chúc Long Giới
+1041063;Chúc Long Giới
+1041064;Chúc Long Giới
+1041065;Chúc Long Giới
+1041066;Chúc Long Giới
+1041067;Chúc Long Giới
+1041068;Chúc Long Giới
+1041069;Chúc Long Giới
+1041070;Chúc Long Đai
+1041071;Chúc Long Đai
+1041072;Chúc Long Đai
+1041073;Chúc Long Đai
+1041074;Chúc Long Đai
+1041075;Chúc Long Đai
+1041076;Chúc Long Đai
+1041077;Chúc Long Đai
+1041078;Chúc Long Đai
+1041079;Chúc Long Đai
+1041080;Chúc Long Bội
+1041081;Chúc Long Bội
+1041082;Chúc Long Bội
+1041083;Chúc Long Bội
+1041084;Chúc Long Bội
+1041085;Chúc Long Bội
+1041086;Chúc Long Bội
+1041087;Chúc Long Bội
+1041088;Chúc Long Bội
+1041089;Chúc Long Bội
+1041090;Chúc Long Hộ Thoái
+1041091;Chúc Long Hộ Thoái
+1041092;Chúc Long Hộ Thoái
+1041093;Chúc Long Hộ Thoái
+1041094;Chúc Long Hộ Thoái
+1041095;Chúc Long Hộ Thoái
+1041096;Chúc Long Hộ Thoái
+1041097;Chúc Long Hộ Thoái
+1041098;Chúc Long Hộ Thoái
+1041099;Chúc Long Hộ Thoái
+1041100;Chúc Long Ngoa
+1041101;Chúc Long Ngoa
+1041102;Chúc Long Ngoa
+1041103;Chúc Long Ngoa
+1041104;Chúc Long Ngoa
+1041105;Chúc Long Ngoa
+1041106;Chúc Long Ngoa
+1041107;Chúc Long Ngoa
+1041108;Chúc Long Ngoa
+1041109;Chúc Long Ngoa
+1051010;Càn Khôn Kiếm
+1051011;Càn Khôn Kiếm
+1051012;Càn Khôn Kiếm
+1051013;Càn Khôn Kiếm
+1051014;Càn Khôn Kiếm
+1051015;Càn Khôn Kiếm
+1051016;Càn Khôn Kiếm
+1051017;Càn Khôn Kiếm
+1051018;Càn Khôn Kiếm
+1051019;Càn Khôn Kiếm
+1051020;Càn Khôn Truỵ
+1051021;Càn Khôn Truỵ
+1051022;Càn Khôn Truỵ
+1051023;Càn Khôn Truỵ
+1051024;Càn Khôn Truỵ
+1051025;Càn Khôn Truỵ
+1051026;Càn Khôn Truỵ
+1051027;Càn Khôn Truỵ
+1051028;Càn Khôn Truỵ
+1051029;Càn Khôn Truỵ
+1051030;Càn Khôn Liệm
+1051031;Càn Khôn Liệm
+1051032;Càn Khôn Liệm
+1051033;Càn Khôn Liệm
+1051034;Càn Khôn Liệm
+1051035;Càn Khôn Liệm
+1051036;Càn Khôn Liệm
+1051037;Càn Khôn Liệm
+1051038;Càn Khôn Liệm
+1051039;Càn Khôn Liệm
+1051040;Càn Khôn Giáp
+1051041;Càn Khôn Giáp
+1051042;Càn Khôn Giáp
+1051043;Càn Khôn Giáp
+1051044;Càn Khôn Giáp
+1051045;Càn Khôn Giáp
+1051046;Càn Khôn Giáp
+1051047;Càn Khôn Giáp
+1051048;Càn Khôn Giáp
+1051049;Càn Khôn Giáp
+1051050;Càn Khôn Hộ Uyển
+1051051;Càn Khôn Hộ Uyển
+1051052;Càn Khôn Hộ Uyển
+1051053;Càn Khôn Hộ Uyển
+1051054;Càn Khôn Hộ Uyển
+1051055;Càn Khôn Hộ Uyển
+1051056;Càn Khôn Hộ Uyển
+1051057;Càn Khôn Hộ Uyển
+1051058;Càn Khôn Hộ Uyển
+1051059;Càn Khôn Hộ Uyển
+1051060;Càn Khôn Giới
+1051061;Càn Khôn Giới
+1051062;Càn Khôn Giới
+1051063;Càn Khôn Giới
+1051064;Càn Khôn Giới
+1051065;Càn Khôn Giới
+1051066;Càn Khôn Giới
+1051067;Càn Khôn Giới
+1051068;Càn Khôn Giới
+1051069;Càn Khôn Giới
+1051070;Càn Khôn Đai
+1051071;Càn Khôn Đai
+1051072;Càn Khôn Đai
+1051073;Càn Khôn Đai
+1051074;Càn Khôn Đai
+1051075;Càn Khôn Đai
+1051076;Càn Khôn Đai
+1051077;Càn Khôn Đai
+1051078;Càn Khôn Đai
+1051079;Càn Khôn Đai
+1051080;Càn Khôn Bội
+1051081;Càn Khôn Bội
+1051082;Càn Khôn Bội
+1051083;Càn Khôn Bội
+1051084;Càn Khôn Bội
+1051085;Càn Khôn Bội
+1051086;Càn Khôn Bội
+1051087;Càn Khôn Bội
+1051088;Càn Khôn Bội
+1051089;Càn Khôn Bội
+1051090;Càn Khôn Hộ Thoái
+1051091;Càn Khôn Hộ Thoái
+1051092;Càn Khôn Hộ Thoái
+1051093;Càn Khôn Hộ Thoái
+1051094;Càn Khôn Hộ Thoái
+1051095;Càn Khôn Hộ Thoái
+1051096;Càn Khôn Hộ Thoái
+1051097;Càn Khôn Hộ Thoái
+1051098;Càn Khôn Hộ Thoái
+1051099;Càn Khôn Hộ Thoái
+1051100;Càn Khôn Ngoa
+1051101;Càn Khôn Ngoa
+1051102;Càn Khôn Ngoa
+1051103;Càn Khôn Ngoa
+1051104;Càn Khôn Ngoa
+1051105;Càn Khôn Ngoa
+1051106;Càn Khôn Ngoa
+1051107;Càn Khôn Ngoa
+1051108;Càn Khôn Ngoa
+1051109;Càn Khôn Ngoa
+1061010;Xích Minh Kiếm
+1061011;Xích Minh Kiếm
+1061012;Xích Minh Kiếm
+1061013;Xích Minh Kiếm
+1061014;Xích Minh Kiếm
+1061015;Xích Minh Kiếm
+1061016;Xích Minh Kiếm
+1061017;Xích Minh Kiếm
+1061018;Xích Minh Kiếm
+1061019;Xích Minh Kiếm
+1061020;Xích Minh Truỵ
+1061021;Xích Minh Truỵ
+1061022;Xích Minh Truỵ
+1061023;Xích Minh Truỵ
+1061024;Xích Minh Truỵ
+1061025;Xích Minh Truỵ
+1061026;Xích Minh Truỵ
+1061027;Xích Minh Truỵ
+1061028;Xích Minh Truỵ
+1061029;Xích Minh Truỵ
+1061030;Xích Minh Liệm
+1061031;Xích Minh Liệm
+1061032;Xích Minh Liệm
+1061033;Xích Minh Liệm
+1061034;Xích Minh Liệm
+1061035;Xích Minh Liệm
+1061036;Xích Minh Liệm
+1061037;Xích Minh Liệm
+1061038;Xích Minh Liệm
+1061039;Xích Minh Liệm
+1061040;Xích Minh Giáp
+1061041;Xích Minh Giáp
+1061042;Xích Minh Giáp
+1061043;Xích Minh Giáp
+1061044;Xích Minh Giáp
+1061045;Xích Minh Giáp
+1061046;Xích Minh Giáp
+1061047;Xích Minh Giáp
+1061048;Xích Minh Giáp
+1061049;Xích Minh Giáp
+1061050;Xích Minh Hộ Uyển
+1061051;Xích Minh Hộ Uyển
+1061052;Xích Minh Hộ Uyển
+1061053;Xích Minh Hộ Uyển
+1061054;Xích Minh Hộ Uyển
+1061055;Xích Minh Hộ Uyển
+1061056;Xích Minh Hộ Uyển
+1061057;Xích Minh Hộ Uyển
+1061058;Xích Minh Hộ Uyển
+1061059;Xích Minh Hộ Uyển
+1061060;Xích Minh Giới
+1061061;Xích Minh Giới
+1061062;Xích Minh Giới
+1061063;Xích Minh Giới
+1061064;Xích Minh Giới
+1061065;Xích Minh Giới
+1061066;Xích Minh Giới
+1061067;Xích Minh Giới
+1061068;Xích Minh Giới
+1061069;Xích Minh Giới
+1061070;Xích Minh Đai
+1061071;Xích Minh Đai
+1061072;Xích Minh Đai
+1061073;Xích Minh Đai
+1061074;Xích Minh Đai
+1061075;Xích Minh Đai
+1061076;Xích Minh Đai
+1061077;Xích Minh Đai
+1061078;Xích Minh Đai
+1061079;Xích Minh Đai
+1061080;Xích Minh Bội
+1061081;Xích Minh Bội
+1061082;Xích Minh Bội
+1061083;Xích Minh Bội
+1061084;Xích Minh Bội
+1061085;Xích Minh Bội
+1061086;Xích Minh Bội
+1061087;Xích Minh Bội
+1061088;Xích Minh Bội
+1061089;Xích Minh Bội
+1061090;Xích Minh Hộ Thoái
+1061091;Xích Minh Hộ Thoái
+1061092;Xích Minh Hộ Thoái
+1061093;Xích Minh Hộ Thoái
+1061094;Xích Minh Hộ Thoái
+1061095;Xích Minh Hộ Thoái
+1061096;Xích Minh Hộ Thoái
+1061097;Xích Minh Hộ Thoái
+1061098;Xích Minh Hộ Thoái
+1061099;Xích Minh Hộ Thoái
+1061100;Xích Minh Ngoa
+1061101;Xích Minh Ngoa
+1061102;Xích Minh Ngoa
+1061103;Xích Minh Ngoa
+1061104;Xích Minh Ngoa
+1061105;Xích Minh Ngoa
+1061106;Xích Minh Ngoa
+1061107;Xích Minh Ngoa
+1061108;Xích Minh Ngoa
+1061109;Xích Minh Ngoa
+1071010;Trích Tinh Kiếm
+1071011;Trích Tinh Kiếm
+1071012;Trích Tinh Kiếm
+1071013;Trích Tinh Kiếm
+1071014;Trích Tinh Kiếm
+1071015;Trích Tinh Kiếm
+1071016;Trích Tinh Kiếm
+1071017;Trích Tinh Kiếm
+1071018;Trích Tinh Kiếm
+1071019;Trích Tinh Kiếm
+1071020;Trích Tinh Truỵ
+1071021;Trích Tinh Truỵ
+1071022;Trích Tinh Truỵ
+1071023;Trích Tinh Truỵ
+1071024;Trích Tinh Truỵ
+1071025;Trích Tinh Truỵ
+1071026;Trích Tinh Truỵ
+1071027;Trích Tinh Truỵ
+1071028;Trích Tinh Truỵ
+1071029;Trích Tinh Truỵ
+1071030;Trích Tinh Liệm
+1071031;Trích Tinh Liệm
+1071032;Trích Tinh Liệm
+1071033;Trích Tinh Liệm
+1071034;Trích Tinh Liệm
+1071035;Trích Tinh Liệm
+1071036;Trích Tinh Liệm
+1071037;Trích Tinh Liệm
+1071038;Trích Tinh Liệm
+1071039;Trích Tinh Liệm
+1071040;Trích Tinh Giáp
+1071041;Trích Tinh Giáp
+1071042;Trích Tinh Giáp
+1071043;Trích Tinh Giáp
+1071044;Trích Tinh Giáp
+1071045;Trích Tinh Giáp
+1071046;Trích Tinh Giáp
+1071047;Trích Tinh Giáp
+1071048;Trích Tinh Giáp
+1071049;Trích Tinh Giáp
+1071050;Trích Tinh Hộ Uyển
+1071051;Trích Tinh Hộ Uyển
+1071052;Trích Tinh Hộ Uyển
+1071053;Trích Tinh Hộ Uyển
+1071054;Trích Tinh Hộ Uyển
+1071055;Trích Tinh Hộ Uyển
+1071056;Trích Tinh Hộ Uyển
+1071057;Trích Tinh Hộ Uyển
+1071058;Trích Tinh Hộ Uyển
+1071059;Trích Tinh Hộ Uyển
+1071060;Trích Tinh Giới
+1071061;Trích Tinh Giới
+1071062;Trích Tinh Giới
+1071063;Trích Tinh Giới
+1071064;Trích Tinh Giới
+1071065;Trích Tinh Giới
+1071066;Trích Tinh Giới
+1071067;Trích Tinh Giới
+1071068;Trích Tinh Giới
+1071069;Trích Tinh Giới
+1071070;Trích Tinh Đai
+1071071;Trích Tinh Đai
+1071072;Trích Tinh Đai
+1071073;Trích Tinh Đai
+1071074;Trích Tinh Đai
+1071075;Trích Tinh Đai
+1071076;Trích Tinh Đai
+1071077;Trích Tinh Đai
+1071078;Trích Tinh Đai
+1071079;Trích Tinh Đai
+1071080;Trích Tinh Bội
+1071081;Trích Tinh Bội
+1071082;Trích Tinh Bội
+1071083;Trích Tinh Bội
+1071084;Trích Tinh Bội
+1071085;Trích Tinh Bội
+1071086;Trích Tinh Bội
+1071087;Trích Tinh Bội
+1071088;Trích Tinh Bội
+1071089;Trích Tinh Bội
+1071090;Trích Tinh Hộ Thoái
+1071091;Trích Tinh Hộ Thoái
+1071092;Trích Tinh Hộ Thoái
+1071093;Trích Tinh Hộ Thoái
+1071094;Trích Tinh Hộ Thoái
+1071095;Trích Tinh Hộ Thoái
+1071096;Trích Tinh Hộ Thoái
+1071097;Trích Tinh Hộ Thoái
+1071098;Trích Tinh Hộ Thoái
+1071099;Trích Tinh Hộ Thoái
+1071100;Trích Tinh Ngoa
+1071101;Trích Tinh Ngoa
+1071102;Trích Tinh Ngoa
+1071103;Trích Tinh Ngoa
+1071104;Trích Tinh Ngoa
+1071105;Trích Tinh Ngoa
+1071106;Trích Tinh Ngoa
+1071107;Trích Tinh Ngoa
+1071108;Trích Tinh Ngoa
+1071109;Trích Tinh Ngoa
+1081010;Diệt Thần Kiếm
+1081011;Diệt Thần Kiếm
+1081012;Diệt Thần Kiếm
+1081013;Diệt Thần Kiếm
+1081014;Diệt Thần Kiếm
+1081015;Diệt Thần Kiếm
+1081016;Diệt Thần Kiếm
+1081017;Diệt Thần Kiếm
+1081018;Diệt Thần Kiếm
+1081019;Diệt Thần Kiếm
+1081020;Diệt Thần Truỵ
+1081021;Diệt Thần Truỵ
+1081022;Diệt Thần Truỵ
+1081023;Diệt Thần Truỵ
+1081024;Diệt Thần Truỵ
+1081025;Diệt Thần Truỵ
+1081026;Diệt Thần Truỵ
+1081027;Diệt Thần Truỵ
+1081028;Diệt Thần Truỵ
+1081029;Diệt Thần Truỵ
+1081030;Diệt Thần Liệm
+1081031;Diệt Thần Liệm
+1081032;Diệt Thần Liệm
+1081033;Diệt Thần Liệm
+1081034;Diệt Thần Liệm
+1081035;Diệt Thần Liệm
+1081036;Diệt Thần Liệm
+1081037;Diệt Thần Liệm
+1081038;Diệt Thần Liệm
+1081039;Diệt Thần Liệm
+1081040;Diệt Thần Giáp
+1081041;Diệt Thần Giáp
+1081042;Diệt Thần Giáp
+1081043;Diệt Thần Giáp
+1081044;Diệt Thần Giáp
+1081045;Diệt Thần Giáp
+1081046;Diệt Thần Giáp
+1081047;Diệt Thần Giáp
+1081048;Diệt Thần Giáp
+1081049;Diệt Thần Giáp
+1081050;Diệt Thần Hộ Uyển
+1081051;Diệt Thần Hộ Uyển
+1081052;Diệt Thần Hộ Uyển
+1081053;Diệt Thần Hộ Uyển
+1081054;Diệt Thần Hộ Uyển
+1081055;Diệt Thần Hộ Uyển
+1081056;Diệt Thần Hộ Uyển
+1081057;Diệt Thần Hộ Uyển
+1081058;Diệt Thần Hộ Uyển
+1081059;Diệt Thần Hộ Uyển
+1081060;Diệt Thần Giới
+1081061;Diệt Thần Giới
+1081062;Diệt Thần Giới
+1081063;Diệt Thần Giới
+1081064;Diệt Thần Giới
+1081065;Diệt Thần Giới
+1081066;Diệt Thần Giới
+1081067;Diệt Thần Giới
+1081068;Diệt Thần Giới
+1081069;Diệt Thần Giới
+1081070;Diệt Thần Đai
+1081071;Diệt Thần Đai
+1081072;Diệt Thần Đai
+1081073;Diệt Thần Đai
+1081074;Diệt Thần Đai
+1081075;Diệt Thần Đai
+1081076;Diệt Thần Đai
+1081077;Diệt Thần Đai
+1081078;Diệt Thần Đai
+1081079;Diệt Thần Đai
+1081080;Diệt Thần Bội
+1081081;Diệt Thần Bội
+1081082;Diệt Thần Bội
+1081083;Diệt Thần Bội
+1081084;Diệt Thần Bội
+1081085;Diệt Thần Bội
+1081086;Diệt Thần Bội
+1081087;Diệt Thần Bội
+1081088;Diệt Thần Bội
+1081089;Diệt Thần Bội
+1081090;Diệt Thần Hộ Thoái
+1081091;Diệt Thần Hộ Thoái
+1081092;Diệt Thần Hộ Thoái
+1081093;Diệt Thần Hộ Thoái
+1081094;Diệt Thần Hộ Thoái
+1081095;Diệt Thần Hộ Thoái
+1081096;Diệt Thần Hộ Thoái
+1081097;Diệt Thần Hộ Thoái
+1081098;Diệt Thần Hộ Thoái
+1081099;Diệt Thần Hộ Thoái
+1081100;Diệt Thần Ngoa
+1081101;Diệt Thần Ngoa
+1081102;Diệt Thần Ngoa
+1081103;Diệt Thần Ngoa
+1081104;Diệt Thần Ngoa
+1081105;Diệt Thần Ngoa
+1081106;Diệt Thần Ngoa
+1081107;Diệt Thần Ngoa
+1081108;Diệt Thần Ngoa
+1081109;Diệt Thần Ngoa
+1091010;Hỗn Độn Kiếm
+1091011;Hỗn Độn Kiếm
+1091012;Hỗn Độn Kiếm
+1091013;Hỗn Độn Kiếm
+1091014;Hỗn Độn Kiếm
+1091015;Hỗn Độn Kiếm
+1091016;Hỗn Độn Kiếm
+1091017;Hỗn Độn Kiếm
+1091018;Hỗn Độn Kiếm
+1091019;Hỗn Độn Kiếm
+1091020;Hỗn Độn Truỵ
+1091021;Hỗn Độn Truỵ
+1091022;Hỗn Độn Truỵ
+1091023;Hỗn Độn Truỵ
+1091024;Hỗn Độn Truỵ
+1091025;Hỗn Độn Truỵ
+1091026;Hỗn Độn Truỵ
+1091027;Hỗn Độn Truỵ
+1091028;Hỗn Độn Truỵ
+1091029;Hỗn Độn Truỵ
+1091030;Hỗn Độn Liệm
+1091031;Hỗn Độn Liệm
+1091032;Hỗn Độn Liệm
+1091033;Hỗn Độn Liệm
+1091034;Hỗn Độn Liệm
+1091035;Hỗn Độn Liệm
+1091036;Hỗn Độn Liệm
+1091037;Hỗn Độn Liệm
+1091038;Hỗn Độn Liệm
+1091039;Hỗn Độn Liệm
+1091040;Hỗn Độn Giáp
+1091041;Hỗn Độn Giáp
+1091042;Hỗn Độn Giáp
+1091043;Hỗn Độn Giáp
+1091044;Hỗn Độn Giáp
+1091045;Hỗn Độn Giáp
+1091046;Hỗn Độn Giáp
+1091047;Hỗn Độn Giáp
+1091048;Hỗn Độn Giáp
+1091049;Hỗn Độn Giáp
+1091050;Hỗn Độn Hộ Uyển
+1091051;Hỗn Độn Hộ Uyển
+1091052;Hỗn Độn Hộ Uyển
+1091053;Hỗn Độn Hộ Uyển
+1091054;Hỗn Độn Hộ Uyển
+1091055;Hỗn Độn Hộ Uyển
+1091056;Hỗn Độn Hộ Uyển
+1091057;Hỗn Độn Hộ Uyển
+1091058;Hỗn Độn Hộ Uyển
+1091059;Hỗn Độn Hộ Uyển
+1091060;Hỗn Độn Giới
+1091061;Hỗn Độn Giới
+1091062;Hỗn Độn Giới
+1091063;Hỗn Độn Giới
+1091064;Hỗn Độn Giới
+1091065;Hỗn Độn Giới
+1091066;Hỗn Độn Giới
+1091067;Hỗn Độn Giới
+1091068;Hỗn Độn Giới
+1091069;Hỗn Độn Giới
+1091070;Hỗn Độn Đai
+1091071;Hỗn Độn Đai
+1091072;Hỗn Độn Đai
+1091073;Hỗn Độn Đai
+1091074;Hỗn Độn Đai
+1091075;Hỗn Độn Đai
+1091076;Hỗn Độn Đai
+1091077;Hỗn Độn Đai
+1091078;Hỗn Độn Đai
+1091079;Hỗn Độn Đai
+1091080;Hỗn Độn Bội
+1091081;Hỗn Độn Bội
+1091082;Hỗn Độn Bội
+1091083;Hỗn Độn Bội
+1091084;Hỗn Độn Bội
+1091085;Hỗn Độn Bội
+1091086;Hỗn Độn Bội
+1091087;Hỗn Độn Bội
+1091088;Hỗn Độn Bội
+1091089;Hỗn Độn Bội
+1091090;Hỗn Độn Hộ Thoái
+1091091;Hỗn Độn Hộ Thoái
+1091092;Hỗn Độn Hộ Thoái
+1091093;Hỗn Độn Hộ Thoái
+1091094;Hỗn Độn Hộ Thoái
+1091095;Hỗn Độn Hộ Thoái
+1091096;Hỗn Độn Hộ Thoái
+1091097;Hỗn Độn Hộ Thoái
+1091098;Hỗn Độn Hộ Thoái
+1091099;Hỗn Độn Hộ Thoái
+1091100;Hỗn Độn Ngoa
+1091101;Hỗn Độn Ngoa
+1091102;Hỗn Độn Ngoa
+1091103;Hỗn Độn Ngoa
+1091104;Hỗn Độn Ngoa
+1091105;Hỗn Độn Ngoa
+1091106;Hỗn Độn Ngoa
+1091107;Hỗn Độn Ngoa
+1091108;Hỗn Độn Ngoa
+1091109;Hỗn Độn Ngoa
+1101010;Sáng Thế Kiếm
+1101011;Sáng Thế Kiếm
+1101012;Sáng Thế Kiếm
+1101013;Sáng Thế Kiếm
+1101014;Sáng Thế Kiếm
+1101015;Sáng Thế Kiếm
+1101016;Sáng Thế Kiếm
+1101017;Sáng Thế Kiếm
+1101018;Sáng Thế Kiếm
+1101019;Sáng Thế Kiếm
+1101020;Sáng Thế Truỵ
+1101021;Sáng Thế Truỵ
+1101022;Sáng Thế Truỵ
+1101023;Sáng Thế Truỵ
+1101024;Sáng Thế Truỵ
+1101025;Sáng Thế Truỵ
+1101026;Sáng Thế Truỵ
+1101027;Sáng Thế Truỵ
+1101028;Sáng Thế Truỵ
+1101029;Sáng Thế Truỵ
+1101030;Sáng Thế Liệm
+1101031;Sáng Thế Liệm
+1101032;Sáng Thế Liệm
+1101033;Sáng Thế Liệm
+1101034;Sáng Thế Liệm
+1101035;Sáng Thế Liệm
+1101036;Sáng Thế Liệm
+1101037;Sáng Thế Liệm
+1101038;Sáng Thế Liệm
+1101039;Sáng Thế Liệm
+1101040;Sáng Thế Giáp
+1101041;Sáng Thế Giáp
+1101042;Sáng Thế Giáp
+1101043;Sáng Thế Giáp
+1101044;Sáng Thế Giáp
+1101045;Sáng Thế Giáp
+1101046;Sáng Thế Giáp
+1101047;Sáng Thế Giáp
+1101048;Sáng Thế Giáp
+1101049;Sáng Thế Giáp
+1101050;Sáng Thế Hộ Uyển
+1101051;Sáng Thế Hộ Uyển
+1101052;Sáng Thế Hộ Uyển
+1101053;Sáng Thế Hộ Uyển
+1101054;Sáng Thế Hộ Uyển
+1101055;Sáng Thế Hộ Uyển
+1101056;Sáng Thế Hộ Uyển
+1101057;Sáng Thế Hộ Uyển
+1101058;Sáng Thế Hộ Uyển
+1101059;Sáng Thế Hộ Uyển
+1101060;Sáng Thế Giới
+1101061;Sáng Thế Giới
+1101062;Sáng Thế Giới
+1101063;Sáng Thế Giới
+1101064;Sáng Thế Giới
+1101065;Sáng Thế Giới
+1101066;Sáng Thế Giới
+1101067;Sáng Thế Giới
+1101068;Sáng Thế Giới
+1101069;Sáng Thế Giới
+1101070;Sáng Thế Đai
+1101071;Sáng Thế Đai
+1101072;Sáng Thế Đai
+1101073;Sáng Thế Đai
+1101074;Sáng Thế Đai
+1101075;Sáng Thế Đai
+1101076;Sáng Thế Đai
+1101077;Sáng Thế Đai
+1101078;Sáng Thế Đai
+1101079;Sáng Thế Đai
+1101080;Sáng Thế Bội
+1101081;Sáng Thế Bội
+1101082;Sáng Thế Bội
+1101083;Sáng Thế Bội
+1101084;Sáng Thế Bội
+1101085;Sáng Thế Bội
+1101086;Sáng Thế Bội
+1101087;Sáng Thế Bội
+1101088;Sáng Thế Bội
+1101089;Sáng Thế Bội
+1101090;Sáng Thế Hộ Thoái
+1101091;Sáng Thế Hộ Thoái
+1101092;Sáng Thế Hộ Thoái
+1101093;Sáng Thế Hộ Thoái
+1101094;Sáng Thế Hộ Thoái
+1101095;Sáng Thế Hộ Thoái
+1101096;Sáng Thế Hộ Thoái
+1101097;Sáng Thế Hộ Thoái
+1101098;Sáng Thế Hộ Thoái
+1101099;Sáng Thế Hộ Thoái
+1101100;Sáng Thế Ngoa
+1101101;Sáng Thế Ngoa
+1101102;Sáng Thế Ngoa
+1101103;Sáng Thế Ngoa
+1101104;Sáng Thế Ngoa
+1101105;Sáng Thế Ngoa
+1101106;Sáng Thế Ngoa
+1101107;Sáng Thế Ngoa
+1101108;Sáng Thế Ngoa
+1101109;Sáng Thế Ngoa
+2012017;Thần Chiến Vũ
+2012027;Thần Nhĩ Truỵ
+2012037;Thần Liệm
+2012047;Thần Khôi Giáp
+2012057;Thần Hộ Uyển
+2012067;Thần Giới
+2012077;Thần Đai
+2012087;Thần Bội
+2012097;Thần Hộ Thoái
+2012107;Thần Ngoa
+2022017;Thần Chiến Vũ Bậc 2
+2022027;Thần Nhĩ Truỵ Bậc 2
+2022037;Thần Liệm Bậc 2
+2022047;Thần Khôi Giáp Bậc 2
+2022057;Thần Hộ Uyển Bậc 2
+2022067;Thần Giới Bậc 2
+2022077;Thần Đai Bậc 2
+2022087;Thần Bội Bậc 2
+2022097;Thần Hộ Thoái Bậc 2
+2022107;Thần Ngoa Bậc 2
+2032017;Thần Chiến Vũ Bậc 3
+2032027;Thần Nhĩ Truỵ Bậc 3
+2032037;Thần Liệm Bậc 3
+2032047;Thần Khôi Giáp Bậc 3
+2032057;Thần Hộ Uyển Bậc 3
+2032067;Thần Giới Bậc 3
+2032077;Thần Đai Bậc 3
+2032087;Thần Bội Bậc 3
+2032097;Thần Hộ Thoái Bậc 3
+2032107;Thần Ngoa Bậc 3
+2042017;Thần Chiến Vũ Bậc 4
+2042027;Thần Nhĩ Truỵ Bậc 4
+2042037;Thần Liệm Bậc 4
+2042047;Thần Khôi Giáp Bậc 4
+2042057;Thần Hộ Uyển Bậc 4
+2042067;Thần Giới Bậc 4
+2042077;Thần Đai Bậc 4
+2042087;Thần Bội Bậc 4
+2042097;Thần Hộ Thoái Bậc 4
+2042107;Thần Ngoa Bậc 4
+2052017;Thần Chiến Vũ Bậc 5
+2052027;Thần Nhĩ Truỵ Bậc 5
+2052037;Thần Liệm Bậc 5
+2052047;Thần Khôi Giáp Bậc 5
+2052057;Thần Hộ Uyển Bậc 5
+2052067;Thần Giới Bậc 5
+2052077;Thần Đai Bậc 5
+2052087;Thần Bội Bậc 5
+2052097;Thần Hộ Thoái Bậc 5
+2052107;Thần Ngoa Bậc 5
+2062017;Thần Chiến Vũ Bậc 6
+2062027;Thần Nhĩ Truỵ Bậc 6
+2062037;Thần Liệm Bậc 6
+2062047;Thần Khôi Giáp Bậc 6
+2062057;Thần Hộ Uyển Bậc 6
+2062067;Thần Giới Bậc 6
+2062077;Thần Đai Bậc 6
+2062087;Thần Bội Bậc 6
+2062097;Thần Hộ Thoái Bậc 6
+2062107;Thần Ngoa Bậc 6
+2072017;Thần Chiến Vũ Bậc 7
+2072027;Thần Nhĩ Truỵ Bậc 7
+2072037;Thần Liệm Bậc 7
+2072047;Thần Khôi Giáp Bậc 7
+2072057;Thần Hộ Uyển Bậc 7
+2072067;Thần Giới Bậc 7
+2072077;Thần Đai Bậc 7
+2072087;Thần Bội Bậc 7
+2072097;Thần Hộ Thoái Bậc 7
+2072107;Thần Ngoa Bậc 7
+2082017;Thần Chiến Vũ Bậc 8
+2082027;Thần Nhĩ Truỵ Bậc 8
+2082037;Thần Liệm Bậc 8
+2082047;Thần Khôi Giáp Bậc 8
+2082057;Thần Hộ Uyển Bậc 8
+2082067;Thần Giới Bậc 8
+2082077;Thần Đai Bậc 8
+2082087;Thần Bội Bậc 8
+2082097;Thần Hộ Thoái Bậc 8
+2082107;Thần Ngoa Bậc 8
+2092017;Thần Chiến Vũ Bậc 9
+2092027;Thần Nhĩ Truỵ Bậc 9
+2092037;Thần Liệm Bậc 9
+2092047;Thần Khôi Giáp Bậc 9
+2092057;Thần Hộ Uyển Bậc 9
+2092067;Thần Giới Bậc 9
+2092077;Thần Đai Bậc 9
+2092087;Thần Bội Bậc 9
+2092097;Thần Hộ Thoái Bậc 9
+2092107;Thần Ngoa Bậc 9
+2102017;Thần Chiến Vũ Bậc 10
+2102027;Thần Nhĩ Truỵ Bậc 10
+2102037;Thần Liệm Bậc 10
+2102047;Thần Khôi Giáp Bậc 10
+2102057;Thần Hộ Uyển Bậc 10
+2102067;Thần Giới Bậc 10
+2102077;Thần Đai Bậc 10
+2102087;Thần Bội Bậc 10
+2102097;Thần Hộ Thoái Bậc 10
+2102107;Thần Ngoa Bậc 10

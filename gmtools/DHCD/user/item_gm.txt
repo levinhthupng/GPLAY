@@ -1,0 +1,218 @@
+1;Linh thạch
+2;Đồng tiền
+3;Linh châu
+7;Cống hiến
+8;Đại kim khoán
+51;Luân hồi thạch
+52;Bách luyện ngọc
+53;Cao cấp bách luyện ngọc
+54;Cam điềm ngọc lộ
+55;Huyết mạch tinh hoa
+56;Thiên địa bảo giám
+57;Thiên tài địa bảo
+58;Tát kim phấn
+59;Điểm tinh thạch
+60;Tinh đồ thủ trát
+61;Chí tôn tinh uẩn sách
+62;Thần chú lệnh
+63;Kiến mộc
+64;Chiến kỳ
+66;Luyện ma lệnh
+67;Thẻ đổi tên
+68;Vé đổi mới
+69;Vé trọng trí
+70;Công pháp
+71;Tiên đan
+72;Kiếm thần lệnh
+73;Đổi mới lệnh
+74;Bí bảo lệnh
+75;Lục lâm lệnh
+76;Tiên thú quả
+77;Đấu la thiếp
+78;Phục sinh đan
+79;Thối tiên thạch
+80;Dung hợp đan
+81;Tàn phá dung hợp đan
+82;Tiên thú quả chủng tử
+83;Thú linh tẩy tủy đan
+84;Đấu la điểm
+85;Thi thảo
+86;Mệnh bàn
+87;Thái huyền phù
+88;Tiên thuật pháp quyết
+89;Vạn tượng đan
+90;Hoán linh phù
+91;Đăng thần thiếp
+201;Phượng hoàng kim vũ
+202;Phượng hoàng kim vũ mảnh vỡ
+203;Huyễn linh ngọc
+204;Huyễn linh ngọc mảnh vỡ
+801;Khánh điển điểm
+802;Cửu long tàng bảo đồ
+803;Bí bảo điểm
+804;Cơ duyên
+805;Cơ duyên
+806;Gói thú linh đỏ
+807;Gói thú linh cam
+808;Gói thú linh tím
+809;Gói thú linh lam
+810;Gói thú linh lục
+811;Gói thú linh đỏ ngẫu nhiên
+812;Gói thú linh cam ngẫu nhiên
+813;Gói thú linh tím ngẫu nhiên
+814;Gói thú linh lam ngẫu nhiên
+815;Gói thú linh lục ngẫu nhiên
+816;Gói thú linh cầu vồng
+817;Gói thú linh cầu vồng ngẫu nhiên
+818;Gói linh thú lục lam
+819;Gói linh thú lam tử
+820;Gói linh thú tử chanh
+821;Gói linh thú chanh hồng
+822;Gói thú linh thải hồng
+901;Exp nhân vật
+902;Đỉnh lô
+903;Điểm sinh động
+904;Tinh hồn đại
+905;Cao cấp tinh hồn đại
+907;Ngư tệ
+908;Cuộn làm mới mục tiêu câu cá
+909;Dạ minh châu
+910;Ngư hoạch thịnh yến đẳng cấp
+911;Thể lực
+912;Ngộ tính
+913;Bí kíp điểm
+914;Khởi nguyên tiên trần
+915;Khởi nguyên chứng nhận
+916;Khởi nguyên điểm tích lũy
+917;Phóng tiên thạch
+918;Thanh tâm liên
+919;Tiên cư điểm tích lũy
+920;Phá ma điểm tích lũy
+921;Nhạc phổ·Cung
+922;Nhạc phổ·Thương
+923;Nhạc phổ·Giác
+924;Nhạc phổ·Trưng
+925;Nhạc vũ điểm tích lũy
+926;Bánh trung thu
+927;Thỏ ngọc tín vật
+928;Hằng Nga tín vật
+929;Sơn hà đồ
+930;Hóa liên bí phù
+931;Trùng dương thù du
+932;Cúc hoa tửu
+933;Tầm hoa lệnh
+934;Phi hoa lệnh
+1000;Mì vắt
+1001;Mồi thối
+1002;Mồi quả
+1003;Mồi độc trùng
+1004;Mồi thịt thối
+1005;Mồi phong thu
+1006;Mồi giun đất
+1007;Mồi nhử bướm
+1008;Mồi tôm đỏ
+1009;Mồi phù du
+1010;Mồi châu chấu
+1011;Mồi rong biển
+1012;Mồi bọ cánh cứng
+1013;Mồi cá chạch
+1014;Mồi ruồi nước
+1015;Mồi tôm
+1016;Ngôi sao may mắn
+1100;[Tiên Phẩm]Ngọc thạch
+1101;[Thượng Phẩm]Ngọc thạch
+1102;[Trung Phẩm]Ngọc thạch
+1103;[Tiên Phẩm]Thư tịch
+1104;[Thượng Phẩm]Thư tịch
+1105;[Trung Phẩm]Thư tịch
+1106;[Tiên Phẩm]Thảo dược
+1107;[Thượng Phẩm]Thảo dược
+1108;[Trung Phẩm]Thảo dược
+1109;[Tiên Phẩm]Nhạc khí
+1110;[Thượng Phẩm]Nhạc khí
+1111;[Trung Phẩm]Nhạc khí
+1112;[Tiên Phẩm]Rượu
+1113;[Thượng Phẩm]Rượu
+1114;[Trung Phẩm]Rượu
+1115;[Tiên Phẩm]Trà
+1116;[Thượng Phẩm]Trà
+1117;[Trung Phẩm]Trà
+1118;[Tiên Phẩm]Huân hương
+1119;[Thượng Phẩm]Huân hương
+1120;[Trung Phẩm]Huân hương
+1121;[Tiên Phẩm]Món ngon
+1122;[Thượng Phẩm]Món ngon
+1123;[Trung Phẩm]Món ngon
+1124;[Tiên Phẩm]Mặt nạ
+1125;[Thượng Phẩm]Mặt nạ
+1126;[Trung Phẩm]Mặt nạ
+1150;[Trung Phẩm]Nhã vật
+1151;[Thượng Phẩm]Nhã vật
+1152;[Tiên Phẩm]Nhã vật
+1180;Tín vật ngẫu nhiên
+1181;Tín vật tự chọn
+1182;Đạo hữu lễ hạp
+1200;Đồng tâm hoa
+1201;Tinh thải tín vật
+1202;Mộc uyên tín vật
+1203;Vân Dao tín vật
+1204;Huyền bí tín vật
+1205;Bạch kinh tín vật
+1206;Lăng hàm tín vật
+1207;Thương quỳ tín vật
+1208;Hắc diệu tín vật
+1209;Phong lăng tín vật
+1300;Gói hạ phẩm minh văn ngẫu nhiên
+1301;Gói trung phẩm minh văn ngẫu nhiên
+1302;Gói thượng phẩm minh văn ngẫu nhiên
+1303;Gói trung phẩm minh văn tự chọn
+1304;Gói thượng phẩm minh văn tự chọn
+1400;Thiên cấp bí pháp tự chọn
+1401;Địa cấp bí pháp tự chọn
+1402;Huyền cấp bí pháp tự chọn
+1403;Hoàng cấp bí pháp tự chọn
+1404;Thiên cấp bí pháp ngẫu nhiên
+1405;Địa cấp bí pháp ngẫu nhiên
+1406;Huyền cấp bí pháp ngẫu nhiên
+1407;Hoàng cấp bí pháp ngẫu nhiên
+1500;Phàm phẩm tiên đản
+1501;Hạ phẩm tiên đản
+1502;Trung phẩm tiên đản
+1503;Đoái tiên lệnh
+1504;Hạ phẩm tiên lữ tàn hồn
+1505;Trung phẩm tiên lữ tàn hồn
+1506;Thượng phẩm tiên lữ tàn hồn
+1507;Cực phẩm tiên lữ tàn hồn
+1508;Truyền kỳ tiên lữ tàn hồn
+1509;Thần thoại tiên lữ tàn hồn
+1510;Tiên đản ngẫu nhiên
+1511;Tiên đản ngẫu nhiên
+1512;Tiên đản ngẫu nhiên
+1513;Tiên đản ngẫu nhiên
+1514;Tiên đản ngẫu nhiên
+1515;Tiên đản ngẫu nhiên
+1516;Đào thần
+1517;Thượng phẩm tiên lữ tự chọn
+1518;Cực phẩm tiên lữ tự chọn
+1519;Truyền kỳ tiên lữ tự chọn
+1520;Thần thoại tiên lữ tự chọn
+1600;Truyền kỳ tinh quái tự chọn
+1601;Cực phẩm tinh quái tự chọn
+1602;Thượng phẩm tinh quái tự chọn
+1603;Trung phẩm tinh quái tự chọn
+1604;Hạ phẩm tinh quái tự chọn
+1605;Truyền kỳ tinh quái ngẫu nhiên
+1606;Cực phẩm tinh quái ngẫu nhiên
+1607;Thượng phẩm tinh quái ngẫu nhiên
+1608;Trung phẩm tinh quái ngẫu nhiên
+1609;Hạ phẩm tinh quái ngẫu nhiên
+1700;Truyền kỳ toái phiến tự chọn
+1701;Cực phẩm toái phiến tự chọn
+1702;Thượng phẩm toái phiến tự chọn
+1703;Trung phẩm toái phiến tự chọn
+1704;Hạ phẩm toái phiến tự chọn
+1705;Truyền kỳ toái phiến ngẫu nhiên
+1706;Cực phẩm toái phiến ngẫu nhiên
+1707;Thượng phẩm toái phiến ngẫu nhiên
+1708;Trung phẩm toái phiến ngẫu nhiên
+1709;Hạ phẩm toái phiến ngẫu nhiên

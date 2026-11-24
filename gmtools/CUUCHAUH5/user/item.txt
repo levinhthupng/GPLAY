@@ -1,0 +1,3459 @@
+50111011;Trắc Thí Vũ Khí
+50111021;Trắc Thí Phòng Cụ
+50121011;Thất Tinh Bảo Kiếm
+50121012;Thất Tinh Bảo Kiếm
+50121021;Thất Tinh Ngọc Quan
+50121022;Thất Tinh Ngọc Quan
+50121031;Thất Tinh Chiến Giáp
+50121032;Thất Tinh Chiến Giáp
+50121041;Thất Tinh Hộ Oản
+50121042;Thất Tinh Hộ Oản
+50121051;Thất Tinh Pháp Lý
+50121052;Thất Tinh Pháp Lý
+50121061;Thất Tinh Thúc Đái
+50121062;Thất Tinh Thúc Đái
+50121071;Thất Tinh Hạng Liên
+50121072;Thất Tinh Hạng Liên
+50121081;Thất Tinh Thủ Trạc
+50121082;Thất Tinh Thủ Trạc
+50121091;Thất Tinh Giới Chỉ
+50121092;Thất Tinh Giới Chỉ
+50121101;Thất Tinh Ngọc Bội
+50121102;Thất Tinh Ngọc Bội
+50131011;Thất Tinh Bảo Kiếm
+50131012;Thất Tinh Bảo Kiếm
+50131021;Thất Tinh Ngọc Quan
+50131022;Thất Tinh Ngọc Quan
+50131031;Thất Tinh Chiến Giáp
+50131032;Thất Tinh Chiến Giáp
+50131041;Thất Tinh Hộ Oản
+50131042;Thất Tinh Hộ Oản
+50131051;Thất Tinh Pháp Lý
+50131052;Thất Tinh Pháp Lý
+50131061;Thất Tinh Thúc Đái
+50131062;Thất Tinh Thúc Đái
+50131071;Thất Tinh Hạng Liên
+50131072;Thất Tinh Hạng Liên
+50131081;Thất Tinh Thủ Trạc
+50131082;Thất Tinh Thủ Trạc
+50131091;Thất Tinh Giới Chỉ
+50131092;Thất Tinh Giới Chỉ
+50131101;Thất Tinh Ngọc Bội
+50131102;Thất Tinh Ngọc Bội
+50132011;Thất Tinh Bảo Kiếm
+50132012;Thất Tinh Bảo Kiếm
+50132021;Thất Tinh Ngọc Quan
+50132022;Thất Tinh Ngọc Quan
+50132031;Thất Tinh Chiến Giáp
+50132032;Thất Tinh Chiến Giáp
+50132041;Thất Tinh Hộ Oản
+50132042;Thất Tinh Hộ Oản
+50132051;Thất Tinh Pháp Lý
+50132052;Thất Tinh Pháp Lý
+50132061;Thất Tinh Thúc Đái
+50132062;Thất Tinh Thúc Đái
+50132071;Thất Tinh Hạng Liên
+50132072;Thất Tinh Hạng Liên
+50132081;Thất Tinh Thủ Trạc
+50132082;Thất Tinh Thủ Trạc
+50132091;Thất Tinh Giới Chỉ
+50132092;Thất Tinh Giới Chỉ
+50132101;Thất Tinh Ngọc Bội
+50132102;Thất Tinh Ngọc Bội
+50142011;Thất Tinh Bảo Kiếm
+50142012;Thất Tinh Bảo Kiếm
+50142021;Thất Tinh Ngọc Quan
+50142022;Thất Tinh Ngọc Quan
+50142031;Thất Tinh Chiến Giáp
+50142032;Thất Tinh Chiến Giáp
+50142041;Thất Tinh Hộ Oản
+50142042;Thất Tinh Hộ Oản
+50142051;Thất Tinh Pháp Lý
+50142052;Thất Tinh Pháp Lý
+50142061;Thất Tinh Thúc Đái
+50142062;Thất Tinh Thúc Đái
+50142071;Thất Tinh Hạng Liên
+50142072;Thất Tinh Hạng Liên
+50142081;Thất Tinh Thủ Trạc
+50142082;Thất Tinh Thủ Trạc
+50142091;Thất Tinh Giới Chỉ
+50142092;Thất Tinh Giới Chỉ
+50142101;Thất Tinh Ngọc Bội
+50142102;Thất Tinh Ngọc Bội
+50143011;Thất Tinh Bảo Kiếm
+50143012;Thất Tinh Bảo Kiếm
+50143021;Thất Tinh Ngọc Quan
+50143022;Thất Tinh Ngọc Quan
+50143031;Thất Tinh Chiến Giáp
+50143032;Thất Tinh Chiến Giáp
+50143041;Thất Tinh Hộ Oản
+50143042;Thất Tinh Hộ Oản
+50143051;Thất Tinh Pháp Lý
+50143052;Thất Tinh Pháp Lý
+50143061;Thất Tinh Thúc Đái
+50143062;Thất Tinh Thúc Đái
+50143071;Thất Tinh Hạng Liên
+50143072;Thất Tinh Hạng Liên
+50143081;Thất Tinh Thủ Trạc
+50143082;Thất Tinh Thủ Trạc
+50143091;Thất Tinh Giới Chỉ
+50143092;Thất Tinh Giới Chỉ
+50143101;Thất Tinh Ngọc Bội
+50143102;Thất Tinh Ngọc Bội
+50152011;Thất Tinh Bảo Kiếm
+50152012;Thất Tinh Bảo Kiếm
+50152021;Thất Tinh Ngọc Quan
+50152022;Thất Tinh Ngọc Quan
+50152031;Thất Tinh Chiến Giáp
+50152032;Thất Tinh Chiến Giáp
+50152041;Thất Tinh Hộ Oản
+50152042;Thất Tinh Hộ Oản
+50152051;Thất Tinh Pháp Lý
+50152052;Thất Tinh Pháp Lý
+50152061;Thất Tinh Thúc Đái
+50152062;Thất Tinh Thúc Đái
+50152071;Thất Tinh Hạng Liên
+50152072;Thất Tinh Hạng Liên
+50152081;Thất Tinh Thủ Trạc
+50152082;Thất Tinh Thủ Trạc
+50152091;Thất Tinh Giới Chỉ
+50152092;Thất Tinh Giới Chỉ
+50152101;Thất Tinh Ngọc Bội
+50152102;Thất Tinh Ngọc Bội
+50153011;Thất Tinh Bảo Kiếm
+50153012;Thất Tinh Bảo Kiếm
+50153021;Thất Tinh Ngọc Quan
+50153022;Thất Tinh Ngọc Quan
+50153031;Thất Tinh Chiến Giáp
+50153032;Thất Tinh Chiến Giáp
+50153041;Thất Tinh Hộ Oản
+50153042;Thất Tinh Hộ Oản
+50153051;Thất Tinh Pháp Lý
+50153052;Thất Tinh Pháp Lý
+50153061;Thất Tinh Thúc Đái
+50153062;Thất Tinh Thúc Đái
+50153071;Thất Tinh Hạng Liên
+50153072;Thất Tinh Hạng Liên
+50153081;Thất Tinh Thủ Trạc
+50153082;Thất Tinh Thủ Trạc
+50153091;Thất Tinh Giới Chỉ
+50153092;Thất Tinh Giới Chỉ
+50153101;Thất Tinh Ngọc Bội
+50153102;Thất Tinh Ngọc Bội
+50154011;Thất Tinh Bảo Kiếm
+50154012;Thất Tinh Bảo Kiếm
+50154021;Thất Tinh Ngọc Quan
+50154022;Thất Tinh Ngọc Quan
+50154031;Thất Tinh Chiến Giáp
+50154032;Thất Tinh Chiến Giáp
+50154041;Thất Tinh Hộ Oản
+50154042;Thất Tinh Hộ Oản
+50154051;Thất Tinh Pháp Lý
+50154052;Thất Tinh Pháp Lý
+50154061;Thất Tinh Thúc Đái
+50154062;Thất Tinh Thúc Đái
+50154071;Thất Tinh Hạng Liên
+50154072;Thất Tinh Hạng Liên
+50154081;Thất Tinh Thủ Trạc
+50154082;Thất Tinh Thủ Trạc
+50154091;Thất Tinh Giới Chỉ
+50154092;Thất Tinh Giới Chỉ
+50154101;Thất Tinh Ngọc Bội
+50154102;Thất Tinh Ngọc Bội
+50165011;Thất Tinh Bảo Kiếm
+50165012;Thất Tinh Bảo Kiếm
+50165021;Thất Tinh Ngọc Quan
+50165022;Thất Tinh Ngọc Quan
+50165031;Thất Tinh Chiến Giáp
+50165032;Thất Tinh Chiến Giáp
+50165041;Thất Tinh Hộ Oản
+50165042;Thất Tinh Hộ Oản
+50165051;Thất Tinh Pháp Lý
+50165052;Thất Tinh Pháp Lý
+50165061;Thất Tinh Thúc Đái
+50165062;Thất Tinh Thúc Đái
+50165071;Thất Tinh Hạng Liên
+50165072;Thất Tinh Hạng Liên
+50165081;Thất Tinh Thủ Trạc
+50165082;Thất Tinh Thủ Trạc
+50165091;Thất Tinh Giới Chỉ
+50165092;Thất Tinh Giới Chỉ
+50165101;Thất Tinh Ngọc Bội
+50165102;Thất Tinh Ngọc Bội
+50221011;Linh Lung Bảo Kiếm
+50221012;Linh Lung Bảo Kiếm
+50221021;Linh Lung Ngọc Quan
+50221022;Linh Lung Ngọc Quan
+50221031;Linh Lung Chiến Giáp
+50221032;Linh Lung Chiến Giáp
+50221041;Linh Lung Hộ Oản
+50221042;Linh Lung Hộ Oản
+50221051;Linh Lung Pháp Lý
+50221052;Linh Lung Pháp Lý
+50221061;Linh Lung Thúc Đái
+50221062;Linh Lung Thúc Đái
+50221071;Linh Lung Hạng Liên
+50221072;Linh Lung Hạng Liên
+50221081;Linh Lung Thủ Trạc
+50221082;Linh Lung Thủ Trạc
+50221091;Linh Lung Giới Chỉ
+50221092;Linh Lung Giới Chỉ
+50221101;Linh Lung Ngọc Bội
+50221102;Linh Lung Ngọc Bội
+50231011;Linh Lung Bảo Kiếm
+50231012;Linh Lung Bảo Kiếm
+50231021;Linh Lung Ngọc Quan
+50231022;Linh Lung Ngọc Quan
+50231031;Linh Lung Chiến Giáp
+50231032;Linh Lung Chiến Giáp
+50231041;Linh Lung Hộ Oản
+50231042;Linh Lung Hộ Oản
+50231051;Linh Lung Pháp Lý
+50231052;Linh Lung Pháp Lý
+50231061;Linh Lung Thúc Đái
+50231062;Linh Lung Thúc Đái
+50231071;Linh Lung Hạng Liên
+50231072;Linh Lung Hạng Liên
+50231081;Linh Lung Thủ Trạc
+50231082;Linh Lung Thủ Trạc
+50231091;Linh Lung Giới Chỉ
+50231092;Linh Lung Giới Chỉ
+50231101;Linh Lung Ngọc Bội
+50231102;Linh Lung Ngọc Bội
+50232011;Linh Lung Bảo Kiếm
+50232012;Linh Lung Bảo Kiếm
+50232021;Linh Lung Ngọc Quan
+50232022;Linh Lung Ngọc Quan
+50232031;Linh Lung Chiến Giáp
+50232032;Linh Lung Chiến Giáp
+50232041;Linh Lung Hộ Oản
+50232042;Linh Lung Hộ Oản
+50232051;Linh Lung Pháp Lý
+50232052;Linh Lung Pháp Lý
+50232061;Linh Lung Thúc Đái
+50232062;Linh Lung Thúc Đái
+50232071;Linh Lung Hạng Liên
+50232072;Linh Lung Hạng Liên
+50232081;Linh Lung Thủ Trạc
+50232082;Linh Lung Thủ Trạc
+50232091;Linh Lung Giới Chỉ
+50232092;Linh Lung Giới Chỉ
+50232101;Linh Lung Ngọc Bội
+50232102;Linh Lung Ngọc Bội
+50242011;Linh Lung Bảo Kiếm
+50242012;Linh Lung Bảo Kiếm
+50242021;Linh Lung Ngọc Quan
+50242022;Linh Lung Ngọc Quan
+50242031;Linh Lung Chiến Giáp
+50242032;Linh Lung Chiến Giáp
+50242041;Linh Lung Hộ Oản
+50242042;Linh Lung Hộ Oản
+50242051;Linh Lung Pháp Lý
+50242052;Linh Lung Pháp Lý
+50242061;Linh Lung Thúc Đái
+50242062;Linh Lung Thúc Đái
+50242071;Linh Lung Hạng Liên
+50242072;Linh Lung Hạng Liên
+50242081;Linh Lung Thủ Trạc
+50242082;Linh Lung Thủ Trạc
+50242091;Linh Lung Giới Chỉ
+50242092;Linh Lung Giới Chỉ
+50242101;Linh Lung Ngọc Bội
+50242102;Linh Lung Ngọc Bội
+50243011;Linh Lung Bảo Kiếm
+50243012;Linh Lung Bảo Kiếm
+50243021;Linh Lung Ngọc Quan
+50243022;Linh Lung Ngọc Quan
+50243031;Linh Lung Chiến Giáp
+50243032;Linh Lung Chiến Giáp
+50243041;Linh Lung Hộ Oản
+50243042;Linh Lung Hộ Oản
+50243051;Linh Lung Pháp Lý
+50243052;Linh Lung Pháp Lý
+50243061;Linh Lung Thúc Đái
+50243062;Linh Lung Thúc Đái
+50243071;Linh Lung Hạng Liên
+50243072;Linh Lung Hạng Liên
+50243081;Linh Lung Thủ Trạc
+50243082;Linh Lung Thủ Trạc
+50243091;Linh Lung Giới Chỉ
+50243092;Linh Lung Giới Chỉ
+50243101;Linh Lung Ngọc Bội
+50243102;Linh Lung Ngọc Bội
+50252011;Linh Lung Bảo Kiếm
+50252012;Linh Lung Bảo Kiếm
+50252021;Linh Lung Ngọc Quan
+50252022;Linh Lung Ngọc Quan
+50252031;Linh Lung Chiến Giáp
+50252032;Linh Lung Chiến Giáp
+50252041;Linh Lung Hộ Oản
+50252042;Linh Lung Hộ Oản
+50252051;Linh Lung Pháp Lý
+50252052;Linh Lung Pháp Lý
+50252061;Linh Lung Thúc Đái
+50252062;Linh Lung Thúc Đái
+50252071;Linh Lung Hạng Liên
+50252072;Linh Lung Hạng Liên
+50252081;Linh Lung Thủ Trạc
+50252082;Linh Lung Thủ Trạc
+50252091;Linh Lung Giới Chỉ
+50252092;Linh Lung Giới Chỉ
+50252101;Linh Lung Ngọc Bội
+50252102;Linh Lung Ngọc Bội
+50253011;Linh Lung Bảo Kiếm
+50253012;Linh Lung Bảo Kiếm
+50253021;Linh Lung Ngọc Quan
+50253022;Linh Lung Ngọc Quan
+50253031;Linh Lung Chiến Giáp
+50253032;Linh Lung Chiến Giáp
+50253041;Linh Lung Hộ Oản
+50253042;Linh Lung Hộ Oản
+50253051;Linh Lung Pháp Lý
+50253052;Linh Lung Pháp Lý
+50253061;Linh Lung Thúc Đái
+50253062;Linh Lung Thúc Đái
+50253071;Linh Lung Hạng Liên
+50253072;Linh Lung Hạng Liên
+50253081;Linh Lung Thủ Trạc
+50253082;Linh Lung Thủ Trạc
+50253091;Linh Lung Giới Chỉ
+50253092;Linh Lung Giới Chỉ
+50253101;Linh Lung Ngọc Bội
+50253102;Linh Lung Ngọc Bội
+50254011;Linh Lung Bảo Kiếm
+50254012;Linh Lung Bảo Kiếm
+50254021;Linh Lung Ngọc Quan
+50254022;Linh Lung Ngọc Quan
+50254031;Linh Lung Chiến Giáp
+50254032;Linh Lung Chiến Giáp
+50254041;Linh Lung Hộ Oản
+50254042;Linh Lung Hộ Oản
+50254051;Linh Lung Pháp Lý
+50254052;Linh Lung Pháp Lý
+50254061;Linh Lung Thúc Đái
+50254062;Linh Lung Thúc Đái
+50254071;Linh Lung Hạng Liên
+50254072;Linh Lung Hạng Liên
+50254081;Linh Lung Thủ Trạc
+50254082;Linh Lung Thủ Trạc
+50254091;Linh Lung Giới Chỉ
+50254092;Linh Lung Giới Chỉ
+50254101;Linh Lung Ngọc Bội
+50254102;Linh Lung Ngọc Bội
+50265011;Linh Lung Bảo Kiếm
+50265012;Linh Lung Bảo Kiếm
+50265021;Linh Lung Ngọc Quan
+50265022;Linh Lung Ngọc Quan
+50265031;Linh Lung Chiến Giáp
+50265032;Linh Lung Chiến Giáp
+50265041;Linh Lung Hộ Oản
+50265042;Linh Lung Hộ Oản
+50265051;Linh Lung Pháp Lý
+50265052;Linh Lung Pháp Lý
+50265061;Linh Lung Thúc Đái
+50265062;Linh Lung Thúc Đái
+50265071;Linh Lung Hạng Liên
+50265072;Linh Lung Hạng Liên
+50265081;Linh Lung Thủ Trạc
+50265082;Linh Lung Thủ Trạc
+50265091;Linh Lung Giới Chỉ
+50265092;Linh Lung Giới Chỉ
+50265101;Linh Lung Ngọc Bội
+50265102;Linh Lung Ngọc Bội
+50321011;Thiên Ky Linh Kiếm
+50321012;Thiên Ky Linh Kiếm
+50321021;Thiên Ky Ngọc Quan
+50321022;Thiên Ky Ngọc Quan
+50321031;Thiên Ky Chiến Giáp
+50321032;Thiên Ky Chiến Giáp
+50321041;Thiên Ky Hộ Oản
+50321042;Thiên Ky Hộ Oản
+50321051;Thiên Ky Pháp Lý
+50321052;Thiên Ky Pháp Lý
+50321061;Thiên Ky Thúc Đái
+50321062;Thiên Ky Thúc Đái
+50321071;Thiên Ky Hạng Liên
+50321072;Thiên Ky Hạng Liên
+50321081;Thiên Ky Thủ Trạc
+50321082;Thiên Ky Thủ Trạc
+50321091;Thiên Ky Giới Chỉ
+50321092;Thiên Ky Giới Chỉ
+50321101;Thiên Ky Ngọc Bội
+50321102;Thiên Ky Ngọc Bội
+50331011;Thiên Ky Linh Kiếm
+50331012;Thiên Ky Linh Kiếm
+50331021;Thiên Ky Ngọc Quan
+50331022;Thiên Ky Ngọc Quan
+50331031;Thiên Ky Chiến Giáp
+50331032;Thiên Ky Chiến Giáp
+50331041;Thiên Ky Hộ Oản
+50331042;Thiên Ky Hộ Oản
+50331051;Thiên Ky Pháp Lý
+50331052;Thiên Ky Pháp Lý
+50331061;Thiên Ky Thúc Đái
+50331062;Thiên Ky Thúc Đái
+50331071;Thiên Ky Hạng Liên
+50331072;Thiên Ky Hạng Liên
+50331081;Thiên Ky Thủ Trạc
+50331082;Thiên Ky Thủ Trạc
+50331091;Thiên Ky Giới Chỉ
+50331092;Thiên Ky Giới Chỉ
+50331101;Thiên Ky Ngọc Bội
+50331102;Thiên Ky Ngọc Bội
+50332011;Thiên Ky Linh Kiếm
+50332012;Thiên Ky Linh Kiếm
+50332021;Thiên Ky Ngọc Quan
+50332022;Thiên Ky Ngọc Quan
+50332031;Thiên Ky Chiến Giáp
+50332032;Thiên Ky Chiến Giáp
+50332041;Thiên Ky Hộ Oản
+50332042;Thiên Ky Hộ Oản
+50332051;Thiên Ky Pháp Lý
+50332052;Thiên Ky Pháp Lý
+50332061;Thiên Ky Thúc Đái
+50332062;Thiên Ky Thúc Đái
+50332071;Thiên Ky Hạng Liên
+50332072;Thiên Ky Hạng Liên
+50332081;Thiên Ky Thủ Trạc
+50332082;Thiên Ky Thủ Trạc
+50332091;Thiên Ky Giới Chỉ
+50332092;Thiên Ky Giới Chỉ
+50332101;Thiên Ky Ngọc Bội
+50332102;Thiên Ky Ngọc Bội
+50342011;Thiên Ky Linh Kiếm
+50342012;Thiên Ky Linh Kiếm
+50342021;Thiên Ky Ngọc Quan
+50342022;Thiên Ky Ngọc Quan
+50342031;Thiên Ky Chiến Giáp
+50342032;Thiên Ky Chiến Giáp
+50342041;Thiên Ky Hộ Oản
+50342042;Thiên Ky Hộ Oản
+50342051;Thiên Ky Pháp Lý
+50342052;Thiên Ky Pháp Lý
+50342061;Thiên Ky Thúc Đái
+50342062;Thiên Ky Thúc Đái
+50342071;Thiên Ky Hạng Liên
+50342072;Thiên Ky Hạng Liên
+50342081;Thiên Ky Thủ Trạc
+50342082;Thiên Ky Thủ Trạc
+50342091;Thiên Ky Giới Chỉ
+50342092;Thiên Ky Giới Chỉ
+50342101;Thiên Ky Ngọc Bội
+50342102;Thiên Ky Ngọc Bội
+50343011;Thiên Ky Linh Kiếm
+50343012;Thiên Ky Linh Kiếm
+50343021;Thiên Ky Ngọc Quan
+50343022;Thiên Ky Ngọc Quan
+50343031;Thiên Ky Chiến Giáp
+50343032;Thiên Ky Chiến Giáp
+50343041;Thiên Ky Hộ Oản
+50343042;Thiên Ky Hộ Oản
+50343051;Thiên Ky Pháp Lý
+50343052;Thiên Ky Pháp Lý
+50343061;Thiên Ky Thúc Đái
+50343062;Thiên Ky Thúc Đái
+50343071;Thiên Ky Hạng Liên
+50343072;Thiên Ky Hạng Liên
+50343081;Thiên Ky Thủ Trạc
+50343082;Thiên Ky Thủ Trạc
+50343091;Thiên Ky Giới Chỉ
+50343092;Thiên Ky Giới Chỉ
+50343101;Thiên Ky Ngọc Bội
+50343102;Thiên Ky Ngọc Bội
+50352011;Thiên Ky Linh Kiếm
+50352012;Thiên Ky Linh Kiếm
+50352021;Thiên Ky Ngọc Quan
+50352022;Thiên Ky Ngọc Quan
+50352031;Thiên Ky Chiến Giáp
+50352032;Thiên Ky Chiến Giáp
+50352041;Thiên Ky Hộ Oản
+50352042;Thiên Ky Hộ Oản
+50352051;Thiên Ky Pháp Lý
+50352052;Thiên Ky Pháp Lý
+50352061;Thiên Ky Thúc Đái
+50352062;Thiên Ky Thúc Đái
+50352071;Thiên Ky Hạng Liên
+50352072;Thiên Ky Hạng Liên
+50352081;Thiên Ky Thủ Trạc
+50352082;Thiên Ky Thủ Trạc
+50352091;Thiên Ky Giới Chỉ
+50352092;Thiên Ky Giới Chỉ
+50352101;Thiên Ky Ngọc Bội
+50352102;Thiên Ky Ngọc Bội
+50353011;Thiên Ky Linh Kiếm
+50353012;Thiên Ky Linh Kiếm
+50353021;Thiên Ky Ngọc Quan
+50353022;Thiên Ky Ngọc Quan
+50353031;Thiên Ky Chiến Giáp
+50353032;Thiên Ky Chiến Giáp
+50353041;Thiên Ky Hộ Oản
+50353042;Thiên Ky Hộ Oản
+50353051;Thiên Ky Pháp Lý
+50353052;Thiên Ky Pháp Lý
+50353061;Thiên Ky Thúc Đái
+50353062;Thiên Ky Thúc Đái
+50353071;Thiên Ky Hạng Liên
+50353072;Thiên Ky Hạng Liên
+50353081;Thiên Ky Thủ Trạc
+50353082;Thiên Ky Thủ Trạc
+50353091;Thiên Ky Giới Chỉ
+50353092;Thiên Ky Giới Chỉ
+50353101;Thiên Ky Ngọc Bội
+50353102;Thiên Ky Ngọc Bội
+50354011;Thiên Ky Linh Kiếm
+50354012;Thiên Ky Linh Kiếm
+50354021;Thiên Ky Ngọc Quan
+50354022;Thiên Ky Ngọc Quan
+50354031;Thiên Ky Chiến Giáp
+50354032;Thiên Ky Chiến Giáp
+50354041;Thiên Ky Hộ Oản
+50354042;Thiên Ky Hộ Oản
+50354051;Thiên Ky Pháp Lý
+50354052;Thiên Ky Pháp Lý
+50354061;Thiên Ky Thúc Đái
+50354062;Thiên Ky Thúc Đái
+50354071;Thiên Ky Hạng Liên
+50354072;Thiên Ky Hạng Liên
+50354081;Thiên Ky Thủ Trạc
+50354082;Thiên Ky Thủ Trạc
+50354091;Thiên Ky Giới Chỉ
+50354092;Thiên Ky Giới Chỉ
+50354101;Thiên Ky Ngọc Bội
+50354102;Thiên Ky Ngọc Bội
+50365011;Thiên Ky Linh Kiếm
+50365012;Thiên Ky Linh Kiếm
+50365021;Thiên Ky Ngọc Quan
+50365022;Thiên Ky Ngọc Quan
+50365031;Thiên Ky Chiến Giáp
+50365032;Thiên Ky Chiến Giáp
+50365041;Thiên Ky Hộ Oản
+50365042;Thiên Ky Hộ Oản
+50365051;Thiên Ky Pháp Lý
+50365052;Thiên Ky Pháp Lý
+50365061;Thiên Ky Thúc Đái
+50365062;Thiên Ky Thúc Đái
+50365071;Thiên Ky Hạng Liên
+50365072;Thiên Ky Hạng Liên
+50365081;Thiên Ky Thủ Trạc
+50365082;Thiên Ky Thủ Trạc
+50365091;Thiên Ky Giới Chỉ
+50365092;Thiên Ky Giới Chỉ
+50365101;Thiên Ky Ngọc Bội
+50365102;Thiên Ky Ngọc Bội
+50421011;Long Uyên Linh Kiếm
+50421012;Long Uyên Linh Kiếm
+50421021;Long Uyên Ngọc Quan
+50421022;Long Uyên Ngọc Quan
+50421031;Long Uyên Chiến Giáp
+50421032;Long Uyên Chiến Giáp
+50421041;Long Uyên Hộ Oản
+50421042;Long Uyên Hộ Oản
+50421051;Long Uyên Pháp Lý
+50421052;Long Uyên Pháp Lý
+50421061;Long Uyên Thúc Đái
+50421062;Long Uyên Thúc Đái
+50421071;Long Uyên Hạng Liên
+50421072;Long Uyên Hạng Liên
+50421081;Long Uyên Thủ Trạc
+50421082;Long Uyên Thủ Trạc
+50421091;Long Uyên Giới Chỉ
+50421092;Long Uyên Giới Chỉ
+50421101;Long Uyên Ngọc Bội
+50421102;Long Uyên Ngọc Bội
+50431011;Long Uyên Linh Kiếm
+50431012;Long Uyên Linh Kiếm
+50431021;Long Uyên Ngọc Quan
+50431022;Long Uyên Ngọc Quan
+50431031;Long Uyên Chiến Giáp
+50431032;Long Uyên Chiến Giáp
+50431041;Long Uyên Hộ Oản
+50431042;Long Uyên Hộ Oản
+50431051;Long Uyên Pháp Lý
+50431052;Long Uyên Pháp Lý
+50431061;Long Uyên Thúc Đái
+50431062;Long Uyên Thúc Đái
+50431071;Long Uyên Hạng Liên
+50431072;Long Uyên Hạng Liên
+50431081;Long Uyên Thủ Trạc
+50431082;Long Uyên Thủ Trạc
+50431091;Long Uyên Giới Chỉ
+50431092;Long Uyên Giới Chỉ
+50431101;Long Uyên Ngọc Bội
+50431102;Long Uyên Ngọc Bội
+50432011;Long Uyên Linh Kiếm
+50432012;Long Uyên Linh Kiếm
+50432021;Long Uyên Ngọc Quan
+50432022;Long Uyên Ngọc Quan
+50432031;Long Uyên Chiến Giáp
+50432032;Long Uyên Chiến Giáp
+50432041;Long Uyên Hộ Oản
+50432042;Long Uyên Hộ Oản
+50432051;Long Uyên Pháp Lý
+50432052;Long Uyên Pháp Lý
+50432061;Long Uyên Thúc Đái
+50432062;Long Uyên Thúc Đái
+50432071;Long Uyên Hạng Liên
+50432072;Long Uyên Hạng Liên
+50432081;Long Uyên Thủ Trạc
+50432082;Long Uyên Thủ Trạc
+50432091;Long Uyên Giới Chỉ
+50432092;Long Uyên Giới Chỉ
+50432101;Long Uyên Ngọc Bội
+50432102;Long Uyên Ngọc Bội
+50442011;Long Uyên Linh Kiếm
+50442012;Long Uyên Linh Kiếm
+50442021;Long Uyên Ngọc Quan
+50442022;Long Uyên Ngọc Quan
+50442031;Long Uyên Chiến Giáp
+50442032;Long Uyên Chiến Giáp
+50442041;Long Uyên Hộ Oản
+50442042;Long Uyên Hộ Oản
+50442051;Long Uyên Pháp Lý
+50442052;Long Uyên Pháp Lý
+50442061;Long Uyên Thúc Đái
+50442062;Long Uyên Thúc Đái
+50442071;Long Uyên Hạng Liên
+50442072;Long Uyên Hạng Liên
+50442081;Long Uyên Thủ Trạc
+50442082;Long Uyên Thủ Trạc
+50442091;Long Uyên Giới Chỉ
+50442092;Long Uyên Giới Chỉ
+50442101;Long Uyên Ngọc Bội
+50442102;Long Uyên Ngọc Bội
+50443011;Long Uyên Linh Kiếm
+50443012;Long Uyên Linh Kiếm
+50443021;Long Uyên Ngọc Quan
+50443022;Long Uyên Ngọc Quan
+50443031;Long Uyên Chiến Giáp
+50443032;Long Uyên Chiến Giáp
+50443041;Long Uyên Hộ Oản
+50443042;Long Uyên Hộ Oản
+50443051;Long Uyên Pháp Lý
+50443052;Long Uyên Pháp Lý
+50443061;Long Uyên Thúc Đái
+50443062;Long Uyên Thúc Đái
+50443071;Long Uyên Hạng Liên
+50443072;Long Uyên Hạng Liên
+50443081;Long Uyên Thủ Trạc
+50443082;Long Uyên Thủ Trạc
+50443091;Long Uyên Giới Chỉ
+50443092;Long Uyên Giới Chỉ
+50443101;Long Uyên Ngọc Bội
+50443102;Long Uyên Ngọc Bội
+50452011;Long Uyên Linh Kiếm
+50452012;Long Uyên Linh Kiếm
+50452021;Long Uyên Ngọc Quan
+50452022;Long Uyên Ngọc Quan
+50452031;Long Uyên Chiến Giáp
+50452032;Long Uyên Chiến Giáp
+50452041;Long Uyên Hộ Oản
+50452042;Long Uyên Hộ Oản
+50452051;Long Uyên Pháp Lý
+50452052;Long Uyên Pháp Lý
+50452061;Long Uyên Thúc Đái
+50452062;Long Uyên Thúc Đái
+50452071;Long Uyên Hạng Liên
+50452072;Long Uyên Hạng Liên
+50452081;Long Uyên Thủ Trạc
+50452082;Long Uyên Thủ Trạc
+50452091;Long Uyên Giới Chỉ
+50452092;Long Uyên Giới Chỉ
+50452101;Long Uyên Ngọc Bội
+50452102;Long Uyên Ngọc Bội
+50453011;Long Uyên Linh Kiếm
+50453012;Long Uyên Linh Kiếm
+50453021;Long Uyên Ngọc Quan
+50453022;Long Uyên Ngọc Quan
+50453031;Long Uyên Chiến Giáp
+50453032;Long Uyên Chiến Giáp
+50453041;Long Uyên Hộ Oản
+50453042;Long Uyên Hộ Oản
+50453051;Long Uyên Pháp Lý
+50453052;Long Uyên Pháp Lý
+50453061;Long Uyên Thúc Đái
+50453062;Long Uyên Thúc Đái
+50453071;Long Uyên Hạng Liên
+50453072;Long Uyên Hạng Liên
+50453081;Long Uyên Thủ Trạc
+50453082;Long Uyên Thủ Trạc
+50453091;Long Uyên Giới Chỉ
+50453092;Long Uyên Giới Chỉ
+50453101;Long Uyên Ngọc Bội
+50453102;Long Uyên Ngọc Bội
+50454011;Long Uyên Linh Kiếm
+50454012;Long Uyên Linh Kiếm
+50454021;Long Uyên Ngọc Quan
+50454022;Long Uyên Ngọc Quan
+50454031;Long Uyên Chiến Giáp
+50454032;Long Uyên Chiến Giáp
+50454041;Long Uyên Hộ Oản
+50454042;Long Uyên Hộ Oản
+50454051;Long Uyên Pháp Lý
+50454052;Long Uyên Pháp Lý
+50454061;Long Uyên Thúc Đái
+50454062;Long Uyên Thúc Đái
+50454071;Long Uyên Hạng Liên
+50454072;Long Uyên Hạng Liên
+50454081;Long Uyên Thủ Trạc
+50454082;Long Uyên Thủ Trạc
+50454091;Long Uyên Giới Chỉ
+50454092;Long Uyên Giới Chỉ
+50454101;Long Uyên Ngọc Bội
+50454102;Long Uyên Ngọc Bội
+50465011;Long Uyên Linh Kiếm
+50465012;Long Uyên Linh Kiếm
+50465021;Long Uyên Ngọc Quan
+50465022;Long Uyên Ngọc Quan
+50465031;Long Uyên Chiến Giáp
+50465032;Long Uyên Chiến Giáp
+50465041;Long Uyên Hộ Oản
+50465042;Long Uyên Hộ Oản
+50465051;Long Uyên Pháp Lý
+50465052;Long Uyên Pháp Lý
+50465061;Long Uyên Thúc Đái
+50465062;Long Uyên Thúc Đái
+50465071;Long Uyên Hạng Liên
+50465072;Long Uyên Hạng Liên
+50465081;Long Uyên Thủ Trạc
+50465082;Long Uyên Thủ Trạc
+50465091;Long Uyên Giới Chỉ
+50465092;Long Uyên Giới Chỉ
+50465101;Long Uyên Ngọc Bội
+50465102;Long Uyên Ngọc Bội
+50521011;Xích Tiêu Pháp Kiếm
+50521012;Xích Tiêu Pháp Kiếm
+50521021;Xích Tiêu Ngọc Quan
+50521022;Xích Tiêu Ngọc Quan
+50521031;Xích Tiêu Chiến Giáp
+50521032;Xích Tiêu Chiến Giáp
+50521041;Xích Tiêu Hộ Oản
+50521042;Xích Tiêu Hộ Oản
+50521051;Xích Tiêu Pháp Lý
+50521052;Xích Tiêu Pháp Lý
+50521061;Xích Tiêu Thúc Đái
+50521062;Xích Tiêu Thúc Đái
+50521071;Xích Tiêu Hạng Liên
+50521072;Xích Tiêu Hạng Liên
+50521081;Xích Tiêu Thủ Trạc
+50521082;Xích Tiêu Thủ Trạc
+50521091;Xích Tiêu Giới Chỉ
+50521092;Xích Tiêu Giới Chỉ
+50521101;Xích Tiêu Ngọc Bội
+50521102;Xích Tiêu Ngọc Bội
+50531011;Xích Tiêu Pháp Kiếm
+50531012;Xích Tiêu Pháp Kiếm
+50531021;Xích Tiêu Ngọc Quan
+50531022;Xích Tiêu Ngọc Quan
+50531031;Xích Tiêu Chiến Giáp
+50531032;Xích Tiêu Chiến Giáp
+50531041;Xích Tiêu Hộ Oản
+50531042;Xích Tiêu Hộ Oản
+50531051;Xích Tiêu Pháp Lý
+50531052;Xích Tiêu Pháp Lý
+50531061;Xích Tiêu Thúc Đái
+50531062;Xích Tiêu Thúc Đái
+50531071;Xích Tiêu Hạng Liên
+50531072;Xích Tiêu Hạng Liên
+50531081;Xích Tiêu Thủ Trạc
+50531082;Xích Tiêu Thủ Trạc
+50531091;Xích Tiêu Giới Chỉ
+50531092;Xích Tiêu Giới Chỉ
+50531101;Xích Tiêu Ngọc Bội
+50531102;Xích Tiêu Ngọc Bội
+50532011;Xích Tiêu Pháp Kiếm
+50532012;Xích Tiêu Pháp Kiếm
+50532021;Xích Tiêu Ngọc Quan
+50532022;Xích Tiêu Ngọc Quan
+50532031;Xích Tiêu Chiến Giáp
+50532032;Xích Tiêu Chiến Giáp
+50532041;Xích Tiêu Hộ Oản
+50532042;Xích Tiêu Hộ Oản
+50532051;Xích Tiêu Pháp Lý
+50532052;Xích Tiêu Pháp Lý
+50532061;Xích Tiêu Thúc Đái
+50532062;Xích Tiêu Thúc Đái
+50532071;Xích Tiêu Hạng Liên
+50532072;Xích Tiêu Hạng Liên
+50532081;Xích Tiêu Thủ Trạc
+50532082;Xích Tiêu Thủ Trạc
+50532091;Xích Tiêu Giới Chỉ
+50532092;Xích Tiêu Giới Chỉ
+50532101;Xích Tiêu Ngọc Bội
+50532102;Xích Tiêu Ngọc Bội
+50542011;Xích Tiêu Pháp Kiếm
+50542012;Xích Tiêu Pháp Kiếm
+50542021;Xích Tiêu Ngọc Quan
+50542022;Xích Tiêu Ngọc Quan
+50542031;Xích Tiêu Chiến Giáp
+50542032;Xích Tiêu Chiến Giáp
+50542041;Xích Tiêu Hộ Oản
+50542042;Xích Tiêu Hộ Oản
+50542051;Xích Tiêu Pháp Lý
+50542052;Xích Tiêu Pháp Lý
+50542061;Xích Tiêu Thúc Đái
+50542062;Xích Tiêu Thúc Đái
+50542071;Xích Tiêu Hạng Liên
+50542072;Xích Tiêu Hạng Liên
+50542081;Xích Tiêu Thủ Trạc
+50542082;Xích Tiêu Thủ Trạc
+50542091;Xích Tiêu Giới Chỉ
+50542092;Xích Tiêu Giới Chỉ
+50542101;Xích Tiêu Ngọc Bội
+50542102;Xích Tiêu Ngọc Bội
+50543011;Xích Tiêu Pháp Kiếm
+50543012;Xích Tiêu Pháp Kiếm
+50543021;Xích Tiêu Ngọc Quan
+50543022;Xích Tiêu Ngọc Quan
+50543031;Xích Tiêu Chiến Giáp
+50543032;Xích Tiêu Chiến Giáp
+50543041;Xích Tiêu Hộ Oản
+50543042;Xích Tiêu Hộ Oản
+50543051;Xích Tiêu Pháp Lý
+50543052;Xích Tiêu Pháp Lý
+50543061;Xích Tiêu Thúc Đái
+50543062;Xích Tiêu Thúc Đái
+50543071;Xích Tiêu Hạng Liên
+50543072;Xích Tiêu Hạng Liên
+50543081;Xích Tiêu Thủ Trạc
+50543082;Xích Tiêu Thủ Trạc
+50543091;Xích Tiêu Giới Chỉ
+50543092;Xích Tiêu Giới Chỉ
+50543101;Xích Tiêu Ngọc Bội
+50543102;Xích Tiêu Ngọc Bội
+50552011;Xích Tiêu Pháp Kiếm
+50552012;Xích Tiêu Pháp Kiếm
+50552021;Xích Tiêu Ngọc Quan
+50552022;Xích Tiêu Ngọc Quan
+50552031;Xích Tiêu Chiến Giáp
+50552032;Xích Tiêu Chiến Giáp
+50552041;Xích Tiêu Hộ Oản
+50552042;Xích Tiêu Hộ Oản
+50552051;Xích Tiêu Pháp Lý
+50552052;Xích Tiêu Pháp Lý
+50552061;Xích Tiêu Thúc Đái
+50552062;Xích Tiêu Thúc Đái
+50552071;Xích Tiêu Hạng Liên
+50552072;Xích Tiêu Hạng Liên
+50552081;Xích Tiêu Thủ Trạc
+50552082;Xích Tiêu Thủ Trạc
+50552091;Xích Tiêu Giới Chỉ
+50552092;Xích Tiêu Giới Chỉ
+50552101;Xích Tiêu Ngọc Bội
+50552102;Xích Tiêu Ngọc Bội
+50553011;Xích Tiêu Pháp Kiếm
+50553012;Xích Tiêu Pháp Kiếm
+50553021;Xích Tiêu Ngọc Quan
+50553022;Xích Tiêu Ngọc Quan
+50553031;Xích Tiêu Chiến Giáp
+50553032;Xích Tiêu Chiến Giáp
+50553041;Xích Tiêu Hộ Oản
+50553042;Xích Tiêu Hộ Oản
+50553051;Xích Tiêu Pháp Lý
+50553052;Xích Tiêu Pháp Lý
+50553061;Xích Tiêu Thúc Đái
+50553062;Xích Tiêu Thúc Đái
+50553071;Xích Tiêu Hạng Liên
+50553072;Xích Tiêu Hạng Liên
+50553081;Xích Tiêu Thủ Trạc
+50553082;Xích Tiêu Thủ Trạc
+50553091;Xích Tiêu Giới Chỉ
+50553092;Xích Tiêu Giới Chỉ
+50553101;Xích Tiêu Ngọc Bội
+50553102;Xích Tiêu Ngọc Bội
+50554011;Xích Tiêu Pháp Kiếm
+50554012;Xích Tiêu Pháp Kiếm
+50554021;Xích Tiêu Ngọc Quan
+50554022;Xích Tiêu Ngọc Quan
+50554031;Xích Tiêu Chiến Giáp
+50554032;Xích Tiêu Chiến Giáp
+50554041;Xích Tiêu Hộ Oản
+50554042;Xích Tiêu Hộ Oản
+50554051;Xích Tiêu Pháp Lý
+50554052;Xích Tiêu Pháp Lý
+50554061;Xích Tiêu Thúc Đái
+50554062;Xích Tiêu Thúc Đái
+50554071;Xích Tiêu Hạng Liên
+50554072;Xích Tiêu Hạng Liên
+50554081;Xích Tiêu Thủ Trạc
+50554082;Xích Tiêu Thủ Trạc
+50554091;Xích Tiêu Giới Chỉ
+50554092;Xích Tiêu Giới Chỉ
+50554101;Xích Tiêu Ngọc Bội
+50554102;Xích Tiêu Ngọc Bội
+50565011;Xích Tiêu Pháp Kiếm
+50565012;Xích Tiêu Pháp Kiếm
+50565021;Xích Tiêu Ngọc Quan
+50565022;Xích Tiêu Ngọc Quan
+50565031;Xích Tiêu Chiến Giáp
+50565032;Xích Tiêu Chiến Giáp
+50565041;Xích Tiêu Hộ Oản
+50565042;Xích Tiêu Hộ Oản
+50565051;Xích Tiêu Pháp Lý
+50565052;Xích Tiêu Pháp Lý
+50565061;Xích Tiêu Thúc Đái
+50565062;Xích Tiêu Thúc Đái
+50565071;Xích Tiêu Hạng Liên
+50565072;Xích Tiêu Hạng Liên
+50565081;Xích Tiêu Thủ Trạc
+50565082;Xích Tiêu Thủ Trạc
+50565091;Xích Tiêu Giới Chỉ
+50565092;Xích Tiêu Giới Chỉ
+50565101;Xích Tiêu Ngọc Bội
+50565102;Xích Tiêu Ngọc Bội
+50621011;Thái Hư Pháp Kiếm
+50621012;Thái Hư Pháp Kiếm
+50621021;Thái Hư Ngọc Quan
+50621022;Thái Hư Ngọc Quan
+50621031;Thái Hư Chiến Giáp
+50621032;Thái Hư Chiến Giáp
+50621041;Thái Hư Hộ Oản
+50621042;Thái Hư Hộ Oản
+50621051;Thái Hư Pháp Lý
+50621052;Thái Hư Pháp Lý
+50621061;Thái Hư Thúc Đái
+50621062;Thái Hư Thúc Đái
+50621071;Thái Hư Hạng Liên
+50621072;Thái Hư Hạng Liên
+50621081;Thái Hư Thủ Trạc
+50621082;Thái Hư Thủ Trạc
+50621091;Thái Hư Giới Chỉ
+50621092;Thái Hư Giới Chỉ
+50621101;Thái Hư Ngọc Bội
+50621102;Thái Hư Ngọc Bội
+50631011;Thái Hư Pháp Kiếm
+50631012;Thái Hư Pháp Kiếm
+50631021;Thái Hư Ngọc Quan
+50631022;Thái Hư Ngọc Quan
+50631031;Thái Hư Chiến Giáp
+50631032;Thái Hư Chiến Giáp
+50631041;Thái Hư Hộ Oản
+50631042;Thái Hư Hộ Oản
+50631051;Thái Hư Pháp Lý
+50631052;Thái Hư Pháp Lý
+50631061;Thái Hư Thúc Đái
+50631062;Thái Hư Thúc Đái
+50631071;Thái Hư Hạng Liên
+50631072;Thái Hư Hạng Liên
+50631081;Thái Hư Thủ Trạc
+50631082;Thái Hư Thủ Trạc
+50631091;Thái Hư Giới Chỉ
+50631092;Thái Hư Giới Chỉ
+50631101;Thái Hư Ngọc Bội
+50631102;Thái Hư Ngọc Bội
+50632011;Thái Hư Pháp Kiếm
+50632012;Thái Hư Pháp Kiếm
+50632021;Thái Hư Ngọc Quan
+50632022;Thái Hư Ngọc Quan
+50632031;Thái Hư Chiến Giáp
+50632032;Thái Hư Chiến Giáp
+50632041;Thái Hư Hộ Oản
+50632042;Thái Hư Hộ Oản
+50632051;Thái Hư Pháp Lý
+50632052;Thái Hư Pháp Lý
+50632061;Thái Hư Thúc Đái
+50632062;Thái Hư Thúc Đái
+50632071;Thái Hư Hạng Liên
+50632072;Thái Hư Hạng Liên
+50632081;Thái Hư Thủ Trạc
+50632082;Thái Hư Thủ Trạc
+50632091;Thái Hư Giới Chỉ
+50632092;Thái Hư Giới Chỉ
+50632101;Thái Hư Ngọc Bội
+50632102;Thái Hư Ngọc Bội
+50642011;Thái Hư Pháp Kiếm
+50642012;Thái Hư Pháp Kiếm
+50642021;Thái Hư Ngọc Quan
+50642022;Thái Hư Ngọc Quan
+50642031;Thái Hư Chiến Giáp
+50642032;Thái Hư Chiến Giáp
+50642041;Thái Hư Hộ Oản
+50642042;Thái Hư Hộ Oản
+50642051;Thái Hư Pháp Lý
+50642052;Thái Hư Pháp Lý
+50642061;Thái Hư Thúc Đái
+50642062;Thái Hư Thúc Đái
+50642071;Thái Hư Hạng Liên
+50642072;Thái Hư Hạng Liên
+50642081;Thái Hư Thủ Trạc
+50642082;Thái Hư Thủ Trạc
+50642091;Thái Hư Giới Chỉ
+50642092;Thái Hư Giới Chỉ
+50642101;Thái Hư Ngọc Bội
+50642102;Thái Hư Ngọc Bội
+50643011;Thái Hư Pháp Kiếm
+50643012;Thái Hư Pháp Kiếm
+50643021;Thái Hư Ngọc Quan
+50643022;Thái Hư Ngọc Quan
+50643031;Thái Hư Chiến Giáp
+50643032;Thái Hư Chiến Giáp
+50643041;Thái Hư Hộ Oản
+50643042;Thái Hư Hộ Oản
+50643051;Thái Hư Pháp Lý
+50643052;Thái Hư Pháp Lý
+50643061;Thái Hư Thúc Đái
+50643062;Thái Hư Thúc Đái
+50643071;Thái Hư Hạng Liên
+50643072;Thái Hư Hạng Liên
+50643081;Thái Hư Thủ Trạc
+50643082;Thái Hư Thủ Trạc
+50643091;Thái Hư Giới Chỉ
+50643092;Thái Hư Giới Chỉ
+50643101;Thái Hư Ngọc Bội
+50643102;Thái Hư Ngọc Bội
+50652011;Thái Hư Pháp Kiếm
+50652012;Thái Hư Pháp Kiếm
+50652021;Thái Hư Ngọc Quan
+50652022;Thái Hư Ngọc Quan
+50652031;Thái Hư Chiến Giáp
+50652032;Thái Hư Chiến Giáp
+50652041;Thái Hư Hộ Oản
+50652042;Thái Hư Hộ Oản
+50652051;Thái Hư Pháp Lý
+50652052;Thái Hư Pháp Lý
+50652061;Thái Hư Thúc Đái
+50652062;Thái Hư Thúc Đái
+50652071;Thái Hư Hạng Liên
+50652072;Thái Hư Hạng Liên
+50652081;Thái Hư Thủ Trạc
+50652082;Thái Hư Thủ Trạc
+50652091;Thái Hư Giới Chỉ
+50652092;Thái Hư Giới Chỉ
+50652101;Thái Hư Ngọc Bội
+50652102;Thái Hư Ngọc Bội
+50653011;Thái Hư Pháp Kiếm
+50653012;Thái Hư Pháp Kiếm
+50653021;Thái Hư Ngọc Quan
+50653022;Thái Hư Ngọc Quan
+50653031;Thái Hư Chiến Giáp
+50653032;Thái Hư Chiến Giáp
+50653041;Thái Hư Hộ Oản
+50653042;Thái Hư Hộ Oản
+50653051;Thái Hư Pháp Lý
+50653052;Thái Hư Pháp Lý
+50653061;Thái Hư Thúc Đái
+50653062;Thái Hư Thúc Đái
+50653071;Thái Hư Hạng Liên
+50653072;Thái Hư Hạng Liên
+50653081;Thái Hư Thủ Trạc
+50653082;Thái Hư Thủ Trạc
+50653091;Thái Hư Giới Chỉ
+50653092;Thái Hư Giới Chỉ
+50653101;Thái Hư Ngọc Bội
+50653102;Thái Hư Ngọc Bội
+50654011;Thái Hư Pháp Kiếm
+50654012;Thái Hư Pháp Kiếm
+50654021;Thái Hư Ngọc Quan
+50654022;Thái Hư Ngọc Quan
+50654031;Thái Hư Chiến Giáp
+50654032;Thái Hư Chiến Giáp
+50654041;Thái Hư Hộ Oản
+50654042;Thái Hư Hộ Oản
+50654051;Thái Hư Pháp Lý
+50654052;Thái Hư Pháp Lý
+50654061;Thái Hư Thúc Đái
+50654062;Thái Hư Thúc Đái
+50654071;Thái Hư Hạng Liên
+50654072;Thái Hư Hạng Liên
+50654081;Thái Hư Thủ Trạc
+50654082;Thái Hư Thủ Trạc
+50654091;Thái Hư Giới Chỉ
+50654092;Thái Hư Giới Chỉ
+50654101;Thái Hư Ngọc Bội
+50654102;Thái Hư Ngọc Bội
+50665011;Thái Hư Pháp Kiếm
+50665012;Thái Hư Pháp Kiếm
+50665021;Thái Hư Ngọc Quan
+50665022;Thái Hư Ngọc Quan
+50665031;Thái Hư Chiến Giáp
+50665032;Thái Hư Chiến Giáp
+50665041;Thái Hư Hộ Oản
+50665042;Thái Hư Hộ Oản
+50665051;Thái Hư Pháp Lý
+50665052;Thái Hư Pháp Lý
+50665061;Thái Hư Thúc Đái
+50665062;Thái Hư Thúc Đái
+50665071;Thái Hư Hạng Liên
+50665072;Thái Hư Hạng Liên
+50665081;Thái Hư Thủ Trạc
+50665082;Thái Hư Thủ Trạc
+50665091;Thái Hư Giới Chỉ
+50665092;Thái Hư Giới Chỉ
+50665101;Thái Hư Ngọc Bội
+50665102;Thái Hư Ngọc Bội
+50721011;Tru Tiên Huyền Kiếm
+50721012;Tru Tiên Huyền Kiếm
+50721021;Tru Tiên Ngọc Quan
+50721022;Tru Tiên Ngọc Quan
+50721031;Tru Tiên Chiến Giáp
+50721032;Tru Tiên Chiến Giáp
+50721041;Tru Tiên Hộ Oản
+50721042;Tru Tiên Hộ Oản
+50721051;Tru Tiên Pháp Lý
+50721052;Tru Tiên Pháp Lý
+50721061;Tru Tiên Thúc Đái
+50721062;Tru Tiên Thúc Đái
+50721071;Tru Tiên Hạng Liên
+50721072;Tru Tiên Hạng Liên
+50721081;Tru Tiên Thủ Trạc
+50721082;Tru Tiên Thủ Trạc
+50721091;Tru Tiên Giới Chỉ
+50721092;Tru Tiên Giới Chỉ
+50721101;Tru Tiên Ngọc Bội
+50721102;Tru Tiên Ngọc Bội
+50731011;Tru Tiên Huyền Kiếm
+50731012;Tru Tiên Huyền Kiếm
+50731021;Tru Tiên Ngọc Quan
+50731022;Tru Tiên Ngọc Quan
+50731031;Tru Tiên Chiến Giáp
+50731032;Tru Tiên Chiến Giáp
+50731041;Tru Tiên Hộ Oản
+50731042;Tru Tiên Hộ Oản
+50731051;Tru Tiên Pháp Lý
+50731052;Tru Tiên Pháp Lý
+50731061;Tru Tiên Thúc Đái
+50731062;Tru Tiên Thúc Đái
+50731071;Tru Tiên Hạng Liên
+50731072;Tru Tiên Hạng Liên
+50731081;Tru Tiên Thủ Trạc
+50731082;Tru Tiên Thủ Trạc
+50731091;Tru Tiên Giới Chỉ
+50731092;Tru Tiên Giới Chỉ
+50731101;Tru Tiên Ngọc Bội
+50731102;Tru Tiên Ngọc Bội
+50732011;Tru Tiên Huyền Kiếm
+50732012;Tru Tiên Huyền Kiếm
+50732021;Tru Tiên Ngọc Quan
+50732022;Tru Tiên Ngọc Quan
+50732031;Tru Tiên Chiến Giáp
+50732032;Tru Tiên Chiến Giáp
+50732041;Tru Tiên Hộ Oản
+50732042;Tru Tiên Hộ Oản
+50732051;Tru Tiên Pháp Lý
+50732052;Tru Tiên Pháp Lý
+50732061;Tru Tiên Thúc Đái
+50732062;Tru Tiên Thúc Đái
+50732071;Tru Tiên Hạng Liên
+50732072;Tru Tiên Hạng Liên
+50732081;Tru Tiên Thủ Trạc
+50732082;Tru Tiên Thủ Trạc
+50732091;Tru Tiên Giới Chỉ
+50732092;Tru Tiên Giới Chỉ
+50732101;Tru Tiên Ngọc Bội
+50732102;Tru Tiên Ngọc Bội
+50742011;Tru Tiên Huyền Kiếm
+50742012;Tru Tiên Huyền Kiếm
+50742021;Tru Tiên Ngọc Quan
+50742022;Tru Tiên Ngọc Quan
+50742031;Tru Tiên Chiến Giáp
+50742032;Tru Tiên Chiến Giáp
+50742041;Tru Tiên Hộ Oản
+50742042;Tru Tiên Hộ Oản
+50742051;Tru Tiên Pháp Lý
+50742052;Tru Tiên Pháp Lý
+50742061;Tru Tiên Thúc Đái
+50742062;Tru Tiên Thúc Đái
+50742071;Tru Tiên Hạng Liên
+50742072;Tru Tiên Hạng Liên
+50742081;Tru Tiên Thủ Trạc
+50742082;Tru Tiên Thủ Trạc
+50742091;Tru Tiên Giới Chỉ
+50742092;Tru Tiên Giới Chỉ
+50742101;Tru Tiên Ngọc Bội
+50742102;Tru Tiên Ngọc Bội
+50743011;Tru Tiên Huyền Kiếm
+50743012;Tru Tiên Huyền Kiếm
+50743021;Tru Tiên Ngọc Quan
+50743022;Tru Tiên Ngọc Quan
+50743031;Tru Tiên Chiến Giáp
+50743032;Tru Tiên Chiến Giáp
+50743041;Tru Tiên Hộ Oản
+50743042;Tru Tiên Hộ Oản
+50743051;Tru Tiên Pháp Lý
+50743052;Tru Tiên Pháp Lý
+50743061;Tru Tiên Thúc Đái
+50743062;Tru Tiên Thúc Đái
+50743071;Tru Tiên Hạng Liên
+50743072;Tru Tiên Hạng Liên
+50743081;Tru Tiên Thủ Trạc
+50743082;Tru Tiên Thủ Trạc
+50743091;Tru Tiên Giới Chỉ
+50743092;Tru Tiên Giới Chỉ
+50743101;Tru Tiên Ngọc Bội
+50743102;Tru Tiên Ngọc Bội
+50752011;Tru Tiên Huyền Kiếm
+50752012;Tru Tiên Huyền Kiếm
+50752021;Tru Tiên Ngọc Quan
+50752022;Tru Tiên Ngọc Quan
+50752031;Tru Tiên Chiến Giáp
+50752032;Tru Tiên Chiến Giáp
+50752041;Tru Tiên Hộ Oản
+50752042;Tru Tiên Hộ Oản
+50752051;Tru Tiên Pháp Lý
+50752052;Tru Tiên Pháp Lý
+50752061;Tru Tiên Thúc Đái
+50752062;Tru Tiên Thúc Đái
+50752071;Tru Tiên Hạng Liên
+50752072;Tru Tiên Hạng Liên
+50752081;Tru Tiên Thủ Trạc
+50752082;Tru Tiên Thủ Trạc
+50752091;Tru Tiên Giới Chỉ
+50752092;Tru Tiên Giới Chỉ
+50752101;Tru Tiên Ngọc Bội
+50752102;Tru Tiên Ngọc Bội
+50753011;Tru Tiên Huyền Kiếm
+50753012;Tru Tiên Huyền Kiếm
+50753021;Tru Tiên Ngọc Quan
+50753022;Tru Tiên Ngọc Quan
+50753031;Tru Tiên Chiến Giáp
+50753032;Tru Tiên Chiến Giáp
+50753041;Tru Tiên Hộ Oản
+50753042;Tru Tiên Hộ Oản
+50753051;Tru Tiên Pháp Lý
+50753052;Tru Tiên Pháp Lý
+50753061;Tru Tiên Thúc Đái
+50753062;Tru Tiên Thúc Đái
+50753071;Tru Tiên Hạng Liên
+50753072;Tru Tiên Hạng Liên
+50753081;Tru Tiên Thủ Trạc
+50753082;Tru Tiên Thủ Trạc
+50753091;Tru Tiên Giới Chỉ
+50753092;Tru Tiên Giới Chỉ
+50753101;Tru Tiên Ngọc Bội
+50753102;Tru Tiên Ngọc Bội
+50754011;Tru Tiên Huyền Kiếm
+50754012;Tru Tiên Huyền Kiếm
+50754021;Tru Tiên Ngọc Quan
+50754022;Tru Tiên Ngọc Quan
+50754031;Tru Tiên Chiến Giáp
+50754032;Tru Tiên Chiến Giáp
+50754041;Tru Tiên Hộ Oản
+50754042;Tru Tiên Hộ Oản
+50754051;Tru Tiên Pháp Lý
+50754052;Tru Tiên Pháp Lý
+50754061;Tru Tiên Thúc Đái
+50754062;Tru Tiên Thúc Đái
+50754071;Tru Tiên Hạng Liên
+50754072;Tru Tiên Hạng Liên
+50754081;Tru Tiên Thủ Trạc
+50754082;Tru Tiên Thủ Trạc
+50754091;Tru Tiên Giới Chỉ
+50754092;Tru Tiên Giới Chỉ
+50754101;Tru Tiên Ngọc Bội
+50754102;Tru Tiên Ngọc Bội
+50765011;Tru Tiên Huyền Kiếm
+50765012;Tru Tiên Huyền Kiếm
+50765021;Tru Tiên Ngọc Quan
+50765022;Tru Tiên Ngọc Quan
+50765031;Tru Tiên Chiến Giáp
+50765032;Tru Tiên Chiến Giáp
+50765041;Tru Tiên Hộ Oản
+50765042;Tru Tiên Hộ Oản
+50765051;Tru Tiên Pháp Lý
+50765052;Tru Tiên Pháp Lý
+50765061;Tru Tiên Thúc Đái
+50765062;Tru Tiên Thúc Đái
+50765071;Tru Tiên Hạng Liên
+50765072;Tru Tiên Hạng Liên
+50765081;Tru Tiên Thủ Trạc
+50765082;Tru Tiên Thủ Trạc
+50765091;Tru Tiên Giới Chỉ
+50765092;Tru Tiên Giới Chỉ
+50765101;Tru Tiên Ngọc Bội
+50765102;Tru Tiên Ngọc Bội
+50821011;Côn Ngô Huyền Kiếm
+50821012;Côn Ngô Huyền Kiếm
+50821021;Côn Ngô Ngọc Quan
+50821022;Côn Ngô Ngọc Quan
+50821031;Côn Ngô Chiến Giáp
+50821032;Côn Ngô Chiến Giáp
+50821041;Côn Ngô Hộ Oản
+50821042;Côn Ngô Hộ Oản
+50821051;Côn Ngô Pháp Lý
+50821052;Côn Ngô Pháp Lý
+50821061;Côn Ngô Thúc Đái
+50821062;Côn Ngô Thúc Đái
+50821071;Côn Ngô Hạng Liên
+50821072;Côn Ngô Hạng Liên
+50821081;Côn Ngô Thủ Trạc
+50821082;Côn Ngô Thủ Trạc
+50821091;Côn Ngô Giới Chỉ
+50821092;Côn Ngô Giới Chỉ
+50821101;Côn Ngô Ngọc Bội
+50821102;Côn Ngô Ngọc Bội
+50831011;Côn Ngô Huyền Kiếm
+50831012;Côn Ngô Huyền Kiếm
+50831021;Côn Ngô Ngọc Quan
+50831022;Côn Ngô Ngọc Quan
+50831031;Côn Ngô Chiến Giáp
+50831032;Côn Ngô Chiến Giáp
+50831041;Côn Ngô Hộ Oản
+50831042;Côn Ngô Hộ Oản
+50831051;Côn Ngô Pháp Lý
+50831052;Côn Ngô Pháp Lý
+50831061;Côn Ngô Thúc Đái
+50831062;Côn Ngô Thúc Đái
+50831071;Côn Ngô Hạng Liên
+50831072;Côn Ngô Hạng Liên
+50831081;Côn Ngô Thủ Trạc
+50831082;Côn Ngô Thủ Trạc
+50831091;Côn Ngô Giới Chỉ
+50831092;Côn Ngô Giới Chỉ
+50831101;Côn Ngô Ngọc Bội
+50831102;Côn Ngô Ngọc Bội
+50832011;Côn Ngô Huyền Kiếm
+50832012;Côn Ngô Huyền Kiếm
+50832021;Côn Ngô Ngọc Quan
+50832022;Côn Ngô Ngọc Quan
+50832031;Côn Ngô Chiến Giáp
+50832032;Côn Ngô Chiến Giáp
+50832041;Côn Ngô Hộ Oản
+50832042;Côn Ngô Hộ Oản
+50832051;Côn Ngô Pháp Lý
+50832052;Côn Ngô Pháp Lý
+50832061;Côn Ngô Thúc Đái
+50832062;Côn Ngô Thúc Đái
+50832071;Côn Ngô Hạng Liên
+50832072;Côn Ngô Hạng Liên
+50832081;Côn Ngô Thủ Trạc
+50832082;Côn Ngô Thủ Trạc
+50832091;Côn Ngô Giới Chỉ
+50832092;Côn Ngô Giới Chỉ
+50832101;Côn Ngô Ngọc Bội
+50832102;Côn Ngô Ngọc Bội
+50842011;Côn Ngô Huyền Kiếm
+50842012;Côn Ngô Huyền Kiếm
+50842021;Côn Ngô Ngọc Quan
+50842022;Côn Ngô Ngọc Quan
+50842031;Côn Ngô Chiến Giáp
+50842032;Côn Ngô Chiến Giáp
+50842041;Côn Ngô Hộ Oản
+50842042;Côn Ngô Hộ Oản
+50842051;Côn Ngô Pháp Lý
+50842052;Côn Ngô Pháp Lý
+50842061;Côn Ngô Thúc Đái
+50842062;Côn Ngô Thúc Đái
+50842071;Côn Ngô Hạng Liên
+50842072;Côn Ngô Hạng Liên
+50842081;Côn Ngô Thủ Trạc
+50842082;Côn Ngô Thủ Trạc
+50842091;Côn Ngô Giới Chỉ
+50842092;Côn Ngô Giới Chỉ
+50842101;Côn Ngô Ngọc Bội
+50842102;Côn Ngô Ngọc Bội
+50843011;Côn Ngô Huyền Kiếm
+50843012;Côn Ngô Huyền Kiếm
+50843021;Côn Ngô Ngọc Quan
+50843022;Côn Ngô Ngọc Quan
+50843031;Côn Ngô Chiến Giáp
+50843032;Côn Ngô Chiến Giáp
+50843041;Côn Ngô Hộ Oản
+50843042;Côn Ngô Hộ Oản
+50843051;Côn Ngô Pháp Lý
+50843052;Côn Ngô Pháp Lý
+50843061;Côn Ngô Thúc Đái
+50843062;Côn Ngô Thúc Đái
+50843071;Côn Ngô Hạng Liên
+50843072;Côn Ngô Hạng Liên
+50843081;Côn Ngô Thủ Trạc
+50843082;Côn Ngô Thủ Trạc
+50843091;Côn Ngô Giới Chỉ
+50843092;Côn Ngô Giới Chỉ
+50843101;Côn Ngô Ngọc Bội
+50843102;Côn Ngô Ngọc Bội
+50852011;Côn Ngô Huyền Kiếm
+50852012;Côn Ngô Huyền Kiếm
+50852021;Côn Ngô Ngọc Quan
+50852022;Côn Ngô Ngọc Quan
+50852031;Côn Ngô Chiến Giáp
+50852032;Côn Ngô Chiến Giáp
+50852041;Côn Ngô Hộ Oản
+50852042;Côn Ngô Hộ Oản
+50852051;Côn Ngô Pháp Lý
+50852052;Côn Ngô Pháp Lý
+50852061;Côn Ngô Thúc Đái
+50852062;Côn Ngô Thúc Đái
+50852071;Côn Ngô Hạng Liên
+50852072;Côn Ngô Hạng Liên
+50852081;Côn Ngô Thủ Trạc
+50852082;Côn Ngô Thủ Trạc
+50852091;Côn Ngô Giới Chỉ
+50852092;Côn Ngô Giới Chỉ
+50852101;Côn Ngô Ngọc Bội
+50852102;Côn Ngô Ngọc Bội
+50853011;Côn Ngô Huyền Kiếm
+50853012;Côn Ngô Huyền Kiếm
+50853021;Côn Ngô Ngọc Quan
+50853022;Côn Ngô Ngọc Quan
+50853031;Côn Ngô Chiến Giáp
+50853032;Côn Ngô Chiến Giáp
+50853041;Côn Ngô Hộ Oản
+50853042;Côn Ngô Hộ Oản
+50853051;Côn Ngô Pháp Lý
+50853052;Côn Ngô Pháp Lý
+50853061;Côn Ngô Thúc Đái
+50853062;Côn Ngô Thúc Đái
+50853071;Côn Ngô Hạng Liên
+50853072;Côn Ngô Hạng Liên
+50853081;Côn Ngô Thủ Trạc
+50853082;Côn Ngô Thủ Trạc
+50853091;Côn Ngô Giới Chỉ
+50853092;Côn Ngô Giới Chỉ
+50853101;Côn Ngô Ngọc Bội
+50853102;Côn Ngô Ngọc Bội
+50854011;Côn Ngô Huyền Kiếm
+50854012;Côn Ngô Huyền Kiếm
+50854021;Côn Ngô Ngọc Quan
+50854022;Côn Ngô Ngọc Quan
+50854031;Côn Ngô Chiến Giáp
+50854032;Côn Ngô Chiến Giáp
+50854041;Côn Ngô Hộ Oản
+50854042;Côn Ngô Hộ Oản
+50854051;Côn Ngô Pháp Lý
+50854052;Côn Ngô Pháp Lý
+50854061;Côn Ngô Thúc Đái
+50854062;Côn Ngô Thúc Đái
+50854071;Côn Ngô Hạng Liên
+50854072;Côn Ngô Hạng Liên
+50854081;Côn Ngô Thủ Trạc
+50854082;Côn Ngô Thủ Trạc
+50854091;Côn Ngô Giới Chỉ
+50854092;Côn Ngô Giới Chỉ
+50854101;Côn Ngô Ngọc Bội
+50854102;Côn Ngô Ngọc Bội
+50865011;Côn Ngô Huyền Kiếm
+50865012;Côn Ngô Huyền Kiếm
+50865021;Côn Ngô Ngọc Quan
+50865022;Côn Ngô Ngọc Quan
+50865031;Côn Ngô Chiến Giáp
+50865032;Côn Ngô Chiến Giáp
+50865041;Côn Ngô Hộ Oản
+50865042;Côn Ngô Hộ Oản
+50865051;Côn Ngô Pháp Lý
+50865052;Côn Ngô Pháp Lý
+50865061;Côn Ngô Thúc Đái
+50865062;Côn Ngô Thúc Đái
+50865071;Côn Ngô Hạng Liên
+50865072;Côn Ngô Hạng Liên
+50865081;Côn Ngô Thủ Trạc
+50865082;Côn Ngô Thủ Trạc
+50865091;Côn Ngô Giới Chỉ
+50865092;Côn Ngô Giới Chỉ
+50865101;Côn Ngô Ngọc Bội
+50865102;Côn Ngô Ngọc Bội
+50921011;Hiên Viên Hạo Thiên Kiếm
+50921012;Hiên Viên Hạo Thiên Kiếm
+50921021;Hiên Viên Ngọc Quan
+50921022;Hiên Viên Ngọc Quan
+50921031;Hiên Viên Chiến Giáp
+50921032;Hiên Viên Chiến Giáp
+50921041;Hiên Viên Hộ Oản
+50921042;Hiên Viên Hộ Oản
+50921051;Hiên Viên Pháp Lý
+50921052;Hiên Viên Pháp Lý
+50921061;Hiên Viên Thúc Đái
+50921062;Hiên Viên Thúc Đái
+50921071;Hiên Viên Hạng Liên
+50921072;Hiên Viên Hạng Liên
+50921081;Hiên Viên Thủ Trạc
+50921082;Hiên Viên Thủ Trạc
+50921091;Hiên Viên Giới Chỉ
+50921092;Hiên Viên Giới Chỉ
+50921101;Hiên Viên Ngọc Bội
+50921102;Hiên Viên Ngọc Bội
+50931011;Hiên Viên Hạo Thiên Kiếm
+50931012;Hiên Viên Hạo Thiên Kiếm
+50931021;Hiên Viên Ngọc Quan
+50931022;Hiên Viên Ngọc Quan
+50931031;Hiên Viên Chiến Giáp
+50931032;Hiên Viên Chiến Giáp
+50931041;Hiên Viên Hộ Oản
+50931042;Hiên Viên Hộ Oản
+50931051;Hiên Viên Pháp Lý
+50931052;Hiên Viên Pháp Lý
+50931061;Hiên Viên Thúc Đái
+50931062;Hiên Viên Thúc Đái
+50931071;Hiên Viên Hạng Liên
+50931072;Hiên Viên Hạng Liên
+50931081;Hiên Viên Thủ Trạc
+50931082;Hiên Viên Thủ Trạc
+50931091;Hiên Viên Giới Chỉ
+50931092;Hiên Viên Giới Chỉ
+50931101;Hiên Viên Ngọc Bội
+50931102;Hiên Viên Ngọc Bội
+50932011;Hiên Viên Hạo Thiên Kiếm
+50932012;Hiên Viên Hạo Thiên Kiếm
+50932021;Hiên Viên Ngọc Quan
+50932022;Hiên Viên Ngọc Quan
+50932031;Hiên Viên Chiến Giáp
+50932032;Hiên Viên Chiến Giáp
+50932041;Hiên Viên Hộ Oản
+50932042;Hiên Viên Hộ Oản
+50932051;Hiên Viên Pháp Lý
+50932052;Hiên Viên Pháp Lý
+50932061;Hiên Viên Thúc Đái
+50932062;Hiên Viên Thúc Đái
+50932071;Hiên Viên Hạng Liên
+50932072;Hiên Viên Hạng Liên
+50932081;Hiên Viên Thủ Trạc
+50932082;Hiên Viên Thủ Trạc
+50932091;Hiên Viên Giới Chỉ
+50932092;Hiên Viên Giới Chỉ
+50932101;Hiên Viên Ngọc Bội
+50932102;Hiên Viên Ngọc Bội
+50942011;Hiên Viên Hạo Thiên Kiếm
+50942012;Hiên Viên Hạo Thiên Kiếm
+50942021;Hiên Viên Ngọc Quan
+50942022;Hiên Viên Ngọc Quan
+50942031;Hiên Viên Chiến Giáp
+50942032;Hiên Viên Chiến Giáp
+50942041;Hiên Viên Hộ Oản
+50942042;Hiên Viên Hộ Oản
+50942051;Hiên Viên Pháp Lý
+50942052;Hiên Viên Pháp Lý
+50942061;Hiên Viên Thúc Đái
+50942062;Hiên Viên Thúc Đái
+50942071;Hiên Viên Hạng Liên
+50942072;Hiên Viên Hạng Liên
+50942081;Hiên Viên Thủ Trạc
+50942082;Hiên Viên Thủ Trạc
+50942091;Hiên Viên Giới Chỉ
+50942092;Hiên Viên Giới Chỉ
+50942101;Hiên Viên Ngọc Bội
+50942102;Hiên Viên Ngọc Bội
+50943011;Hiên Viên Hạo Thiên Kiếm
+50943012;Hiên Viên Hạo Thiên Kiếm
+50943021;Hiên Viên Ngọc Quan
+50943022;Hiên Viên Ngọc Quan
+50943031;Hiên Viên Chiến Giáp
+50943032;Hiên Viên Chiến Giáp
+50943041;Hiên Viên Hộ Oản
+50943042;Hiên Viên Hộ Oản
+50943051;Hiên Viên Pháp Lý
+50943052;Hiên Viên Pháp Lý
+50943061;Hiên Viên Thúc Đái
+50943062;Hiên Viên Thúc Đái
+50943071;Hiên Viên Hạng Liên
+50943072;Hiên Viên Hạng Liên
+50943081;Hiên Viên Thủ Trạc
+50943082;Hiên Viên Thủ Trạc
+50943091;Hiên Viên Giới Chỉ
+50943092;Hiên Viên Giới Chỉ
+50943101;Hiên Viên Ngọc Bội
+50943102;Hiên Viên Ngọc Bội
+50952011;Hiên Viên Hạo Thiên Kiếm
+50952012;Hiên Viên Hạo Thiên Kiếm
+50952021;Hiên Viên Ngọc Quan
+50952022;Hiên Viên Ngọc Quan
+50952031;Hiên Viên Chiến Giáp
+50952032;Hiên Viên Chiến Giáp
+50952041;Hiên Viên Hộ Oản
+50952042;Hiên Viên Hộ Oản
+50952051;Hiên Viên Pháp Lý
+50952052;Hiên Viên Pháp Lý
+50952061;Hiên Viên Thúc Đái
+50952062;Hiên Viên Thúc Đái
+50952071;Hiên Viên Hạng Liên
+50952072;Hiên Viên Hạng Liên
+50952081;Hiên Viên Thủ Trạc
+50952082;Hiên Viên Thủ Trạc
+50952091;Hiên Viên Giới Chỉ
+50952092;Hiên Viên Giới Chỉ
+50952101;Hiên Viên Ngọc Bội
+50952102;Hiên Viên Ngọc Bội
+50953011;Hiên Viên Hạo Thiên Kiếm
+50953012;Hiên Viên Hạo Thiên Kiếm
+50953021;Hiên Viên Ngọc Quan
+50953022;Hiên Viên Ngọc Quan
+50953031;Hiên Viên Chiến Giáp
+50953032;Hiên Viên Chiến Giáp
+50953041;Hiên Viên Hộ Oản
+50953042;Hiên Viên Hộ Oản
+50953051;Hiên Viên Pháp Lý
+50953052;Hiên Viên Pháp Lý
+50953061;Hiên Viên Thúc Đái
+50953062;Hiên Viên Thúc Đái
+50953071;Hiên Viên Hạng Liên
+50953072;Hiên Viên Hạng Liên
+50953081;Hiên Viên Thủ Trạc
+50953082;Hiên Viên Thủ Trạc
+50953091;Hiên Viên Giới Chỉ
+50953092;Hiên Viên Giới Chỉ
+50953101;Hiên Viên Ngọc Bội
+50953102;Hiên Viên Ngọc Bội
+50954011;Hiên Viên Hạo Thiên Kiếm
+50954012;Hiên Viên Hạo Thiên Kiếm
+50954021;Hiên Viên Ngọc Quan
+50954022;Hiên Viên Ngọc Quan
+50954031;Hiên Viên Chiến Giáp
+50954032;Hiên Viên Chiến Giáp
+50954041;Hiên Viên Hộ Oản
+50954042;Hiên Viên Hộ Oản
+50954051;Hiên Viên Pháp Lý
+50954052;Hiên Viên Pháp Lý
+50954061;Hiên Viên Thúc Đái
+50954062;Hiên Viên Thúc Đái
+50954071;Hiên Viên Hạng Liên
+50954072;Hiên Viên Hạng Liên
+50954081;Hiên Viên Thủ Trạc
+50954082;Hiên Viên Thủ Trạc
+50954091;Hiên Viên Giới Chỉ
+50954092;Hiên Viên Giới Chỉ
+50954101;Hiên Viên Ngọc Bội
+50954102;Hiên Viên Ngọc Bội
+50965011;Hiên Viên Hạo Thiên Kiếm
+50965012;Hiên Viên Hạo Thiên Kiếm
+50965021;Hiên Viên Ngọc Quan
+50965022;Hiên Viên Ngọc Quan
+50965031;Hiên Viên Chiến Giáp
+50965032;Hiên Viên Chiến Giáp
+50965041;Hiên Viên Hộ Oản
+50965042;Hiên Viên Hộ Oản
+50965051;Hiên Viên Pháp Lý
+50965052;Hiên Viên Pháp Lý
+50965061;Hiên Viên Thúc Đái
+50965062;Hiên Viên Thúc Đái
+50965071;Hiên Viên Hạng Liên
+50965072;Hiên Viên Hạng Liên
+50965081;Hiên Viên Thủ Trạc
+50965082;Hiên Viên Thủ Trạc
+50965091;Hiên Viên Giới Chỉ
+50965092;Hiên Viên Giới Chỉ
+50965101;Hiên Viên Ngọc Bội
+50965102;Hiên Viên Ngọc Bội
+51021011;Bàn Cổ Xích Thiên Kiếm
+51021012;Bàn Cổ Xích Thiên Kiếm
+51021021;Bàn Cổ Ngọc Quan
+51021022;Bàn Cổ Ngọc Quan
+51021031;Bàn Cổ Chiến Giáp
+51021032;Bàn Cổ Chiến Giáp
+51021041;Bàn Cổ Hộ Oản
+51021042;Bàn Cổ Hộ Oản
+51021051;Bàn Cổ Pháp Lý
+51021052;Bàn Cổ Pháp Lý
+51021061;Bàn Cổ Thúc Đái
+51021062;Bàn Cổ Thúc Đái
+51021071;Bàn Cổ Hạng Liên
+51021072;Bàn Cổ Hạng Liên
+51021081;Bàn Cổ Thủ Trạc
+51021082;Bàn Cổ Thủ Trạc
+51021091;Bàn Cổ Giới Chỉ
+51021092;Bàn Cổ Giới Chỉ
+51021101;Bàn Cổ Ngọc Bội
+51021102;Bàn Cổ Ngọc Bội
+51031011;Bàn Cổ Xích Thiên Kiếm
+51031012;Bàn Cổ Xích Thiên Kiếm
+51031021;Bàn Cổ Ngọc Quan
+51031022;Bàn Cổ Ngọc Quan
+51031031;Bàn Cổ Chiến Giáp
+51031032;Bàn Cổ Chiến Giáp
+51031041;Bàn Cổ Hộ Oản
+51031042;Bàn Cổ Hộ Oản
+51031051;Bàn Cổ Pháp Lý
+51031052;Bàn Cổ Pháp Lý
+51031061;Bàn Cổ Thúc Đái
+51031062;Bàn Cổ Thúc Đái
+51031071;Bàn Cổ Hạng Liên
+51031072;Bàn Cổ Hạng Liên
+51031081;Bàn Cổ Thủ Trạc
+51031082;Bàn Cổ Thủ Trạc
+51031091;Bàn Cổ Giới Chỉ
+51031092;Bàn Cổ Giới Chỉ
+51031101;Bàn Cổ Ngọc Bội
+51031102;Bàn Cổ Ngọc Bội
+51032011;Bàn Cổ Xích Thiên Kiếm
+51032012;Bàn Cổ Xích Thiên Kiếm
+51032021;Bàn Cổ Ngọc Quan
+51032022;Bàn Cổ Ngọc Quan
+51032031;Bàn Cổ Chiến Giáp
+51032032;Bàn Cổ Chiến Giáp
+51032041;Bàn Cổ Hộ Oản
+51032042;Bàn Cổ Hộ Oản
+51032051;Bàn Cổ Pháp Lý
+51032052;Bàn Cổ Pháp Lý
+51032061;Bàn Cổ Thúc Đái
+51032062;Bàn Cổ Thúc Đái
+51032071;Bàn Cổ Hạng Liên
+51032072;Bàn Cổ Hạng Liên
+51032081;Bàn Cổ Thủ Trạc
+51032082;Bàn Cổ Thủ Trạc
+51032091;Bàn Cổ Giới Chỉ
+51032092;Bàn Cổ Giới Chỉ
+51032101;Bàn Cổ Ngọc Bội
+51032102;Bàn Cổ Ngọc Bội
+51042011;Bàn Cổ Xích Thiên Kiếm
+51042012;Bàn Cổ Xích Thiên Kiếm
+51042021;Bàn Cổ Ngọc Quan
+51042022;Bàn Cổ Ngọc Quan
+51042031;Bàn Cổ Chiến Giáp
+51042032;Bàn Cổ Chiến Giáp
+51042041;Bàn Cổ Hộ Oản
+51042042;Bàn Cổ Hộ Oản
+51042051;Bàn Cổ Pháp Lý
+51042052;Bàn Cổ Pháp Lý
+51042061;Bàn Cổ Thúc Đái
+51042062;Bàn Cổ Thúc Đái
+51042071;Bàn Cổ Hạng Liên
+51042072;Bàn Cổ Hạng Liên
+51042081;Bàn Cổ Thủ Trạc
+51042082;Bàn Cổ Thủ Trạc
+51042091;Bàn Cổ Giới Chỉ
+51042092;Bàn Cổ Giới Chỉ
+51042101;Bàn Cổ Ngọc Bội
+51042102;Bàn Cổ Ngọc Bội
+51043011;Bàn Cổ Xích Thiên Kiếm
+51043012;Bàn Cổ Xích Thiên Kiếm
+51043021;Bàn Cổ Ngọc Quan
+51043022;Bàn Cổ Ngọc Quan
+51043031;Bàn Cổ Chiến Giáp
+51043032;Bàn Cổ Chiến Giáp
+51043041;Bàn Cổ Hộ Oản
+51043042;Bàn Cổ Hộ Oản
+51043051;Bàn Cổ Pháp Lý
+51043052;Bàn Cổ Pháp Lý
+51043061;Bàn Cổ Thúc Đái
+51043062;Bàn Cổ Thúc Đái
+51043071;Bàn Cổ Hạng Liên
+51043072;Bàn Cổ Hạng Liên
+51043081;Bàn Cổ Thủ Trạc
+51043082;Bàn Cổ Thủ Trạc
+51043091;Bàn Cổ Giới Chỉ
+51043092;Bàn Cổ Giới Chỉ
+51043101;Bàn Cổ Ngọc Bội
+51043102;Bàn Cổ Ngọc Bội
+51052011;Bàn Cổ Xích Thiên Kiếm
+51052012;Bàn Cổ Xích Thiên Kiếm
+51052021;Bàn Cổ Ngọc Quan
+51052022;Bàn Cổ Ngọc Quan
+51052031;Bàn Cổ Chiến Giáp
+51052032;Bàn Cổ Chiến Giáp
+51052041;Bàn Cổ Hộ Oản
+51052042;Bàn Cổ Hộ Oản
+51052051;Bàn Cổ Pháp Lý
+51052052;Bàn Cổ Pháp Lý
+51052061;Bàn Cổ Thúc Đái
+51052062;Bàn Cổ Thúc Đái
+51052071;Bàn Cổ Hạng Liên
+51052072;Bàn Cổ Hạng Liên
+51052081;Bàn Cổ Thủ Trạc
+51052082;Bàn Cổ Thủ Trạc
+51052091;Bàn Cổ Giới Chỉ
+51052092;Bàn Cổ Giới Chỉ
+51052101;Bàn Cổ Ngọc Bội
+51052102;Bàn Cổ Ngọc Bội
+51053011;Bàn Cổ Xích Thiên Kiếm
+51053012;Bàn Cổ Xích Thiên Kiếm
+51053021;Bàn Cổ Ngọc Quan
+51053022;Bàn Cổ Ngọc Quan
+51053031;Bàn Cổ Chiến Giáp
+51053032;Bàn Cổ Chiến Giáp
+51053041;Bàn Cổ Hộ Oản
+51053042;Bàn Cổ Hộ Oản
+51053051;Bàn Cổ Pháp Lý
+51053052;Bàn Cổ Pháp Lý
+51053061;Bàn Cổ Thúc Đái
+51053062;Bàn Cổ Thúc Đái
+51053071;Bàn Cổ Hạng Liên
+51053072;Bàn Cổ Hạng Liên
+51053081;Bàn Cổ Thủ Trạc
+51053082;Bàn Cổ Thủ Trạc
+51053091;Bàn Cổ Giới Chỉ
+51053092;Bàn Cổ Giới Chỉ
+51053101;Bàn Cổ Ngọc Bội
+51053102;Bàn Cổ Ngọc Bội
+51054011;Bàn Cổ Xích Thiên Kiếm
+51054012;Bàn Cổ Xích Thiên Kiếm
+51054021;Bàn Cổ Ngọc Quan
+51054022;Bàn Cổ Ngọc Quan
+51054031;Bàn Cổ Chiến Giáp
+51054032;Bàn Cổ Chiến Giáp
+51054041;Bàn Cổ Hộ Oản
+51054042;Bàn Cổ Hộ Oản
+51054051;Bàn Cổ Pháp Lý
+51054052;Bàn Cổ Pháp Lý
+51054061;Bàn Cổ Thúc Đái
+51054062;Bàn Cổ Thúc Đái
+51054071;Bàn Cổ Hạng Liên
+51054072;Bàn Cổ Hạng Liên
+51054081;Bàn Cổ Thủ Trạc
+51054082;Bàn Cổ Thủ Trạc
+51054091;Bàn Cổ Giới Chỉ
+51054092;Bàn Cổ Giới Chỉ
+51054101;Bàn Cổ Ngọc Bội
+51054102;Bàn Cổ Ngọc Bội
+51065011;Bàn Cổ Xích Thiên Kiếm
+51065012;Bàn Cổ Xích Thiên Kiếm
+51065021;Bàn Cổ Ngọc Quan
+51065022;Bàn Cổ Ngọc Quan
+51065031;Bàn Cổ Chiến Giáp
+51065032;Bàn Cổ Chiến Giáp
+51065041;Bàn Cổ Hộ Oản
+51065042;Bàn Cổ Hộ Oản
+51065051;Bàn Cổ Pháp Lý
+51065052;Bàn Cổ Pháp Lý
+51065061;Bàn Cổ Thúc Đái
+51065062;Bàn Cổ Thúc Đái
+51065071;Bàn Cổ Hạng Liên
+51065072;Bàn Cổ Hạng Liên
+51065081;Bàn Cổ Thủ Trạc
+51065082;Bàn Cổ Thủ Trạc
+51065091;Bàn Cổ Giới Chỉ
+51065092;Bàn Cổ Giới Chỉ
+51065101;Bàn Cổ Ngọc Bội
+51065102;Bàn Cổ Ngọc Bội
+51121011;Kiền Khôn U Thiên Kiếm
+51121012;Kiền Khôn U Thiên Kiếm
+51121021;Kiền Khôn Ngọc Quan
+51121022;Kiền Khôn Ngọc Quan
+51121031;Kiền Khôn Chiến Giáp
+51121032;Kiền Khôn Chiến Giáp
+51121041;Kiền Khôn Hộ Oản
+51121042;Kiền Khôn Hộ Oản
+51121051;Kiền Khôn Pháp Lý
+51121052;Kiền Khôn Pháp Lý
+51121061;Kiền Khôn Thúc Đái
+51121062;Kiền Khôn Thúc Đái
+51121071;Kiền Khôn Hạng Liên
+51121072;Kiền Khôn Hạng Liên
+51121081;Kiền Khôn Thủ Trạc
+51121082;Kiền Khôn Thủ Trạc
+51121091;Kiền Khôn Giới Chỉ
+51121092;Kiền Khôn Giới Chỉ
+51121101;Kiền Khôn Ngọc Bội
+51121102;Kiền Khôn Ngọc Bội
+51131011;Kiền Khôn U Thiên Kiếm
+51131012;Kiền Khôn U Thiên Kiếm
+51131021;Kiền Khôn Ngọc Quan
+51131022;Kiền Khôn Ngọc Quan
+51131031;Kiền Khôn Chiến Giáp
+51131032;Kiền Khôn Chiến Giáp
+51131041;Kiền Khôn Hộ Oản
+51131042;Kiền Khôn Hộ Oản
+51131051;Kiền Khôn Pháp Lý
+51131052;Kiền Khôn Pháp Lý
+51131061;Kiền Khôn Thúc Đái
+51131062;Kiền Khôn Thúc Đái
+51131071;Kiền Khôn Hạng Liên
+51131072;Kiền Khôn Hạng Liên
+51131081;Kiền Khôn Thủ Trạc
+51131082;Kiền Khôn Thủ Trạc
+51131091;Kiền Khôn Giới Chỉ
+51131092;Kiền Khôn Giới Chỉ
+51131101;Kiền Khôn Ngọc Bội
+51131102;Kiền Khôn Ngọc Bội
+51132011;Kiền Khôn U Thiên Kiếm
+51132012;Kiền Khôn U Thiên Kiếm
+51132021;Kiền Khôn Ngọc Quan
+51132022;Kiền Khôn Ngọc Quan
+51132031;Kiền Khôn Chiến Giáp
+51132032;Kiền Khôn Chiến Giáp
+51132041;Kiền Khôn Hộ Oản
+51132042;Kiền Khôn Hộ Oản
+51132051;Kiền Khôn Pháp Lý
+51132052;Kiền Khôn Pháp Lý
+51132061;Kiền Khôn Thúc Đái
+51132062;Kiền Khôn Thúc Đái
+51132071;Kiền Khôn Hạng Liên
+51132072;Kiền Khôn Hạng Liên
+51132081;Kiền Khôn Thủ Trạc
+51132082;Kiền Khôn Thủ Trạc
+51132091;Kiền Khôn Giới Chỉ
+51132092;Kiền Khôn Giới Chỉ
+51132101;Kiền Khôn Ngọc Bội
+51132102;Kiền Khôn Ngọc Bội
+51142011;Kiền Khôn U Thiên Kiếm
+51142012;Kiền Khôn U Thiên Kiếm
+51142021;Kiền Khôn Ngọc Quan
+51142022;Kiền Khôn Ngọc Quan
+51142031;Kiền Khôn Chiến Giáp
+51142032;Kiền Khôn Chiến Giáp
+51142041;Kiền Khôn Hộ Oản
+51142042;Kiền Khôn Hộ Oản
+51142051;Kiền Khôn Pháp Lý
+51142052;Kiền Khôn Pháp Lý
+51142061;Kiền Khôn Thúc Đái
+51142062;Kiền Khôn Thúc Đái
+51142071;Kiền Khôn Hạng Liên
+51142072;Kiền Khôn Hạng Liên
+51142081;Kiền Khôn Thủ Trạc
+51142082;Kiền Khôn Thủ Trạc
+51142091;Kiền Khôn Giới Chỉ
+51142092;Kiền Khôn Giới Chỉ
+51142101;Kiền Khôn Ngọc Bội
+51142102;Kiền Khôn Ngọc Bội
+51143011;Kiền Khôn U Thiên Kiếm
+51143012;Kiền Khôn U Thiên Kiếm
+51143021;Kiền Khôn Ngọc Quan
+51143022;Kiền Khôn Ngọc Quan
+51143031;Kiền Khôn Chiến Giáp
+51143032;Kiền Khôn Chiến Giáp
+51143041;Kiền Khôn Hộ Oản
+51143042;Kiền Khôn Hộ Oản
+51143051;Kiền Khôn Pháp Lý
+51143052;Kiền Khôn Pháp Lý
+51143061;Kiền Khôn Thúc Đái
+51143062;Kiền Khôn Thúc Đái
+51143071;Kiền Khôn Hạng Liên
+51143072;Kiền Khôn Hạng Liên
+51143081;Kiền Khôn Thủ Trạc
+51143082;Kiền Khôn Thủ Trạc
+51143091;Kiền Khôn Giới Chỉ
+51143092;Kiền Khôn Giới Chỉ
+51143101;Kiền Khôn Ngọc Bội
+51143102;Kiền Khôn Ngọc Bội
+51152011;Kiền Khôn U Thiên Kiếm
+51152012;Kiền Khôn U Thiên Kiếm
+51152021;Kiền Khôn Ngọc Quan
+51152022;Kiền Khôn Ngọc Quan
+51152031;Kiền Khôn Chiến Giáp
+51152032;Kiền Khôn Chiến Giáp
+51152041;Kiền Khôn Hộ Oản
+51152042;Kiền Khôn Hộ Oản
+51152051;Kiền Khôn Pháp Lý
+51152052;Kiền Khôn Pháp Lý
+51152061;Kiền Khôn Thúc Đái
+51152062;Kiền Khôn Thúc Đái
+51152071;Kiền Khôn Hạng Liên
+51152072;Kiền Khôn Hạng Liên
+51152081;Kiền Khôn Thủ Trạc
+51152082;Kiền Khôn Thủ Trạc
+51152091;Kiền Khôn Giới Chỉ
+51152092;Kiền Khôn Giới Chỉ
+51152101;Kiền Khôn Ngọc Bội
+51152102;Kiền Khôn Ngọc Bội
+51153011;Kiền Khôn U Thiên Kiếm
+51153012;Kiền Khôn U Thiên Kiếm
+51153021;Kiền Khôn Ngọc Quan
+51153022;Kiền Khôn Ngọc Quan
+51153031;Kiền Khôn Chiến Giáp
+51153032;Kiền Khôn Chiến Giáp
+51153041;Kiền Khôn Hộ Oản
+51153042;Kiền Khôn Hộ Oản
+51153051;Kiền Khôn Pháp Lý
+51153052;Kiền Khôn Pháp Lý
+51153061;Kiền Khôn Thúc Đái
+51153062;Kiền Khôn Thúc Đái
+51153071;Kiền Khôn Hạng Liên
+51153072;Kiền Khôn Hạng Liên
+51153081;Kiền Khôn Thủ Trạc
+51153082;Kiền Khôn Thủ Trạc
+51153091;Kiền Khôn Giới Chỉ
+51153092;Kiền Khôn Giới Chỉ
+51153101;Kiền Khôn Ngọc Bội
+51153102;Kiền Khôn Ngọc Bội
+51154011;Kiền Khôn U Thiên Kiếm
+51154012;Kiền Khôn U Thiên Kiếm
+51154021;Kiền Khôn Ngọc Quan
+51154022;Kiền Khôn Ngọc Quan
+51154031;Kiền Khôn Chiến Giáp
+51154032;Kiền Khôn Chiến Giáp
+51154041;Kiền Khôn Hộ Oản
+51154042;Kiền Khôn Hộ Oản
+51154051;Kiền Khôn Pháp Lý
+51154052;Kiền Khôn Pháp Lý
+51154061;Kiền Khôn Thúc Đái
+51154062;Kiền Khôn Thúc Đái
+51154071;Kiền Khôn Hạng Liên
+51154072;Kiền Khôn Hạng Liên
+51154081;Kiền Khôn Thủ Trạc
+51154082;Kiền Khôn Thủ Trạc
+51154091;Kiền Khôn Giới Chỉ
+51154092;Kiền Khôn Giới Chỉ
+51154101;Kiền Khôn Ngọc Bội
+51154102;Kiền Khôn Ngọc Bội
+51165011;Kiền Khôn U Thiên Kiếm
+51165012;Kiền Khôn U Thiên Kiếm
+51165021;Kiền Khôn Ngọc Quan
+51165022;Kiền Khôn Ngọc Quan
+51165031;Kiền Khôn Chiến Giáp
+51165032;Kiền Khôn Chiến Giáp
+51165041;Kiền Khôn Hộ Oản
+51165042;Kiền Khôn Hộ Oản
+51165051;Kiền Khôn Pháp Lý
+51165052;Kiền Khôn Pháp Lý
+51165061;Kiền Khôn Thúc Đái
+51165062;Kiền Khôn Thúc Đái
+51165071;Kiền Khôn Hạng Liên
+51165072;Kiền Khôn Hạng Liên
+51165081;Kiền Khôn Thủ Trạc
+51165082;Kiền Khôn Thủ Trạc
+51165091;Kiền Khôn Giới Chỉ
+51165092;Kiền Khôn Giới Chỉ
+51165101;Kiền Khôn Ngọc Bội
+51165102;Kiền Khôn Ngọc Bội
+51221011;Hỗn Độn Huyền Thiên Kiếm
+51221012;Hỗn Độn Huyền Thiên Kiếm
+51221021;Hỗn Độn Ngọc Quan
+51221022;Hỗn Độn Ngọc Quan
+51221031;Hỗn Độn Chiến Giáp
+51221032;Hỗn Độn Chiến Giáp
+51221041;Hỗn Độn Hộ Oản
+51221042;Hỗn Độn Hộ Oản
+51221051;Hỗn Độn Pháp Lý
+51221052;Hỗn Độn Pháp Lý
+51221061;Hỗn Độn Thúc Đái
+51221062;Hỗn Độn Thúc Đái
+51221071;Hỗn Độn Hạng Liên
+51221072;Hỗn Độn Hạng Liên
+51221081;Hỗn Độn Thủ Trạc
+51221082;Hỗn Độn Thủ Trạc
+51221091;Hỗn Độn Giới Chỉ
+51221092;Hỗn Độn Giới Chỉ
+51221101;Hỗn Độn Ngọc Bội
+51221102;Hỗn Độn Ngọc Bội
+51231011;Hỗn Độn Huyền Thiên Kiếm
+51231012;Hỗn Độn Huyền Thiên Kiếm
+51231021;Hỗn Độn Ngọc Quan
+51231022;Hỗn Độn Ngọc Quan
+51231031;Hỗn Độn Chiến Giáp
+51231032;Hỗn Độn Chiến Giáp
+51231041;Hỗn Độn Hộ Oản
+51231042;Hỗn Độn Hộ Oản
+51231051;Hỗn Độn Pháp Lý
+51231052;Hỗn Độn Pháp Lý
+51231061;Hỗn Độn Thúc Đái
+51231062;Hỗn Độn Thúc Đái
+51231071;Hỗn Độn Hạng Liên
+51231072;Hỗn Độn Hạng Liên
+51231081;Hỗn Độn Thủ Trạc
+51231082;Hỗn Độn Thủ Trạc
+51231091;Hỗn Độn Giới Chỉ
+51231092;Hỗn Độn Giới Chỉ
+51231101;Hỗn Độn Ngọc Bội
+51231102;Hỗn Độn Ngọc Bội
+51232011;Hỗn Độn Huyền Thiên Kiếm
+51232012;Hỗn Độn Huyền Thiên Kiếm
+51232021;Hỗn Độn Ngọc Quan
+51232022;Hỗn Độn Ngọc Quan
+51232031;Hỗn Độn Chiến Giáp
+51232032;Hỗn Độn Chiến Giáp
+51232041;Hỗn Độn Hộ Oản
+51232042;Hỗn Độn Hộ Oản
+51232051;Hỗn Độn Pháp Lý
+51232052;Hỗn Độn Pháp Lý
+51232061;Hỗn Độn Thúc Đái
+51232062;Hỗn Độn Thúc Đái
+51232071;Hỗn Độn Hạng Liên
+51232072;Hỗn Độn Hạng Liên
+51232081;Hỗn Độn Thủ Trạc
+51232082;Hỗn Độn Thủ Trạc
+51232091;Hỗn Độn Giới Chỉ
+51232092;Hỗn Độn Giới Chỉ
+51232101;Hỗn Độn Ngọc Bội
+51232102;Hỗn Độn Ngọc Bội
+51242011;Hỗn Độn Huyền Thiên Kiếm
+51242012;Hỗn Độn Huyền Thiên Kiếm
+51242021;Hỗn Độn Ngọc Quan
+51242022;Hỗn Độn Ngọc Quan
+51242031;Hỗn Độn Chiến Giáp
+51242032;Hỗn Độn Chiến Giáp
+51242041;Hỗn Độn Hộ Oản
+51242042;Hỗn Độn Hộ Oản
+51242051;Hỗn Độn Pháp Lý
+51242052;Hỗn Độn Pháp Lý
+51242061;Hỗn Độn Thúc Đái
+51242062;Hỗn Độn Thúc Đái
+51242071;Hỗn Độn Hạng Liên
+51242072;Hỗn Độn Hạng Liên
+51242081;Hỗn Độn Thủ Trạc
+51242082;Hỗn Độn Thủ Trạc
+51242091;Hỗn Độn Giới Chỉ
+51242092;Hỗn Độn Giới Chỉ
+51242101;Hỗn Độn Ngọc Bội
+51242102;Hỗn Độn Ngọc Bội
+51243011;Hỗn Độn Huyền Thiên Kiếm
+51243012;Hỗn Độn Huyền Thiên Kiếm
+51243021;Hỗn Độn Ngọc Quan
+51243022;Hỗn Độn Ngọc Quan
+51243031;Hỗn Độn Chiến Giáp
+51243032;Hỗn Độn Chiến Giáp
+51243041;Hỗn Độn Hộ Oản
+51243042;Hỗn Độn Hộ Oản
+51243051;Hỗn Độn Pháp Lý
+51243052;Hỗn Độn Pháp Lý
+51243061;Hỗn Độn Thúc Đái
+51243062;Hỗn Độn Thúc Đái
+51243071;Hỗn Độn Hạng Liên
+51243072;Hỗn Độn Hạng Liên
+51243081;Hỗn Độn Thủ Trạc
+51243082;Hỗn Độn Thủ Trạc
+51243091;Hỗn Độn Giới Chỉ
+51243092;Hỗn Độn Giới Chỉ
+51243101;Hỗn Độn Ngọc Bội
+51243102;Hỗn Độn Ngọc Bội
+51252011;Hỗn Độn Huyền Thiên Kiếm
+51252012;Hỗn Độn Huyền Thiên Kiếm
+51252021;Hỗn Độn Ngọc Quan
+51252022;Hỗn Độn Ngọc Quan
+51252031;Hỗn Độn Chiến Giáp
+51252032;Hỗn Độn Chiến Giáp
+51252041;Hỗn Độn Hộ Oản
+51252042;Hỗn Độn Hộ Oản
+51252051;Hỗn Độn Pháp Lý
+51252052;Hỗn Độn Pháp Lý
+51252061;Hỗn Độn Thúc Đái
+51252062;Hỗn Độn Thúc Đái
+51252071;Hỗn Độn Hạng Liên
+51252072;Hỗn Độn Hạng Liên
+51252081;Hỗn Độn Thủ Trạc
+51252082;Hỗn Độn Thủ Trạc
+51252091;Hỗn Độn Giới Chỉ
+51252092;Hỗn Độn Giới Chỉ
+51252101;Hỗn Độn Ngọc Bội
+51252102;Hỗn Độn Ngọc Bội
+51253011;Hỗn Độn Huyền Thiên Kiếm
+51253012;Hỗn Độn Huyền Thiên Kiếm
+51253021;Hỗn Độn Ngọc Quan
+51253022;Hỗn Độn Ngọc Quan
+51253031;Hỗn Độn Chiến Giáp
+51253032;Hỗn Độn Chiến Giáp
+51253041;Hỗn Độn Hộ Oản
+51253042;Hỗn Độn Hộ Oản
+51253051;Hỗn Độn Pháp Lý
+51253052;Hỗn Độn Pháp Lý
+51253061;Hỗn Độn Thúc Đái
+51253062;Hỗn Độn Thúc Đái
+51253071;Hỗn Độn Hạng Liên
+51253072;Hỗn Độn Hạng Liên
+51253081;Hỗn Độn Thủ Trạc
+51253082;Hỗn Độn Thủ Trạc
+51253091;Hỗn Độn Giới Chỉ
+51253092;Hỗn Độn Giới Chỉ
+51253101;Hỗn Độn Ngọc Bội
+51253102;Hỗn Độn Ngọc Bội
+51254011;Hỗn Độn Huyền Thiên Kiếm
+51254012;Hỗn Độn Huyền Thiên Kiếm
+51254021;Hỗn Độn Ngọc Quan
+51254022;Hỗn Độn Ngọc Quan
+51254031;Hỗn Độn Chiến Giáp
+51254032;Hỗn Độn Chiến Giáp
+51254041;Hỗn Độn Hộ Oản
+51254042;Hỗn Độn Hộ Oản
+51254051;Hỗn Độn Pháp Lý
+51254052;Hỗn Độn Pháp Lý
+51254061;Hỗn Độn Thúc Đái
+51254062;Hỗn Độn Thúc Đái
+51254071;Hỗn Độn Hạng Liên
+51254072;Hỗn Độn Hạng Liên
+51254081;Hỗn Độn Thủ Trạc
+51254082;Hỗn Độn Thủ Trạc
+51254091;Hỗn Độn Giới Chỉ
+51254092;Hỗn Độn Giới Chỉ
+51254101;Hỗn Độn Ngọc Bội
+51254102;Hỗn Độn Ngọc Bội
+51265011;Hỗn Độn Huyền Thiên Kiếm
+51265012;Hỗn Độn Huyền Thiên Kiếm
+51265021;Hỗn Độn Ngọc Quan
+51265022;Hỗn Độn Ngọc Quan
+51265031;Hỗn Độn Chiến Giáp
+51265032;Hỗn Độn Chiến Giáp
+51265041;Hỗn Độn Hộ Oản
+51265042;Hỗn Độn Hộ Oản
+51265051;Hỗn Độn Pháp Lý
+51265052;Hỗn Độn Pháp Lý
+51265061;Hỗn Độn Thúc Đái
+51265062;Hỗn Độn Thúc Đái
+51265071;Hỗn Độn Hạng Liên
+51265072;Hỗn Độn Hạng Liên
+51265081;Hỗn Độn Thủ Trạc
+51265082;Hỗn Độn Thủ Trạc
+51265091;Hỗn Độn Giới Chỉ
+51265092;Hỗn Độn Giới Chỉ
+51265101;Hỗn Độn Ngọc Bội
+51265102;Hỗn Độn Ngọc Bội
+51321011;Diệt Thế Quân Thiên Kiếm
+51321012;Diệt Thế Quân Thiên Kiếm
+51321021;Diệt Thế Ngọc Quan
+51321022;Diệt Thế Ngọc Quan
+51321031;Diệt Thế Chiến Giáp
+51321032;Diệt Thế Chiến Giáp
+51321041;Diệt Thế Hộ Oản
+51321042;Diệt Thế Hộ Oản
+51321051;Diệt Thế Pháp Lý
+51321052;Diệt Thế Pháp Lý
+51321061;Diệt Thế Thúc Đái
+51321062;Diệt Thế Thúc Đái
+51321071;Diệt Thế Hạng Liên
+51321072;Diệt Thế Hạng Liên
+51321081;Diệt Thế Thủ Trạc
+51321082;Diệt Thế Thủ Trạc
+51321091;Diệt Thế Giới Chỉ
+51321092;Diệt Thế Giới Chỉ
+51321101;Diệt Thế Ngọc Bội
+51321102;Diệt Thế Ngọc Bội
+51331011;Diệt Thế Quân Thiên Kiếm
+51331012;Diệt Thế Quân Thiên Kiếm
+51331021;Diệt Thế Ngọc Quan
+51331022;Diệt Thế Ngọc Quan
+51331031;Diệt Thế Chiến Giáp
+51331032;Diệt Thế Chiến Giáp
+51331041;Diệt Thế Hộ Oản
+51331042;Diệt Thế Hộ Oản
+51331051;Diệt Thế Pháp Lý
+51331052;Diệt Thế Pháp Lý
+51331061;Diệt Thế Thúc Đái
+51331062;Diệt Thế Thúc Đái
+51331071;Diệt Thế Hạng Liên
+51331072;Diệt Thế Hạng Liên
+51331081;Diệt Thế Thủ Trạc
+51331082;Diệt Thế Thủ Trạc
+51331091;Diệt Thế Giới Chỉ
+51331092;Diệt Thế Giới Chỉ
+51331101;Diệt Thế Ngọc Bội
+51331102;Diệt Thế Ngọc Bội
+51332011;Diệt Thế Quân Thiên Kiếm
+51332012;Diệt Thế Quân Thiên Kiếm
+51332021;Diệt Thế Ngọc Quan
+51332022;Diệt Thế Ngọc Quan
+51332031;Diệt Thế Chiến Giáp
+51332032;Diệt Thế Chiến Giáp
+51332041;Diệt Thế Hộ Oản
+51332042;Diệt Thế Hộ Oản
+51332051;Diệt Thế Pháp Lý
+51332052;Diệt Thế Pháp Lý
+51332061;Diệt Thế Thúc Đái
+51332062;Diệt Thế Thúc Đái
+51332071;Diệt Thế Hạng Liên
+51332072;Diệt Thế Hạng Liên
+51332081;Diệt Thế Thủ Trạc
+51332082;Diệt Thế Thủ Trạc
+51332091;Diệt Thế Giới Chỉ
+51332092;Diệt Thế Giới Chỉ
+51332101;Diệt Thế Ngọc Bội
+51332102;Diệt Thế Ngọc Bội
+51342011;Diệt Thế Quân Thiên Kiếm
+51342012;Diệt Thế Quân Thiên Kiếm
+51342021;Diệt Thế Ngọc Quan
+51342022;Diệt Thế Ngọc Quan
+51342031;Diệt Thế Chiến Giáp
+51342032;Diệt Thế Chiến Giáp
+51342041;Diệt Thế Hộ Oản
+51342042;Diệt Thế Hộ Oản
+51342051;Diệt Thế Pháp Lý
+51342052;Diệt Thế Pháp Lý
+51342061;Diệt Thế Thúc Đái
+51342062;Diệt Thế Thúc Đái
+51342071;Diệt Thế Hạng Liên
+51342072;Diệt Thế Hạng Liên
+51342081;Diệt Thế Thủ Trạc
+51342082;Diệt Thế Thủ Trạc
+51342091;Diệt Thế Giới Chỉ
+51342092;Diệt Thế Giới Chỉ
+51342101;Diệt Thế Ngọc Bội
+51342102;Diệt Thế Ngọc Bội
+51343011;Diệt Thế Quân Thiên Kiếm
+51343012;Diệt Thế Quân Thiên Kiếm
+51343021;Diệt Thế Ngọc Quan
+51343022;Diệt Thế Ngọc Quan
+51343031;Diệt Thế Chiến Giáp
+51343032;Diệt Thế Chiến Giáp
+51343041;Diệt Thế Hộ Oản
+51343042;Diệt Thế Hộ Oản
+51343051;Diệt Thế Pháp Lý
+51343052;Diệt Thế Pháp Lý
+51343061;Diệt Thế Thúc Đái
+51343062;Diệt Thế Thúc Đái
+51343071;Diệt Thế Hạng Liên
+51343072;Diệt Thế Hạng Liên
+51343081;Diệt Thế Thủ Trạc
+51343082;Diệt Thế Thủ Trạc
+51343091;Diệt Thế Giới Chỉ
+51343092;Diệt Thế Giới Chỉ
+51343101;Diệt Thế Ngọc Bội
+51343102;Diệt Thế Ngọc Bội
+51352011;Diệt Thế Quân Thiên Kiếm
+51352012;Diệt Thế Quân Thiên Kiếm
+51352021;Diệt Thế Ngọc Quan
+51352022;Diệt Thế Ngọc Quan
+51352031;Diệt Thế Chiến Giáp
+51352032;Diệt Thế Chiến Giáp
+51352041;Diệt Thế Hộ Oản
+51352042;Diệt Thế Hộ Oản
+51352051;Diệt Thế Pháp Lý
+51352052;Diệt Thế Pháp Lý
+51352061;Diệt Thế Thúc Đái
+51352062;Diệt Thế Thúc Đái
+51352071;Diệt Thế Hạng Liên
+51352072;Diệt Thế Hạng Liên
+51352081;Diệt Thế Thủ Trạc
+51352082;Diệt Thế Thủ Trạc
+51352091;Diệt Thế Giới Chỉ
+51352092;Diệt Thế Giới Chỉ
+51352101;Diệt Thế Ngọc Bội
+51352102;Diệt Thế Ngọc Bội
+51353011;Diệt Thế Quân Thiên Kiếm
+51353012;Diệt Thế Quân Thiên Kiếm
+51353021;Diệt Thế Ngọc Quan
+51353022;Diệt Thế Ngọc Quan
+51353031;Diệt Thế Chiến Giáp
+51353032;Diệt Thế Chiến Giáp
+51353041;Diệt Thế Hộ Oản
+51353042;Diệt Thế Hộ Oản
+51353051;Diệt Thế Pháp Lý
+51353052;Diệt Thế Pháp Lý
+51353061;Diệt Thế Thúc Đái
+51353062;Diệt Thế Thúc Đái
+51353071;Diệt Thế Hạng Liên
+51353072;Diệt Thế Hạng Liên
+51353081;Diệt Thế Thủ Trạc
+51353082;Diệt Thế Thủ Trạc
+51353091;Diệt Thế Giới Chỉ
+51353092;Diệt Thế Giới Chỉ
+51353101;Diệt Thế Ngọc Bội
+51353102;Diệt Thế Ngọc Bội
+51354011;Diệt Thế Quân Thiên Kiếm
+51354012;Diệt Thế Quân Thiên Kiếm
+51354021;Diệt Thế Ngọc Quan
+51354022;Diệt Thế Ngọc Quan
+51354031;Diệt Thế Chiến Giáp
+51354032;Diệt Thế Chiến Giáp
+51354041;Diệt Thế Hộ Oản
+51354042;Diệt Thế Hộ Oản
+51354051;Diệt Thế Pháp Lý
+51354052;Diệt Thế Pháp Lý
+51354061;Diệt Thế Thúc Đái
+51354062;Diệt Thế Thúc Đái
+51354071;Diệt Thế Hạng Liên
+51354072;Diệt Thế Hạng Liên
+51354081;Diệt Thế Thủ Trạc
+51354082;Diệt Thế Thủ Trạc
+51354091;Diệt Thế Giới Chỉ
+51354092;Diệt Thế Giới Chỉ
+51354101;Diệt Thế Ngọc Bội
+51354102;Diệt Thế Ngọc Bội
+51365011;Diệt Thế Quân Thiên Kiếm
+51365012;Diệt Thế Quân Thiên Kiếm
+51365021;Diệt Thế Ngọc Quan
+51365022;Diệt Thế Ngọc Quan
+51365031;Diệt Thế Chiến Giáp
+51365032;Diệt Thế Chiến Giáp
+51365041;Diệt Thế Hộ Oản
+51365042;Diệt Thế Hộ Oản
+51365051;Diệt Thế Pháp Lý
+51365052;Diệt Thế Pháp Lý
+51365061;Diệt Thế Thúc Đái
+51365062;Diệt Thế Thúc Đái
+51365071;Diệt Thế Hạng Liên
+51365072;Diệt Thế Hạng Liên
+51365081;Diệt Thế Thủ Trạc
+51365082;Diệt Thế Thủ Trạc
+51365091;Diệt Thế Giới Chỉ
+51365092;Diệt Thế Giới Chỉ
+51365101;Diệt Thế Ngọc Bội
+51365102;Diệt Thế Ngọc Bội
+10120001;Cường Hóa Thạch
+10130001;Linh Phẩm Cường Hóa Thạch
+10140001;Tiên Phẩm Cường Hóa Thạch
+10230001;Tẩy Luyện Thạch
+10240001;Cực Phẩm Tẩy Luyện Thạch
+10250001;Hoàn Mỹ Tẩy Luyện Thạch
+10340001;Pháp Bảo Mật Thược
+10420001;Tứ Thì Cực Thạch
+10430001;Nhật Nguyệt Tinh Hoa
+10440001;Vật Hoa Thiên Bảo
+10450001;Thái Sơ Phạm Ngọc
+10530001;Linh Sủng Bồi Dưỡng Đan
+10640001;Linh Sủng Tiến Giai Đan
+10731001;Phong Hống Trận
+10731002;Thiên Khuyết Trận
+10731003;Kim Quang Trận
+10731004;Hàn Băng Trận
+10732001;Phong Hống Trận Toái Phiến
+10732002;Thiên Khuyết Trận Toái Phiến
+10732003;Kim Quang Trận Toái Phiến
+10732004;Hàn Băng Trận Toái Phiến
+10741001;Tứ Tượng Tụ Linh Trận
+10741002;Bắc Đấu Thất Tinh Trận
+10741003;Chân Vũ Thất Tiệt Trận
+10741004;Cửu Khúc Hoàng Hà Trận
+10742001;Tứ Tượng Tụ Linh Trận Toái
+10742002;Bắc Đấu Thất Tinh Trận Toái
+10742003;Chân Vũ Thất Tiệt Trận Toái
+10742004;Cửu Khúc Hoàng Hà Trận Toái
+10750001;Hỗn Độn Thánh Tử
+10750002;Hoang Cổ Ma Viên
+10750003;Thái Hư Tổ Long
+10751001;Huyết Hải Luân Hồi Trận
+10751002;Đô Thiên Thần Sát Trận
+10751003;Chu Thiên Tinh Đấu Trận
+10751004;Lưỡng Nghi Vi Trần Trận
+10752001;Huyết Hải Luân Hồi Trận Toái
+10752002;Đô Thiên Thần Sát Trận Toái
+10752003;Chu Thiên Tinh Đấu Trận Toái
+10752004;Lưỡng Nghi Vi Trần Trận Toái
+10820001;Ngộ Tính Đan
+10830001;Tiềm Năng Đan
+10840001;Căn Cốt Đan
+10850001;Linh Thể Đan
+10930001;Tiên Khí Bồi Dưỡng Thạch
+11040001;Tiên Khí Tiến Giai Thạch
+11131001;Quy Lưu Trận
+11131002;Lạc Hồn Trận
+11131003;Tỏa Vân Trận
+11131004;Thiên Tuyệt Trận
+11132001;Quy Lưu Trận Toái Phiến
+11132002;Lạc Hồn Trận Toái Phiến
+11132003;Tỏa Vân Trận Toái Phiến
+11132004;Thiên Tuyệt Trận Toái Phiến
+11141001;Thái Cực Bát Quái Trận
+11141002;Thiên Cương Bắc Đấu Trận
+11141003;Cửu Thiên Phục Ma Trận
+11141004;Đại Luân Minh Vương Trận
+11142001;Thái Cực Bát Quái Trận Toái
+11142002;Thiên Cương Bắc Đấu Trận Toái
+11142003;Cửu Thiên Phục Ma Trận Toái
+11142004;Đại Luân Minh Vương Trận Toái
+11150001;Ngự Phong Khuyển Thần
+11150002;Dao Trì Mặc Lân
+11150003;Diệu Thế Ly Long
+11151001;Tu Di Hỗn Độn Trận
+11151002;Hỗn Nguyên Vô Cực Trận
+11151003;Vô Lượng Diễn Thiên Trận
+11151004;Lục Đạo Luân Hồi Trận
+11152001;Tu Di Hỗn Độn Trận Toái
+11152002;Hỗn Nguyên Vô Cực Trận Toái
+11152003;Vô Lượng Diễn Thiên Trận Toái
+11152004;Lục Đạo Luân Hồi Trận Toái
+11220001;Khí Linh · Duệ
+11230001;Khí Linh · Ngự
+11240001;Khí Linh · Công
+11250001;Khí Linh · Tấn
+11330001;Trảm Phong Toái Phiến
+11330002;Phần Ẩn Toái Phiến
+11330003;Thái A Toái Phiến
+11330004;Thừa Ảnh Toái Phiến
+11340001;Xích Tiêu Ngâm Toái Phiến
+11340002;Nguyệt Thần Vũ Toái Phiến
+11340003;Long Uyên Khiếu Toái Phiến
+11340004;Mặc Kinh Tà Toái Phiến
+11350001;Thập Phương Câu Diệt Toái Phiến
+11350002;Băng Phách Linh Sương Toái Phiến
+11350003;Sí Diễm Phần Tinh Toái Phiến
+11350004;Thiên Đạo Lôi Đình Toái Phiến
+11430001;Thần Binh Thăng Cấp Thạch
+11530001;Trảm Phong
+11530002;Phần Ẩn
+11530003;Thái A
+11530004;Thừa Ảnh
+11540001;Xích Tiêu Ngâm
+11540002;Nguyệt Thần Vũ
+11540003;Long Uyên Khiếu
+11540004;Mặc Kinh Tà
+11550001;Thập Phương Câu Diệt
+11550002;Băng Phách Linh Sương
+11550003;Sí Diễm Phần Tinh
+11550004;Thiên Đạo Lôi Đình
+11620001;Hình Thiên Binh Hồn
+11630001;U Thiên Binh Hồn
+11640001;Hạo Thiên Binh Hồn
+11650001;Quân Thiên Binh Hồn
+11750001;Thần Binh Bí Phổ
+11830001;Bạch Hoa Vũ Toái Phiến
+11830002;Tử Kiêu Sí Toái Phiến
+11830003;Linh Lung Điệp Vũ Toái Phiến
+11830004;Lưu Ly Huyền Dực Toái Phiến
+11840001;Tử Hoàn Phi Linh Toái Phiến
+11840002;Huyền Minh Lăng Vũ Toái Phiến
+11840003;Phần Ma Thánh Dực Toái Phiến
+11840004;Sí Viêm Phượng Linh Toái Phiến
+11850001;Thái Sơ Linh La Toái Phiến
+11850002;Vĩnh Dạ Huyễn Nghê Toái Phiến
+11850003;Phù Đồ Đọa Thiên Toái Phiến
+11850004;Niết Bàn Thiên Hoàng Toái Phiến
+11930001;Tiên Dực Thăng Cấp Thạch
+12030001;Bạch Hoa Vũ
+12030002;Tử Kiêu Sí
+12030003;Linh Lung Điệp Vũ
+12030004;Lưu Ly Huyền Dực
+12040001;Tử Hoàn Phi Linh
+12040002;Huyền Minh Lăng Vũ
+12040003;Phần Ma Thánh Dực
+12040004;Sí Viêm Phượng Linh
+12050001;Thái Sơ Linh La Vũ
+12050002;Vĩnh Dạ Huyễn Nghê Sí
+12050003;Phù Đồ Đọa Thiên Dực
+12050004;Niết Bàn Thiên Hoàng Sí
+12120001;Chu Tước Vũ Hồn
+12130001;Tất Phương Vũ Hồn
+12140001;Côn Bằng Vũ Hồn
+12150001;Hồng Loan Vũ Hồn
+12250001;Huyễn Dực Huyền Lục
+12330001;Tử Mị Huyễn Ảnh Toái Phiến
+12330002;Hoàng Kim Thánh Giáp Toái Phiến
+12330003;Lưu Quang Thiều Hoa Toái Phiến
+12330004;Thì Trang Toái Phiến 4
+12340001;Ưu Nhã Quản Gia Toái Phiến
+12340002;Nhiệt Huyết Giáo Viên Toái Phiến
+12340003;Thanh Xuân Ngẫu Tượng Toái Phiến
+12340004;Kim Chúc Diêu Cổn Toái Phiến
+12350001;Dị Vực Vũ Giả Toái Phiến
+12350002;Điềm Tâm Ngoạn Ngẫu Toái Phiến
+12350003;Anh Hoa Luyến Nhân Toái Phiến
+12350004;Ky Giới Chi Tâm Toái Phiến
+12430001;Thì Trang Thăng Cấp Thạch
+12530001;Tử Mị Huyễn Ảnh
+12530002;Hoàng Kim Thánh Giáp
+12530003;Lưu Quang Thiều Hoa
+12530004;Trân Phẩm 4 Giai Thì Trang
+12540001;Ưu Nhã Quản Gia
+12540002;Nhiệt Huyết Giáo Viên
+12540003;Thanh Xuân Ngẫu Tượng
+12540004;Kim Chúc Diêu Cổn
+12550001;Dị Vực Vũ Giả
+12550002;Điềm Tâm Ngoạn Ngẫu
+12550003;Anh Hoa Luyến Nhân
+12550004;Ky Giới Chi Tâm
+12620001;Kim Bích Y Hồn
+12630001;Ngũ Thải Y Hồn
+12640001;Huy Hoàng Y Hồn
+12650001;Nghê Thường Y Hồn
+12750001;Thiên Y Bảo Giám
+12850001;Tâm Linh Nguyên Thạch
+12850002;Không Gian Nguyên Thạch
+12850003;Thì Gian Nguyên Thạch
+12850004;Lực Lượng Nguyên Thạch
+12850005;Linh Hồn Nguyên Thạch
+12850006;Hiện Thực Nguyên Thạch
+12950001;1 Giai Thần Trang
+12950002;2 Giai Thần Trang
+12950003;3 Giai Thần Trang
+12950004;4 Giai Thần Trang
+12950005;5 Giai Thần Trang
+12950006;6 Giai Thần Trang
+12950007;7 Giai Thần Trang
+12950008;8 Giai Thần Trang
+12950009;9 Giai Thần Trang
+12950010;10 Giai Thần Trang
+13030001;Boss Tinh Phách
+13050001;Thần Hồn Ngọc
+13050002;Thiên Tôn Thánh Ấn
+13130001;Trân Phẩm Pháp Trận Toái Phiến
+13130002;Trân Phẩm Pháp Trận Toái Phiến
+13130003;Trân Phẩm Thần Binh Toái Phiến
+13130004;Trân Phẩm Tiên Dực Toái Phiến
+13130005;Trân Phẩm Thì Trang Toái Phiến
+13130006;Trân Phẩm Thiên Châu Toái Phiến
+13140001;Cực Phẩm Pháp Trận Toái Phiến
+13140002;Cực Phẩm Pháp Trận Toái Phiến
+13140003;Cực Phẩm Thần Binh Toái Phiến
+13140004;Cực Phẩm Tiên Dực Toái Phiến
+13140005;Cực Phẩm Thì Trang Toái Phiến
+13140006;Cực Phẩm Thiên Châu Toái Phiến
+13150001;Tuyệt Phẩm Pháp Trận Toái Phiến
+13150002;Tuyệt Phẩm Pháp Trận Toái Phiến
+13150003;Tuyệt Phẩm Thần Binh Toái Phiến
+13150004;Tuyệt Phẩm Tiên Dực Toái Phiến
+13150005;Tuyệt Phẩm Thì Trang Toái Phiến
+13150006;Tuyệt Phẩm Thiên Châu Toái Phiến
+13240001;Hoàng Cấp Chuyển Sinh Đan
+13250001;Thần Nguyên Thạch
+13250002;Chiêu Tài Miêu
+13250003;Chiến Lực Hộ Phù
+13250004;Vô Hạn Thủ Sáo
+13250005;Huyền Cấp Chuyển Sinh Đan
+13250006;Địa Cấp Chuyển Sinh Đan
+13250007;Thiên Cấp Chuyển Sinh Đan
+13250008;Phù Tinh
+13250009;4 Giai Đả Tạo Thạch
+13250010;5 Giai Đả Tạo Thạch
+13250011;6 Giai Đả Tạo Thạch
+13250012;7 Giai Đả Tạo Thạch
+13250013;8 Giai Đả Tạo Thạch
+13250014;9 Giai Đả Tạo Thạch
+13250015;10 Giai Đả Tạo Thạch
+13250016;11 Giai Đả Tạo Thạch
+13250017;12 Giai Đả Tạo Thạch
+13250018;13 Giai Đả Tạo Thạch
+13350001;Giới Linh Huyền Tinh
+13350002;Ngọc Linh Huyền Tinh
+13450001;Giới Hồn Tinh Thạch
+13450002;Ngọc Hồn Tinh Thạch
+13540001;Trang Bị Mật Thược
+13540002;Phù Văn Mật Thược
+13550001;Điên Phong Mật Thược
+13550002;Chí Tôn Mật Thược
+13640001;Trân Bảo Thược Thi
+13640002;Thể Lực Đan
+13720002;Tùy Ky Lam Sắc Phù Văn
+13720003;Tùy Ky Đạo Cụ
+13730001;Cực Phẩm Trang Bị
+13730002;Tùy Ky Tử Sắc Phù Văn
+13730003;Tùy Ky Đạo Cụ
+13730005;Cực Phẩm Trang Bị
+13730006;Cực Phẩm Trang Bị
+13730007;Cực Phẩm Trang Bị
+13730008;Cực Phẩm Trang Bị
+13730009;Cực Phẩm Trang Bị
+13730010;Cực Phẩm Trang Bị
+13730011;Cực Phẩm Trang Bị
+13730012;Cực Phẩm Trang Bị
+13730013;Cực Phẩm Trang Bị
+13730014;Cực Phẩm Trang Bị
+13730015;Cực Phẩm Trang Bị
+13730016;Cực Phẩm Trang Bị
+13730017;Cực Phẩm Trang Bị
+13730018;Cực Phẩm Trang Bị
+13730019;Cực Phẩm Trang Bị
+13730020;Cực Phẩm Trang Bị
+13730021;Cực Phẩm Trang Bị
+13730022;Cực Phẩm Trang Bị
+13730023;Cực Phẩm Trang Bị
+13730024;Cực Phẩm Trang Bị
+13730025;Cực Phẩm Trang Bị
+13730026;Cực Phẩm Trang Bị
+13730027;Cực Phẩm Trang Bị
+13730028;Cực Phẩm Trang Bị
+13730029;Cực Phẩm Trang Bị
+13730030;Cực Phẩm Trang Bị
+13740001;Cực Phẩm Trang Bị
+13740002;Tùy Ky Chanh Sắc Phù Văn
+13740003;Tùy Ky Đạo Cụ
+13740004;Tùy Ky Đạo Cụ
+13740005;Cực Phẩm Trang Bị
+13740006;Cực Phẩm Trang Bị
+13740007;Cực Phẩm Trang Bị
+13740008;Cực Phẩm Trang Bị
+13740009;Cực Phẩm Trang Bị
+13740010;Cực Phẩm Trang Bị
+13740011;Cực Phẩm Trang Bị
+13740012;Cực Phẩm Trang Bị
+13740013;Cực Phẩm Trang Bị
+13740014;Cực Phẩm Trang Bị
+13740015;Cực Phẩm Trang Bị
+13740016;Cực Phẩm Trang Bị
+13740017;Cực Phẩm Trang Bị
+13740018;Cực Phẩm Trang Bị
+13740019;Cực Phẩm Trang Bị
+13740020;Cực Phẩm Trang Bị
+13740021;Cực Phẩm Trang Bị
+13740022;Cực Phẩm Trang Bị
+13740023;Cực Phẩm Trang Bị
+13740024;Cực Phẩm Trang Bị
+13740025;Cực Phẩm Trang Bị
+13740026;Cực Phẩm Trang Bị
+13740027;Cực Phẩm Trang Bị
+13740028;Cực Phẩm Trang Bị
+13740029;Cực Phẩm Trang Bị
+13740030;Cực Phẩm Trang Bị
+13740031;Công Kích Đan
+13740032;Sinh Mệnh Đan
+13740033;Phòng Ngự Đan
+13740034;Phá Phòng Đan
+13740035;Mệnh Trung Đan
+13740036;Thiểm Tị Đan
+13740037;Bạo Kích Đan
+13740038;Nhận Tính Đan
+13750001;Cực Phẩm Trang Bị
+13750003;Tùy Ky Đạo Cụ
+13840001;Phúc Doanh Môn
+13840002;Bát Bảo Quỹ
+13840003;Trường Tuế Đăng
+13840004;Như Ý Bình
+13840005;Nạp Tài Bình
+13840006;Tinh La Kỳ
+13840007;Cẩm Tú Hoa
+13840008;Sơn Hà Đồ
+13840009;Phú Quý Bích
+13840010;Phong Thủy Sơn
+13840011;Chuyển Vận Đình
+13840012;Trấn Trạch Sư
+13930001;Hộ Thân Phù
+13930002;Đan Dược Tàn Tra
+13940001;La Bàn
+13950001;La Bàn
+14030001;Tiên Minh Mật Quyển
+14030002;Tru Tiên Lệnh
+14130001;Tị Trần Châu Toái Phiến
+14130002;Định Phong Châu Toái Phiến
+14130003;Thương Hải Châu Toái Phiến
+14130004;Huyễn Nguyệt Châu Toái Phiến
+14140001;Thương Khung Linh Châu Toái Phiến
+14140002;U Minh Linh Châu Toái Phiến
+14140003;Thất Khiếu Linh Châu Toái Phiến
+14140004;Xích Diệu Linh Châu Toái Phiến
+14150001;Sí Phượng Thần Châu Toái Phiến
+14150002;Luân Chuyển Thần Châu Toái Phiến
+14150003;Hư Di Thần Châu Toái Phiến
+14150004;Hi Hòa Thần Châu Toái Phiến
+14230001;Thiên Châu Thăng Cấp Thạch
+14330001;Tị Trần Châu
+14330002;Định Phong Châu
+14330003;Thương Hải Châu
+14330004;Huyễn Nguyệt Châu
+14340001;Thương Khung Linh Châu
+14340002;U Minh Linh Châu
+14340003;Thất Khiếu Linh Châu
+14340004;Xích Diệu Linh Châu
+14350001;Sí Phượng Thần Châu
+14350002;Luân Chuyển Thần Châu
+14350003;Hư Di Thần Châu
+14350004;Hi Hòa Thần Châu
+14420001;Hổ Phách Châu Hồn
+14430001;Lưu Ly Châu Hồn
+14440001;Linh Lung Châu Hồn
+14450001;Thiên Mệnh Châu Hồn
+14550001;Thiên Châu Đồ Giám
+14630001;Chú Hồn Thạch
+14640001;Cực Phẩm Chú Hồn Thạch
+14650001;Tuyệt Phẩm Chú Hồn Thạch
+14730001;Thương Lang Chi Hồn
+14730002;Cuồng Tê Chi Hồn
+14740001;Thao Thiết Chi Hồn
+14740002;Phách Hạ Chi Hồn
+14750001;Bạch Hổ Chi Hồn
+14750002;Huyền Vũ Chi Hồn
+14850001;Svip3 Chuyên Chúc Xưng Hào
+14850002;Svip6 Chuyên Chúc Xưng Hào
+14850003;Svip9 Chuyên Chúc Xưng Hào
+14850004;Svip12 Chuyên Chúc Xưng
+14850005;Svip15 Chuyên Chúc Xưng
+14940001;Cải Danh Tạp
+20130001;Nguyên Bảo Bảo Tương
+20140001;Nguyên Bảo Bảo Tương
+20140002;Nguyên Bảo Bảo Tương
+20140003;Nguyên Bảo Bảo Tương
+20140004;Nguyên Bảo Bảo Tương
+20140005;Nguyên Bảo Bảo Tương
+20230001;Bảng Nguyên Bảo Tương
+20320001;2 Vạn Kim Tệ Bảo Tương
+20330001;25 Vạn Kim Tệ Bảo Tương
+20330002;50 Vạn Kim Tệ Bảo Tương
+20340001;Kim Tệ Bảo Tương
+20340002;Kim Tệ Bảo Tương
+20340003;Kim Tệ Bảo Tương
+20340004;Kim Tệ Bảo Tương
+20340005;Kim Tệ Bảo Tương
+20430001;Kinh Nghiệm Đan
+20440001;Trung Cấp Kinh Nghiệm Đan
+20450001;Cao Cấp Kinh Nghiệm Đan
+20520001;1 Vạn Chân Khí Bảo Tương
+20530001;10 Vạn Chân Khí Bảo Tương
+20530002;20 Vạn Chân Khí Bảo Tương
+20540001;Chân Khí Bảo Tương
+20540002;Chân Khí Bảo Tương
+20540003;Chân Khí Bảo Tương
+20540004;Chân Khí Bảo Tương
+20540005;Chân Khí Bảo Tương
+20630001;Sơ Cấp Vip Kinh Nghiệm Tạp
+20640001;Trung Cấp Vip Kinh Nghiệm Tạp
+20650001;Cao Cấp Vip Kinh Nghiệm Tạp
+20730003;Đan Nhân Boss Khoán
+20730004;Đa Nhân Boss Khoán
+20730005;Kim Tệ Phó Bản Khoán
+20730006;Chân Khí Phó Bản Khoán
+20730007;Tiên Khí Phó Bản Khoán
+20730008;Linh Sủng Phó Bản Khoán
+20730009;Tổ Đội Phó Bản Khoán
+20730010;Tam Giới Phó Bản Khoán
+20830001;Vận Lực Bảo Tương
+20840001;Vận Lực Bảo Tương
+20850001;Vận Lực Bảo Tương
+20930001;Dược Tra
+20930002;Linh Khí Bảo Tương
+20940001;Linh Khí Bảo Tương
+20940002;Linh Khí Bảo Tương
+21030001;Phú Quý Bảo Tương
+21030002;Phú Quý Bảo Tương
+21040001;Phú Quý Bảo Tương
+21040002;Phú Quý Bảo Tương
+21130001;Phong Thủy Bảo Tương
+21130002;Phong Thủy Bảo Tương
+21140001;Phong Thủy Bảo Tương
+21140002;Phong Thủy Bảo Tương
+21220001;5 Phân Chung Gia Tốc Tạp
+21230001;30 Phân Chung Gia Tốc Tạp
+21240001;2 Tiểu Thì Gia Tốc Tạp
+21250001;8 Tiểu Thì Gia Tốc Tạp
+21340003;3 Giai Linh Sủng Trực Thăng Đan
+21340004;4 Giai Linh Sủng Trực Thăng Đan
+21340005;5 Giai Linh Sủng Trực Thăng Đan
+21340006;6 Giai Linh Sủng Trực Thăng Đan
+21440003;3 Giai Tiên Khí Trực Thăng Thạch
+21440004;4 Giai Tiên Khí Trực Thăng Thạch
+21440005;5 Giai Tiên Khí Trực Thăng Thạch
+21440006;6 Giai Tiên Khí Trực Thăng Thạch
+30120002;Hậu Thiên Pháp Bảo Hạp
+30130001;Trác Việt Pháp Bảo Hạp
+30130002;Tiên Thiên Pháp Bảo Hạp
+30140001;Cực Hạn Pháp Bảo Hạp
+30140002;Hỗn Độn Pháp Bảo Hạp
+30150001;Truyện Thuyết Pháp Bảo Hạp
+30150002;Hồng Mông Pháp Bảo Hạp
+30220001;2-4 Cấp Tiên Thạch Tương
+30230001;3-5 Cấp Tiên Thạch Tương
+30230002;4-6 Cấp Tiên Thạch Tương
+30240001;5-7 Cấp Tiên Thạch Tương
+30240002;6-8 Cấp Tiên Thạch Tương
+30240003;7-9 Cấp Tiên Thạch Tương
+30350001;Đa Nhân Boss Bảo Tương
+30350002;Đa Nhân Boss Bảo Tương
+30350003;Đa Nhân Boss Bảo Tương
+30350004;Đa Nhân Boss Bảo Tương
+30350005;Đa Nhân Boss Bảo Tương
+30350006;Đa Nhân Boss Bảo Tương
+30350007;Đa Nhân Boss Bảo Tương
+30350008;Đa Nhân Boss Bảo Tương
+30450001;Tối Hậu Nhất Kích Bảo Tương
+30450002;Tối Hậu Nhất Kích Bảo Tương
+30450003;Tối Hậu Nhất Kích Bảo Tương
+30450004;Tối Hậu Nhất Kích Bảo Tương
+30450005;Tối Hậu Nhất Kích Bảo Tương
+30450006;Tối Hậu Nhất Kích Bảo Tương
+30450007;Tối Hậu Nhất Kích Bảo Tương
+30450008;Tối Hậu Nhất Kích Bảo Tương
+30550001;Ngộ Đạo Chân Nhân Lễ Bao
+30550002;Tiêu Diêu Tán Tiên Lễ Bao
+30550003;Không Minh Địa Tiên Lễ Bao
+30550004;Vũ Hóa Thiên Tiên Lễ Bao
+30550005;Cửu Thiên Huyền Tiên Lễ Bao
+30550006;La Thiên Thượng Tiên Lễ Bao
+30550007;Đại La Kim Tiên Lễ Bao
+30550008;Bất Hủ Tiên Quân Lễ Bao
+30550009;Vô Thượng Tiên Vương Lễ Bao
+30550010;Hỗn Độn Tiên Tôn Lễ Bao
+30550011;Tạo Hóa Tiên Đế Lễ Bao
+30650001;0-3 Chuyển Kim Tương
+30650002;0-3 Chuyển Ngân Tương
+30650003;0-3 Chuyển Đồng Tương
+30650004;4-5 Chuyển Kim Tương
+30650005;4-5 Chuyển Ngân Tương
+30650006;4-5 Chuyển Đồng Tương
+30650007;6-7 Chuyển Kim Tương
+30650008;6-7 Chuyển Ngân Tương
+30650009;6-7 Chuyển Đồng Tương
+30650010;1 Chuyển Kim Tương
+30650011;1 Chuyển Ngân Tương
+30650012;1 Chuyển Đồng Tương
+30650013;2 Chuyển Kim Tương
+30650014;2 Chuyển Ngân Tương
+30650015;2 Chuyển Đồng Tương
+30650016;3 Chuyển Kim Tương
+30650017;3 Chuyển Ngân Tương
+30650018;3 Chuyển Đồng Tương
+30650019;4 Chuyển Kim Tương
+30650020;4 Chuyển Ngân Tương
+30650021;4 Chuyển Đồng Tương
+30650022;5 Chuyển Kim Tương
+30650023;5 Chuyển Ngân Tương
+30650024;5 Chuyển Đồng Tương
+30650025;6 Chuyển Kim Tương
+30650026;6 Chuyển Ngân Tương
+30650027;6 Chuyển Đồng Tương
+30650028;7 Chuyển Kim Tương
+30650029;7 Chuyển Ngân Tương
+30650030;7 Chuyển Đồng Tương
+30750001;Tối Hậu Nhất Kích Bảo Tương
+30750002;Tối Hậu Nhất Kích Bảo Tương
+30750003;Tối Hậu Nhất Kích Bảo Tương
+30750004;Tối Hậu Nhất Kích Bảo Tương
+30750005;Tối Hậu Nhất Kích Bảo Tương
+30750006;Tối Hậu Nhất Kích Bảo Tương
+30750007;Tối Hậu Nhất Kích Bảo Tương
+30750008;Tối Hậu Nhất Kích Bảo Tương
+30750009;Tối Hậu Nhất Kích Bảo Tương
+30750010;Tối Hậu Nhất Kích Bảo Tương
+30850001;Tam Giới Hoạt Dược Bảo Tương
+30850002;Tam Giới Hoạt Dược Bảo Tương
+30850003;Tam Giới Hoạt Dược Bảo Tương
+30850004;Tam Giới Hoạt Dược Bảo Tương
+30850005;Tam Giới Hoạt Dược Bảo Tương
+30850006;Tam Giới Hoạt Dược Bảo Tương
+30850007;Tam Giới Hoạt Dược Bảo Tương
+30850008;Tam Giới Hoạt Dược Bảo Tương
+30850009;Tam Giới Hoạt Dược Bảo Tương
+30850010;Tam Giới Hoạt Dược Bảo Tương
+30910001;1 Cấp Tiên Thạch Tương
+30910002;2 Cấp Tiên Thạch Tương
+30920003;3 Cấp Tiên Thạch Tương
+30920004;4 Cấp Tiên Thạch Tương
+30930005;5 Cấp Tiên Thạch Tương
+30930006;6 Cấp Tiên Thạch Tương
+30940007;7 Cấp Tiên Thạch Tương
+30940008;8 Cấp Tiên Thạch Tương
+30940009;9 Cấp Tiên Thạch Tương
+30950010;10 Cấp Tiên Thạch Tương
+30950011;11 Cấp Tiên Thạch Tương
+30950012;12 Cấp Tiên Thạch Tương
+30950013;13 Cấp Tiên Thạch Tương
+30950014;14 Cấp Tiên Thạch Tương
+30950015;15 Cấp Tiên Thạch Tương
+30950016;16 Cấp Tiên Thạch Tương
+30950017;17 Cấp Tiên Thạch Tương
+30950018;18 Cấp Tiên Thạch Tương
+30950019;19 Cấp Tiên Thạch Tương
+30950020;20 Cấp Tiên Thạch Tương
+31030001;Trân Phẩm Linh Sủng Pháp Trận
+31030002;Trân Phẩm Tiên Khí Pháp Trận
+31030003;Trân Phẩm Thần Binh Bảo Tương
+31030004;Trân Phẩm Tiên Dực Bảo Tương
+31030005;Trân Phẩm Thì Trang Bảo Tương
+31030006;Trân Phẩm Thiên Châu Bảo Tương
+31030007;Ngoại Hiển Lễ Hạp
+31040001;Tổ Đội Bảo Tương
+31040002;Hàng Yêu Phúc Đại
+31040003;Phúc Trị Bảo Tương
+31040004;Pháp Trận Toái Phiến Phúc Đại
+31040005;Pháp Trận Toái Phiến Phúc Đại
+31040006;Thần Binh Toái Phiến Phúc Đại
+31040007;Tiên Dực Toái Phiến Phúc Đại
+31040008;Thì Trang Toái Phiến Phúc Đại
+31040009;Thiên Châu Toái Phiến Phúc Đại
+31040010;Tam Thiên Phúc Đại
+31040011;Cực Phẩm Linh Sủng Pháp Trận
+31040012;Cực Phẩm Tiên Khí Pháp Trận
+31040013;Cực Phẩm Thần Binh Bảo Tương
+31040014;Cực Phẩm Tiên Dực Bảo Tương
+31040015;Cực Phẩm Thì Trang Bảo Tương
+31040016;Cực Phẩm Thiên Châu Bảo Tương
+31040017;Cát Vận Lễ Bao
+31040018;Kinh Hỉ Lễ Bao
+31040019;Cực Phẩm Pháp Trận Lễ Hạp
+31040020;Cực Phẩm Ngoại Hiển Lễ Bao
+31040021;Cực Phẩm Ngoại Hiển Phúc Đại
+31050001;Thiên Vận Phúc Đại
+31050002;Pháp Trận Phúc Đại
+31050003;Pháp Trận Phúc Đại
+31050004;Thần Binh Phúc Đại
+31050005;Tiên Dực Phúc Đại
+31050006;Thì Trang Phúc Đại
+31050007;Thiên Châu Phúc Đại
+31050008;Xa Hoa Bảo Tương
+31050011;Tuyệt Phẩm Linh Sủng Pháp Trận
+31050012;Tuyệt Phẩm Tiên Khí Pháp Trận
+31050013;Tuyệt Phẩm Thần Binh Bảo Tương
+31050014;Tuyệt Phẩm Tiên Dực Bảo Tương
+31050015;Tuyệt Phẩm Thì Trang Bảo Tương
+31050016;Tuyệt Phẩm Thiên Châu Bảo Tương
+31050019;Tôn Quý Pháp Trận Lễ Hạp
+31050020;Tôn Quý Ngoại Hiển Lễ Bao
+31050021;Tôn Quý Ngoại Hiển Phúc Đại
+31120001;Phù Văn Tinh Hoa Bảo Tương
+31120002;Tùy Ky Phù Văn Bảo Tương
+31130001;Phù Văn Tinh Hoa Bảo Tương
+31130002;Tùy Ky Phù Văn Bảo Tương
+31140001;Phù Văn Tinh Hoa Bảo Tương
+31140002;Tùy Ky Phù Văn Bảo Tương
+31150001;Phù Văn Tinh Hoa Bảo Tương
+31150002;Tùy Ky Phù Văn Bảo Tương
+31220001;Cửu Thiên Chi Điên Lễ Bao
+31220002;Cửu Thiên Chi Điên Lễ Bao
+31220003;Cửu Thiên Chi Điên Lễ Bao
+31230001;Cửu Thiên Chi Điên Lễ Bao
+31230002;Cửu Thiên Chi Điên Lễ Bao
+31230003;Cửu Thiên Chi Điên Lễ Bao
+31240001;Cửu Thiên Chi Điên Lễ Bao
+31240002;Cửu Thiên Chi Điên Lễ Bao
+31240003;Cửu Thiên Chi Điên Lễ Bao
+31240004;Cửu Thiên Chi Điên Lễ Bao
+31250001;Cửu Thiên Chi Điên Lễ Bao
+31250002;Cửu Thiên Chi Điên Lễ Bao
+31250003;Cửu Thiên Chi Điên Lễ Bao
+31320001;Tiên Phủ Hoạt Dược Lễ Bao
+31330001;Tiên Phủ Hoạt Dược Lễ Bao
+31330002;Tiên Phủ Hoạt Dược Lễ Bao
+31340001;Tiên Phủ Hoạt Dược Lễ Bao
+31450001;Bí Cảnh Kích Sát Lễ Bao
+31450002;Bí Cảnh Kích Sát Lễ Bao
+31450003;Bí Cảnh Kích Sát Lễ Bao
+31450004;Bí Cảnh Kích Sát Lễ Bao
+31450005;Bí Cảnh Kích Sát Lễ Bao
+31450006;Bí Cảnh Kích Sát Lễ Bao
+31450007;Bí Cảnh Kích Sát Lễ Bao
+31540001;Pháp Bảo Đại Lễ Bao
+31540002;Linh Sủng Đại Lễ Bao
+31540003;Tiên Khí Đại Lễ Bao
+31540004;Thần Binh Đại Lễ Bao
+31540005;Tiên Dực Đại Lễ Bao
+31540006;Toái Phiến Phúc Đại
+31540009;Thì Trang Đại Lễ Bao
+31540010;Thiên Châu Đại Lễ Bao
+31640001;Đan Nhân Boss Tư Nguyên
+31640002;Đan Nhân Boss Tư Nguyên
+31640003;Đan Nhân Boss Tư Nguyên
+31640004;Đan Nhân Boss Tư Nguyên
+31640005;Đan Nhân Boss Tư Nguyên
+31640006;Đan Nhân Boss Tư Nguyên
+31640007;Đan Nhân Boss Tư Nguyên
+31640008;Đan Nhân Boss Tư Nguyên
+31640009;Đa Nhân Boss Tư Nguyên
+31640010;Đa Nhân Boss Tư Nguyên
+31640011;Đa Nhân Boss Tư Nguyên
+31640012;Đa Nhân Boss Tư Nguyên
+31640013;Đa Nhân Boss Tư Nguyên
+31640014;Đa Nhân Boss Tư Nguyên
+31640015;Đa Nhân Boss Tư Nguyên
+31640016;Đa Nhân Boss Tư Nguyên
+31640017;Thiên Hàng Tài Bảo Tư Nguyên
+31640018;Thiên Hàng Tài Bảo Tư Nguyên
+31640019;Thiên Hàng Tài Bảo Tư Nguyên
+31640020;Thiên Hàng Tài Bảo Tư Nguyên
+31640021;Thiên Hàng Tài Bảo Tư Nguyên
+31640022;Thiên Hàng Tài Bảo Tư Nguyên
+31640023;Thiên Hàng Tài Bảo Tư Nguyên
+31640024;Thiên Hàng Tài Bảo Tư Nguyên
+31640025;Côn Lôn Dao Trì Tư Nguyên
+31640026;Côn Lôn Dao Trì Tư Nguyên
+31640027;Côn Lôn Dao Trì Tư Nguyên
+31640028;Côn Lôn Dao Trì Tư Nguyên
+31640029;Côn Lôn Dao Trì Tư Nguyên
+31640030;Côn Lôn Dao Trì Tư Nguyên
+31640031;Côn Lôn Dao Trì Tư Nguyên
+31640032;Côn Lôn Dao Trì Tư Nguyên
+31640033;Vân Mộng Bí Cảnh Tư Nguyên
+31640034;Vân Mộng Bí Cảnh Tư Nguyên
+31640035;Vân Mộng Bí Cảnh Tư Nguyên
+31640036;Vân Mộng Bí Cảnh Tư Nguyên
+31640037;Vân Mộng Bí Cảnh Tư Nguyên
+31640038;Vân Mộng Bí Cảnh Tư Nguyên
+31640039;Vân Mộng Bí Cảnh Tư Nguyên
+31640040;Vân Mộng Bí Cảnh Tư Nguyên
+31750001;Thánh Điện 1 Tằng Quy Chúc
+31750002;Thánh Điện 2 Tằng Quy Chúc
+31750003;Thánh Điện 3 Tằng Quy Chúc
+31750004;Thánh Điện 4 Tằng Quy Chúc
+31750005;Thánh Điện 5 Tằng Quy Chúc
+31750006;Thánh Điện 6 Tằng Quy Chúc
+31750007;Thánh Điện 7 Tằng Quy Chúc
+31750008;Thánh Điện 1 Tằng Hạnh Vận
+31750009;Thánh Điện 2 Tằng Hạnh Vận
+31750010;Thánh Điện 3 Tằng Hạnh Vận
+31750011;Thánh Điện 4 Tằng Hạnh Vận
+31750012;Thánh Điện 5 Tằng Hạnh Vận
+31750013;Thánh Điện 6 Tằng Hạnh Vận
+31750014;Thánh Điện 7 Tằng Hạnh Vận
+31750015;Thánh Điện 1 Tằng Tham Dữ
+31750016;Thánh Điện 2 Tằng Tham Dữ
+31750017;Thánh Điện 3 Tằng Tham Dữ
+31750018;Thánh Điện 4 Tằng Tham Dữ
+31750019;Thánh Điện 5 Tằng Tham Dữ
+31750020;Thánh Điện 6 Tằng Tham Dữ
+31750021;Thánh Điện 7 Tằng Tham Dữ
+39920010;Lam Phẩm Đồ Giám Nhâm Tuyển
+39930001;Tử Phẩm Phù Văn Nhâm Tuyển
+39930002;Tử Phẩm Phù Văn Nhâm Tuyển
+39930010;Tử Phẩm Đồ Giám Nhâm Tuyển
+39940001;Chanh Phẩm Phù Văn Nhâm Tuyển
+39940002;Chanh Phẩm Phù Văn Nhâm Tuyển
+39940010;Chanh Phẩm Đồ Giám Nhâm Tuyển
+39940011;Tường Sức Phong Thủy Nhâm Tuyển
+39940012;Thụy Cảnh Phong Thủy Nhâm Tuyển
+39940013;Cát Vật Phong Thủy Nhâm Tuyển
+39940023;4 Giai Chanh 2 Tinh Trang Bị
+39940024;5 Giai Chanh 2 Tinh Trang Bị
+39940025;6 Giai Chanh 2 Tinh Trang Bị
+39940026;7 Giai Chanh 2 Tinh Trang Bị
+39940027;8 Giai Chanh 2 Tinh Trang Bị
+39940028;9 Giai Chanh 2 Tinh Trang Bị
+39940029;10 Giai Chanh 2 Tinh Trang Bị
+39940030;11 Giai Chanh 2 Tinh Trang Bị
+39940031;12 Giai Chanh 2 Tinh Trang Bị
+39940032;13 Giai Chanh 2 Tinh Trang Bị
+39950001;Hồng Phẩm Phù Văn Nhâm Tuyển
+39950002;Hồng Phẩm Phù Văn Nhâm Tuyển
+39950010;Hồng Phẩm Đồ Giám Nhâm Tuyển
+39950023;4 Giai Hồng 2 Tinh Trang Bị
+39950024;5 Giai Hồng 2 Tinh Trang Bị
+39950025;6 Giai Hồng 2 Tinh Trang Bị
+39950026;7 Giai Hồng 2 Tinh Trang Bị
+39950027;8 Giai Hồng 2 Tinh Trang Bị
+39950028;9 Giai Hồng 2 Tinh Trang Bị
+39950029;10 Giai Hồng 2 Tinh Trang Bị
+39950030;11 Giai Hồng 2 Tinh Trang Bị
+39950031;12 Giai Hồng 2 Tinh Trang Bị
+39950032;13 Giai Hồng 2 Tinh Trang Bị
+39950040;1 Giai Boss Vũ Khí Tương
+39950041;1 Giai Boss Mạo Tử Tương
+39950042;1 Giai Boss Y Phục Tương
+39950043;1 Giai Boss Hộ Thủ Tương
+39950044;1 Giai Boss Hài Tử Tương
+39950045;1 Giai Boss Yêu Đái Tương
+39950046;1 Giai Boss Hạng Liên Tương
+39950047;1 Giai Boss Thủ Trạc Tương
+39950048;2 Giai Boss Vũ Khí Tương
+39950049;2 Giai Boss Mạo Tử Tương
+39950050;2 Giai Boss Y Phục Tương
+39950051;2 Giai Boss Hộ Thủ Tương
+39950052;2 Giai Boss Hài Tử Tương
+39950053;2 Giai Boss Yêu Đái Tương
+39950054;2 Giai Boss Hạng Liên Tương
+39950055;2 Giai Boss Thủ Trạc Tương
+39950056;3 Giai Boss Vũ Khí Tương
+39950057;3 Giai Boss Mạo Tử Tương
+39950058;3 Giai Boss Y Phục Tương
+39950059;3 Giai Boss Hộ Thủ Tương
+39950060;3 Giai Boss Hài Tử Tương
+39950061;3 Giai Boss Yêu Đái Tương
+39950062;3 Giai Boss Hạng Liên Tương
+39950063;3 Giai Boss Thủ Trạc Tương
+39950110;10 Cấp Tiên Thạch Nhâm Tuyển
+39950111;11 Cấp Tiên Thạch Nhâm Tuyển
+39950112;12 Cấp Tiên Thạch Nhâm Tuyển
+39950113;13 Cấp Tiên Thạch Nhâm Tuyển
+39950114;14 Cấp Tiên Thạch Nhâm Tuyển
+39950115;15 Cấp Tiên Thạch Nhâm Tuyển
+60120001;Hỗn Nguyên Tán
+60120002;Tốn Phong Đại
+60120003;Bát Quái Vân Quang Mạt
+60120004;Khổn Tiên Tác
+60120005;Chiếu Yêu Kính
+60120006;Hàng Ma Xử
+60120007;Kim Liên Bảo Tọa
+60120008;Diệt Độ Kim Hoàn
+60120009;Ngũ Vân Tỏa Tiên Bình
+60120010;Thiên Thiền Linh Diệp
+60120011;Trấn Yêu Tháp
+60120012;Tử Thụ Tiên Y
+60120013;Vạn Quỷ Phiên
+60120014;Tụ Yêu Linh
+60120015;Kiền Thiên Hỏa Linh Châu
+60120016;Nam Minh Ly Hỏa Kiếm
+60230001;Phiên Thiên Ấn
+60230002;Âm Dương Kính
+60230003;Hỗn Nguyên Chuy
+60230004;Ngũ Hỏa Thất Cầm Phiến
+60230005;Thanh Tịnh Lưu Ly Bình
+60230006;Tử Kim Linh
+60230007;Kiền Khôn Quyển
+60230008;Cửu Long Thần Hỏa Tráo
+60230009;Định Hải Thần Châu
+60230010;Lạc Hồn Chung
+60230011;Đại Vũ Đỉnh
+60230012;Hóa Huyết Thần Đao
+60340001;Nhật Nguyệt Thần Luân
+60340002;Sơn Hà Xã Tắc Đồ
+60340003;Thất Bảo Diệu Thụ
+60340004;Kiền Khôn Đỉnh
+60340005;Lục Hồn Phiên
+60340006;Tam Bảo Ngọc Như Ý
+60340007;Tử Kim Hồ Lô
+60340008;Thanh Bình Kiếm
+60340009;Tiên Thiên Ngũ Hành Kỳ
+60340010;Hạo Thiên Tháp
+60340011;Thí Thần Thương
+60340012;Kim Cương Trạc
+60450001;Bàn Cổ Phiên
+60450002;Thái Cực Đồ
+60450003;Đông Hoàng Chung
+60450004;Linh Lung Bảo Tháp
+60450005;Luyện Yêu Hồ
+60450006;Hỗn Độn Châu
+60450007;Khai Thiên Phủ
+60450008;Nữ Oa Thạch
+60450009;Hiên Viên Kiếm
+60450010;Tạo Hóa Ngọc Điệp
+90140001;Nguyên Bảo
+90240001;Bảng Định Nguyên Bảo
+90330001;Kim Tệ
+90430001;Kinh Nghiệm
+90530001;Chân Khí
+90640001;Vạn Kiếm Tru Tiên
+90640002;Kiếm Đãng Bát Hoang
+90640003;Thái Cực Động Huyền
+90640004;Thần Ấn Tù Thiên
+90640005;Pháp Trấn Kiền Khôn
+90640006;Lôi Động Cửu Thiên
+90640007;Thiên Huyễn Huyền Kiếm
+90640008;Thiên Ma Lâm Thế
+90640009;Kim Cương Nộ Mục
+90640010;Thiên Cương Hộ Hữu
+90640011;Địa Sát Đoạt Hồn
+90640012;Phá Thiên Liệt Giáp
+90640013;Chân Nguyên Cố Bản
+90640014;Ma Kha Vô Lượng
+90640015;Bát Quái Mê Tâm
+90640016;Bất Động Minh Vương
+90640017;Thất Tinh Cấm Thần
+90640018;Nữ Oa Chi Đạo
+90640019;Phục Hi Chi Đạo
+90640020;Chúc Dung Chi Đạo
+90640021;Cộng Công Chi Đạo
+90640022;Bàn Cổ Chi Đạo
+90640023;Huyền Linh Bí Ấn
+90640024;Cực Dương Lôi Động
+90640025;Thiên Nguyên Tinh Bạo
+90640026;Đại Đạo Vô Thuật
+90640027;Toái Hồn Luyện Huyết
+90640028;Thiên Địa Vô Cực
+90640029;Trụy Tinh Bôn Tập
+90730001;Dong Luyện Kinh Nghiệm
+90840001;Trang Bị Tích Phân
+90940001;Điên Phong Tích Phân
+91040001;Chí Tôn Tích Phân
+91140001;Phù Văn Tích Phân
+91240001;Pháp Bảo Tích Phân
+91330001;Trảm Phong
+91330002;Phần Ẩn
+91330003;Thái A
+91330004;Thừa Ảnh
+91340001;Xích Tiêu Ngâm
+91340002;Nguyệt Thần Vũ
+91340003;Long Uyên Khiếu
+91340004;Mặc Kinh Tà
+91350001;Thập Phương Câu Diệt
+91350002;Băng Phách Linh Sương
+91350003;Sí Diễm Phần Tinh
+91350004;Thiên Đạo Lôi Đình
+91430001;Bạch Hoa Vũ
+91430002;Tử Kiêu Sí
+91430003;Linh Lung Điệp Vũ
+91430004;Lưu Ly Huyền Dực
+91440001;Tử Hoàn Phi Linh
+91440002;Huyền Minh Lăng Vũ
+91440003;Phần Ma Thánh Dực
+91440004;Sí Viêm Phượng Linh
+91450001;Thái Sơ Linh La Vũ
+91450002;Vĩnh Dạ Huyễn Nghê Sí
+91450003;Phù Đồ Đọa Thiên Dực
+91450004;Niết Bàn Thiên Hoàng Sí
+91550001;Hỗn Độn Thánh Tử
+91550002;Hoang Cổ Ma Viên
+91550003;Thái Hư Tổ Long
+91650001;Ngự Phong Khuyển Thần
+91650002;Dao Trì Mặc Lân
+91650003;Diệu Thế Ly Long
+91740001;Phù Văn Tinh Hoa
+91830001;Linh Khí Trị
+91930001;Phú Quý Trị
+92030001;Phong Thủy Trị
+92120001;Quán Quán
+92120002;Trường Hữu
+92120003;Man Man
+92120004;Sơn Tiêu
+92120005;Phi Thử
+92120006;臽 Phụ Chi Ngư
+92120007;Hào Ngư
+92120008;Minh Xà
+92120009;Ba Xà
+92120010;Chu Nga
+92130001;Toàn Quy
+92130002;Hóa Xà
+92130003;Hiêu
+92130004;Phì Di
+92130005;Tranh
+92130006;Mạnh Hòe
+92130007;Chư Kiền
+92130008;Mao Ngưu
+92130009;Tê Cừ
+92130010;Đương Khang
+92140001;Chu Yếm
+92140002;La La Điểu
+92140003;Thiên Cẩu
+92140004;Cùng Kỳ
+92140005;Khuy Dũ
+92140006;Tinh Vệ
+92140007;Quỳ Ngưu
+92140008;Bỉ Dực
+92140009;Thừa Hoàng
+92140010;Hủy
+92150001;Cửu Vĩ Hồ
+92150002;Phượng Hoàng
+92150003;Long Lý
+92150004;Loan Điểu
+92150005;Thiên Mã
+92150006;Phu Chư
+92150007;Tất Phương
+92150008;Khai Minh
+92230001;Thiên Thê Tích Phân
+92340001;Vinh Dự Trị
+92430001;Thiên Thê Công Huân
+92530001;Tiên Phủ Hoạt Dược Trị
+92630001;Vân Mộng Mật Lệnh
+92740001;Kỳ Ngộ Điểm
+92830001;Vận Lực Trị
+92930001;Phong Hống Trận
+92930002;Thiên Khuyết Trận
+92930003;Kim Quang Trận
+92930004;Hàn Băng Trận
+92940001;Tứ Tượng Tụ Linh Trận
+92940002;Bắc Đấu Thất Tinh Trận
+92940003;Chân Vũ Thất Tiệt Trận
+92940004;Cửu Khúc Hoàng Hà Trận
+92950001;Huyết Hải Luân Hồi Trận
+92950002;Đô Thiên Thần Sát Trận
+92950003;Chu Thiên Tinh Đấu Trận
+92950004;Lưỡng Nghi Vi Trần Trận
+93030001;Quy Lưu Trận
+93030002;Lạc Hồn Trận
+93030003;Tỏa Vân Trận
+93030004;Thiên Tuyệt Trận
+93040001;Thái Cực Bát Quái Trận
+93040002;Thiên Cương Bắc Đấu Trận
+93040003;Cửu Thiên Phục Ma Trận
+93040004;Đại Luân Minh Vương Trận
+93050001;Tu Di Hỗn Độn Trận
+93050002;Hỗn Nguyên Vô Cực Trận
+93050003;Vô Lượng Diễn Thiên Trận
+93050004;Lục Đạo Luân Hồi Trận
+93140001;Linh Sủng Thăng Giai Kích Hoạt
+93240001;Tiên Khí Thăng Giai Kích Hoạt
+93340001;Tiên Lực Trị
+93430001;Cống Hiến
+93530001;Tử Mị Huyễn Ảnh
+93530002;Hoàng Kim Thánh Giáp
+93530003;Lưu Quang Thiều Hoa
+93530004;Trân Phẩm 4 Giai Thì Trang
+93540001;Ưu Nhã Quản Gia
+93540002;Nhiệt Huyết Giáo Viên
+93540003;Thanh Xuân Ngẫu Tượng
+93540004;Kim Chúc Diêu Cổn
+93550001;Dị Vực Vũ Giả
+93550002;Điềm Tâm Ngoạn Ngẫu
+93550003;Anh Hoa Luyến Nhân
+93550004;Ky Giới Chi Tâm
+93630001;Tị Trần Châu
+93630002;Định Phong Châu
+93630003;Thương Hải Châu
+93630004;Huyễn Nguyệt Châu
+93640001;Thương Khung Linh Châu
+93640002;U Minh Linh Châu
+93640003;Thất Khiếu Linh Châu
+93640004;Xích Diệu Linh Châu
+93650001;Sí Phượng Thần Châu
+93650002;Luân Chuyển Thần Châu
+93650003;Hư Di Thần Châu
+93650004;Hi Hòa Thần Châu
+93730001;Tiên Minh Kinh Nghiệm
+93840001;Thái Hoàng Kiếm Toái Phiến Nhất
+93840002;Thái Hoàng Kiếm Toái Phiến Nhị
+93840003;Luyện Thần Hồ Toái Phiến Nhất
+93840004;Luyện Thần Hồ Toái Phiến Nhị
+93840005;Luyện Thần Hồ Toái Phiến Tam
+93840006;Luyện Thần Hồ Toái Phiến Tứ
+93840007;Vô Thủy Chung Toái Phiến Nhất
+93840008;Vô Thủy Chung Toái Phiến Nhị
+93840009;Vô Thủy Chung Toái Phiến Tam
+93840010;Vô Thủy Chung Toái Phiến Tứ
+93840011;Ma La Tán Toái Phiến Nhất
+93840012;Ma La Tán Toái Phiến Nhị
+93840013;Ma La Tán Toái Phiến Tam
+93840014;Ma La Tán Toái Phiến Tứ
+93840015;U Minh Huyết Liên Toái Phiến
+93840016;U Minh Huyết Liên Toái Phiến
+93840017;U Minh Huyết Liên Toái Phiến
+93840018;U Minh Huyết Liên Toái Phiến
+93840019;Vạn Long Linh Toái Phiến Nhất
+93840020;Vạn Long Linh Toái Phiến Nhị
+93840021;Vạn Long Linh Toái Phiến Tam
+93840022;Vạn Long Linh Toái Phiến Tứ
+93840023;Tứ Hải Bình Toái Phiến Nhất
+93840024;Tứ Hải Bình Toái Phiến Nhị
+93840025;Tứ Hải Bình Toái Phiến Tam
+93840026;Tứ Hải Bình Toái Phiến Tứ
+93840027;Thất Bảo Phù Đồ Toái Phiến
+93840028;Thất Bảo Phù Đồ Toái Phiến
+93840029;Thất Bảo Phù Đồ Toái Phiến
+93840030;Thất Bảo Phù Đồ Toái Phiến
+93840031;Thiên Đế Đỉnh Toái Phiến Nhất
+93840032;Thiên Đế Đỉnh Toái Phiến Nhị
+93840033;Thiên Đế Đỉnh Toái Phiến Tam
+93840034;Thiên Đế Đỉnh Toái Phiến Tứ
+93840035;Luyện Ngục Luân Toái Phiến Nhất
+93840036;Luyện Ngục Luân Toái Phiến Nhị
+93840037;Luyện Ngục Luân Toái Phiến Tam
+93840038;Luyện Ngục Luân Toái Phiến Tứ
+93840039;Thái Hư Kính Toái Phiến Nhất
+93840040;Thái Hư Kính Toái Phiến Nhị
+93840041;Thái Hư Kính Toái Phiến Tam
+93840042;Thái Hư Kính Toái Phiến Tứ
+93840043;Long Tước Hoàn Toái Phiến Nhất
+93840044;Long Tước Hoàn Toái Phiến Nhị
+93840045;Long Tước Hoàn Toái Phiến Tam
+93840046;Long Tước Hoàn Toái Phiến Tứ
+93840047;Thanh Minh Phiến Toái Phiến Nhất
+93840048;Thanh Minh Phiến Toái Phiến Nhị
+93840049;Thanh Minh Phiến Toái Phiến Tam
+93840050;Thanh Minh Phiến Toái Phiến Tứ
+93840051;Xích Tinh Long Viêm Toái Phiến
+93840052;Xích Tinh Long Viêm Toái Phiến
+93840053;Xích Tinh Long Viêm Toái Phiến
+93840054;Xích Tinh Long Viêm Toái Phiến
+93840055;Thần Vũ Lệnh Toái Phiến Nhất
+93840056;Thần Vũ Lệnh Toái Phiến Nhị
+93840057;Thần Vũ Lệnh Toái Phiến Tam
+93840058;Thần Vũ Lệnh Toái Phiến Tứ
+93840059;Nhân Hoàng Ấn Toái Phiến Nhất
+93840060;Nhân Hoàng Ấn Toái Phiến Nhị
+93840061;Nhân Hoàng Ấn Toái Phiến Tam
+93840062;Nhân Hoàng Ấn Toái Phiến Tứ
+93840063;Hư Không Kính Toái Phiến Nhất
+93840064;Hư Không Kính Toái Phiến Nhị
+93840065;Hư Không Kính Toái Phiến Tam
+93840066;Hư Không Kính Toái Phiến Tứ
+93840067;Sang Thế Thanh Liên Toái Phiến
+93840068;Sang Thế Thanh Liên Toái Phiến
+93840069;Sang Thế Thanh Liên Toái Phiến
+93840070;Sang Thế Thanh Liên Toái Phiến
+93840071;Lưu Ly Trản Toái Phiến Nhất
+93840072;Lưu Ly Trản Toái Phiến Nhị
+93840073;Lưu Ly Trản Toái Phiến Tam
+93840074;Lưu Ly Trản Toái Phiến Tứ
+93840075;Hằng Vũ Luân Toái Phiến Nhất
+93840076;Hằng Vũ Luân Toái Phiến Nhị
+93840077;Hằng Vũ Luân Toái Phiến Tam
+93840078;Hằng Vũ Luân Toái Phiến Tứ
+93840079;Hỗn Nguyên Đạo Hồ Toái Phiến
+93840080;Hỗn Nguyên Đạo Hồ Toái Phiến
+93840081;Hỗn Nguyên Đạo Hồ Toái Phiến
+93840082;Hỗn Nguyên Đạo Hồ Toái Phiến
+93840083;Tiêu Diêu Phiến Toái Phiến Nhất
+93840084;Tiêu Diêu Phiến Toái Phiến Nhị
+93840085;Tiêu Diêu Phiến Toái Phiến Tam
+93840086;Tiêu Diêu Phiến Toái Phiến Tứ
+93840087;Phục Hi Cầm Toái Phiến Nhất
+93840088;Phục Hi Cầm Toái Phiến Nhị
+93840089;Phục Hi Cầm Toái Phiến Tam
+93840090;Phục Hi Cầm Toái Phiến Tứ
+93840091;Hà Đồ Lạc Thư Toái Phiến
+93840092;Hà Đồ Lạc Thư Toái Phiến
+93840093;Hà Đồ Lạc Thư Toái Phiến
+93840094;Hà Đồ Lạc Thư Toái Phiến
+93840095;Thập Nhị Đô Thiên Kỳ Toái
+93840096;Thập Nhị Đô Thiên Kỳ Toái
+93840097;Thập Nhị Đô Thiên Kỳ Toái
+93840098;Thập Nhị Đô Thiên Kỳ Toái
+93950001;10% Tưởng Trì Nguyên Bảo
+93950002;20% Tưởng Trì Nguyên Bảo
+93950003;30% Tưởng Trì Nguyên Bảo
+93950004;50% Tưởng Trì Nguyên Bảo
+94040001;Vip Kinh Nghiệm
+94150001;Tiên Ngọc
+94210101;Nhất Giai Công Kích Đan
+94210102;Nhất Giai Sinh Mệnh Đan
+94210103;Nhất Giai Phòng Ngự Đan
+94210104;Nhất Giai Phá Phòng Đan
+94210105;Nhất Giai Mệnh Trung Đan
+94210106;Nhất Giai Thiểm Tị Đan
+94210107;Nhất Giai Bạo Kích Đan
+94210108;Nhất Giai Nhận Tính Đan
+94220101;Nhị Giai Công Kích Đan
+94220102;Nhị Giai Sinh Mệnh Đan
+94220103;Nhị Giai Phòng Ngự Đan
+94220104;Nhị Giai Phá Phòng Đan
+94220105;Nhị Giai Mệnh Trung Đan
+94220106;Nhị Giai Thiểm Tị Đan
+94220107;Nhị Giai Bạo Kích Đan
+94220108;Nhị Giai Nhận Tính Đan
+94230101;Tam Giai Công Kích Đan
+94230102;Tam Giai Sinh Mệnh Đan
+94230103;Tam Giai Phòng Ngự Đan
+94230104;Tam Giai Phá Phòng Đan
+94230105;Tam Giai Mệnh Trung Đan
+94230106;Tam Giai Thiểm Tị Đan
+94230107;Tam Giai Bạo Kích Đan
+94230108;Tam Giai Nhận Tính Đan
+94240101;Tứ Giai Công Kích Đan
+94240102;Tứ Giai Sinh Mệnh Đan
+94240103;Tứ Giai Phòng Ngự Đan
+94240104;Tứ Giai Phá Phòng Đan
+94240105;Tứ Giai Mệnh Trung Đan
+94240106;Tứ Giai Thiểm Tị Đan
+94240107;Tứ Giai Bạo Kích Đan
+94240108;Tứ Giai Nhận Tính Đan
+94250101;Ngũ Giai Công Kích Đan
+94250102;Ngũ Giai Sinh Mệnh Đan
+94250103;Ngũ Giai Phòng Ngự Đan
+94250104;Ngũ Giai Phá Phòng Đan
+94250105;Ngũ Giai Mệnh Trung Đan
+94250106;Ngũ Giai Thiểm Tị Đan
+94250107;Ngũ Giai Bạo Kích Đan
+94250108;Ngũ Giai Nhận Tính Đan
+94340001;Thể Lực Trị

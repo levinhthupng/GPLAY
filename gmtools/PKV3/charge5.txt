@@ -1,0 +1,198 @@
+2000; Hoàng kim huấn luyện nhà ảnh chân dung khung
+2001; Cỏ mầm quy đầu khung ảnh
+2002; Sen Diệp Đồng tử ảnh chân dung khung
+2003; Pikachu ảnh chân dung khung
+2004; Hỏa diễm đầu gà khung ảnh
+2005; Giáp Hạ nhẫn con ếch ảnh chân dung khung
+2006; Siêu mộng ảnh chân dung khung
+2007; Phượng vương ảnh chân dung khung
+2008; Giáng Sinh chuyên môn ảnh chân dung khung
+2009; Tân xuân chuyên môn ảnh chân dung khung
+2010; Lạc Kỳ á ảnh chân dung khung
+2011;S1 Giấy thông hành ảnh chân dung khung
+2012; Lao động vinh quang nhất
+2013; Liệt không tòa ảnh chân dung khung
+2014; Tính trẻ con đồng thú
+2015; Đóng Âu thẻ ảnh chân dung khung
+2016; Tống tình Đoan Ngọ
+2017; Trung thu nguyệt thỏ
+2018; Khánh điển
+2019; Vạn thánh ác ma
+2020; Giáng Sinh con nai 2020
+2021; Múa sư khánh tết nguyên đán
+2022; Nguyên Tiêu chúc tuổi
+2023; Chúc mừng phát đại tài
+2024; Yêu liền ở cùng nhau
+2025;1 Tròn năm ăn mừng
+2026; Siêu cấp liệt ghế trống ảnh chân dung khung
+2027; Ngày Quốc Tế Lao Động 2021 Hạn định
+2028; Sung sướng sáu một
+2029; Tống du lịch Đoan Ngọ
+2030; Ngày mùa hè Nhạc Du du lịch
+2031; Đoàn viên Trung thu
+2032; Tết mừng năm mới nhật
+2033; Nguyên thủy cố kéo nhiều mặt khung ảnh
+2034; Ảnh chân dung khung
+2040; Đạt Clay y ảnh chân dung khung
+2041; Lôi Cát kỳ Kaz ảnh chân dung khung
+2042; Đế răng Luka ảnh chân dung khung
+2043; Khăn Lucci á ảnh chân dung khung
+2044; Cưỡi kéo đế cúi đầu khung ảnh
+2045; Tạ gạo ảnh chân dung khung
+2046; Trừng trị Hồ khăn ảnh chân dung khung
+2047; Lai Hi Lạp mẫu ảnh chân dung khung
+2048; Tiệp Khắc Rom ảnh chân dung khung
+2049; Tù Rem ảnh chân dung khung
+2050; Đẹp Lạc a tháp · Tiếng ca ảnh chân dung khung
+2051; Đẹp Lạc a tháp · Vũ bộ ảnh chân dung khung
+2052; Kira cầu ảnh chân dung khung
+2053; Đẹp ghi chép Meta ảnh chân dung khung
+2054; Y Bùi ngươi Thel ảnh chân dung khung
+2055; Lúc Labie ảnh chân dung khung
+2056; Đóng nặc thi đấu Kurt ảnh chân dung khung
+2057; Triết ngươi ni Á Tư ảnh chân dung khung
+2058; Nhanh kéo Aora ảnh chân dung khung
+2071;S2 Giấy thông hành ảnh chân dung khung
+2072;S3 Giấy thông hành ảnh chân dung khung
+2073;S4 Giấy thông hành ảnh chân dung khung
+2074;S5 Giấy thông hành ảnh chân dung khung
+2075;S6 Giấy thông hành ảnh chân dung khung
+2076;S7 Giấy thông hành ảnh chân dung khung
+2077;S8 Giấy thông hành ảnh chân dung khung
+2078;S9 Giấy thông hành ảnh chân dung khung
+2079;S10 Giấy thông hành ảnh chân dung khung
+2190; Giấy thông hành hình tượng lựa chọn cái rương
+2201; Tiểu Trí tín vật
+2202; Tiểu Hà tín vật
+2203; Kéo phổ tín vật
+2204; Borr mỹ lệ tín vật
+2205; Lộ đẹp sáng tín vật
+2206; Mai nhã lệ tín vật
+2207; Hoa hồ điệp tín vật
+2208; Tử La Lan tín vật
+2209; Tây tử y tín vật
+2210; Đỗ quyên tín vật
+2211; Acker la mã tín vật
+2212; Asha tín vật
+2213; Tu tín vật
+2214; Hoắc gạo thêm tín vật
+2215; Bạch lộ tín vật
+2216; Nhưng ngươi ny tín vật
+2217; Lan ban ngày ny tín vật
+2218; Lộ tịch hoa tín vật
+2219; Lan cô nàng đêm tín vật
+2220; Lô hội tín vật
+2221; Thùng đựng than tín vật
+2222; Mầm áo tín vật
+2223; Di lỵ tia tín vật
+2224; Phù dung tín vật
+2225; Thủy liên tín vật
+2226; Xanh lam tín vật
+2227; Tiểu Cương tín vật
+2228; Bích kha tín vật
+2229; Đạt khăn tín vật
+2231; Ngải lam tín vật
+2232; Đại mộc tiến sĩ tín vật
+2237; Tiểu Trí ( Giáng Sinh hạn định ) Tín vật
+2238; Tiểu Hà ( Giáng Sinh hạn định ) Tín vật
+2239; Lãng nhật tín vật
+2240; Mỹ Nguyệt tín vật
+2241; Kojirō tín vật
+2242; Vũ Tàng tín vật
+2243; Thủy liên ( Ngày mùa hè hạn định ) Tín vật
+2244; Mai nhã lợi tín vật
+2245; Cách Lạp Cát Âu tín vật
+2246; Mã áo tín vật
+2247; Lily ngải tín vật
+2248; Assey Laura tín vật
+2300; Pikachu Giáng Sinh bản
+2301; Điện điện chuột tân xuân bản
+2302; Sóng Gia Mạn
+2303; Cảnh quỷ
+2304; Denis rùa
+2305; Meo meo
+2306; Mộc mộc kiêu
+2307; Diệu con ếch hạt giống
+2308; Pikachu
+2309; Tiểu hỏa long
+2310; Y Bố
+2311; Nguyệt Tinh Linh
+2312; Chiểu vọt cá
+2313; Thẻ so thú ngày Quốc Tế Lao Động hạn định
+2314; Goethe Bảo Bảo 61 Hạn định
+2315; Diệu con ếch bánh chưng
+2316; Ăn bánh mà
+2317; So tâm
+2318; Ngụy trang
+2319; Xuyên gấu 2020 Giáng Sinh hạn định
+2320; May mắn trứng 2021 Tết nguyên đán hạn định
+2321; Vú lớn bình ·2021
+2322; Hồng bao lấy ra
+2323; Cuối cùng thành thân thuộc ·2021
+2324;1 Tròn năm · Pikachu
+2325; Dời gạch meo meo
+2326; Sáu một · Tinh nghịch gấu trúc
+2327; Tống Diệp Đồng tử
+2328; Ngày mùa hè · Pikachu
+2329; Ngày mùa hè · Denis rùa
+2330; Hỏa cầu chuột · Trung thu
+2331; Thịnh điển · Tạp lạp Tạp lạp
+2332; Ảnh chân dung
+2400; Giáng Sinh vui vẻ
+2401; Tân xuân vui vẻ
+2402; Giấy thông hành S1
+2403; Lao động vinh quang nhất
+2404; Hùng hài tử
+2405; Tống tình Đoan Ngọ
+2406; Trăng tròn tốt lúc
+2407; Khánh điển người chứng kiến
+2408;Skr Tiểu cơ linh quỷ
+2409;2020 Giáng Sinh hạn định
+2410;2021 Tết nguyên đán vui vẻ
+2411; Mỹ mãn
+2412; Năm mới bắt đầu
+2413; Vung lương hộ chuyên nghiệp
+2414; Cảm ân có ngươi
+2415; Dũng giả thức tỉnh
+2416; Làm công người đáng yêu nhất
+2417; Tính trẻ con chưa mẫn
+2418; Thả tống một hạ
+2419; Bảo tàng thợ săn
+2420; Giữa hè năm ánh sáng
+2421; Bỏ trốn đến mặt trăng
+2422; Cuồng hoan thịnh yến
+2423; Xưng hào
+2471; Giấy thông hành S2
+2472; Giấy thông hành S3
+2473; Giấy thông hành S4
+2474; Giấy thông hành S5
+2475; Giấy thông hành S6
+2476; Giấy thông hành S7
+2477; Giấy thông hành S8
+2478; Giấy thông hành S9
+2479; Giấy thông hành S10
+2501; Thiên phú dị bẩm
+2502; Tinh lộ xa xôi
+2503; Tinh cấp đạt nhân
+2504; Thăng tinh cuồng nhân
+2505; Hoàn mỹ thức tỉnh
+2506; Hi hữu bảo vật
+2507; Không có khả năng nhiệm vụ
+2508; Chỉ là truyền thuyết
+2509; Sparta dũng sĩ
+2510; Tặng người hoa hồng
+2511; Đại lực xuất kỳ tích
+2512; Song hoàng trứng
+2513; Mũ ảo thuật
+2514; Trong nhà có mỏ
+2515; Long Vương phun nước
+2516; Không thể tưởng tượng nổi の
+2517; Chinh phục giả
+2518; Ngư dân
+2519; Thả câu cao thủ
+2520; Thả câu đạt nhân
+2521; Thả câu tông sư
+2522; Lão nhân cùng biển
+2523; Đạo quán người khiêu chiến
+2524; Nhân vật chính quang hoàn
+2525; Vua Mạo Hiểm tử

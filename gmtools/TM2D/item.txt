@@ -1,0 +1,972 @@
+-25;Tử Lan tinh
+-24;cầu vồng tinh
+-23;đạo quán tệ
+-21;VIPkinh nghiệm
+-20;nạp tiền kim cương
+-19;điểm kỹ năng
+-18;vô hạn năng lượng
+-17;đối chiến tệ
+-16;chủ tuyến lịch duyệt
+-15;mỗi ngày sinh động độ
+-13;liên minh cống hiến
+-12;mộng đẹp mảnh vỡ
+-11;chìa thạch
+-10;thả ra chi ngọc
+-9;hợp kích điểm
+-8;gen chi khế
+-7;đội ngũ kinh nghiệm
+-6;tinh linh kinh nghiệm
+-5;huân chương tệ
+-4;tinh lực
+-3;thể lực
+-2;kim cương
+-1;Kim tệ
+10000;hắn fan hâm mộ(cái khác bao)
+10001;Halloween ảnh chân dung khung
+10002;ảnh chân dung
+10003;thời trang
+10004;hắn fan hâm mộ(trang bị bao)
+10005;hắn fan hâm mộ(pháp khí bao)
+10006;hắn fan hâm mộ(tinh linh bao)
+10007;lễ tình nhân ảnh chân dung khung
+10008;đầu kim cương khung ảnh
+10009;đi thôi Pokeball ảnh chân dung khung
+10010;hào ảnh chân dung khung
+10014;kinh nghiệm quả(thấp)
+10015;kinh nghiệm quả(bên trong)
+10016;kinh nghiệm quả(cao)
+10017;kinh nghiệm quả(siêu)
+10018;viên thuốc trân châu
+10019;cổ đại chi ấm
+10020;cổ đại tượng đá
+10021;1 cấp sinh mệnh bảo thạch
+10022;2 cấp sinh mệnh bảo thạch
+10023;3 cấp sinh mệnh bảo thạch
+10024;4 cấp sinh mệnh bảo thạch
+10025;5 cấp sinh mệnh bảo thạch
+10026;6 cấp sinh mệnh bảo thạch
+10027;7 cấp sinh mệnh bảo thạch
+10028;8 cấp sinh mệnh bảo thạch
+10029;9 cấp sinh mệnh bảo thạch
+10030;10 cấp sinh mệnh bảo thạch
+10031;1 cấp công kích bảo thạch
+10032;2 cấp công kích bảo thạch
+10033;3 cấp công kích bảo thạch
+10034;4 cấp công kích bảo thạch
+10035;5 cấp công kích bảo thạch
+10036;6 cấp công kích bảo thạch
+10037;7 cấp công kích bảo thạch
+10038;8 cấp công kích bảo thạch
+10039;9 cấp công kích bảo thạch
+10040;10 cấp công kích bảo thạch
+10041;1 cấp vật phòng bảo thạch
+10042;2 cấp vật phòng bảo thạch
+10043;3 cấp vật phòng bảo thạch
+10044;4 cấp vật phòng bảo thạch
+10045;5 cấp vật phòng bảo thạch
+10046;6 cấp vật phòng bảo thạch
+10047;7 cấp vật phòng bảo thạch
+10048;8 cấp vật phòng bảo thạch
+10049;9 cấp vật phòng bảo thạch
+10050;10 cấp vật phòng bảo thạch
+10051;1 cấp tinh thần bảo thạch
+10052;2 cấp tinh thần bảo thạch
+10053;3 cấp tinh thần bảo thạch
+10054;4 cấp tinh thần bảo thạch
+10055;5 cấp tinh thần bảo thạch
+10056;6 cấp tinh thần bảo thạch
+10057;7 cấp tinh thần bảo thạch
+10058;8 cấp tinh thần bảo thạch
+10059;9 cấp tinh thần bảo thạch
+10060;10 cấp tinh thần bảo thạch
+10061;thể lực bánh mì(siêu)
+10062;tinh lực dược tề(siêu)
+10063;vạn năng mảnh vỡ
+10064;mở lỗ khí
+10066;Mộc Tử quả
+10067;số không dư quả
+10068;Đào Đào quả
+10069;dâu dâu quả
+10070;cam cam quả
+10071;anh tử quả
+10072;lợi mộc quả
+10073;mang quả xoài
+10074;bình quả dại
+10075;vui ba quả
+10076;ba á quả
+10077;thị tử quả
+10078;văn dữu quả
+10079;tảo cây quả
+10080;chớ hoa quả
+10081;tây lê quả
+10082;hoàng lê quả
+10083;dị kì quả
+10084;miễn chiến bài
+10085;mộng chi địch
+10086;màu cam bảo vật bao
+10087;khiêu chiến thẻ từ
+10088;đột phá thạch bảo rương
+10089;câu khăn đường ông mảnh vỡ rương
+10090;liên minh đột phá thạch bảo rương
+10091;13 tư chất mảnh vỡ bao (không cần)
+10092;hoa quả gói quà(nhỏ)
+10093;hoa quả gói quà(bên trong)
+10094;hoa quả gói quà(lớn)
+10095;thủy quân mảnh vỡ bao
+10096;siêu mộng mảnh vỡ bao
+10097;thể lực bánh mì(lớn)
+10098;đổi mới thẻ từ
+10099;1 cấp bảo thạch bao
+10100;2 cấp bảo thạch bao
+10101;3 cấp bảo thạch bao
+10102;ngẫu nhiên bảo thạch bao
+10103;cổ đại vương miện
+10104;cây nấm lớn
+10105;cao cấp trang bị bảo rương
+10106;rực rỡ hoa quả bao
+10107;Trung cấp trang bị bảo rương
+10108;Tăng phúc năng lượng
+10109;linh văn thủy tinh
+10110;5 vạn Kim tệ
+10111;cấp thấp trang bị bảo rương
+10112;VIPnhỏ kim cương bao
+10113;kim sắc vương miện
+10114;đống nhỏ Kim tệ
+10115;đống lớn Kim tệ
+10116;VIP 0 siêu giá trị gói quà
+10117;VIP 1 siêu giá trị gói quà
+10118;VIP 2 siêu giá trị gói quà
+10119;VIP 3 siêu giá trị gói quà
+10120;VIP 4 siêu giá trị gói quà
+10121;VIP 5 siêu giá trị gói quà
+10122;VIP 6 siêu giá trị gói quà
+10123;VIP 7 siêu giá trị gói quà
+10124;VIP 8 siêu giá trị gói quà
+10125;VIP 9 siêu giá trị gói quà
+10126;VIP 10 siêu giá trị gói quà
+10127;VIP 11 siêu giá trị gói quà
+10128;VIP 12 siêu giá trị gói quà
+10129;VIP 13 siêu giá trị gói quà
+10130;VIP 14 siêu giá trị gói quà
+10131;VIP 15 siêu giá trị gói quà
+10132;vạn năng đi săn khoán
+10133;cao cấp cam tinh rương
+10134;cấp thấp cam tinh rương
+10135;12 tư chất mảnh vỡ bao
+10136;vạn năng mảnh vỡ bảo rương
+10137;cam tinh
+10138;Tử Tinh
+10139;hồng tinh
+10140;tinh lực dược tề(lớn)
+10141;tinh lực dược tề(bên trong)
+10142;tinh lực dược tề(nhỏ)
+10143;thể lực bánh mì(bên trong)
+10144;thể lực bánh mì(nhỏ)
+10145;kinh nghiệm quả(cực)
+10146;tử sắc sáo trang bảo rương
+10147;4 cấp bảo thạch bao
+10148;tử sắc sáo trang bảo rương (không cần)
+10149;thủ mạo xưng gói quà lớn
+10150;thủ mạo xưng gói quà lớn(xa hoa bản)
+10151;98 hồng bao dùng tiền thay thế khoán
+10152;288 hồng bao dùng tiền thay thế khoán
+10153;688 hồng bao dùng tiền thay thế khoán
+10154;phù văn mảnh vỡ
+10155;phù văn tinh hoa
+10156;phù văn bảo rương(khảo thí dùng)
+10157;5 cấp bảo thạch bao
+10158;14 tư chất mảnh vỡ bao
+10159;6 cấp bảo thạch bao
+10160;14 tư chất mảnh vỡ bao
+10161;16 tư chất mảnh vỡ bao
+10162;20 tư chất mảnh vỡ bao
+10163;18 tư chất mảnh vỡ bao
+10164;22 tư chất mảnh vỡ bao
+10165;26 tư chất mảnh vỡ bao
+11001;kim cương bảo châu mảnh vỡ 1
+11002;kim cương bảo châu mảnh vỡ 2
+11003;kim cương bảo châu mảnh vỡ 3
+11004;kim cương bảo châu mảnh vỡ 4
+11005;yêu tinh bảo châu mảnh vỡ 1
+11006;yêu tinh bảo châu mảnh vỡ 2
+11007;yêu tinh bảo châu mảnh vỡ 3
+11008;yêu tinh bảo châu mảnh vỡ 4
+11009;lôi điện bảo châu mảnh vỡ 1
+11010;lôi điện bảo châu mảnh vỡ 2
+11011;lôi điện bảo châu mảnh vỡ 3
+11012;lôi điện bảo châu mảnh vỡ 4
+11013;liệt diễm bảo châu mảnh vỡ 1
+11014;liệt diễm bảo châu mảnh vỡ 2
+11015;liệt diễm bảo châu mảnh vỡ 3
+11016;liệt diễm bảo châu mảnh vỡ 4
+11017;u linh bảo châu mảnh vỡ 1
+11018;u linh bảo châu mảnh vỡ 2
+11019;u linh bảo châu mảnh vỡ 3
+11020;u linh bảo châu mảnh vỡ 4
+11021;giọt nước phiến đá mảnh vỡ 1
+11022;giọt nước phiến đá mảnh vỡ 2
+11023;giọt nước phiến đá mảnh vỡ 3
+11024;giọt nước phiến đá mảnh vỡ 4
+11025;yêu tinh phiến đá mảnh vỡ 1
+11026;yêu tinh phiến đá mảnh vỡ 2
+11027;yêu tinh phiến đá mảnh vỡ 3
+11028;yêu tinh phiến đá mảnh vỡ 4
+11029;lôi điện phiến đá mảnh vỡ 1
+11030;lôi điện phiến đá mảnh vỡ 2
+11031;lôi điện phiến đá mảnh vỡ 3
+11032;lôi điện phiến đá mảnh vỡ 4
+11033;băng trụ phiến đá mảnh vỡ 1
+11034;băng trụ phiến đá mảnh vỡ 2
+11035;băng trụ phiến đá mảnh vỡ 3
+11036;băng trụ phiến đá mảnh vỡ 4
+11037;u linh phiến đá mảnh vỡ 1
+11038;u linh phiến đá mảnh vỡ 2
+11039;u linh phiến đá mảnh vỡ 3
+11040;u linh phiến đá mảnh vỡ 4
+11041;cách đấu bảo châu mảnh vỡ 1
+11042;cách đấu bảo châu mảnh vỡ 2
+11043;cách đấu bảo châu mảnh vỡ 3
+11044;cách đấu bảo châu mảnh vỡ 4
+11045;cách đấu bảo châu mảnh vỡ 5
+11046;kịch độc bảo châu mảnh vỡ 1
+11047;kịch độc bảo châu mảnh vỡ 2
+11048;kịch độc bảo châu mảnh vỡ 3
+11049;kịch độc bảo châu mảnh vỡ 4
+11050;kịch độc bảo châu mảnh vỡ 5
+11051;sinh mệnh bảo châu mảnh vỡ 1
+11052;sinh mệnh bảo châu mảnh vỡ 2
+11053;sinh mệnh bảo châu mảnh vỡ 3
+11054;sinh mệnh bảo châu mảnh vỡ 4
+11055;sinh mệnh bảo châu mảnh vỡ 5
+11056;bạch ngọc bảo châu mảnh vỡ 1
+11057;bạch ngọc bảo châu mảnh vỡ 2
+11058;bạch ngọc bảo châu mảnh vỡ 3
+11059;bạch ngọc bảo châu mảnh vỡ 4
+11060;bạch ngọc bảo châu mảnh vỡ 5
+11061;đại địa bảo châu mảnh vỡ 1
+11062;đại địa bảo châu mảnh vỡ 2
+11063;đại địa bảo châu mảnh vỡ 3
+11064;đại địa bảo châu mảnh vỡ 4
+11065;đại địa bảo châu mảnh vỡ 5
+11066;nắm đấm phiến đá mảnh vỡ 1
+11067;nắm đấm phiến đá mảnh vỡ 2
+11068;nắm đấm phiến đá mảnh vỡ 3
+11069;nắm đấm phiến đá mảnh vỡ 4
+11070;nắm đấm phiến đá mảnh vỡ 5
+11071;kịch độc phiến đá mảnh vỡ 1
+11072;kịch độc phiến đá mảnh vỡ 2
+11073;kịch độc phiến đá mảnh vỡ 3
+11074;kịch độc phiến đá mảnh vỡ 4
+11075;kịch độc phiến đá mảnh vỡ 5
+11076;trời xanh phiến đá mảnh vỡ 1
+11077;trời xanh phiến đá mảnh vỡ 2
+11078;trời xanh phiến đá mảnh vỡ 3
+11079;trời xanh phiến đá mảnh vỡ 4
+11080;trời xanh phiến đá mảnh vỡ 5
+11081;ngọc trùng phiến đá mảnh vỡ 1
+11082;ngọc trùng phiến đá mảnh vỡ 2
+11083;ngọc trùng phiến đá mảnh vỡ 3
+11084;ngọc trùng phiến đá mảnh vỡ 4
+11085;ngọc trùng phiến đá mảnh vỡ 5
+11086;đại địa phiến đá mảnh vỡ 1
+11087;đại địa phiến đá mảnh vỡ 2
+11088;đại địa phiến đá mảnh vỡ 3
+11089;đại địa phiến đá mảnh vỡ 4
+11090;đại địa phiến đá mảnh vỡ 5
+11091;cỏ xanh bảo châu mảnh vỡ 1
+11092;cỏ xanh bảo châu mảnh vỡ 2
+11093;cỏ xanh bảo châu mảnh vỡ 3
+11094;cỏ xanh bảo châu mảnh vỡ 4
+11095;cỏ xanh bảo châu mảnh vỡ 5
+11096;cỏ xanh bảo châu mảnh vỡ 6
+11097;mơ mộng bảo châu mảnh vỡ 1
+11098;mơ mộng bảo châu mảnh vỡ 2
+11099;mơ mộng bảo châu mảnh vỡ 3
+11100;mơ mộng bảo châu mảnh vỡ 4
+11101;mơ mộng bảo châu mảnh vỡ 5
+11102;mơ mộng bảo châu mảnh vỡ 6
+11103;huyễn phấn bảo châu mảnh vỡ 1
+11104;huyễn phấn bảo châu mảnh vỡ 2
+11105;huyễn phấn bảo châu mảnh vỡ 3
+11106;huyễn phấn bảo châu mảnh vỡ 4
+11107;huyễn phấn bảo châu mảnh vỡ 5
+11108;huyễn phấn bảo châu mảnh vỡ 6
+11109;màu chàm bảo châu mảnh vỡ 1
+11110;màu chàm bảo châu mảnh vỡ 2
+11111;màu chàm bảo châu mảnh vỡ 3
+11112;màu chàm bảo châu mảnh vỡ 4
+11113;màu chàm bảo châu mảnh vỡ 5
+11114;màu chàm bảo châu mảnh vỡ 6
+11115;màu son bảo châu mảnh vỡ 1
+11116;màu son bảo châu mảnh vỡ 2
+11117;màu son bảo châu mảnh vỡ 3
+11118;màu son bảo châu mảnh vỡ 4
+11119;màu son bảo châu mảnh vỡ 5
+11120;màu son bảo châu mảnh vỡ 6
+11121;núi lửa bảo châu mảnh vỡ 1
+11122;núi lửa bảo châu mảnh vỡ 2
+11123;núi lửa bảo châu mảnh vỡ 3
+11124;núi lửa bảo châu mảnh vỡ 4
+11125;núi lửa bảo châu mảnh vỡ 5
+11126;núi lửa bảo châu mảnh vỡ 6
+11127;thần kỳ phiến đá mảnh vỡ 1
+11128;thần kỳ phiến đá mảnh vỡ 2
+11129;thần kỳ phiến đá mảnh vỡ 3
+11130;thần kỳ phiến đá mảnh vỡ 4
+11131;thần kỳ phiến đá mảnh vỡ 5
+11132;thần kỳ phiến đá mảnh vỡ 6
+11133;nham thạch phiến đá mảnh vỡ 1
+11134;nham thạch phiến đá mảnh vỡ 2
+11135;nham thạch phiến đá mảnh vỡ 3
+11136;nham thạch phiến đá mảnh vỡ 4
+11137;nham thạch phiến đá mảnh vỡ 5
+11138;nham thạch phiến đá mảnh vỡ 6
+11139;yêu quái phiến đá mảnh vỡ 1
+11140;yêu quái phiến đá mảnh vỡ 2
+11141;yêu quái phiến đá mảnh vỡ 3
+11142;yêu quái phiến đá mảnh vỡ 4
+11143;yêu quái phiến đá mảnh vỡ 5
+11144;yêu quái phiến đá mảnh vỡ 6
+11145;long chi phiến đá mảnh vỡ 1
+11146;long chi phiến đá mảnh vỡ 2
+11147;long chi phiến đá mảnh vỡ 3
+11148;long chi phiến đá mảnh vỡ 4
+11149;long chi phiến đá mảnh vỡ 5
+11150;long chi phiến đá mảnh vỡ 6
+11151;ác nhan phiến đá mảnh vỡ 1
+11152;ác nhan phiến đá mảnh vỡ 2
+11153;ác nhan phiến đá mảnh vỡ 3
+11154;ác nhan phiến đá mảnh vỡ 4
+11155;ác nhan phiến đá mảnh vỡ 5
+11156;ác nhan phiến đá mảnh vỡ 6
+11157;sắt thép tấm mảnh vỡ 1
+11158;sắt thép tấm mảnh vỡ 2
+11159;sắt thép tấm mảnh vỡ 3
+11160;sắt thép tấm mảnh vỡ 4
+11161;sắt thép tấm mảnh vỡ 5
+11162;sắt thép tấm mảnh vỡ 6
+11163;đá mặt trời mảnh vỡ 1
+11164;đá mặt trời mảnh vỡ 2
+11165;đá mặt trời mảnh vỡ 3
+11166;đá mặt trời mảnh vỡ 4
+11167;đá mặt trời mảnh vỡ 5
+11168;đá mặt trời mảnh vỡ 6
+11169;đá mặt trời mảnh vỡ 7
+11170;nguyệt lượng thạch mảnh vỡ 1
+11171;nguyệt lượng thạch mảnh vỡ 2
+11172;nguyệt lượng thạch mảnh vỡ 3
+11173;nguyệt lượng thạch mảnh vỡ 4
+11174;nguyệt lượng thạch mảnh vỡ 5
+11175;nguyệt lượng thạch mảnh vỡ 6
+11176;nguyệt lượng thạch mảnh vỡ 7
+11177;liệt hỏa đá bể phiến 1
+11178;liệt hỏa đá bể phiến 2
+11179;liệt hỏa đá bể phiến 3
+11180;liệt hỏa đá bể phiến 4
+11181;liệt hỏa đá bể phiến 5
+11182;liệt hỏa đá bể phiến 6
+11183;liệt hỏa đá bể phiến 7
+11184;lôi đình đá bể phiến 1
+11185;lôi đình đá bể phiến 2
+11186;lôi đình đá bể phiến 3
+11187;lôi đình đá bể phiến 4
+11188;lôi đình đá bể phiến 5
+11189;lôi đình đá bể phiến 6
+11190;lôi đình đá bể phiến 7
+11191;sóng biếc đá bể phiến 1
+11192;sóng biếc đá bể phiến 2
+11193;sóng biếc đá bể phiến 3
+11194;sóng biếc đá bể phiến 4
+11195;sóng biếc đá bể phiến 5
+11196;sóng biếc đá bể phiến 6
+11197;sóng biếc đá bể phiến 7
+11198;cây cỏ đá bể phiến 1
+11199;cây cỏ đá bể phiến 2
+11200;cây cỏ đá bể phiến 3
+11201;cây cỏ đá bể phiến 4
+11202;cây cỏ đá bể phiến 5
+11203;cây cỏ đá bể phiến 6
+11204;cây cỏ đá bể phiến 7
+11205;mặt trời ấn ký mảnh vỡ 1
+11206;mặt trời ấn ký mảnh vỡ 2
+11207;mặt trời ấn ký mảnh vỡ 3
+11208;mặt trời ấn ký mảnh vỡ 4
+11209;mặt trời ấn ký mảnh vỡ 5
+11210;mặt trời ấn ký mảnh vỡ 6
+11211;mặt trời ấn ký mảnh vỡ 7
+11212;mặt trăng ấn ký mảnh vỡ 1
+11213;mặt trăng ấn ký mảnh vỡ 2
+11214;mặt trăng ấn ký mảnh vỡ 3
+11215;mặt trăng ấn ký mảnh vỡ 4
+11216;mặt trăng ấn ký mảnh vỡ 5
+11217;mặt trăng ấn ký mảnh vỡ 6
+11218;mặt trăng ấn ký mảnh vỡ 7
+11219;liệt hỏa ấn ký mảnh vỡ 1
+11220;liệt hỏa ấn ký mảnh vỡ 2
+11221;liệt hỏa ấn ký mảnh vỡ 3
+11222;liệt hỏa ấn ký mảnh vỡ 4
+11223;liệt hỏa ấn ký mảnh vỡ 5
+11224;liệt hỏa ấn ký mảnh vỡ 6
+11225;liệt hỏa ấn ký mảnh vỡ 7
+11226;lôi đình ấn ký mảnh vỡ 1
+11227;lôi đình ấn ký mảnh vỡ 2
+11228;lôi đình ấn ký mảnh vỡ 3
+11229;lôi đình ấn ký mảnh vỡ 4
+11230;lôi đình ấn ký mảnh vỡ 5
+11231;lôi đình ấn ký mảnh vỡ 6
+11232;lôi đình ấn ký mảnh vỡ 7
+11233;sóng biếc ấn ký mảnh vỡ 1
+11234;sóng biếc ấn ký mảnh vỡ 2
+11235;sóng biếc ấn ký mảnh vỡ 3
+11236;sóng biếc ấn ký mảnh vỡ 4
+11237;sóng biếc ấn ký mảnh vỡ 5
+11238;sóng biếc ấn ký mảnh vỡ 6
+11239;sóng biếc ấn ký mảnh vỡ 7
+11240;cây cỏ ấn ký mảnh vỡ 1
+11241;cây cỏ ấn ký mảnh vỡ 2
+11242;cây cỏ ấn ký mảnh vỡ 3
+11243;cây cỏ ấn ký mảnh vỡ 4
+11244;cây cỏ ấn ký mảnh vỡ 5
+11245;cây cỏ ấn ký mảnh vỡ 6
+11246;cây cỏ ấn ký mảnh vỡ 7
+11247;hồng ngọc châu mảnh vỡ 1
+11248;hồng ngọc châu mảnh vỡ 2
+11249;hồng ngọc châu mảnh vỡ 3
+11250;xanh thẳm châu mảnh vỡ 1
+11251;xanh thẳm châu mảnh vỡ 2
+11252;xanh thẳm châu mảnh vỡ 3
+11253;diệu hoàng châu mảnh vỡ 1
+11254;diệu hoàng châu mảnh vỡ 2
+11255;diệu hoàng châu mảnh vỡ 3
+11256;phỉ Lục Châu mảnh vỡ 1
+11257;phỉ Lục Châu mảnh vỡ 2
+11258;phỉ Lục Châu mảnh vỡ 3
+11259;lông mày phấn châu mảnh vỡ 1
+11260;lông mày phấn châu mảnh vỡ 2
+11261;lông mày phấn châu mảnh vỡ 3
+11262;hồng ngọc phiến đá mảnh vỡ 1
+11263;hồng ngọc phiến đá mảnh vỡ 2
+11264;hồng ngọc phiến đá mảnh vỡ 3
+11265;xanh thẳm phiến đá mảnh vỡ 1
+11266;xanh thẳm phiến đá mảnh vỡ 2
+11267;xanh thẳm phiến đá mảnh vỡ 3
+11268;diệu Hoàng Thạch tấm mảnh vỡ 1
+11269;diệu Hoàng Thạch tấm mảnh vỡ 2
+11270;diệu Hoàng Thạch tấm mảnh vỡ 3
+11271;phỉ Lục Thạch tấm mảnh vỡ 1
+11272;phỉ Lục Thạch tấm mảnh vỡ 2
+11273;phỉ Lục Thạch tấm mảnh vỡ 3
+11274;lông mày phấn phiến đá mảnh vỡ 1
+11275;lông mày phấn phiến đá mảnh vỡ 2
+11276;lông mày phấn phiến đá mảnh vỡ 3
+12001;siêu mộng mảnh vỡ
+12002;Hồ địa mảnh vỡ
+12003;câu khăn đường ông mảnh vỡ
+12004;phượng vương mảnh vỡ
+12005;liệt cắn lục cá mập mảnh vỡ
+12006;thủy quân mảnh vỡ
+12007;bạo Lý Long mảnh vỡ
+12008;Kathi chó mảnh vỡ
+12009;tiên tử tinh linh mảnh vỡ
+12010;nhanh rồng mảnh vỡ
+12011;bạo Phi Long mảnh vỡ
+12012;Lôi Công mảnh vỡ
+12013;siêu năng diệu meo mảnh vỡ
+12014;thiên hạt vương mảnh vỡ
+12015;oa oa ngâm con ếch mảnh vỡ
+12016;cưỡi rồng mảnh vỡ
+12017;Denis rùa mảnh vỡ
+12018;Cửu Vĩ mảnh vỡ
+12019;có thể đạt tới vịt mảnh vỡ
+12020;Phi Thiên Đường Lang mảnh vỡ
+12021;diệu con ếch hạt giống mảnh vỡ
+12022;tiểu hỏa long mảnh vỡ
+12023;Viêm Đế mảnh vỡ
+12024;thiết giáp tê giác mảnh vỡ
+12025;sóng Coby mảnh vỡ
+12026;hảo vận trứng mảnh vỡ
+12027;lớn giáp mảnh vỡ
+12028;lửa nhỏ diễm khỉ mảnh vỡ
+12029;hoá thạch nón trụ mảnh vỡ
+12030;cỏ mầm rùa mảnh vỡ
+12031;ni nhiều lãng mảnh vỡ
+12032;Hỏa Hồ ly mảnh vỡ
+12033;sừng cá vàng mảnh vỡ
+12034;béo đinh mảnh vỡ
+12035;Solo á mảnh vỡ
+12036;vòng vòng gấu mảnh vỡ
+12037;nhỏ thẻ so thú mảnh vỡ
+12038;nhỏ Lada mảnh vỡ
+12039;mã lực lộ mảnh vỡ
+12040;bảo thạch hải tinh mảnh vỡ
+12041;nhang muỗi nòng nọc mảnh vỡ
+12042;cúc cây cỏ mảnh vỡ
+12043;đâm giáp bối mảnh vỡ
+12044;thối bùn mảnh vỡ
+12045;ni nhiều lan mảnh vỡ
+12046;đại thực hoa mảnh vỡ
+12047;dung nham trùng mảnh vỡ
+12048;quỷ tư mảnh vỡ
+12049;nhiều đâm con cúc thú mảnh vỡ
+12050;heo lông dài mảnh vỡ
+12051;Pikachu mảnh vỡ
+12100;∞năng lượng cầu mảnh vỡ
+12101;thần siêu mộng mảnh vỡ
+12102;tia chớp Hồ địa mảnh vỡ
+12103;thần câu khăn đường ông mảnh vỡ
+12104;Thần Phượng vương mảnh vỡ
+12105;tia chớp liệt cắn lục cá mập mảnh vỡ
+12106;thần thủy quân mảnh vỡ
+12107;tia chớp bạo Lý Long mảnh vỡ
+12108;tia chớp Kathi chó mảnh vỡ
+12109;tia chớp tiên tử tinh linh mảnh vỡ
+12110;tia chớp nhanh rồng mảnh vỡ
+12111;thần bạo Phi Long mảnh vỡ
+12112;Thần lôi công mảnh vỡ
+12113;tia chớp siêu năng diệu meo mảnh vỡ
+12114;tia chớp thiên hạt vương mảnh vỡ
+12115;tia chớp oa oa ngâm con ếch mảnh vỡ
+12116;tia chớp cưỡi rồng mảnh vỡ
+12117;tia chớp Denis rùa mảnh vỡ
+12118;tia chớp Cửu Vĩ mảnh vỡ
+12119;tia chớp có thể đạt tới vịt mảnh vỡ
+12120;tia chớp Phi Thiên Đường Lang mảnh vỡ
+12121;tia chớp diệu con ếch hạt giống mảnh vỡ
+12122;tia chớp tiểu hỏa long mảnh vỡ
+12124;tia chớp thiết giáp tê giác mảnh vỡ
+12125;thần Viêm Đế mảnh vỡ
+12126;tia chớp sóng Coby mảnh vỡ
+12127;tia chớp hảo vận trứng mảnh vỡ
+12128;tia chớp lớn giáp mảnh vỡ
+12129;tia chớp lửa nhỏ diễm khỉ mảnh vỡ
+12130;tia chớp hoá thạch nón trụ mảnh vỡ
+12131;tia chớp cỏ mầm rùa mảnh vỡ
+12132;tia chớp ni nhiều lãng mảnh vỡ
+12133;tia chớp Hỏa Hồ ly mảnh vỡ
+12134;tia chớp sừng cá vàng mảnh vỡ
+12135;tia chớp béo đinh mảnh vỡ
+12136;tia chớp Solo á mảnh vỡ
+12137;tia chớp vòng vòng gấu mảnh vỡ
+12138;tia chớp nhỏ thẻ so thú mảnh vỡ
+13001;hình vuông nguyệt chi thạchI
+13002;hình vuông lôi chi thạchI
+13003;hình vuông thủy chi thạchI
+13004;hình vuông thủy chi thạchII
+13005;hình vuông ám chi thạchI
+13006;hình vuông ám chi thạchII
+13007;hình vuông quang chi thạchI
+13008;hình vuông quang chi thạchII
+13009;hình vuông hỏa chi thạchI
+13010;hình vuông hỏa chi thạchII
+13011;hình vuông hỏa chi thạchIII
+13012;hình quạt nguyệt chi thạchI
+13013;hình quạt lôi chi thạchI
+13014;hình quạt thủy chi thạchI
+13015;hình quạt thủy chi thạchII
+13016;hình quạt ám chi thạchI
+13017;hình quạt ám chi thạchII
+13018;hình quạt quang chi thạchI
+13019;hình quạt quang chi thạchII
+13020;hình quạt hỏa chi thạchI
+13021;hình quạt hỏa chi thạchII
+13022;hình quạt hỏa chi thạchIII
+13023;hình tròn nguyệt chi thạchI
+13024;hình tròn lôi chi thạchI
+13025;hình tròn thủy chi thạchI
+13026;hình tròn thủy chi thạchII
+13027;hình tròn ám chi thạchI
+13028;hình tròn ám chi thạchII
+13029;hình tròn quang chi thạchI
+13030;hình tròn quang chi thạchII
+13031;hình tròn hỏa chi thạchI
+13032;hình tròn hỏa chi thạchII
+13033;hình tròn hỏa chi thạchIII
+13034;thần bí lông vũ
+13035;trang bị bản vẽ(sơ)
+13036;trang bị bản vẽ+1
+13037;trang bị bản vẽ+2
+13038;trang bị bản vẽ+3
+13039;trang bị bản vẽ+4
+13040;trang bị bản vẽ+5
+13041;trang bị bản vẽ+6
+13042;trang bị bản vẽ+7
+13043;trang bị bản vẽ+8
+13044;trang bị bản vẽ+9
+13045;trang bị bản vẽ+10
+13046;trang bị bản vẽ+11
+13047;trang bị bản vẽ+12
+13048;trang bị bản vẽ+13
+13049;trang bị bản vẽ+14
+13050;trang bị bản vẽ+15
+13051;trang bị bản vẽ+16
+13052;trang bị bản vẽ+17
+13053;trang bị bản vẽ+18
+13054;trang bị bản vẽ+19
+13055;vạn năng kim loại
+13056;kỳ dị thiên thạch
+13057;chuyên môn dung hợp tề
+13058;trang bị bản vẽ tự do rương (0-3)
+13059;trang bị bản vẽ tự do rương (4-6)
+13060;trang bị bản vẽ tự do rương (7-9)
+13061;trang bị bản vẽ tự do rương (10-12)
+13062;trang bị bản vẽ tự do rương (13-15)
+13063;trang bị bản vẽ tổng thể rương
+14001;thủy ngọc dây lụa mảnh vỡ
+14002;than củi mảnh vỡ
+14003;bạch ngọc băng cột đầu mảnh vỡ
+14004;nhàn nhã huân hương mảnh vỡ
+14005;màu đen kính mắt mảnh vỡ
+14006;đồ chơi quyền sáo mảnh vỡ
+14007;Kim tệ bùa hộ mệnh mảnh vỡ
+14008;mỹ lệ chi vũ mảnh vỡ
+14009;long chi lân phiến mảnh vỡ
+14010;xương cốt bổng mảnh vỡ
+14011;sạch sẽ chi phù mảnh vỡ
+14012;may mắn trứng mảnh vỡ
+14013;phấn hồng dây lụa mảnh vỡ
+14014;thấu kính wide mảnh vỡ
+14015;màu vàng khăn trùm đầu mảnh vỡ
+14016;hải triều huân hương mảnh vỡ
+14017;không Dung Băng mảnh vỡ
+14018;hành tây mảnh vỡ
+14019;nguyền rủa chi phù mảnh vỡ
+14020;kỳ tích hạt giống mảnh vỡ
+14021;nam châm mảnh vỡ
+14022;long chi răng mảnh vỡ
+14023;phấn hồng trụy sức mảnh vỡ
+14024;nhịp khí mảnh vỡ
+14025;tơ lụa khăn quàng cổ mảnh vỡ
+14026;độc châm mảnh vỡ
+14027;khí thế băng cột đầu mảnh vỡ
+14028;tinh thần chi vũ mảnh vỡ
+14029;khí thế khoác mang mảnh vỡ
+14030;sắc bén miệng chim mảnh vỡ
+14031;giảng cứu băng cột đầu mảnh vỡ
+14032;ngân sắc chi vũ mảnh vỡ
+14033;biển âm thanh chi linh mảnh vỡ
+14034;uốn lượn thìa mảnh vỡ
+14035;lục sắc băng cột đầu mảnh vỡ
+14036;màu đỏ chi vũ mảnh vỡ
+14037;học rộng hiểu nhiều kính mắt mảnh vỡ
+14038;sắc bén chi trảo mảnh vỡ
+14039;hỏa diễm cổ tay mang mảnh vỡ
+14040;kỳ dị huân hương mảnh vỡ
+14041;giảng cứu khăn quàng cổ mảnh vỡ
+14042;bám vào châm mảnh vỡ
+14043;lực lượng cổ tay mang mảnh vỡ
+14044;sạch sẽ huân hương mảnh vỡ
+14045;viễn cổ bùa hộ mệnh mảnh vỡ
+14046;sắc bén chi nha mảnh vỡ
+14047;kiên cố hộ cụ mảnh vỡ
+14048;may mắn huân hương mảnh vỡ
+14049;tiêu điểm kính mảnh vỡ
+14050;cuộn chặt câu trảo mảnh vỡ
+14051;lấp lánh mặt dây chuyền mảnh vỡ
+14052;đóa hoa huân hương mảnh vỡ
+14053;chống bụi kính bảo hộ mảnh vỡ
+14054;thiên giới chi địch mảnh vỡ
+14055;vương giả chứng nhận mảnh vỡ
+14056;màu đỏ chi hoa mảnh vỡ
+14057;Sievert kiểm tra kính mảnh vỡ
+14058;siêu năng điều khiển từ xa mảnh vỡ
+14059;siêu cấp mặt dây chuyền mảnh vỡ
+14060;gợn sóng huân hương mảnh vỡ
+14061;smart glasses mảnh vỡ
+14062;siêu cấp lĩnh trượng mảnh vỡ
+14063;siêu cấp mào đầu mảnh vỡ
+14064;nham thạch huân hương mảnh vỡ
+14065;vũ lực áo choàng mảnh vỡ
+14066;vũ lực tạ mảnh vỡ
+14067;vũ lực băng cột đầu mảnh vỡ
+14068;vũ lực hộp băng mảnh vỡ
+14069;đạt nhân đen gấm mảnh vỡ
+14070;đạt nhân gai sắc mảnh vỡ
+14071;đạt nhân băng cột đầu mảnh vỡ
+14072;đạt nhân hộp băng mảnh vỡ
+14073;vinh quang khăn quàng cổ mảnh vỡ
+14074;vinh quang chi địch mảnh vỡ
+14075;vinh quang băng cột đầu mảnh vỡ
+14076;vinh quang hộp băng mảnh vỡ
+14077;thi sau nhỏ gói quàⅠ
+14078;thi sau nhỏ gói quàⅡ
+14079;thi sau nhỏ gói quàⅢ
+14080;không xuất bản nữa bảo rươngA
+14081;không xuất bản nữa bảo rươngS
+14082;chuyên môn bảo rươngS
+14083;bạo Lý Long ràng buộc bảo rương
+14084;mảnh vỡ bảo rươngA
+14085;mảnh vỡ bảo rươngS
+14086;phượng vương lông vũ
+14087;may mắn tinh linh bao
+14088;liên minh chiến hối đoái tệ
+14089;đạo quán tuyên chiến thẻ
+14090;Sơ cấp phi thuyền
+14091;Trung cấp phi thuyền
+14092;cao cấp phi thuyền
+14093;siêu cấp phi thuyền
+14094;đỉnh cấp phi thuyền
+14100;thức tỉnh chi thạch
+14101;Tiến Hóa Thạch
+14102;hoang dại tinh linh bảo rương
+14103;hoang dại tinh linh bảo rương
+14104;hoang dại tinh linh bảo rương
+14105;hoang dại tinh linh bảo rương
+14106;hoang dại tinh linh bảo rương
+14107;hoang dại tinh linh bảo rương
+14108;hoang dại tinh linh bảo rương
+14109;hoang dại tinh linh bảo rương
+14110;hoang dại tinh linh bảo rương
+14111;hoang dại tinh linh bảo rương
+14112;hoang dại tinh linh bảo rương
+14113;thức tỉnh chi tinh
+14114;thế giới nhiệm vụ bảo rương
+14115;thế giới nhiệm vụ bảo rương
+14116;thế giới nhiệm vụ bảo rương
+14117;thế giới nhiệm vụ bảo rương
+14118;thế giới nhiệm vụ bảo rương
+14119;thế giới nhiệm vụ bảo rương
+14120;thế giới nhiệm vụ bảo rương
+14121;thế giới nhiệm vụ bảo rương
+14122;thế giới nhiệm vụ bảo rương
+14123;thế giới nhiệm vụ bảo rương
+14124;thế giới nhiệm vụ bảo rương
+14125;thế giới nhiệm vụ bảo rương
+14126;thế giới nhiệm vụ bảo rương
+14127;thế giới nhiệm vụ bảo rương
+14128;thế giới nhiệm vụ bảo rương
+14129;thế giới nhiệm vụ bảo rương
+14130;thế giới nhiệm vụ bảo rương
+14131;thế giới nhiệm vụ bảo rương
+14132;thế giới nhiệm vụ bảo rương
+14133;thế giới nhiệm vụ bảo rương
+14134;thế giới nhiệm vụ bảo rương
+14135;thế giới nhiệm vụ bảo rương
+14136;thế giới nhiệm vụ bảo rương
+14137;thế giới nhiệm vụ bảo rương
+14138;thế giới nhiệm vụ bảo rương
+14139;cao cấp tài khoản bao
+14140;màu cam tinh linh mảnh vỡ rương
+14141;tia chớp tinh linh mảnh vỡ lựa chọn bảo rương I
+14142;tia chớp tinh linh mảnh vỡ lựa chọn bảo rương II
+14143;tia chớp tinh linh mảnh vỡ lựa chọn bảo rương III
+14144;16 tư chất tinh linh lựa chọn bảo rương
+14146;khoa học kỹ thuật bộ lựa chọn rương
+14147;vũ lực trang bị lựa chọn rương
+14148;đạt nhân trang bị lựa chọn rương
+14153;hoạt động phiếu hối đoái
+14161;siêu cấp xoay trứng
+14162;may mắn Pokeball
+14163;may mắn bảo vật rương
+14164;tia chớp tinh linh mảnh vỡ lựa chọn bảo rương X
+14165;tia chớp tinh linh mảnh vỡ lựa chọn bảo rương Y
+14166;tia chớp tinh linh mảnh vỡ lựa chọn bảo rương Z
+14167;tinh linh mảnh vỡ may mắn rương
+14168;bảo châu màu tím mảnh vỡ bảo rương
+14169;tử sắc phiến đá mảnh vỡ bảo rương
+14170;màu cam bảo châu mảnh vỡ bảo rương
+14171;màu cam phiến đá mảnh vỡ bảo rương
+14175;6 cấp bảo thạch lựa chọn rương
+14176;7 cấp bảo thạch lựa chọn rương
+14177;8 cấp bảo thạch lựa chọn rương
+14178;9 cấp bảo thạch lựa chọn rương
+14179;10 cấp bảo thạch lựa chọn rương
+14180;bảo vật vật liệu lựa chọn rương
+14181;bảo vật màu đỏ lựa chọn rương
+14182;màu cam bảo vật lựa chọn rương
+14185;URtinh linh mảnh vỡ lựa chọn rương
+14186;SSRtinh linh mảnh vỡ lựa chọn rương
+14187;cao cấp khoa học kỹ thuật bộ lựa chọn rương
+14188;cao cấp vũ lực bộ lựa chọn rương
+14189;cao cấp đạt nhân bộ lựa chọn rương
+14190;cao cấp vinh quang bộ lựa chọn rương
+14191;URchuyên môn bảo vật lựa chọn rương
+14192;SSRchuyên môn bảo vật lựa chọn rương
+14193;nhỏ kim cương bao
+14194;lớn kim cương bao
+14195;tử sắc trang bị mảnh vỡ lựa chọn rương
+14196;màu cam trang bị mảnh vỡ lựa chọn rương
+14197;màu đỏ trang bị mảnh vỡ lựa chọn rương
+14198;không xuất bản nữa gói quàA
+14199;không xuất bản nữa gói quàS
+14200;Trung cấp ngẫu nhiên bảo thạch rương
+14201;cao cấp ngẫu nhiên bảo thạch rương
+14202;cam phong mang chi nhận sáo trang lựa chọn rương
+14203;cam tự nhiên chi lực sáo trang lựa chọn rương
+14204;cam ngưng tụ chi phong sáo trang lựa chọn rương
+14205;cam lôi đình chi nộ sáo trang lựa chọn rương
+14206;đỏ phong mang chi nhận sáo trang lựa chọn rương
+14207;đỏ tự nhiên chi lực sáo trang lựa chọn rương
+14208;đỏ ngưng tụ chi phong sáo trang lựa chọn rương
+14209;Hồng Lôi đình chi nộ sáo trang lựa chọn rương
+14210;URtinh linh lựa chọn rương
+14211;SSRtinh linh lựa chọn rương
+14212;MMRthần tinh linh mảnh vỡ lựa chọn rương
+14213;MRtia chớp tinh linh mảnh vỡ lựa chọn rương
+14214;SRtia chớp tinh linh mảnh vỡ lựa chọn rương
+14215;MMRthần tinh linh chuyên môn bảo vật lựa chọn rương
+14216;MRtia chớp tinh linh chuyên môn bảo vật lựa chọn rương
+14217;SRtia chớp tinh linh chuyên môn bảo vật lựa chọn rương
+14218;tia chớp vạn năng mảnh vỡ
+14219;màu đỏ trang bị ngẫu nhiên rương I
+14220;đỉnh cấp trang bị bảo rương
+14221;12 tư chất chuyên môn bảo vật ngẫu nhiên rương
+14222;14 tư chất chuyên môn bảo vật ngẫu nhiên rương
+14223;16 tư chất chuyên môn bảo vật ngẫu nhiên rương
+14224;lam sắc trang bị ngẫu nhiên bảo rương I
+14225;tử sắc sinh mệnh sáo trang bảo rương
+14226;tử sắc công kích sáo trang bảo rương
+14227;chuyên môn bảo rươngA
+14228;oa oa ngâm con ếch ràng buộc bảo rương
+14229;Denis rùa ràng buộc bảo rương
+14230;Cửu Vĩ ràng buộc bảo rương
+14231;Hồ địa ràng buộc bảo rương
+14232;liệt cắn lục cá mập ràng buộc bảo rương
+14233;Kathi chó ràng buộc bảo rương
+14234;tiên tử tinh linh ràng buộc bảo rương
+14235;nhanh rồng ràng buộc bảo rương
+14236;siêu năng diệu meo ràng buộc bảo rương
+14237;thiên hạt vương ràng buộc bảo rương
+14238;ràng buộc gói quàA
+14239;ràng buộc gói quàS
+14240;ác mộng mảnh vỡ rương
+14241;SSRtinh linh mảnh vỡ rương
+14242;bảo châu màu đỏ mảnh vỡ ngẫu nhiên rương
+14243;màu đỏ phiến đá mảnh vỡ ngẫu nhiên rương
+14244;mỹ vị chi thủy
+14245;tinh thần sảng khoái nước ngọt
+14246;nước trái cây sữa bò
+14247;thể lực máy bán hàng
+14248;bảo châu màu đỏ ngẫu nhiên rương
+14249;màu đỏ phiến đá ngẫu nhiên rương
+15000;xoay trứng
+15001;cao cấp xoay trứng
+15002;siêu mộng
+15003;Hồ địa
+15004;câu khăn đường ông
+15005;phượng vương
+15006;liệt cắn lục cá mập
+15007;thủy quân
+15008;bạo Lý Long
+15009;Kathi chó
+15010;tiên tử tinh linh
+15011;nhanh rồng
+15012;bạo Phi Long
+15013;Lôi Công
+15014;siêu năng diệu meo
+15015;thiên hạt vương
+15016;oa oa ngâm con ếch
+15017;cưỡi rồng
+15018;Denis rùa
+15019;Cửu Vĩ
+15020;có thể đạt tới vịt
+15021;Phi Thiên Đường Lang
+15022;diệu con ếch hạt giống
+15023;tiểu hỏa long
+15024;Viêm Đế
+15025;thiết giáp tê giác
+15026;sóng Coby
+15027;hảo vận trứng
+15028;lớn giáp
+15029;lửa nhỏ diễm khỉ
+15030;hoá thạch nón trụ
+15031;cỏ mầm rùa
+15032;ni nhiều lãng
+15033;Hỏa Hồ ly
+15034;sừng cá vàng
+15035;béo đinh
+15036;Solo á
+15037;vòng vòng gấu
+15038;nhỏ thẻ so thú
+15039;nhỏ Lada
+15040;mã lực lộ
+15041;bảo thạch hải tinh
+15042;nhang muỗi nòng nọc
+15043;cúc cây cỏ
+15044;đâm giáp bối
+15045;thối bùn
+15046;ni nhiều lan
+15047;đại thực hoa
+15048;dung nham trùng
+15049;quỷ tư
+15050;nhiều đâm con cúc thú
+15051;heo lông dài
+15052;Pikachu
+15053;∞năng lượng cầu
+15101;thần siêu mộng
+15102;tia chớp Hồ địa
+15103;thần câu khăn đường ông
+15104;Thần Phượng vương
+15105;tia chớp liệt cắn lục cá mập
+15106;thần thủy quân
+15107;tia chớp bạo Lý Long
+15108;tia chớp Kathi chó
+15109;tia chớp tiên tử tinh linh
+15110;tia chớp nhanh rồng
+15111;thần bạo Phi Long
+15112;Thần lôi công
+15113;tia chớp siêu năng diệu meo
+15114;tia chớp thiên hạt vương
+15115;tia chớp oa oa ngâm con ếch
+15116;tia chớp cưỡi rồng
+15117;tia chớp Denis rùa
+15118;tia chớp Cửu Vĩ
+15119;tia chớp có thể đạt tới vịt
+15120;tia chớp Phi Thiên Đường Lang
+15121;tia chớp diệu con ếch hạt giống
+15122;tia chớp tiểu hỏa long
+15124;tia chớp thiết giáp tê giác
+15125;thần Viêm Đế
+15126;tia chớp sóng Coby
+15127;tia chớp hảo vận trứng
+15128;tia chớp lớn giáp
+15129;tia chớp lửa nhỏ diễm khỉ
+15130;tia chớp hoá thạch nón trụ
+15131;tia chớp cỏ mầm rùa
+15132;tia chớp ni nhiều lãng
+15133;tia chớp Hỏa Hồ ly
+15134;tia chớp sừng cá vàng
+15135;tia chớp béo đinh
+15136;tia chớp Solo á
+15137;tia chớp vòng vòng gấu
+15138;tia chớp nhỏ thẻ so thú
+16001;cơ sở ảnh chân dung khung
+16005;thụ kích phản kích
+16006;căn cứ nộ khí chênh lệch tổn thương tăng thêm
+16007;tại chỉ định vị trí triệu hoán một ngón tay địnhIDđích quái vật
+16008;dựa theo sinh mệnh hạn mức cao nhất khôi phục sinh mệnh
+16009;kiếm tâm
+16010;cảm giác điện
+16011;chuyển diBUFF
+16012;thụ kích phản tổn thương
+16013;phản kích mê muội
+16014;bắn tung tóe tổn thương
+16015;hắc ám
+16016;phục sinh
+16017;cải biến mục tiêu công kích lựa chọn
+16018;đặc thù hàng giận [ mỗi lần hợp hàng giận , đương nộ khí vì 0 lúc mê muội ]
+16019;trộm phòng ngự
+16020;trộm giận
+16021;đặc thù tĩnh tâm khúc [ nhận lúc công kích hàng giận ]
+16022;trộm công
+16023;ăn cắp sinh mệnh hạn mức cao nhất
+16050;đại dương màu xanh lam
+16051;vinh dự
+16052;phấn hồng hồi ức
+16053;linh vật
+16054;nóng hạ bờ biển
+16055;lông trắng
+16056;điện cao thế
+16057;Trung thu ngắm trăng
+16058;hoan độ Quốc Khánh
+16059;Giáng Sinh vui vẻ
+16060;khảo thí bao 1
+16061;khảo thí bao 2
+17001;nguyệt thẻ
+17002;cao cấp nguyệt thẻ
+17003;người mở đường
+17004;thực tiễn người. Sơ
+17005;thực tiễn người. Bên trong
+17006;thực tiễn người. Cực
+17007;điện cơ người. Đại địa
+17008;điện cơ người. Tinh linh
+17009;điện cơ người. Thế giới

@@ -1,0 +1,1147 @@
+1;Nam chính
+2;Nam chính +1
+3;Nam chính +2
+4;Nam chính +3
+5;Nam chính 13
+11;Nữ chính
+12;Nữ chính +1
+13;Nữ chính +2
+14;Nữ chính +3
+15;Nữ chính 13
+1101;Khăn vàng đao binh
+1102;Khăn vàng thương binh
+1103;Thuẫn vệ binh
+1104;Trường thương binh
+1105;Ảnh vệ
+1106;Trường cung binh
+1107;Cường nỗ binh
+1108;Kiếm mưu sĩ
+1109;Bộ binh hạng nhẹ
+1110;Y sư
+1111;Phương sĩ
+1112;Bộ binh hạng nặng
+1113;Cự chùy binh
+1114;Vũ cơ
+1115;Ca cơ
+1116;Nữ thích khách
+1117;Đao thuẫn binh hoàng
+1118;Đao thuẫn binh đỏ
+1119;Thương binh hoàng
+1120;Thương binh đỏ
+1121;Nỏ binh hoàng
+1122;Nỏ binh đỏ
+1123;Mập mạp binh
+1124;Cường tráng binh
+1125;Chồn Tiểu Thiền
+1126;Thiếu niên Quan Vũ
+1601;Cây rụng tiền
+1602;Đồng tước hóa thân
+1603;Cơ quan thú
+2201;Thái Sơn binh
+2202;Hổ vệ quân
+2203;Thanh Châu binh
+2301;Thái Sơn binh tinh anh
+2302;Hổ vệ quân tinh anh
+2303;Thanh Châu binh tinh anh
+2401;Quách nữ vương
+2402;Trâu phu nhân
+2403;Lý Điển
+2404;Tào Tiết
+2405;Biện hoàng hậu
+2501;Trương xuân hoa
+2502;Tuân Du
+2503;Tào Thực
+2504;Chân Cơ
+2505;Tào Tháo
+2506;Từ Hoảng
+2507;Nhạc Tiến
+2508;Hứa Chử
+2509;Tào Nhân
+2510;Đóng mở
+2511;Tuân Úc
+2512;Tào Phi
+2513;Quách Gia
+2514;Điển Vi
+2515;Hạ Hầu Uyên
+2516;Hạ Hầu Đôn
+2517;Tư Mã Ý
+2518;Trương Liêu
+2519;Dương Tu
+2601;Tào Tháo
+2602;Hứa Chử
+2603;Chân Cơ SSS
+2604;Hạ Hầu Đôn SSS
+2605;Tư Mã Ý SSS
+2606;Trương Liêu SSS
+2611;Tào Tháo ( Thần tướng )
+2612;Hứa Chử ( Thần tướng )
+2613;Chân Cơ ( Thần tướng )
+2614;Hạ Hầu Đôn ( Thần tướng )
+2615;Tư Mã Ý ( Thần tướng )
+2616;Trương Liêu ( Thần tướng )
+3201;Dạ Xoa đi
+3202;Nguyên nhung nỏ
+3203;Bạch Nhĩ binh
+3301;Dạ Xoa đi tinh anh
+3302;Nguyên nhung nỏ tinh anh
+3303;Bạch Nhĩ binh tinh anh
+3401;Cam phu nhân
+3402;Chu Thương
+3403;Quan bình
+3404;Quan ngân bình
+3405;Trương tinh màu
+3501;Mã Tắc
+3502;Mi phu nhân
+3503;Hoàng Nguyệt Anh
+3504;Từ Thứ
+3505;Lưu Bị
+3506;Quan tác
+3507;Chúc Dung
+3508;Mạnh Hoạch
+3509;Hoàng Trung
+3510;Ngụy Duyên
+3511;Pháp Chính
+3512;Bàng Thống
+3513;Khương duy
+3514;Mã Siêu
+3515;Trương Phi
+3516;Quan Vũ
+3517;Gia Cát Lượng
+3518;Triệu Vân
+3519;Tưởng uyển
+3601;Lưu Bị
+3602;Hoàng Trung
+3603;Hoàng Nguyệt Anh SSS
+3604;Quan Vũ SSS
+3605;Gia Cát Lượng SSS
+3606;Triệu Vân SSS
+3611;Lưu Bị ( Thần tướng )
+3612;Hoàng Trung ( Thần tướng )
+3613;Hoàng Nguyệt Anh ( Thần tướng )
+3614;Quan Vũ ( Thần tướng )
+3615;Gia Cát Lượng ( Thần tướng )
+3616;Triệu Vân ( Thần tướng )
+4201;Sơn Việt binh
+4202;Vũ Lâm vệ
+4203;Đan Dương binh
+4301;Sơn Việt binh tinh anh
+4302;Vũ Lâm vệ tinh anh
+4303;Đan Dương binh tinh anh
+4401;Cố Ung
+4402;Vương dị
+4403;Trương Chiêu
+4404;Trương hoành
+4405;Lăng thao
+4501;Ngô quốc quá
+4502;Gia Cát Cẩn
+4503;Tiểu Kiều
+4504;Đại Kiều
+4505;Tôn Quyền
+4506;Tôn Thượng Hương
+4507;Tôn Kiên
+4508;Phan Chương
+4509;Lăng thống
+4510;Hoàng Cái
+4511;Lỗ Túc
+4512;Lữ Mông
+4513;Lục Tốn
+4514;Chu Thái
+4515;Thái Sử Từ
+4516;Cam Ninh
+4517;Chu Du
+4518;Tôn Sách
+4519;Bước luyện sư
+4601;Tôn Quyền
+4602;Hoàng Cái
+4603;Tôn Thượng Hương SSS
+4604;Lục Tốn SSS
+4605;Chu Du SSS
+4606;Tôn Sách SSS
+4611;Tôn Quyền ( Thần tướng )
+4612;Hoàng Cái ( Thần tướng )
+4613;Tôn Thượng Hương ( Thần tướng )
+4614;Lục Tốn ( Thần tướng )
+4615;Chu Du ( Thần tướng )
+4616;Tôn Sách ( Thần tướng )
+5201;Đại kích sĩ
+5202;Hãm Trận doanh
+5203;Tiên đăng doanh
+5301;Đại kích sĩ tinh anh
+5302;Hãm Trận doanh tinh anh
+5303;Tiên đăng doanh tinh anh
+5401;Hà thái hậu
+5402;Trương Lương
+5403;Trương bảo
+5404;Trương Yến
+5405;Hà Tiến
+5501;Trần Cung
+5502;Hoa Đà
+5503;Thái Văn Cơ
+5504;Viên Thiệu
+5505;Viên Thuật
+5506;Cao Thuận
+5507;Hoa Hùng
+5508;Đổng Trác
+5509;Trương Tú
+5510;Tào Tính
+5511;Điêu Thuyền
+5512;Trương Giác
+5513;Giả Hủ
+5514;Văn Sú
+5515;Nhan Lương
+5516;Công Tôn Toản
+5517;Tả Từ
+5518;Lữ Bố
+5519;Thiện Đức hoàng hậu
+5520;Thủy Kính tiên sinh
+5521;Trương Trọng Cảnh
+5601;Viên Thiệu
+5602;Đổng Trác
+5603;Thái Văn Cơ SSS
+5604;Trương Giác SSS
+5605;Tả Từ SSS
+5606;Lữ Bố SSS
+5611;Viên Thiệu ( Thần tướng )
+5612;Đổng Trác ( Thần tướng )
+5613;Thái Văn Cơ ( Thần tướng )
+5614;Trương Giác ( Thần tướng )
+5615;Tả Từ ( Thần tướng )
+5616;Lữ Bố ( Thần tướng )
+10000;1 Vạn ngân tệ
+10001;5 Vạn ngân tệ
+10002;10 Vạn ngân tệ
+10003;50 Vạn ngân tệ
+10004;100 Vạn ngân tệ
+10005;2 Vạn ngân tệ
+10006;10 Nguyên bảo
+10007;50 Nguyên bảo
+10008;100 Nguyên bảo
+10009;500 Nguyên bảo
+10010;1000 Nguyên bảo
+10011;150 Nguyên bảo
+10012;Nhỏ thể lực đan
+10013;Thể lực đan
+10014;Đại thể lực đan
+10015;Thể lực Kim Đan
+10016;Đại thể lực Kim Đan
+10017;Nhỏ tinh lực đan
+10018;Tinh lực đan
+10019;Lớn tinh lực đan
+10020;Tinh lực Kim Đan
+10021;Lớn tinh lực Kim Đan
+10022;Tiểu chiến công cờ
+10023;Chiến công cờ
+10024;Đại chiến công cờ
+10025;Đặc biệt lớn chiến công cờ
+10026;Siêu cấp chiến công cờ
+10027;2000 Kinh nghiệm
+10028;20000 Kinh nghiệm
+10029;10000 Ngân tệ
+10030;Thay tên bài
+10031;Trận pháp đan
+10032;Nạp tiền điểm thẻ ( Nhỏ )
+10032;Nạp tiền điểm thẻ ( Nhỏ )
+10033;Nạp tiền điểm thẻ ( Lớn )
+10034;Cống hiến bài
+10035;Đặc huấn khiến
+10036;Kỵ thuật bí yếu
+10037;Binh trải qua cũng nên
+11000;Triệu hoán lệnh
+11001;Đột phá đan
+11001;Đột phá đan
+11002;Miễn chiến bài
+11003;Đổi mới khiến
+11004;Tẩy luyện thạch
+11005;Kỳ sách phù
+11005;Kỳ sách phù
+11006;Đổi vận phù
+11007;Đá năng lượng
+11008;VIP Điểm thẻ
+11009;Thần tướng tinh hóa
+11010;Huyền thiết
+11011;Châu báu
+11012;Bánh Trung thu
+11013;Quốc Khánh hồng kỳ
+11014;May mắn chìa khoá
+11015;Linh khí kết tinh
+11016;Bí ngân
+11017;Binh thư chi hồn
+11018;Chiến mã chi hồn
+11019;Thức tỉnh đan
+11019;Thức tỉnh đan
+11200;Tiến giai thẻ
+11201;Thần thạch
+11201;Thần thạch
+11202;Thần hồn
+11901;Ngọc lục bảo
+11902;Ngọc phỉ thúy
+11903;Phượng vũ
+11904;Phát sáng lá cây
+11905;Kim cương
+11906;Mai rùa
+11907;Ngọc như ý
+11908;Cự hình ngọc trai
+11909;Linh Lung Bảo Tháp
+12000;VIP Nhỏ Nguyên bảo
+12001;Đồng bảo rương
+12002;Ngân bảo rương
+12003;Kim bảo rương
+12004;Bạch kim bảo rương
+12005;Kim cương bảo rương
+12006;Chìa khóa đồng
+12007;Ngân chìa khoá
+12008;Chìa khóa vàng
+12009;Bạch kim chìa khoá
+12010;Kim cương chìa khoá
+12011;5 Tinh tướng hồn bao
+12012;6 Tinh tướng hồn bao
+12013;Lục lịch luyện bảo rương
+12014;Lam lịch luyện bảo rương
+12015;Tử sắc binh thư bao
+12016;Màu cam binh thư bao
+12017;Tử sắc chiến mã bao
+12018;Màu cam chiến mã bao
+12019;Tử sách mảnh vỡ bao
+12020;Cam sách mảnh vỡ bao
+12021;Tử ngựa mảnh vỡ bao
+12022;Cam ngựa mảnh vỡ bao
+12023;Tử bảo vật mảnh vỡ bao
+12024;Tử trang chuẩn bị mảnh vỡ bao
+12025;Màu cam võ tướng bao
+12026;Tam quốc hồng bao
+12027;Tử lịch luyện bảo rương
+12028;Chúa công võ tướng bao
+12029;Hi hữu đem hồn bao
+12030;Trung thu hộp quà
+12037;vip0 Gói quà
+12038;vip1 Gói quà
+12039;vip2 Gói quà
+12040;vip3 Gói quà
+12041;vip4 Gói quà
+12042;vip5 Gói quà
+12043;vip6 Gói quà
+12044;vip7 Gói quà
+12045;vip8 Gói quà
+12046;vip9 Gói quà
+12047;vip10 Gói quà
+12048;vip11 Gói quà
+12049;vip12 Gói quà
+12050;vip13 Gói quà
+12051;vip14 Gói quà
+12052;vip15 Gói quà
+12061;Đẳng cấp gói quà: 5
+12062;Đẳng cấp gói quà: 10
+12063;Đẳng cấp gói quà: 12
+12064;Đẳng cấp gói quà: 15
+12065;Đẳng cấp gói quà: 18
+12066;Đẳng cấp gói quà: 20
+12067;Đẳng cấp gói quà: 23
+12068;Đẳng cấp gói quà: 25
+12069;Đẳng cấp gói quà: 28
+12070;Đẳng cấp gói quà: 30
+12071;Đẳng cấp gói quà: 33
+12072;Đẳng cấp gói quà: 36
+12073;Đẳng cấp gói quà: 38
+12074;Đẳng cấp gói quà: 40
+12075;Đẳng cấp gói quà: 45
+12076;Đẳng cấp gói quà: 50
+12077;Đẳng cấp gói quà: 55
+12078;Đẳng cấp gói quà: 60
+12301;Tử sắc trang bị bao
+12302;Bảo vật màu tím bao
+12303;Cam trang mảnh vỡ bao
+12304;Màu cam trang bị bao
+12305;Ngụy quốc đem hồn bao
+12306;Thục quốc đem hồn bao
+12307;Ngô quốc đem hồn bao
+12308;Quần hùng đem hồn bao
+12309;Cao cấp võ tướng bao
+12310;Cam bảo vật mảnh vỡ bao
+12311;Màu cam bảo vật bao
+12312;Thủ mạo xưng gói quà lớn
+12313;Cam trang mảnh vỡ gói quà
+12314;S Y sư đem hồn bao
+12315;Tử kim trang bị mảnh vỡ bao
+12316;Tinh phẩm cam trang mảnh vỡ bao
+12317;Đỏ đem tiến hóa vật liệu bao
+12318;S Võ tướng gói quà lớn
+13001;Quà giáng sinh hộp
+13002;Giáng Sinh vớ ( Lục )
+13003;Giáng Sinh vớ ( Lam )
+13004;Giáng Sinh vớ ( Cam )
+13005;Giáng Sinh con nai bao
+13006;Quải trượng đường
+13007;Người tuyết kẹo que
+13008;Quà giáng sinh kim
+13009;Giáng Sinh mảnh vỡ
+13010;Bông tuyết mảnh vỡ
+13011;Than củi
+13012;5 Nguyên bảo
+13013;30 Nguyên bảo
+13014;Năm mới hộp quà
+13015;Năm mới phúc túi
+13016;3 Vạn ngân tệ
+13017;30 Vạn ngân tệ
+13018;Pháo
+13019;Sủi cảo
+13020;Bánh mật
+13021;Tiến hóa đem hồn bao ( Tào Tháo )
+13022;Tiến hóa đem hồn bao ( Lưu Bị )
+13023;Tiến hóa đem hồn bao ( Tôn Quyền )
+13024;Tiến hóa đem hồn bao ( Viên Thiệu )
+13025;Tiến hóa đem hồn bao ( Chân Cơ )
+13026;Tiến hóa đem hồn bao ( Hoàng Nguyệt Anh )
+13027;Tiến hóa đem hồn bao ( Tôn Thượng Hương )
+13028;Tiến hóa đem hồn bao ( Thái Văn Cơ )
+13029;Tiến hóa đem hồn bao ( Hứa Chử )
+13030;Tiến hóa đem hồn bao ( Hoàng Trung )
+13031;Tiến hóa đem hồn bao ( Hoàng Cái )
+13032;Tiến hóa đem hồn bao ( Đổng Trác )
+13033;Thức tỉnh bảo rương
+13034;Chơi diều
+15001;Ngụy quốc 6 Tinh tướng
+15002;Thục quốc 6 Tinh tướng
+15003;Ngô quốc 6 Tinh tướng
+15004;Quần hùng 6 Tinh tướng
+15005;5 Tinh võ tướng
+15006;GM Khảo thí bao
+15007;Đột phá đạo cụ bao
+15999;Năm mới hồng bao
+16000;Định hướng lựa chọn bao - Khảo thí
+16001;Sơ cấp cam trang lựa chọn bao
+16002;Bôn lôi sáo trang lựa chọn bao
+16004;Cam ngựa mảnh vỡ lựa chọn rương
+16005;Tử kim sáo trang lựa chọn bao
+16006;Ngụy quốc thần tướng lựa chọn bao
+16007;Thục quốc thần tướng lựa chọn bao
+16008;Ngô quốc thần tướng lựa chọn bao
+16009;Quần hùng thần tướng lựa chọn bao
+16010;Thần tướng lựa chọn rương
+16011;Hứa Chử vật liệu lựa chọn rương
+16012;Hoàng Trung vật liệu lựa chọn rương
+16013;Hoàng Cái vật liệu lựa chọn rương
+16014;Đổng Trác vật liệu lựa chọn rương
+16015;Thục S Võ tướng lựa chọn bao
+16016;Ngụy S Võ tướng lựa chọn bao
+16017;Ngô S Võ tướng lựa chọn bao
+16018;Bầy S Võ tướng lựa chọn bao
+16019;Lôi cuốn võ tướng lựa chọn bao
+16020;Màu cam chiến mã lựa chọn bao
+16021;Màu cam binh thư lựa chọn bao
+16022;Hạ Hầu Đôn vật liệu lựa chọn rương
+16023;Lục Tốn vật liệu lựa chọn rương
+16024;Trương Giác vật liệu lựa chọn rương
+16025;Đại thánh sáo trang lựa chọn bao
+16026;Quan Vũ vật liệu lựa chọn rương
+16027;Tào Tháo vật liệu lựa chọn rương
+16028;Lưu Bị vật liệu lựa chọn rương
+16029;Tôn Quyền vật liệu lựa chọn rương
+16030;Viên Thiệu vật liệu lựa chọn rương
+16031;Chân Cơ vật liệu lựa chọn rương
+16032;Hoàng Nguyệt Anh vật liệu lựa chọn rương
+16033;Tôn Thượng Hương vật liệu lựa chọn rương
+16034;Thái Văn Cơ vật liệu lựa chọn rương
+16035;Tư Mã Ý vật liệu lựa chọn rương
+16036;Gia Cát Lượng vật liệu lựa chọn rương
+16037;Chu Du vật liệu lựa chọn rương
+16038;Tả Từ vật liệu lựa chọn rương
+16039;Thần tướng chúa công lựa chọn bao
+16040;Thần tướng mãnh sĩ lựa chọn bao
+16041;Thần tướng nữ thần lựa chọn bao
+16042;Thần tướng tranh bá lựa chọn bao
+16043;Thần tướng quân sư lựa chọn bao
+16044;Trương Liêu vật liệu lựa chọn rương
+16045;Triệu Vân vật liệu lựa chọn rương
+16046;Tôn Sách vật liệu lựa chọn rương
+16047;Lữ Bố vật liệu lựa chọn rương
+16048;Chung cực thần tướng lựa chọn bao
+16049;S Y sư lựa chọn bao
+17000;Thần bí cửa hàng 8 Gãy thẻ
+17001;Trân phẩm cửa hàng 8 Gãy thẻ
+17002;Viễn chinh cửa hàng 8 Gãy thẻ
+17003;Kim tệ thương thành 8 Gãy thẻ
+17004;Thần tướng chiêu mộ 8 Gãy thẻ
+18001;Đoàn mua gói quà A
+18002;Đoàn mua gói quà B
+18003;Đoàn mua gói quà C
+18004;Đoàn mua gói quà D
+18005;Đỏ Viêm Thạch
+18006;Tam quốc vàng thỏi
+18006;Tam quốc vàng thỏi
+18007;Thần thú tinh phách
+18007;Thần thú tinh phách
+18008;Võ đạo Kim Đan
+18008;Thần Ma Kim Đan
+18101;Kỵ thuật thần thông
+18102;Binh pháp sở trường
+19000;Tiến hóa mảnh vỡ
+19401;Ngụy quốc thần tướng ⑴ Bao
+19402;Ngụy quốc thần tướng ⑵ Bao
+19403;Thục quốc thần tướng ⑴ Bao
+19404;Thục quốc thần tướng ⑵ Bao
+19405;Ngô quốc thần tướng ⑴ Bao
+19406;Ngô quốc thần tướng ⑵ Bao
+19407;Quần hùng thần tướng ⑴ Bao
+19408;Quần hùng thần tướng ⑵ Bao
+19409;Ngụy quốc thần tướng bao
+19410;Thục quốc thần tướng bao
+19411;Ngô quốc thần tướng bao
+19412;Quần hùng thần tướng bao
+19413;Thần tướng lựa chọn bao
+19501;Đêm nay ăn gà
+19501;Đêm nay ăn gà
+20000;Tư Mã Ý đem hồn
+20001;Trương Liêu đem hồn
+20002;Gia Cát Lượng đem hồn
+20003;Triệu Vân đem hồn
+20004;Chu Du đem hồn
+20005;Tôn Sách đem hồn
+20006;Tả Từ đem hồn
+20007;Lữ Bố đem hồn
+20008;Tuân Úc đem hồn
+20009;Tào Phi đem hồn
+20010;Quách Gia đem hồn
+20011;Điển Vi đem hồn
+20012;Hạ Hầu Uyên đem hồn
+20013;Hạ Hầu Đôn đem hồn
+20014;Pháp Chính đem hồn
+20015;Bàng Thống đem hồn
+20016;Khương duy đem hồn
+20017;Mã Siêu đem hồn
+20018;Trương Phi đem hồn
+20019;Quan Vũ đem hồn
+20020;Lỗ Túc đem hồn
+20021;Lữ Mông đem hồn
+20022;Lục Tốn đem hồn
+20023;Chu Thái đem hồn
+20024;Thái Sử Từ đem hồn
+20025;Cam Ninh đem hồn
+20026;Điêu Thuyền đem hồn
+20027;Trương Giác đem hồn
+20028;Giả Hủ đem hồn
+20029;Văn Sú đem hồn
+20030;Nhan Lương đem hồn
+20031;Công Tôn Toản đem hồn
+20032;Trương xuân hoa đem hồn
+20033;Tuân Du đem hồn
+20034;Tào Thực đem hồn
+20035;Chân Cơ đem hồn
+20036;Tào Tháo đem hồn
+20037;Từ Hoảng đem hồn
+20038;Nhạc Tiến đem hồn
+20039;Hứa Chử đem hồn
+20040;Tào Nhân đem hồn
+20041;Đóng mở đem hồn
+20042;Mã Tắc đem hồn
+20043;Mi phu nhân đem hồn
+20044;Hoàng Nguyệt Anh đem hồn
+20045;Từ Thứ đem hồn
+20046;Lưu Bị đem hồn
+20047;Quan tác đem hồn
+20048;Chúc Dung đem hồn
+20049;Mạnh Hoạch đem hồn
+20050;Hoàng Trung đem hồn
+20051;Ngụy Duyên đem hồn
+20052;Ngô quốc quá đem hồn
+20053;Gia Cát Cẩn đem hồn
+20054;Tiểu Kiều đem hồn
+20055;Đại Kiều đem hồn
+20056;Tôn Quyền đem hồn
+20057;Tôn Thượng Hương đem hồn
+20058;Tôn Kiên đem hồn
+20059;Phan Chương đem hồn
+20060;Lăng thống tướng hồn
+20061;Hoàng Cái đem hồn
+20062;Trần Cung đem hồn
+20063;Hoa Đà đem hồn
+20064;Thái Văn Cơ đem hồn
+20065;Viên Thiệu đem hồn
+20066;Viên Thuật đem hồn
+20067;Cao Thuận đem hồn
+20068;Hoa Hùng đem hồn
+20069;Đổng Trác đem hồn
+20070;Trương Tú đem hồn
+20071;Tào Tính đem hồn
+20072;Dương Tu đem hồn
+20073;Tưởng uyển đem hồn
+20074;Bước luyện sư đem hồn
+20075;Trương Trọng Cảnh đem hồn
+20500;Quách nữ vương đem hồn
+20501;Trâu phu nhân đem hồn
+20502;Lý Điển đem hồn
+20503;Tào Tiết đem hồn
+20504;Biện hoàng hậu đem hồn
+20505;Cam phu nhân đem hồn
+20506;Chu Thương đem hồn
+20507;Quan bình đem hồn
+20508;Quan ngân bình đem hồn
+20509;Trương tinh màu đem hồn
+20510;Cố Ung đem hồn
+20511;Vương dị đem hồn
+20512;Trương hoành đem hồn
+20513;Trương Chiêu đem hồn
+20514;Lăng thao đem hồn
+20515;Hà thái hậu đem hồn
+20516;Trương Lương đem hồn
+20517;Trương bảo đem hồn
+20518;Trương Yến đem hồn
+20519;Hà Tiến đem hồn
+21000;Tử kim trấn ma thương mảnh vỡ
+21001;Tử Kim Long văn khải mảnh vỡ
+21002;Tử kim như ý mang mảnh vỡ
+21003;Tử Kim Luyện hồn đeo mảnh vỡ
+21004;Bôn lôi nứt Thiên Cung mảnh vỡ
+21005;Bôn lôi Phá Quân khải mảnh vỡ
+21006;Bôn lôi trừ tà mang mảnh vỡ
+21007;Bôn lôi tru Lord of the Rings mảnh vỡ
+21008;Thanh Long Thần Hoàng kiếm mảnh vỡ
+21009;Huyền Vũ Trấn Ngục giáp mảnh vỡ
+21010;Chu Tước Phần Thiên mang mảnh vỡ
+21011;Bạch Hổ Thất Sát giới mảnh vỡ
+21012;Trăm trảm sóng to mảnh vỡ
+21013;Long ngâm chấn thiên giáp mảnh vỡ
+21014;Bá vương Ô Kim chụp mảnh vỡ
+21015;Khí thôn sơn hà mảnh vỡ
+21016;Bát Hoang tung hoành mảnh vỡ
+21017;U Minh độn địa giáp mảnh vỡ
+21018;Hắc Thủy Huyền Xà tác mảnh vỡ
+21019;Cửu khúc Hoàng Tuyền mảnh vỡ
+21020;Thiên địa song tuyệt mảnh vỡ
+21021;Vân tiêu thiên nga bào mảnh vỡ
+21022;Cửu Thiên Tiên nữ tia mảnh vỡ
+21023;Thông thiên lăng vân mảnh vỡ
+21024;Lôi minh trường thương mảnh vỡ
+21025;Lôi minh áo giáp mảnh vỡ
+21026;Lôi minh đai lưng mảnh vỡ
+21027;Lôi minh chiếc nhẫn mảnh vỡ
+21028;Thanh Long ma kích mảnh vỡ
+21029;Huyền Vũ thần giáp mảnh vỡ
+21030;Chu Tước Tiên Vũ mảnh vỡ
+21031;Bạch Hổ thánh giới mảnh vỡ
+21032;Hỏa văn liệt cung mảnh vỡ
+21033;Hư không vũ y mảnh vỡ
+21034;Thất tinh quấn eo mảnh vỡ
+21035;Thái hư chiếc nhẫn mảnh vỡ
+21036;Huyền Thiết Trọng Kiếm mảnh vỡ
+21037;Như Ý Hoàn khải mảnh vỡ
+21038;Đằng Long đai lưng mảnh vỡ
+21039;Ô Kim chiếc nhẫn mảnh vỡ
+21040;Phượng văn bảo đao mảnh vỡ
+21041;Bách thú chiến giáp mảnh vỡ
+21042;Mây trôi khăn lụa mảnh vỡ
+21043;Bảo vật gia truyền ngọc nát phiến
+21044;Đại thánh Như Ý Bổng mảnh vỡ
+21045;Đại thánh hoàng kim khải mảnh vỡ
+21046;Đại thánh phục ma mang mảnh vỡ
+21047;Đại thánh thông thiên quấn mảnh vỡ
+21100;Thượng cổ Khai Thiên Phủ mảnh vỡ
+21101;Thượng cổ thái hư giáp mảnh vỡ
+21102;Thượng cổ lưu ly mang mảnh vỡ
+21103;Thượng cổ Không Động Ấn mảnh vỡ
+22001;Tuyết trắng mảnh vỡ một
+22002;Tuyết trắng mảnh vỡ hai
+22003;Tuyết trắng mảnh vỡ ba
+22004;Mây đen mảnh vỡ một
+22005;Mây đen mảnh vỡ hai
+22006;Mây đen mảnh vỡ ba
+22007;Truy phong mảnh vỡ một
+22008;Truy phong mảnh vỡ hai
+22009;Truy phong mảnh vỡ ba
+22010;Truy phong mảnh vỡ bốn
+22011;Truy điện mảnh vỡ một
+22012;Truy điện mảnh vỡ hai
+22013;Truy điện mảnh vỡ ba
+22014;Truy điện mảnh vỡ bốn
+22015;Sương bạc mảnh vỡ một
+22016;Sương bạc mảnh vỡ hai
+22017;Sương bạc mảnh vỡ ba
+22018;Sương bạc mảnh vỡ bốn
+22019;Son phấn mảnh vỡ một
+22020;Son phấn mảnh vỡ hai
+22021;Son phấn mảnh vỡ ba
+22022;Son phấn mảnh vỡ bốn
+22023;Hãn huyết mảnh vỡ một
+22024;Hãn huyết mảnh vỡ hai
+22025;Hãn huyết mảnh vỡ ba
+22026;Hãn huyết mảnh vỡ bốn
+22027;Tượng Long mảnh vỡ một
+22028;Tượng Long mảnh vỡ hai
+22029;Tượng Long mảnh vỡ ba
+22030;Tượng Long mảnh vỡ bốn
+22031;Bóng xám mảnh vỡ một
+22032;Bóng xám mảnh vỡ hai
+22033;Bóng xám mảnh vỡ ba
+22034;Bóng xám mảnh vỡ bốn
+22035;Bóng xám mảnh vỡ năm
+22036;Kinh buồm mảnh vỡ một
+22037;Kinh buồm mảnh vỡ hai
+22038;Kinh buồm mảnh vỡ ba
+22039;Kinh buồm mảnh vỡ bốn
+22040;Kinh buồm mảnh vỡ năm
+22041;Charix bay nát phiến một
+22042;Charix bay nát phiến hai
+22043;Charix bay nát phiến ba
+22044;Charix bay nát phiến bốn
+22045;Charix bay nát phiến năm
+22046;Liệu nguyên lửa mảnh vỡ một
+22047;Liệu nguyên lửa mảnh vỡ hai
+22048;Liệu nguyên lửa mảnh vỡ ba
+22049;Liệu nguyên lửa mảnh vỡ bốn
+22050;Liệu nguyên lửa mảnh vỡ năm
+22051;Lư mảnh vỡ một
+22052;Lư mảnh vỡ hai
+22053;Lư mảnh vỡ ba
+22054;Lư mảnh vỡ bốn
+22055;Lư mảnh vỡ năm
+22056;Lư mảnh vỡ sáu
+22057;Tuyệt Ảnh mảnh vỡ một
+22058;Tuyệt Ảnh mảnh vỡ hai
+22059;Tuyệt Ảnh mảnh vỡ ba
+22060;Tuyệt Ảnh mảnh vỡ bốn
+22061;Tuyệt Ảnh mảnh vỡ năm
+22062;Tuyệt Ảnh mảnh vỡ sáu
+22063;Trảo Hoàng Phi điện mảnh vỡ một
+22064;Trảo Hoàng Phi điện mảnh vỡ hai
+22065;Trảo Hoàng Phi điện mảnh vỡ ba
+22066;Trảo Hoàng Phi điện mảnh vỡ bốn
+22067;Trảo Hoàng Phi điện mảnh vỡ năm
+22068;Trảo Hoàng Phi điện mảnh vỡ sáu
+22069;Chiếu đêm ngọc sư tử mảnh vỡ một
+22070;Chiếu đêm ngọc sư tử mảnh vỡ hai
+22071;Chiếu đêm ngọc sư tử mảnh vỡ ba
+22072;Chiếu đêm ngọc sư tử mảnh vỡ bốn
+22073;Chiếu đêm ngọc sư tử mảnh vỡ năm
+22074;Chiếu đêm ngọc sư tử mảnh vỡ sáu
+22075;Mây đen đạp tuyết mảnh vỡ một
+22076;Mây đen đạp tuyết mảnh vỡ hai
+22077;Mây đen đạp tuyết mảnh vỡ ba
+22078;Mây đen đạp tuyết mảnh vỡ bốn
+22079;Mây đen đạp tuyết mảnh vỡ năm
+22080;Mây đen đạp tuyết mảnh vỡ sáu
+22081;Xích Thố mảnh vỡ một
+22082;Xích Thố mảnh vỡ hai
+22083;Xích Thố mảnh vỡ ba
+22084;Xích Thố mảnh vỡ bốn
+22085;Xích Thố mảnh vỡ năm
+22086;Xích Thố mảnh vỡ sáu
+23000;Sách trải qua mảnh vỡ một
+23001;Sách trải qua mảnh vỡ hai
+23002;Sách trải qua mảnh vỡ ba
+23003;Mạch trải qua mảnh vỡ một
+23004;Mạch trải qua mảnh vỡ hai
+23005;Mạch trải qua mảnh vỡ ba
+23006;Xuân Thu mảnh vỡ một
+23007;Xuân Thu mảnh vỡ hai
+23008;Xuân Thu mảnh vỡ ba
+23009;Xuân Thu mảnh vỡ bốn
+23010;Tư Mã pháp mảnh vỡ một
+23011;Tư Mã pháp mảnh vỡ hai
+23012;Tư Mã pháp mảnh vỡ ba
+23013;Tư Mã pháp mảnh vỡ bốn
+23014;Làm sách mảnh vỡ một
+23015;Làm sách mảnh vỡ hai
+23016;Làm sách mảnh vỡ ba
+23017;Làm sách mảnh vỡ bốn
+23018;Thái bình thanh dẫn đường mảnh vỡ một
+23019;Thái bình thanh dẫn đường mảnh vỡ hai
+23020;Thái bình thanh dẫn đường mảnh vỡ ba
+23021;Thái bình thanh dẫn đường mảnh vỡ bốn
+23022;Hoàng đế nội kinh mảnh vỡ một
+23023;Hoàng đế nội kinh mảnh vỡ hai
+23024;Hoàng đế nội kinh mảnh vỡ ba
+23025;Hoàng đế nội kinh mảnh vỡ bốn
+23026;Chiến Quốc sách mảnh vỡ một
+23027;Chiến Quốc sách mảnh vỡ hai
+23028;Chiến Quốc sách mảnh vỡ ba
+23029;Chiến Quốc sách mảnh vỡ bốn
+23030;Sáu thao mảnh vỡ một
+23031;Sáu thao mảnh vỡ hai
+23032;Sáu thao mảnh vỡ ba
+23033;Sáu thao mảnh vỡ bốn
+23034;Sáu thao mảnh vỡ năm
+23035;Thái bình yếu thuật mảnh vỡ một
+23036;Thái bình yếu thuật mảnh vỡ hai
+23037;Thái bình yếu thuật mảnh vỡ ba
+23038;Thái bình yếu thuật mảnh vỡ bốn
+23039;Thái bình yếu thuật mảnh vỡ năm
+23040;Quỷ Cốc tử mảnh vỡ một
+23041;Quỷ Cốc tử mảnh vỡ hai
+23042;Quỷ Cốc tử mảnh vỡ ba
+23043;Quỷ Cốc tử mảnh vỡ bốn
+23044;Quỷ Cốc tử mảnh vỡ năm
+23045;Tây Thục bản đồ địa hình mảnh vỡ một
+23046;Tây Thục bản đồ địa hình mảnh vỡ hai
+23047;Tây Thục bản đồ địa hình mảnh vỡ ba
+23048;Tây Thục bản đồ địa hình mảnh vỡ bốn
+23049;Tây Thục bản đồ địa hình mảnh vỡ năm
+23050;Thanh túi sách mảnh vỡ một
+23051;Thanh túi sách mảnh vỡ hai
+23052;Thanh túi sách mảnh vỡ ba
+23053;Thanh túi sách mảnh vỡ bốn
+23054;Thanh túi sách mảnh vỡ năm
+23055;Thanh túi sách mảnh vỡ sáu
+23056;Mạnh Đức sách mới mảnh vỡ một
+23057;Mạnh Đức sách mới mảnh vỡ hai
+23058;Mạnh Đức sách mới mảnh vỡ ba
+23059;Mạnh Đức sách mới mảnh vỡ bốn
+23060;Mạnh Đức sách mới mảnh vỡ năm
+23061;Mạnh Đức sách mới mảnh vỡ sáu
+23062;Đạo Đức Kinh mảnh vỡ một
+23063;Đạo Đức Kinh mảnh vỡ hai
+23064;Đạo Đức Kinh mảnh vỡ ba
+23065;Đạo Đức Kinh mảnh vỡ bốn
+23066;Đạo Đức Kinh mảnh vỡ năm
+23067;Đạo Đức Kinh mảnh vỡ sáu
+23068;Độn giáp thiên thư mảnh vỡ một
+23069;Độn giáp thiên thư mảnh vỡ hai
+23070;Độn giáp thiên thư mảnh vỡ ba
+23071;Độn giáp thiên thư mảnh vỡ bốn
+23072;Độn giáp thiên thư mảnh vỡ năm
+23073;Độn giáp thiên thư mảnh vỡ sáu
+23074;Tôn Tử binh pháp mảnh vỡ một
+23075;Tôn Tử binh pháp mảnh vỡ hai
+23076;Tôn Tử binh pháp mảnh vỡ ba
+23077;Tôn Tử binh pháp mảnh vỡ bốn
+23078;Tôn Tử binh pháp mảnh vỡ năm
+23079;Tôn Tử binh pháp mảnh vỡ sáu
+23080;Tam quốc danh tướng ghi chép mảnh vỡ một
+23081;Tam quốc danh tướng ghi chép mảnh vỡ hai
+23082;Tam quốc danh tướng ghi chép mảnh vỡ ba
+23083;Tam quốc danh tướng ghi chép mảnh vỡ bốn
+23084;Tam quốc danh tướng ghi chép mảnh vỡ năm
+23085;Tam quốc danh tướng ghi chép mảnh vỡ sáu
+23086;Ngân Mã mảnh vỡ một
+23087;Ngân Mã mảnh vỡ hai
+23088;Ngân Mã mảnh vỡ ba
+23089;Kim mã mảnh vỡ một
+23090;Kim mã mảnh vỡ hai
+23091;Kim mã mảnh vỡ ba
+23092;Ngân sách mảnh vỡ một
+23093;Ngân sách mảnh vỡ hai
+23094;Ngân sách mảnh vỡ ba
+23095;Kim Thư mảnh vỡ một
+23096;Kim Thư mảnh vỡ hai
+23097;Kim Thư mảnh vỡ ba
+23098;Bảo vật tinh hoa mảnh vỡ một
+23099;Bảo vật tinh hoa mảnh vỡ hai
+23100;Bảo vật tinh hoa mảnh vỡ ba
+23101;Bảo vật tinh hoa mảnh vỡ bốn
+23102;Bảo vật tinh hoa mảnh vỡ năm
+23103;Bảo vật tinh hoa mảnh vỡ sáu
+24001;Chim khách họa cung mảnh vỡ
+24002;Nhai giác thương mảnh vỡ
+24003;Lông chim trả phiến mảnh vỡ
+24004;Càn Khôn Châu mảnh vỡ
+25001;Thư hùng hai đùi kiếm mảnh vỡ
+25002;Ngũ Hỏa Thất Cầm Phiến mảnh vỡ
+25003;Thần quỷ long đầu trượng mảnh vỡ
+25004;Mù sương lưu ly thương mảnh vỡ
+25005;Thanh Long diệu nhật đao mảnh vỡ
+25006;Vạn thạch chấn Thiên Cung mảnh vỡ
+25007;Hạo Thiên tháp mảnh vỡ
+25008;Luyện Yêu Hồ mảnh vỡ
+25009;Không Động Ấn mảnh vỡ
+25010;Bàn Cổ Phủ mảnh vỡ
+25011;Thần Nông đỉnh mảnh vỡ
+25012;Hiên Viên Kiếm mảnh vỡ
+30000;Đao sắt
+30001;Trường thương
+30002;Cung săn
+30003;Bách luyện đao
+30004;Khai Sơn Phủ
+30005;Lang Nha bổng
+30006;Lông trắng phiến
+30007;Tây Lương trường mâu
+30008;Bạch Mã Ngân Thương
+30009;Phượng văn bảo đao
+30010;Huyền Thiết Trọng Kiếm
+30011;Hỏa văn liệt cung
+30012;Thanh Long ma kích
+30013;Lôi minh trường thương
+30014;Thiên địa song tuyệt
+30015;Bát Hoang tung hoành
+30016;Trăm trảm sóng to
+30017;Thanh Long Thần Hoàng kiếm
+30018;Bôn lôi nứt Thiên Cung
+30019;Tử kim trấn ma thương
+30020;Thanh Long Yển Nguyệt Đao
+30021;Thần Vương trấn tà kiếm
+30022;Chí tôn mở Thiên Kích
+30023;Thiên địa song tuyệt ★
+30024;Bát Hoang tung hoành ★
+30025;Trăm trảm sóng to ★
+30026;Thanh Long Thần Hoàng kiếm ★
+30027;Bôn lôi nứt Thiên Cung ★
+30028;Tử kim trấn ma thương ★
+30029;Thanh Long Yển Nguyệt Đao ★
+30030;Thần Vương trấn tà kiếm ★
+30031;Chí tôn mở Thiên Kích ★
+30032;Đại thánh Như Ý Bổng
+30033;Đại thánh Như Ý Bổng ★
+30034;Thanh Long Thần Hoàng kiếm vạn
+30050;Thượng cổ Khai Thiên Phủ
+30051;Thượng cổ Khai Thiên Phủ ★
+30099;Giáng Sinh đường quải trượng
+30100;Vải thô áo
+30101;Ngư dân trang
+30102;Thợ săn phục
+30103;Thải cẩm áo
+30104;Võ sĩ bào
+30105;Áo da thú
+30106;Sắt văn giáp
+30107;Nam Man Đằng Giáp
+30108;Bạch mã áo giáp bạc
+30109;Bách thú chiến giáp
+30110;Như Ý Hoàn khải
+30111;Hư không vũ y
+30112;Huyền Vũ thần giáp
+30113;Lôi minh áo giáp
+30114;Vân tiêu thiên nga bào
+30115;U Minh độn địa giáp
+30116;Long ngâm chấn thiên giáp
+30117;Huyền Vũ Trấn Ngục giáp
+30118;Bôn lôi Phá Quân khải
+30119;Tử Kim Long văn khải
+30120;Thần Vương rèn hồn giáp
+30121;Chí tôn Viêm Đế khải
+30122;Vân tiêu thiên nga bào ★
+30123;U Minh độn địa giáp ★
+30124;Long ngâm chấn thiên giáp ★
+30125;Huyền Vũ Trấn Ngục giáp ★
+30126;Bôn lôi Phá Quân khải ★
+30127;Tử Kim Long văn khải ★
+30128;Thần Vương rèn hồn giáp ★
+30129;Chí tôn Viêm Đế khải ★
+30130;Đại thánh hoàng kim khải
+30131;Đại thánh hoàng kim khải ★
+30150;Thượng cổ thái hư giáp
+30151;Thượng cổ thái hư giáp ★
+30152;Huyền Vũ Trấn Ngục giáp vạn
+30199;Giáng Sinh quần áo mùa đông
+30200;Đai lưng
+30201;Cách đai lưng
+30202;Thiết hoàn chụp
+30203;Tơ lụa mang
+30204;Võ sĩ đai lưng
+30205;Da sói đai lưng
+30206;Đồng thau hộ eo
+30207;Bắc Khương đai lưng
+30208;Bạch mã ngân chụp
+30209;Mây trôi khăn lụa
+30210;Đằng Long đai lưng
+30211;Thất tinh quấn eo
+30212;Chu Tước Tiên Vũ
+30213;Lôi minh đai lưng
+30214;Cửu Thiên Tiên nữ tia
+30215;Hắc Thủy Huyền Xà tác
+30216;Bá vương Ô Kim chụp
+30217;Chu Tước Phần Thiên mang
+30218;Bôn lôi trừ tà mang
+30219;Tử kim như ý mang
+30220;Thần Vương khóa yêu tác
+30221;Chí tôn lạnh hồn tia
+30222;Cửu Thiên Tiên nữ tia ★
+30223;Hắc Thủy Huyền Xà tác ★
+30224;Bá vương Ô Kim chụp ★
+30225;Chu Tước Phần Thiên mang ★
+30226;Bôn lôi trừ tà mang ★
+30227;Tử kim như ý mang ★
+30228;Thần Vương khóa yêu tác ★
+30229;Chí tôn lạnh hồn tia ★
+30230;Đại thánh hoàng phục ma mang
+30231;Đại thánh hoàng phục ma mang ★
+30250;Thượng cổ lưu ly mang
+30251;Thượng cổ lưu ly mang ★
+30252;Chu Tước Phần Thiên mang vạn
+30299;Giáng Sinh đai lưng
+30300;Sắt chiếc nhẫn
+30301;Thanh đồng giới
+30302;Nhẫn bạc
+30303;Bách thảo kết
+30304;Nạm vàng giới
+30305;Lục ngón tay ngọc vòng
+30306;Ngọc thạch bùa hộ mệnh
+30307;Giang Đông đeo sức
+30308;Bạch mã hoàn bội
+30309;Bảo vật gia truyền ngọc
+30310;Ô Kim chiếc nhẫn
+30311;Thái hư chiếc nhẫn
+30312;Bạch Hổ thánh giới
+30313;Lôi minh chiếc nhẫn
+30314;Thông thiên lăng vân
+30315;Cửu khúc Hoàng Tuyền
+30316;Khí thôn sơn hà
+30317;Bạch Hổ Thất Sát giới
+30318;Bôn lôi tru Lord of the Rings
+30319;Tử Kim Luyện hồn đeo
+30320;Thần Vương phong Lord of the Rings
+30321;Chí tôn vô song giới
+30322;Thông thiên lăng vân ★
+30323;Cửu khúc Hoàng Tuyền ★
+30324;Khí thôn sơn hà ★
+30325;Bạch Hổ Thất Sát giới ★
+30326;Bôn lôi tru Lord of the Rings ★
+30327;Tử Kim Luyện hồn đeo ★
+30328;Thần Vương phong Lord of the Rings ★
+30329;Chí tôn vô song giới ★
+30330;Đại thánh thông thiên quấn
+30331;Đại thánh thông thiên quấn ★
+30350;Thượng cổ Không Động Ấn
+30351;Thượng cổ Không Động Ấn ★
+30352;Bạch Hổ Thất Sát giới vạn
+30399;Giáng Sinh vòng hoa
+30400;Tuyệt địa thần kiếm ( Dũng sĩ )
+30401;Tuyệt địa chiến giáp ( Dũng sĩ )
+30402;Tuyệt địa đai lưng ( Dũng sĩ )
+30403;Tuyệt địa dây chuyền ( Dũng sĩ )
+30404;Tuyệt địa thần kiếm ( Thanh đồng )
+30405;Tuyệt địa chiến giáp ( Thanh đồng )
+30406;Tuyệt địa đai lưng ( Thanh đồng )
+30407;Tuyệt địa dây chuyền ( Thanh đồng )
+30408;Tuyệt địa thần kiếm ( Bạch ngân )
+30409;Tuyệt địa chiến giáp ( Bạch ngân )
+30410;Tuyệt địa đai lưng ( Bạch ngân )
+30411;Tuyệt địa dây chuyền ( Bạch ngân )
+30412;Tuyệt địa thần kiếm ( Hoàng kim )
+30413;Tuyệt địa chiến giáp ( Hoàng kim )
+30414;Tuyệt địa đai lưng ( Hoàng kim )
+30415;Tuyệt địa dây chuyền ( Hoàng kim )
+30416;Tuyệt địa thần kiếm ( Bạch kim kim )
+30417;Tuyệt địa chiến giáp ( Bạch kim kim )
+30418;Tuyệt địa đai lưng ( Bạch kim kim )
+30419;Tuyệt địa dây chuyền ( Bạch kim kim )
+30420;Tuyệt địa thần kiếm ( Kim cương )
+30421;Tuyệt địa chiến giáp ( Kim cương )
+30422;Tuyệt địa đai lưng ( Kim cương )
+30423;Tuyệt địa dây chuyền ( Kim cương )
+30424;Tuyệt địa thần kiếm ( Tinh diệu )
+30425;Tuyệt địa chiến giáp ( Tinh diệu )
+30426;Tuyệt địa đai lưng ( Tinh diệu )
+30427;Tuyệt địa dây chuyền ( Tinh diệu )
+30428;Tuyệt địa thần kiếm ( Vương giả )
+30429;Tuyệt địa chiến giáp ( Vương giả )
+30430;Tuyệt địa đai lưng ( Vương giả )
+30431;Tuyệt địa dây chuyền ( Vương giả )
+30432;Tuyệt địa thần kiếm ( Sử thi )
+30433;Tuyệt địa chiến giáp ( Sử thi )
+30434;Tuyệt địa đai lưng ( Sử thi )
+30435;Tuyệt địa dây chuyền ( Sử thi )
+30500;Thanh Long thần kiếm ( Pháp khí )
+30501;Huyền Vũ ngục giáp ( Pháp khí )
+30502;Chu Tước đai lưng ( Pháp khí )
+30503;Bạch Hổ chiến giới ( Pháp khí )
+30504;Thanh Long thần kiếm ( Linh khí )
+30505;Huyền Vũ ngục giáp ( Linh khí )
+30506;Chu Tước đai lưng ( Linh khí )
+30507;Bạch Hổ chiến giới ( Linh khí )
+30508;Thanh Long thần kiếm ( Yêu khí )
+30509;Huyền Vũ ngục giáp ( Yêu khí )
+30510;Chu Tước đai lưng ( Yêu khí )
+30511;Bạch Hổ chiến giới ( Yêu khí )
+30512;Thanh Long thần kiếm ( Ma khí )
+30513;Huyền Vũ ngục giáp ( Ma khí )
+30514;Chu Tước đai lưng ( Ma khí )
+30515;Bạch Hổ chiến giới ( Ma khí )
+30516;Thanh Long thần kiếm ( Tiên Khí )
+30517;Huyền Vũ ngục giáp ( Tiên Khí )
+30518;Chu Tước đai lưng ( Tiên Khí )
+30519;Bạch Hổ chiến giới ( Tiên Khí )
+30520;Thanh Long thần kiếm ( Thần khí )
+30521;Huyền Vũ ngục giáp ( Thần khí )
+30522;Chu Tước đai lưng ( Thần khí )
+30523;Bạch Hổ chiến giới ( Thần khí )
+30524;Thanh Long thần kiếm ( Thánh khí )
+30525;Huyền Vũ ngục giáp ( Thánh khí )
+30526;Chu Tước đai lưng ( Thánh khí )
+30527;Bạch Hổ chiến giới ( Thánh khí )
+30528;Thanh Long thần kiếm ( Đế Hoàng )
+30529;Huyền Vũ ngục giáp ( Đế Hoàng )
+30530;Chu Tước đai lưng ( Đế Hoàng )
+30531;Bạch Hổ chiến giới ( Đế Hoàng )
+30532;Thanh Long thần kiếm ( Hỗn độn )
+30533;Huyền Vũ ngục giáp ( Hỗn độn )
+30534;Chu Tước đai lưng ( Hỗn độn )
+30535;Bạch Hổ chiến giới ( Hỗn độn )
+36001;Tuyết trắng
+36002;Mây đen
+36003;Truy phong
+36004;Truy điện
+36005;Sương bạc
+36006;Son phấn
+36101;Hãn huyết
+36102;Tượng Long
+36103;Bóng xám
+36104;Kinh buồm
+36105;Charix bay
+36106;Liệu nguyên lửa
+36201;Lư
+36202;Tuyệt Ảnh
+36203;Trảo Hoàng Phi điện
+36204;Chiếu đêm ngọc sư tử
+36205;Mây đen đạp tuyết
+36206;Xích Thố
+36301;Ngân Mã
+36302;Kim mã
+36401;Lư ★
+36402;Tuyệt Ảnh ★
+36403;Trảo Hoàng Phi điện ★
+36404;Chiếu đêm ngọc sư tử ★
+36405;Mây đen đạp tuyết ★
+36406;Xích Thố ★
+37001;Sách trải qua
+37002;Mạch trải qua
+37003;Xuân Thu
+37004;Tư Mã pháp
+37005;Làm sách
+37006;Thái bình thanh dẫn đường
+37101;Hoàng đế nội kinh
+37102;Chiến Quốc sách
+37103;Sáu thao
+37104;Thái bình yếu thuật
+37105;Quỷ Cốc tử
+37106;Tây Thục bản đồ địa hình
+37201;Thanh túi sách
+37202;Mạnh Đức sách mới
+37203;Đạo Đức Kinh
+37204;Độn giáp thiên thư
+37205;Tôn Tử binh pháp
+37206;Tam quốc danh tướng ghi chép
+37301;Ngân sách
+37302;Kim Thư
+37401;Thanh túi sách ★
+37402;Mạnh Đức sách mới ★
+37403;Đạo Đức Kinh ★
+37404;Độn giáp thiên thư ★
+37405;Tôn Tử binh pháp ★
+37406;Tam quốc danh tướng ghi chép ★
+38001;Bảo vật tinh hoa
+38002;Vũ sách [ Ngụy quốc ]
+38004;Trụ sách [ Thục quốc ]
+38006;Thiên thư [ Ngô quốc ]
+38008;Địa thư [ Quần hùng ]
+38010;Nhân Thư [ Nhân vật chính ]
+38012;Tuyệt trần [ Ngụy quốc ]
+38014;Huyễn ảnh [ Thục quốc ]
+38016;Vận may [ Ngô quốc ]
+38018;Tử điện [ Quần hùng ]
+38020;Long câu [ Nhân vật chính ]
+40001;★ Thần mã ★
+40002;★ Thần Thư ★
+98111;Nghịch thiên đan [ Nhân vật chính ]
+98111;Nghịch thiên đan [ Nhân vật chính ]
+100000;Chim khách họa cung
+100001;Nhai giác thương
+100002;Lông chim trả phiến
+100003;Càn Khôn Châu
+200000;Thư hùng hai đùi kiếm
+200001;Ngũ Hỏa Thất Cầm Phiến
+200002;Thần quỷ long đầu trượng
+200003;Mù sương lưu ly thương
+200004;Thanh Long diệu nhật đao
+200005;Vạn thạch chấn Thiên Cung
+200006;Hạo Thiên tháp
+200007;Luyện Yêu Hồ
+200008;Không Động Ấn
+200009;Bàn Cổ Phủ
+200010;Thần Nông đỉnh
+200011;Hiên Viên Kiếm

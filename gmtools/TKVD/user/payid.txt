@@ -1,0 +1,5 @@
+1;Linh thạch
+2;Đồng tiền
+3;Linh châu
+7;Cống hiến
+10; Ngọc giác

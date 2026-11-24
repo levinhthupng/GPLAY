@@ -1,0 +1,1481 @@
+diamond;-------------Tài Nguyên---------------
+diamond;Kim Nguyên Bảo
+gold,;Đồng
+food,;Lương thảo
+lumber,;Gỗ
+exp,;Kinh Nghiệm
+soul,;Tướng hồn
+tech,;Điểm Khoa kỹ
+horse;Bảo Mã
+wine;Mỹ Tửu
+book;Thư Họa
+medal;Khóa Phục
+jungong;Huyền Thiết
+duel;Xu Tôn Vinh
+juedou;Vé Chiêu Mộ
+fanpaibi;Xu Phiên Bài
+diamond;-------------Tướng Lam-Kim---------------
+hero,686,;Triệu Tử Long
+hero,696,;Nguyệt Thần Điêu Thuyền
+hero,716,;Tôn Bá Phù
+hero,496,;Gia Cát Lượng
+hero,396,;Chu Du
+hero,556,;Quách Gia
+hero,666,;Tả Từ
+hero,316,;Điển Vi
+hero,456,;Trương Phi
+hero,726,;Hỏa Thần Chúc Dung
+hero,736,;Thái Sử Tử Nghĩa
+hero,746,;Ti Mã Trọng Đạt
+hero,506,;Hứa Trử
+hero,516,;Hạ Hầu Uyên
+hero,356,;Quan Vũ
+hero,656,;Lữ Bố
+hero,806,;Hoàng Trung
+hero,776,;Từ Hoảng
+hero,786,;Gia Cát Khổng Minh
+hero,796,;Tuyệt Thế Vô Song
+hero,936,;Trương Dực Đức
+hero,606,;Lỗ Túc
+hero,596,;Tôn Kiên
+hero,506,;Hứa Chử
+hero,6345,;Vu Cát
+hero,6155,;Mã Siêu
+hero,756,;Thần Y Hoa Đà
+hero,12006,;Mỹ Nhân Tiên*Tiểu Kiều
+hero,12016,;Tiên Mỹ Nhân*Đại Kiều
+hero,12026,;Tru Tiên*Tôn Thượng Hương
+hero,4026,;Quan Yên*
+hero,996,;Tả Tiên Nhân*
+hero,956,;Đổng Trọng Dĩnh*
+hero,476,;Hán Chiêu Liệt Đế*Lưu Bị
+hero,526,;Bắc Ngụy Vũ Đế*Tào Tháo
+hero,556,;Đông Ngô Đại Đế*Tôn Quyền
+hero,816,;Thần * Lữ Phụng Tiên
+hero,926,;Thần * Quan Vân Trường
+hero,946,;Thần * Hoàng A Sửu
+hero,966,;Thần * Chu Công Cẩn
+hero,546,;Thần * Trương Văn Viễn
+hero,766,;Thần * Tôn Phu Nhân*
+hero,616,;Mạnh Hoạch (Hồng)
+hero,6425,;Lữ Linh Kỳ (Hồng)
+diamond;-------------Vật Phẩm Mới---------------
+item,10412,;Cao Cấp Tinh Luyện Thạch
+item,105,;Tướng tinh tệ lễ bao (20w)
+item,18,;Tinh Luyện Thạch Cam
+item,9105,;Thẻ VIP
+item,10392,;Mảnh Thẻ VIP
+item,74,;Huyễn Ảnh Đạo Cụ
+item,21,:Sách Chiến Công
+item,112,;Gói Quà 40M KNB
+item,102,;Gói Quà 2 Tỷ KNB
+item,112,;Gói Quà 100M KNB
+item,105,;Tương Tinh Tệ Lễ Bao (20w)
+item,103,;Kinh Nghiệm Lễ Bao (100w)
+item,107,;Tinh Luyện Thạch Lễ Bao (10w cái)
+item,108,;Chiến Công Sách Lễ Bao (10w cái)
+item,10395,;Thức Tỉnh Đan
+item,10411,;Tôn Phu Nhân Kế Thừa Thạch
+item,10409,;Nghịch Thiên Cải Mệnh Thạch
+item,10395,;Thức Tỉnh Đan
+item,10292,;Mệnh Cách Kinh Nghiệm
+item,2031,;Bảo Vật Kinh Nghiệm
+item,5005,;Rương Ngẫu Nhiên
+item,12,;Đỉnh Cấp Kinh Nghiệm Quyển Trục
+item,18,;Tinh Luyện Thạch Cam
+item,19,;Bảo Vật Tinh Luyện Đan
+item,20,;Đột Phá Lệnh
+item,5200,;Chiến Xa Thăng Tinh Thạch
+item,5210,;Chiến Xa Linh Kiện
+item,6001,;Hiên Viên
+item,6010,;Hòa Thị Bích
+item,6051,;Minh Hồng Đao
+item,6052,;Ly Hỏa Phiến
+item,6053,;Trác Việt Minh Hồng Đao
+item,6054,;Trác Việt Ly Hỏa Phiến
+item,6059,;Định Chế Minh Hồng Đao
+item,6055,;Định Chế Ly Hỏa Phiến
+item,6056,;Định Chế Ly Hỏa Phiến Công Kích
+item,6057,;Định Chế Ly Hỏa Phiến Thương Hại
+item,6061,;Định Chế Minh Hồng Đao 400 Chính Xác
+item,6058,;Định Chế Ly Hỏa Phiến 400 Né Tránh
+item,6207,;Hồng Xa Tinh Hoa
+item,4005,;Thanh Minh Kiếm Tài Liệu
+item,4006,;Bồng Lai Đầu Khôi Tài Liệu
+item,4007,;Bồng Lai Khải Giáp Tài Liệu
+item,4008,;Bồng Lai Yêu Đái Tài Liệu
+item,4009,;Tịch Tà Kiếm Tài Liệu
+item,4010,;Tịch Tà Đầu Khôi Tài Liệu
+item,4011,;Tịch Tà Khải Giáp Tài Liệu
+item,4012,;Tịch Tà Yêu Đái Tài Liệu
+item,4013,;Lam Điện Kiếm Tài Liệu
+item,4014,;Lam Kim Đầu Khôi Tài Liệu
+item,4015,;Lam Kim Khải Giáp Tài Liệu
+item,4016,;Lam Kim Yêu Đái Tài Liệu
+item,4017,;Lưu Tinh Kiếm Tài Liệu
+item,4018,;Côn Luân Đầu Khôi Tài Liệu
+item,4019,;Côn Luân Khải Giáp Tài Liệu
+item,4020,;Côn Luân Yêu Đái Tài Liệu
+item,4021,;Trấn Sơn Kiếm Tài Liệu
+item,4022,;Phi Long Đầu Khôi Tài Liệu
+item,4023,;Phi Long Khải Giáp Tài Liệu
+item,4024,;Phi Long Yêu Đái Tài Liệu
+item,4025,;Bách Lý Kiếm Tài Liệu
+item,4026,;Bách Chiến Đầu Khôi Tài Liệu
+item,4027,;Bách Chiến Khải Giáp Tài Liệu
+item,4028,;Bách Chiến Yêu Đái Tài Liệu
+item,4101,;Phi Cảnh Kiếm Tài Liệu
+item,4102,;Toan Nghê Đầu Khôi Tài Liệu
+item,4103,;Toan Nghê Khải Giáp Tài Liệu
+item,4104,;Toan Nghê Yêu Đái Tài Liệu
+item,4105,;Lưu Thải Kiếm Tài Liệu
+item,4106,;Nhạn Linh Đầu Khôi Tài Liệu
+item,4107,;Nhạn Linh Khải Giáp Tài Liệu
+item,4108,;Nhạn Linh Yêu Đái Tài Liệu
+item,10166,;Họa Ảnh Kiếm Tài Liệu
+item,10167,;Minh Quang Đầu Khôi Tài Liệu
+item,10168,;Minh Quang Khải Giáp Tài Liệu
+item,10169,;Minh Quang Yêu Đái Tài Liệu
+item,10293,;Thuần Quân Kiếm Tài Liệu
+item,10294,;Sát Linh Đầu Khôi Tài Liệu
+item,10295,;Sát Linh Khải Giáp Tài Liệu
+item,10296,;Sát Linh Yêu Đái Tài Liệu
+
+item,10244,;Kim * Dĩ Chiến Dưỡng Chiến (1)
+item,10245,;Kim * Dĩ Chiến Dưỡng Chiến (2)
+item,10246,;Kim * Dĩ Chiến Dưỡng Chiến (3)
+item,10247,;Kim * Dĩ Chiến Dưỡng Chiến (4)
+item,10248,;Kim * Dĩ Chiến Dưỡng Chiến (5)
+item,10249,;Kim * Dĩ Chiến Dưỡng Chiến (6)
+item,10268,;Kim * Thì Lai Vận Chuyển (1)
+item,10269,;Kim * Thì Lai Vận Chuyển (2)
+item,10270,;Kim * Thì Lai Vận Chuyển (3)
+item,10271,;Kim * Thì Lai Vận Chuyển (4)
+item,10272,;Kim * Thì Lai Vận Chuyển (5)
+item,10273,;Kim * Thì Lai Vận Chuyển (6)
+item,10274,;Kim * Sinh Tử Tướng Y (1)
+item,10275,;Kim * Sinh Tử Tướng Y (2)
+item,10276,;Kim * Sinh Tử Tướng Y (3)
+item,10277,;Kim * Sinh Tử Tướng Y (4)
+item,10278,;Kim * Sinh Tử Tướng Y (5)
+item,10279,;Kim * Sinh Tử Tướng Y (6)
+item,10280,;Kim * Nhu Trung Đái Cương (1)
+item,10281,;Kim * Nhu Trung Đái Cương (2)
+item,10282,;Kim * Nhu Trung Đái Cương (3)
+item,10283,;Kim * Nhu Trung Đái Cương (4)
+item,10284,;Kim * Nhu Trung Đái Cương (5)
+item,10285,;Kim * Nhu Trung Đái Cương (6)
+item,9324,;Dĩ Chiến Dưỡng Chiến Tinh Hoa
+item,9325,;Công Kỳ Bất Bị Tinh Hoa
+item,9326,;Hưng Sư Động Chúng Tinh Hoa
+item,9327,;Thiên Y Vô Phùng Tinh Hoa
+item,9328,;Thì Lai Vận Chuyển Tinh Hoa
+item,9329,;Sinh Tử Tướng Y Tinh Hoa
+item,9330,;Nhu Trung Đái Cương Tinh Hoa
+item,9331,;Cương Cường Bất Khuất Tinh Hoa
+item,87,;Kim Sắc Vạn Năng (Mảnh)
+item,1050,;Kim Sắc Hứa Chử (Mảnh)
+item,1051,;Phấn Sắc Hạ Hầu Uyên (Mảnh)
+item,1045,;Phấn Sắc Trương Phi (Mảnh)
+item,1010,;Phấn Sắc Hoàng Trung (Mảnh)
+item,1017,;Phấn Sắc Cam Ninh (Mảnh)
+item,1044,;Phấn Sắc Trương Giác (Mảnh)
+item,1048,;Phấn Sắc Từ Thứ (Mảnh)
+item,1054,;Phấn Sắc Trương Liêu (Mảnh)
+item,1056,;Phấn Sắc Tôn Thượng Hương (Mảnh)
+item,1059,;Phấn Sắc Tôn Kiên (Mảnh)
+item,1060,;Phấn Sắc Lỗ Túc (Mảnh)
+item,1061,;Phấn Sắc Mạnh Hoạch (Mảnh)
+item,1062,;Phấn Sắc Viên Thiệu (Mảnh)
+item,1064,;Phấn Sắc Viên Thuật (Mảnh)
+item,10000,;Phấn Sắc Trương Hợp (Mảnh)
+item,10001,;Phấn Sắc Hoàng Cái (Mảnh)
+item,10002,;Phấn Sắc Văn Sửu (Mảnh)
+item,10003,;Phấn Sắc Hoa Hùng (Mảnh)
+item,10004,;Phấn Sắc Lý Điển (Mảnh)
+item,10005,;Phấn Sắc Chân Cơ (Mảnh)
+item,10006,;Phấn Sắc Hạ Hầu Đôn (Mảnh)
+item,10007,;Phấn Sắc Ti Mã Ý (Mảnh)
+item,10008,;Phấn Sắc Giả Hủ (Mảnh)
+item,10009,;Phấn Sắc Tào Nhân (Mảnh)
+item,10010,;Phấn Sắc Triệu Vân (Mảnh)
+item,10011,;Phấn Sắc Mã Siêu (Mảnh)
+item,10012,;Phấn Sắc Hoàng Nguyệt Anh (Mảnh)
+item,10013,;Phấn Sắc Bàng Thống (Mảnh)
+item,10014,;Phấn Sắc Ngụy Diên (Mảnh)
+item,10015,;Phấn Sắc Khương Duy (Mảnh)
+item,10016,;Phấn Sắc Đại Kiều (Mảnh)
+item,10017,;Phấn Sắc Tiểu Kiều (Mảnh)
+item,10018,;Phấn Sắc Thái Sử Từ (Mảnh)
+item,10019,;Phấn Sắc Lục Tốn (Mảnh)
+item,10020,;Phấn Sắc Lữ Mông (Mảnh)
+item,10021,;Phấn Sắc Tôn Sách (Mảnh)
+item,10022,;Phấn Sắc Điêu Thiền (Mảnh)
+item,10023,;Phấn Sắc Nhan Lương (Mảnh)
+item,10024,;Phấn Sắc Vu Cát (Mảnh)
+item,10025,;Phấn Sắc Đổng Trác (Mảnh)
+item,10026,;Phấn Sắc Lữ Linh Ỷ (Mảnh)
+item,1031,;Điển Vi (Mảnh) (Lam Kim)
+item,1035,;Quan Vũ (Mảnh) (Lam Kim)
+item,1047,;Lưu Bị (Mảnh) (Lam Kim)
+item,1049,;Chư Cát Lượng (Mảnh) (Lam Kim)
+item,1052,;Tào Thao (Mảnh) (Lam Kim)
+item,1055,;Quách Gia (Mảnh) (Lam Kim)
+item,1057,;Tôn Quyền (Mảnh) (Lam Kim)
+item,1065,;Lữ Bố (Mảnh) (Lam Kim)
+item,1066,;Tả Từ (Mảnh) (Lam Kim)
+item,10144,;Tôn Bá Phù (Mảnh) (Lam Kim)
+item,10145,;Triệu Tử Long (Mảnh) (Lam Kim)
+item,10146,;Nguyệt Thần Điêu Thiền (Mảnh) (Lam Kim)
+item,10308,;Hỏa Thần Chúc Dung (Mảnh) (Lam Kim)
+item,10309,;Ti Mã Trọng Đạt (Mảnh) (Lam Kim)
+item,10310,;Thái Sử Tử Nghĩa (Mảnh) (Lam Kim)
+diamond;-------------Vật Phẩm---------------
+item,103,;Kinh nghiệm lễ bao (100w)
+item,10409,;Nghịch thiên cải mệnh thạch
+item,10411,;Tôn phu nhân kế thừa thạch
+item,107,;Tinh luyện thạch lễ bao (10w)
+item,108,;Chiến công sách lễ bao (10w)
+item,6001,;Hiên viên
+item,6010,;Hòa thị bích
+item,6051,;Minh hồng đao
+item,6052,;Ly hỏa phiến
+item,6053,;Trác việt minh hồng đao
+item,6054,;Trác việt ly hỏa phiến
+item,6059,;Định chế minh hồng đao
+item,6055,;Định chế ly hỏa phiến
+item,6207,;Hồng xa tinh hoa
+item,10166,;Họa ảnh kiếm Tài Liệu
+item,10167,;Minh quang đầu khôi Tài Liệu
+item,10168,;Minh quang khải giáp Tài Liệu
+item,10169,;Minh quang yêu đái Tài Liệu
+item,10293,;Thuần quân kiếm Tài Liệu
+item,10294,;Sát linh đầu khôi Tài Liệu
+item,10295,;Sát linh khải giáp Tài Liệu
+item,10296,;Sát linh yêu đái Tài Liệu
+diamond;-------------Xe Công Thành---------------
+item,5108,;Diệt Tuyệt Long Pháo
+item,5109,;Phích Lịch Phi Thạch
+item,5110,;Nam Man Cự Hạt
+item,5111,;Huyền Giáp Chiến Lang
+item,5112,;Thiết Thuẫn Đao Xa
+item,5113,;Xiêm La Cự Tượng
+item,5114,;Khổng Minh Phi Đĩnh
+item,5520,;Lam Tuynh Cự Thú Xa
+item,5523,;Bá Vương Mãnh Hổ Xa
+item,5524,;Hãn Huyết Chiến Dương Xa
+item,5120,;Dị Hình Chiến Long
+item,9324,;Lấy chiến dưỡng chiến tinh hoa
+item,9325,;Công kỳ bất bị tinh hoa
+item,9326,;Hưng sư động chúng tinh hoa
+item,9327,;Thiên y vô phùng tinh hoa
+item,9328,;Thời lai vận chuyển tinh hoa
+item,9329,;Sinh tử tương y tinh hoa
+item,9330,;Nhu trung đái cương tinh hoa
+item,9331,;Cương cường bất khuất tinh hoa
+diamond;-------------Tướng Tím---------------
+hero,73,;Nhạc Tiến
+hero,303,;Trương Xuân Hoa
+hero,323,;Quan Ngân Bình
+hero,343,;Quan Bình
+hero,333,;Mã Vân Lộc
+hero,363,;Chu Thái
+hero,153,;Bộ Luyện Sư
+hero,263,;Lư Thực
+hero,423,;Chúc Dung
+diamond;-------------Tướng Cam---------------
+hero,14,;Chân Cơ
+hero,34,;Hạ Hầu Đôn
+hero,44,;Tư Mã Ý
+hero,54,;Giả Hủ
+hero,64,;Tào Nhân
+hero,294,;Lý Điển
+hero,84,;Triệu Vân
+hero,94,;Mã Siêu
+hero,114,;Hoàng Nguyệt Anh
+hero,124,;Bàng Thống
+hero,134,;Ngụy Diên
+hero,144,;Khương Duy
+hero,374,;Đại Kiều
+hero,164,;Tiểu Kiều
+hero,184,;Thái Sử Từ
+hero,194,;Lục Tốn
+hero,204,;Lữ Mông
+hero,214,;Tôn Sách
+hero,224,;Điêu Thuyền
+hero,234,;Nhan Lương
+hero,244,;Vu Cát
+hero,254,;Đổng Trác
+hero,274,;Hoa Hùng
+hero,434,;Lữ Linh Khởi
+hero,24,;Trương Hợp
+hero,384,;Hoàng Cái
+hero,284,;Văn Xú
+diamond;-------------Mệnh Cách---------------
+item,10292,;Kim Sắc Mệnh Cách Kinh Nghiệm
+item,10244,;Kim*Dĩ Chiến Dưỡng Chiến (1)
+item,10245,;Kim*Dĩ Chiến Dưỡng Chiến (2)
+item,10246,;Kim*Dĩ Chiến Dưỡng Chiến (3)
+item,10247,;Kim*Dĩ Chiến Dưỡng Chiến (4)
+item,10248,;Kim*Dĩ Chiến Dưỡng Chiến (5)
+item,10249,;Kim*Dĩ Chiến Dưỡng Chiến (6)
+item,10250,;Kim*Công Kì Bất Bị (1)
+item,10251,;Kim*Công Kì Bất Bị (2)
+item,10252,;Kim*Công Kì Bất Bị (3)
+item,10253,;Kim*Công Kì Bất Bị (4)
+item,10254,;Kim*Công Kì Bất Bị (5)
+item,10255,;Kim*Công Kì Bất Bị (6)
+item,10256,;Kim*Hưng Sư Động Chúng (1)
+item,10257,;Kim*Hưng Sư Động Chúng (2)
+item,10258,;Kim*Hưng Sư Động Chúng (3)
+item,10259,;Kim*Hưng Sư Động Chúng (4)
+item,10260,;Kim*Hưng Sư Động Chúng (5)
+item,10261,;Kim*Hưng Sư Động Chúng (6)
+item,10262,;Kim*Thiên Y Vô Phùng (1)
+item,10263,;Kim*Thiên Y Vô Phùng (2)
+item,10264,;Kim*Thiên Y Vô Phùng (3)
+item,10265,;Kim*Thiên Y Vô Phùng (4)
+item,10266,;Kim*Thiên Y Vô Phùng (5)
+item,10267,;Kim*Thiên Y Vô Phùng (6)
+item,10268,;Kim*Thì Lai Vận Chuyển (1)
+item,10269,;Kim*Thì Lai Vận Chuyển (2)
+item,10270,;Kim*Thì Lai Vận Chuyển (3)
+item,10271,;Kim*Thì Lai Vận Chuyển (4)
+item,10272,;Kim*Thì Lai Vận Chuyển (5)
+item,10273,;Kim*Thì Lai Vận Chuyển (6)
+item,10274,;Kim*Sinh Tử Tướng Y (1)
+item,10275,;Kim*Sinh Tử Tướng Y (2)
+item,10276,;Kim*Sinh Tử Tướng Y (3)
+item,10277,;Kim*Sinh Tử Tướng Y (4)
+item,10278,;Kim*Sinh Tử Tướng Y (5)
+item,10279,;Kim*Sinh Tử Tướng Y (6)
+item,10280,;Kim*Nhu Trung Đái Cương (1)
+item,10281,;Kim*Nhu Trung Đái Cương (2)
+item,10282,;Kim*Nhu Trung Đái Cương (3)
+item,10283,;Kim*Nhu Trung Đái Cương (4)
+item,10284,;Kim*Nhu Trung Đái Cương (5)
+item,10285,;Kim*Nhu Trung Đái Cương (6)
+item,10286,;Kim*Cương Cường Bất Khuất (1)
+item,10287,;Kim*Cương Cường Bất Khuất (2)
+item,10288,;Kim*Cương Cường Bất Khuất (3)
+item,10289,;Kim*Cương Cường Bất Khuất (4)
+item,10290,;Kim*Cương Cường Bất Khuất (5)
+item,10291,;Kim*Cương Cường Bất Khuất (6)
+diamond;-------------Một Số Vật Phẩm Khác---------------
+diamond;-----------------Tự Kiểm Tra--------------------
+item,3,;Danh Tướng Lệnh
+item,4,;Thần Tướng Lệnh
+item,5,;Lệnh Làm Mới
+item,6,;Ngũ Thể Tinh Phách
+item,7,;Hồng Sắc Bảo Vật Toái Phiến
+item,8,;Hồng Sắc Bảo Vật Tinh Hoa
+item,9,;Sơ Cấp Kinh Nghiệm Quyển Trục
+item,10,;Trung Cấp Kinh Nghiệm Quyển Trục
+item,11,;Cao Cấp Kinh Nghiệm Quyển Trục
+item,12,;Đỉnh Cấp Kinh Nghiệm Quyển Trục
+item,13,;5 Cấp Kinh Nghiệm Quyển Trục
+item,14,;6 Cấp Kinh Nghiệm Quyển Trục
+item,15,;Lục Sắc Tinh Luyện Thạch
+item,16,;Lam Sắc Tinh Luyện Thạch
+item,17,;Tử Sắc Tinh Luyện Thạch
+item,18,;Chanh Sắc Tinh Luyện Thạch
+item,19,;Bảo Vật Tinh Luyện Đan
+item,20,;Đột Phá Lệnh
+item,21,;Chiến Công Sách
+item,22,;Quái Hồn
+item,23,;Ngụy Tướng Chiến Hồn
+item,24,;Thục Tướng Nghĩa Hồn
+item,25,;Ngô Tướng Vũ Hồn
+item,26,;Quần Hùng Anh Hồn
+item,27,;Ngụy Tướng Chiến Hồn Toái Phiến
+item,28,;Thục Tướng Nghĩa Hồn Toái Phiến
+item,29,;Ngô Tướng Vũ Hồn Toái Phiến
+item,30,;Quần Hùng Anh Hồn Toái Phiến
+item,31,;Triệu Vân Chi Hồn
+item,32,;Tôn Sách Chi Hồn
+item,33,;Triệu Vân Chi Hồn Toái Phiến
+item,34,;Tôn Sách Chi Hồn Toái Phiến
+item,35,;Hồng Sắc Đột Phá Lệnh
+item,36,;Hồng Tướng Thần Hồn
+item,37,;Hồng Tướng Thần Hồn Toái Phiến
+item,38,;Giác Tỉnh Đạo Cụ 16
+item,39,;Giác Tỉnh Đạo Cụ 17
+item,40,;Giác Tỉnh Đạo Cụ 18
+item,41,;Kim Tướng Thần Hồn
+item,42,;Kim Tướng Thần Hồn Toái Phiến
+item,43,;Giác Tỉnh Đạo Cụ 21
+item,44,;Giác Tỉnh Đạo Cụ 22
+item,45,;Giác Tỉnh Đạo Cụ 23
+item,46,;Giác Tỉnh Đạo Cụ 24
+item,47,;Giác Tỉnh Đạo Cụ 25
+item,48,;Giác Tỉnh Đạo Cụ 26
+item,49,;Giác Tỉnh Đạo Cụ 27
+item,50,;Giác Tỉnh Đạo Cụ 28
+item,51,;Giác Tỉnh Đạo Cụ 29
+item,52,;Giác Tỉnh Đạo Cụ 30
+item,53,;Giác Tỉnh Đạo Cụ 31
+item,54,;Giác Tỉnh Đạo Cụ 32
+item,55,;Giác Tỉnh Đạo Cụ 33
+item,56,;Giác Tỉnh Đạo Cụ 34
+item,57,;Giác Tỉnh Đạo Cụ 35
+item,58,;Giác Tỉnh Đạo Cụ 36
+item,59,;Giác Tỉnh Đạo Cụ 37
+item,60,;Lam Sắc Bảo Vật Toái Phiến
+item,61,;Tử Sắc Bảo Vật Toái Phiến
+item,62,;Chanh Sắc Bảo Vật Toái Phiến
+item,63,;Lam Sắc Bảo Vật Tinh Hoa
+item,64,;Tử Sắc Bảo Vật Tinh Hoa
+item,65,;Chanh Sắc Bảo Vật Tinh Hoa
+item,70,;Khánh Công Huân Chương
+item,71,;Phổ Thông Tửu
+item,72,;Xà Đảm Tửu
+item,73,;Hổ Cốt Tửu
+item,74,;Huyễn Ảnh Đạo Cụ
+item,75,;10 Cấp Tôn Hưởng Lễ Bao
+item,76,;20 Cấp Tôn Hưởng Lễ Bao
+item,77,;30 Cấp Tôn Hưởng Lễ Bao
+item,78,;35 Cấp Tôn Hưởng Lễ Bao
+item,79,;40 Cấp Tôn Hưởng Lễ Bao
+item,80,;45 Cấp Tôn Hưởng Lễ Bao
+item,81,;50 Cấp Tôn Hưởng Lễ Bao
+item,82,;55 Cấp Tôn Hưởng Lễ Bao
+item,83,;60 Cấp Tôn Hưởng Lễ Bao
+item,84,;65 Cấp Tôn Hưởng Lễ Bao
+item,85,;70 Cấp Tôn Hưởng Lễ Bao
+item,86,;Hồng Sắc Vạn Năng Toái Phiến
+item,87,;Kim Sắc Vạn Năng Toái Phiến
+item,100,;Giác Tỉnh Lệnh
+item,101,;10 Cấp Hồi Quỹ Lễ Bao
+item,102,;20 Cấp Hồi Quỹ Lễ Bao
+item,103,;30 Cấp Hồi Quỹ Lễ Bao
+item,104,;35 Cấp Hồi Quỹ Lễ Bao
+item,105,;40 Cấp Hồi Quỹ Lễ Bao
+item,106,;45 Cấp Hồi Quỹ Lễ Bao
+item,107,;50 Cấp Hồi Quỹ Lễ Bao
+item,108,;55 Cấp Hồi Quỹ Lễ Bao
+item,109,;60 Cấp Hồi Quỹ Lễ Bao
+item,110,;65 Cấp Hồi Quỹ Lễ Bao
+item,111,;70 Cấp Hồi Quỹ Lễ Bao
+item,112,;1 Cấp Vip Lễ Bao
+item,113,;2 Cấp Vip Lễ Bao
+item,114,;3 Cấp Vip Lễ Bao
+item,115,;4 Cấp Vip Lễ Bao
+item,116,;5 Cấp Vip Lễ Bao
+item,117,;6 Cấp Vip Lễ Bao
+item,118,;7 Cấp Vip Lễ Bao
+item,119,;8 Cấp Vip Lễ Bao
+item,120,;9 Cấp Vip Lễ Bao
+item,121,;10 Cấp Vip Lễ Bao
+item,122,;11 Cấp Vip Lễ Bao
+item,123,;12 Cấp Vip Lễ Bao
+item,124,;13 Cấp Vip Lễ Bao
+item,125,;14 Cấp Vip Lễ Bao
+item,126,;15 Cấp Vip Lễ Bao
+item,127,;14 Cấp Vip Lễ Bao
+item,128,;15 Cấp Vip Lễ Bao
+item,200,;Nhất Cá Tống Tử
+item,201,;Nhất Hạp Tống Tử
+item,202,;Nhất Cá Khí Cầu
+item,203,;Nhất Khổn Khí Cầu
+item,204,;Nhất Cá Lục Thất
+item,205,;Nhất Cá Kim Thất
+item,206,;Sĩ Binh Lệnh Bài
+item,207,;Tướng Lĩnh Lệnh Bài
+item,208,;Thánh Đản Đường Quả
+item,209,;Linh Đang
+item,210,;Đường Hồ Lô
+item,211,;Đăng Lung
+item,212,;Quải Kiện
+item,213,;Đăng Lung
+item,214,;Thang Viên
+item,215,;Quế Hoa
+item,216,;Tiểu Điểm Tâm
+item,217,;Mân Côi
+item,218,;Diện Cụ
+item,219,;Mạo Tử
+item,220,;Ngân Huân Chương
+item,221,;Kim Huân Chương
+item,222,;Niên Cao
+item,223,;Phúc Đại
+item,1000,;Vạn Năng Toái Phiến
+item,1001,;Chân Cơ Toái Phiến
+item,1002,;Trương Cáp Toái Phiến
+item,1003,;Hạ Hầu Đôn Toái Phiến
+item,1004,;Ti Mã Ý Toái Phiến
+item,1005,;Cổ Hủ Toái Phiến
+item,1006,;Tào Nhân Toái Phiến
+item,1007,;Nhạc Tiến Toái Phiến
+item,1008,;Triệu Vân Toái Phiến
+item,1009,;Mã Siêu Toái Phiến
+item,1010,;Hoàng Trung Toái Phiến
+item,1011,;Hoàng Nguyệt Anh Toái Phiến
+item,1012,;Bàng Thống Toái Phiến
+item,1013,;Ngụy Duyên Toái Phiến
+item,1014,;Khương Duy Toái Phiến
+item,1015,;Bộ Luyện Sư Toái Phiến
+item,1016,;Tiểu Kiều Toái Phiến
+item,1017,;Cam Trữ Toái Phiến
+item,1018,;Thái Sử Từ Toái Phiến
+item,1019,;Lục Tốn Toái Phiến
+item,1020,;Lữ Mông Toái Phiến
+item,1021,;Tôn Sách Toái Phiến
+item,1022,;Điêu Thiền Toái Phiến
+item,1023,;Nhan Lương Toái Phiến
+item,1024,;Vu Cát Toái Phiến
+item,1025,;Đổng Trác Toái Phiến
+item,1026,;Lô Thực Toái Phiến
+item,1027,;Hoa Hùng Toái Phiến
+item,1028,;Văn Sửu Toái Phiến
+item,1029,;Lí Điển Toái Phiến
+item,1030,;Trương Xuân Hoa Toái Phiến
+item,1031,;Điển Vi Toái Phiến
+item,1032,;Quan Ngân Bình Toái Phiến
+item,1033,;Mã Vân Lộc Toái Phiến
+item,1034,;Quan Bình Toái Phiến
+item,1035,;Quan Vũ Toái Phiến
+item,1036,;Chu Thái Toái Phiến
+item,1037,;Đại Kiều Toái Phiến
+item,1038,;Hoàng Cái Toái Phiến
+item,1039,;Chu Du Toái Phiến
+item,1040,;Thái Văn Cơ Toái Phiến
+item,1041,;Trương Lương Toái Phiến
+item,1042,;Chúc Dung Toái Phiến
+item,1043,;Lữ Linh Khỉ Toái Phiến
+item,1044,;Trương Giác Toái Phiến
+item,1045,;Trương Phi Toái Phiến
+item,1046,;Pháp Chính Toái Phiến
+item,1047,;Lưu Bị Toái Phiến
+item,1048,;Từ Thứ Toái Phiến
+item,1049,;Chư Cát Lượng Toái Phiến
+item,1050,;Hứa Trử Toái Phiến
+item,1051,;Hạ Hầu Uyên Toái Phiến
+item,1052,;Tào Tháo Toái Phiến
+item,1053,;Vu Cấm Toái Phiến
+item,1054,;Trương Liêu Toái Phiến
+item,1055,;Quách Gia Toái Phiến
+item,1056,;Tôn Thượng Hương Toái Phiến
+item,1057,;Tôn Quyền Toái Phiến
+item,1058,;Trình Phổ Toái Phiến
+item,1059,;Tôn Kiên Toái Phiến
+item,1060,;Lỗ Túc Toái Phiến
+item,1061,;Mạnh Hoạch Toái Phiến
+item,1062,;Viên Thiệu Toái Phiến
+item,1063,;Công Tôn Toản Toái Phiến
+item,1064,;Viên Thuật Toái Phiến
+item,1065,;Lữ Bố Toái Phiến
+item,1066,;Tả Từ Toái Phiến
+item,2001,;Trùng Trận Đồ Thuyết
+item,2002,;Trúc Thành Tổng Cương
+item,2003,;Đột Tiến Chiến Cổ
+item,2004,;Tây Xuyên Đích Đồ
+item,2005,;Ngũ Thạch Tán
+item,2006,;Thủy Kính Binh Pháp
+item,2007,;Trường Tín Cung Đăng
+item,2008,;Xuân Thu Tả Truyện
+item,2009,;Đỗ Khang
+item,2010,;Sử Kí
+item,2011,;Sĩ Phụ Chung
+item,2012,;Thạch Tích Tà
+item,2013,;Thái Bình Yếu Thuật
+item,2014,;Mạnh Đức Tân Thư
+item,2015,;Chiến Quốc Sách
+item,2016,;Thanh Nang Thư
+item,2017,;Hiên Viên
+item,2018,;Thất Tinh Đăng
+item,2019,;Trạm Lô
+item,2020,;Kim Lũ Ngọc Y
+item,2021,;Xích Tiêu
+item,2022,;Độn Giáp Thiên Thư
+item,2023,;Thất Tinh Đao
+item,2024,;Diêu Tiễn Thụ
+item,2025,;Kiền Tướng Mạc Tà
+item,2026,;Hòa Thị Bích
+item,2027,;Lam Sắc Kinh Nghiệm Bảo Vật
+item,2028,;Tử Sắc Kinh Nghiệm Bảo Vật
+item,2029,;Chanh Sắc Kinh Nghiệm Bảo Vật
+item,2030,;Hồng Sắc Kinh Nghiệm Bảo Vật
+item,2031,;Kim Sắc Kinh Nghiệm Bảo Vật
+item,2032,;Hòa Thị Bích
+item,2033,;Kim Sắc Kinh Nghiệm Bảo Vật
+item,2034,;Phá Thiên Thuẫn
+item,4001,;Bạch Sắc Vũ Khí Tài Liệu
+item,4002,;Bạch Sắc Đầu Khôi Tài Liệu
+item,4003,;Bạch Sắc Khải Giáp Tài Liệu
+item,4004,;Bạch Sắc Yêu Đái Tài Liệu
+item,4005,;Thanh Minh Kiếm Tài Liệu
+item,4006,;Bồng Lai Đầu Khôi Tài Liệu
+item,4007,;Bồng Lai Khải Giáp Tài Liệu
+item,4008,;Bồng Lai Yêu Đái Tài Liệu
+item,4009,;Tích Tà Kiếm Tài Liệu
+item,4010,;Tích Tà Đầu Khôi Tài Liệu
+item,4011,;Tích Tà Khải Giáp Tài Liệu
+item,4012,;Tích Tà Yêu Đái Tài Liệu
+item,4013,;Tử Điện Kiếm Tài Liệu
+item,4014,;Tử Kim Đầu Khôi Tài Liệu
+item,4015,;Tử Kim Khải Giáp Tài Liệu
+item,4016,;Tử Kim Yêu Đái Tài Liệu
+item,4017,;Lưu Tinh Kiếm Tài Liệu
+item,4018,;Côn Lôn Đầu Khôi Tài Liệu
+item,4019,;Côn Lôn Khải Giáp Tài Liệu
+item,4020,;Côn Lôn Yêu Đái Tài Liệu
+item,4021,;Trấn Sơn Kiếm Tài Liệu
+item,4022,;Phi Long Đầu Khôi Tài Liệu
+item,4023,;Phi Long Khải Giáp Tài Liệu
+item,4024,;Phi Long Yêu Đái Tài Liệu
+item,4025,;Bách Lí Kiếm Tài Liệu
+item,4026,;Bách Chiến Đầu Khôi Tài Liệu
+item,4027,;Bách Chiến Khải Giáp Tài Liệu
+item,4028,;Bách Chiến Yêu Đái Tài Liệu
+item,4029,;Trùng Trận Đồ Thuyết Toái Phiến
+item,4030,;Trúc Thành Tổng Cương Toái Phiến
+item,4031,;Đột Tiến Chiến Cổ Toái Phiến
+item,4032,;Tây Xuyên Đích Đồ Toái Phiến
+item,4033,;Ngũ Thạch Tán Toái Phiến
+item,4034,;Thủy Kính Binh Pháp Toái Phiến
+item,4035,;Trường Tín Cung Đăng Toái Phiến
+item,4036,;Xuân Thu Tả Truyện Toái Phiến
+item,4037,;Đỗ Khang Toái Phiến
+item,4038,;Sử Kí Toái Phiến
+item,4039,;Sĩ Phụ Chung Toái Phiến
+item,4040,;Thạch Tích Tà Toái Phiến
+item,4041,;Thái Bình Yếu Thuật Toái Phiến
+item,4042,;Mạnh Đức Tân Thư Toái Phiến
+item,4043,;Chiến Quốc Sách Toái Phiến
+item,4044,;Thanh Nang Thư Toái Phiến
+item,4045,;Hiên Viên Toái Phiến
+item,4046,;Thất Tinh Đăng Toái Phiến
+item,4047,;Trạm Lô Toái Phiến
+item,4048,;Kim Lũ Ngọc Y Toái Phiến
+item,4049,;Xích Tiêu Toái Phiến
+item,4050,;Độn Giáp Thiên Thư Toái Phiến
+item,4051,;Thất Tinh Đao Toái Phiến
+item,4052,;Diêu Tiễn Thụ Toái Phiến
+item,4053,;Kiền Tướng Mạc Tà Toái Phiến
+item,4054,;Hòa Thị Bích Toái Phiến
+item,4055,;Lam Sắc Kinh Nghiệm Bảo Vật Toái Phiến
+item,4056,;Tử Sắc Kinh Nghiệm Bảo Vật Toái Phiến
+item,4057,;Chanh Sắc Kinh Nghiệm Bảo Vật Toái Phiến
+item,4101,;Phi Cảnh Kiếm Tài Liệu
+item,4102,;Toan Nghê Đầu Khôi Tài Liệu
+item,4103,;Toan Nghê Khải Giáp Tài Liệu
+item,4104,;Toan Nghê Yêu Đái Tài Liệu
+item,4105,;Lưu Thải Kiếm Tài Liệu
+item,4106,;Nhạn Linh Đầu Khôi Tài Liệu
+item,4107,;Nhạn Linh Khải Giáp Tài Liệu
+item,4108,;Nhạn Linh Yêu Đái Tài Liệu
+item,5001,;Lục Sắc Trang Bị Bảo Rương
+item,5002,;Lam Sắc Trang Bị Bảo Rương
+item,5003,;Tử Sắc Trang Bị Bảo Rương
+item,5004,;Chanh Sắc Trang Bị Bảo Rương
+item,5005,;Hồng Sắc Trang Bị Bảo Rương
+item,5006,;Tử Sắc Bảo Vật Bảo Rương
+item,5007,;Chanh Sắc Bảo Vật Bảo Rương
+item,5008,;Hồng Sắc Bảo Vật Rương
+item,5009,;Chanh Sắc Bảo Vật Lễ Bao
+item,5010,;Chanh Sắc Trang Bị Lễ Bao
+item,5011,;Tử Tướng Toái Phiến Bảo Rương
+item,5012,;Chanh Tướng Toái Phiến Bảo Rương
+item,5013,;Chanh Sắc Vũ Tướng Lễ Bao
+item,5014,;Lục Sắc Bảo Vật Bảo Rương
+item,5015,;Lam Sắc Bảo Vật Bảo Rương
+item,5016,;Huyền Thưởng Tùy Cơ Bảo Rương
+item,5017,;Đê Cấp Bảo Vật Bảo Rương
+item,5018,;Trung Cấp Bảo Vật Bảo Rương
+item,5019,;Cao Cấp Bảo Vật Bảo Rương
+item,5020,;Đặc Cấp Bảo Vật Bảo Rương
+item,5021,;1 Cấp Huyền Thưởng Tùy Cơ Bảo Rương
+item,5022,;2 Cấp Huyền Thưởng Tùy Cơ Bảo Rương
+item,5023,;3 Cấp Huyền Thưởng Tùy Cơ Bảo Rương
+item,5024,;4 Cấp Huyền Thưởng Tùy Cơ Bảo Rương
+item,5025,;5 Cấp Huyền Thưởng Tùy Cơ Bảo Rương
+item,5026,;Chanh Sắc Tùy Cơ Bảo Vật
+item,5027,;Tử Sắc Tùy Cơ Bảo Vật
+item,5028,;1 Cấp Nghị Chính Thính Bảo Rương
+item,5029,;2 Cấp Nghị Chính Thính Bảo Rương
+item,5030,;3 Cấp Nghị Chính Thính Bảo Rương
+item,5031,;4 Cấp Nghị Chính Thính Bảo Rương
+item,5032,;5 Cấp Nghị Chính Thính Bảo Rương
+item,5100,;Thiết Đề Sào Xa
+item,5101,;Thủy Lục Tẩu Khả
+item,5102,;Tị Lôi Phi Thê
+item,5103,;Mộc Ngưu Lưu Mã
+item,5104,;Huyền Vũ Trùng Xa
+item,5105,;Mãnh Hỏa Toan Nghê
+item,5106,;Chiến Tranh Cự Thú
+item,5107,;Ky Thiết Liên Nỗ
+item,5108,;Diệt Tuyệt Long Pháo
+item,5109,;Phích Lịch Phi Thạch
+item,5110,;Nam Man Cự Hạt
+item,5111,;Huyền Giáp Chiến Lang
+item,5112,;Thiết Thuẫn Đao Xa
+item,5113,;Xiêm La Cự Tượng
+item,5114,;Khổng Minh Phi Đĩnh
+item,5200,;Chiến Xa Thăng Tinh Thạch
+item,5210,;Chiến Xa Linh Kiện
+item,5211,;Thiết Đề Sào Xa Mật Quyển
+item,5212,;Mộc Ngưu Lưu Mã Mật Quyển
+item,5213,;Thủy Lục Tẩu Khả Mật Quyển
+item,5214,;Tị Lôi Phi Thê Mật Quyển
+item,5215,;Chiến Tranh Cự Thú Mật Quyển
+item,5300,;Khóa Phục Quốc Chiến Bảo Rương
+item,5301,;Bạch Ngân Bảo Rương
+item,5302,;Hoàng Kim Bảo Rương
+item,5303,;Bạch Kim Bảo Rương
+item,5304,;Toản Thạch Bảo Rương
+item,5305,;Vương Giả Bảo Rương
+item,5400,;Thanh Long Kì
+item,5401,;Bạch Hổ Kì
+item,5402,;Chu Tước Kì
+item,5403,;Huyền Vũ Kì
+item,5404,;Câu Trần Kì
+item,5405,;Mã Giao Kì
+item,5406,;Ứng Long Kì
+item,5407,;Côn Bằng Kì
+item,5408,;Chúc Long Kì
+item,5409,;Lục Ngô Kì
+item,5410,;Bạch Trạch Kì
+item,5411,;Tam Túc Ô Kì
+item,5412,;Thanh Long Kì
+item,5413,;Thanh Long Kì
+item,5414,;Thanh Long Kì
+item,5415,;Thanh Long Kì
+item,5416,;Thanh Long Kì
+item,5417,;Thanh Long Kì
+item,5450,;Thánh Kì Chi Linh
+item,5451,;Thánh Kì Chi Thương
+item,5500,;Hồng Sắc Chiêu Mộ Lệnh
+item,5510,;Kim Sắc Chiêu Mộ Lệnh
+item,6001,;Hiên Viên
+item,6002,;Thất Tinh Đăng
+item,6003,;Trạm Lô
+item,6004,;Kim Lũ Ngọc Y
+item,6005,;Xích Tiêu
+item,6006,;Độn Giáp Thiên Thư
+item,6007,;Thất Tinh Đao
+item,6008,;Diêu Tiễn Thụ
+item,6009,;Kiền Tướng Mạc Tà
+item,6010,;Hòa Thị Bích
+item,6011,;Hiên Viên
+item,6012,;Thất Tinh Đăng
+item,6013,;Trạm Lô
+item,6014,;Kim Lũ Ngọc Y
+item,6015,;Xích Tiêu
+item,6016,;Độn Giáp Thiên Thư
+item,6017,;Thất Tinh Đao
+item,6018,;Diêu Tiễn Thụ
+item,6019,;Kiền Tướng Mạc Tà
+item,6020,;Hòa Thị Bích
+item,6021,;Hiên Viên
+item,6022,;Thất Tinh Đăng
+item,6023,;Trạm Lô
+item,6024,;Kim Lũ Ngọc Y
+item,6025,;Xích Tiêu
+item,6026,;Độn Giáp Thiên Thư
+item,6027,;Thất Tinh Đao
+item,6028,;Diêu Tiễn Thụ
+item,6029,;Kiền Tướng Mạc Tà
+item,6030,;Hòa Thị Bích
+item,6031,;Hiên Viên
+item,6032,;Thất Tinh Đăng
+item,6033,;Trạm Lô
+item,6034,;Kim Lũ Ngọc Y
+item,6035,;Xích Tiêu
+item,6036,;Độn Giáp Thiên Thư
+item,6037,;Thất Tinh Đao
+item,6038,;Diêu Tiễn Thụ
+item,6039,;Kiền Tướng Mạc Tà
+item,6040,;Hòa Thị Bích
+item,6041,;Hiên Viên
+item,6042,;Thất Tinh Đăng
+item,6043,;Trạm Lô
+item,6044,;Kim Lũ Ngọc Y
+item,6045,;Xích Tiêu
+item,6046,;Độn Giáp Thiên Thư
+item,6047,;Thất Tinh Đao
+item,6048,;Diêu Tiễn Thụ
+item,6049,;Kiền Tướng Mạc Tà
+item,6050,;Hòa Thị Bích
+item,6100,;Khóa Phục Lôi Thai Quan Quân Bảo Vật
+item,6101,;Khóa Phục Lôi Thai Á Quân Bảo Vật
+item,6102,;Khóa Phục Lôi Thai 3-4 Danh Bảo Vật
+item,6103,;Khóa Phục Lôi Thai 5-8 Danh Bảo Vật
+item,6104,;Khóa Phục Lôi Thai 9-16 Danh Bảo Vật
+item,6200,;Lam Xa Chú Tạo Tàn Hiệt
+item,6201,;Tử Xa Chú Tạo Tàn Hiệt
+item,6202,;Chanh Xa Chú Tạo Tàn Hiệt
+item,6203,;Hồng Xa Chú Tạo Tàn Hiệt
+item,6204,;Lam Xa Chú Tạo Thư
+item,6205,;Tử Xa Chú Tạo Thư
+item,6206,;Chanh Xa Chú Tạo Thư
+item,6207,;Hồng Xa Chú Tạo Thư
+item,7001,;Nhạc Tiến Tướng Tinh
+item,7002,;Bộ Luyện Sư Tướng Tinh
+item,7003,;Lô Thực Tướng Tinh
+item,7004,;Trương Xuân Hoa Tướng Tinh
+item,7005,;Quan Ngân Bình Tướng Tinh
+item,7006,;Mã Vân Lộc Tướng Tinh
+item,7007,;Quan Bình Tướng Tinh
+item,7008,;Chu Thái Tướng Tinh
+item,7009,;Thái Văn Cơ Tướng Tinh
+item,7010,;Trương Lương Tướng Tinh
+item,7011,;Chúc Dung Tướng Tinh
+item,7012,;Chân Cơ Tướng Tinh
+item,7013,;Trương Cáp Tướng Tinh
+item,7014,;Hạ Hầu Đôn Tướng Tinh
+item,7015,;Ti Mã Ý Tướng Tinh
+item,7016,;Cổ Hủ Tướng Tinh
+item,7017,;Tào Nhân Tướng Tinh
+item,7018,;Triệu Vân Tướng Tinh
+item,7019,;Mã Siêu Tướng Tinh
+item,7020,;Hoàng Nguyệt Anh Tướng Tinh
+item,7021,;Bàng Thống Tướng Tinh
+item,7022,;Ngụy Duyên Tướng Tinh
+item,7023,;Khương Duy Tướng Tinh
+item,7024,;Tiểu Kiều Tướng Tinh
+item,7025,;Thái Sử Từ Tướng Tinh
+item,7026,;Lục Tốn Tướng Tinh
+item,7027,;Lữ Mông Tướng Tinh
+item,7028,;Tôn Sách Tướng Tinh
+item,7029,;Điêu Thiền Tướng Tinh
+item,7030,;Nhan Lương Tướng Tinh
+item,7031,;Vu Cát Tướng Tinh
+item,7032,;Đổng Trác Tướng Tinh
+item,7033,;Hoa Hùng Tướng Tinh
+item,7034,;Văn Sửu Tướng Tinh
+item,7035,;Lí Điển Tướng Tinh
+item,7036,;Đại Kiều Tướng Tinh
+item,7037,;Hoàng Cái Tướng Tinh
+item,7038,;Lữ Linh Khỉ Tướng Tinh
+item,7039,;Hoàng Trung Tướng Tinh
+item,7040,;Cam Trữ Tướng Tinh
+item,7041,;Điển Vi Tướng Tinh
+item,7042,;Quan Vũ Tướng Tinh
+item,7043,;Chu Du Tướng Tinh
+item,7044,;Trương Giác Tướng Tinh
+item,7045,;Trương Phi Tướng Tinh
+item,7046,;Lưu Bị Tướng Tinh
+item,7047,;Từ Thứ Tướng Tinh
+item,7048,;Chư Cát Lượng Tướng Tinh
+item,7049,;Hứa Trử Tướng Tinh
+item,7050,;Hạ Hầu Uyên Tướng Tinh
+item,7051,;Tào Tháo Tướng Tinh
+item,7052,;Trương Liêu Tướng Tinh
+item,7053,;Quách Gia Tướng Tinh
+item,7054,;Tôn Thượng Hương Tướng Tinh
+item,7055,;Tôn Quyền Tướng Tinh
+item,7056,;Tôn Kiên Tướng Tinh
+item,7057,;Lỗ Túc Tướng Tinh
+item,7058,;Mạnh Hoạch Tướng Tinh
+item,7059,;Viên Thiệu Tướng Tinh
+item,7060,;Viên Thuật Tướng Tinh
+item,7061,;Lữ Bố Tướng Tinh
+item,7062,;Tả Từ Tướng Tinh
+item,8001,;Nhạc Tiến Tướng Tinh Toái Phiến
+item,8002,;Bộ Luyện Sư Tướng Tinh Toái Phiến
+item,8003,;Lô Thực Tướng Tinh Toái Phiến
+item,8004,;Trương Xuân Hoa Tướng Tinh Toái Phiến
+item,8005,;Quan Ngân Bình Tướng Tinh Toái Phiến
+item,8006,;Mã Vân Lộc Tướng Tinh Toái Phiến
+item,8007,;Quan Bình Tướng Tinh Toái Phiến
+item,8008,;Chu Thái Tướng Tinh Toái Phiến
+item,8009,;Thái Văn Cơ Tướng Tinh Toái Phiến
+item,8010,;Trương Lương Tướng Tinh Toái Phiến
+item,8011,;Chúc Dung Tướng Tinh Toái Phiến
+item,8012,;Chân Cơ Tướng Tinh Toái Phiến
+item,8013,;Trương Cáp Tướng Tinh Toái Phiến
+item,8014,;Hạ Hầu Đôn Tướng Tinh Toái Phiến
+item,8015,;Ti Mã Ý Tướng Tinh Toái Phiến
+item,8016,;Cổ Hủ Tướng Tinh Toái Phiến
+item,8017,;Tào Nhân Tướng Tinh Toái Phiến
+item,8018,;Triệu Vân Tướng Tinh Toái Phiến
+item,8019,;Mã Siêu Tướng Tinh Toái Phiến
+item,8020,;Hoàng Nguyệt Anh Tướng Tinh Toái Phiến
+item,8021,;Bàng Thống Tướng Tinh Toái Phiến
+item,8022,;Ngụy Duyên Tướng Tinh Toái Phiến
+item,8023,;Khương Duy Tướng Tinh Toái Phiến
+item,8024,;Tiểu Kiều Tướng Tinh Toái Phiến
+item,8025,;Thái Sử Từ Tướng Tinh Toái Phiến
+item,8026,;Lục Tốn Tướng Tinh Toái Phiến
+item,8027,;Lữ Mông Tướng Tinh Toái Phiến
+item,8028,;Tôn Sách Tướng Tinh Toái Phiến
+item,8029,;Điêu Thiền Tướng Tinh Toái Phiến
+item,8030,;Nhan Lương Tướng Tinh Toái Phiến
+item,8031,;Vu Cát Tướng Tinh Toái Phiến
+item,8032,;Đổng Trác Tướng Tinh Toái Phiến
+item,8033,;Hoa Hùng Tướng Tinh Toái Phiến
+item,8034,;Văn Sửu Tướng Tinh Toái Phiến
+item,8035,;Lí Điển Tướng Tinh Toái Phiến
+item,8036,;Đại Kiều Tướng Tinh Toái Phiến
+item,8037,;Hoàng Cái Tướng Tinh Toái Phiến
+item,8038,;Lữ Linh Khỉ Tướng Tinh Toái Phiến
+item,8039,;Hoàng Trung Tướng Tinh Toái Phiến
+item,8040,;Cam Trữ Tướng Tinh Toái Phiến
+item,8041,;Điển Vi Tướng Tinh Toái Phiến
+item,8042,;Quan Vũ Tướng Tinh Toái Phiến
+item,8043,;Chu Du Tướng Tinh Toái Phiến
+item,8044,;Trương Giác Tướng Tinh Toái Phiến
+item,8045,;Trương Phi Tướng Tinh Toái Phiến
+item,8046,;Lưu Bị Tướng Tinh Toái Phiến
+item,8047,;Từ Thứ Tướng Tinh Toái Phiến
+item,8048,;Chư Cát Lượng Tướng Tinh Toái Phiến
+item,8049,;Hứa Trử Tướng Tinh Toái Phiến
+item,8050,;Hạ Hầu Uyên Tướng Tinh Toái Phiến
+item,8051,;Tào Tháo Tướng Tinh Toái Phiến
+item,8052,;Trương Liêu Tướng Tinh Toái Phiến
+item,8053,;Quách Gia Tướng Tinh Toái Phiến
+item,8054,;Tôn Thượng Hương Tướng Tinh Toái Phiến
+item,8055,;Tôn Quyền Tướng Tinh Toái Phiến
+item,8056,;Tôn Kiên Tướng Tinh Toái Phiến
+item,8057,;Lỗ Túc Tướng Tinh Toái Phiến
+item,8058,;Mạnh Hoạch Tướng Tinh Toái Phiến
+item,8059,;Viên Thiệu Tướng Tinh Toái Phiến
+item,8060,;Viên Thuật Tướng Tinh Toái Phiến
+item,8061,;Lữ Bố Tướng Tinh Toái Phiến
+item,8062,;Tả Từ Tướng Tinh Toái Phiến
+item,8100,;Chanh Sắc Luân Hồi Thạch
+item,8101,;Hồng Sắc Luân Hồi Thạch
+item,8102,;Nhất Cá Nguyệt Bính
+item,8103,;Nhất Hạp Nguyệt Bính
+item,8104,;Thẻ đổi tên
+item,8105,;Yến Hội Nhân Khí Đệ Nhất Danh Bảo Rương
+item,8106,;Yến Hội Nhân Khí Đệ Nhị Danh Bảo Rương
+item,8107,;Yến Hội Nhân Khí Đệ Tam Danh Bảo Rương
+item,8110,;Phi Cảnh Kiếm
+item,8111,;Toan Nghê Đầu Khôi
+item,8112,;Kim Sắc Luân Hồi Thạch
+item,8200,;Dĩ Chiến Dưỡng Chiến (1)
+item,8201,;Dĩ Chiến Dưỡng Chiến (2)
+item,8202,;Dĩ Chiến Dưỡng Chiến (3)
+item,8203,;Dĩ Chiến Dưỡng Chiến (4)
+item,8204,;Dĩ Chiến Dưỡng Chiến (5)
+item,8205,;Dĩ Chiến Dưỡng Chiến (6)
+item,8210,;Công Kì Bất Bị (1)
+item,8211,;Công Kì Bất Bị (2)
+item,8212,;Công Kì Bất Bị (3)
+item,8213,;Công Kì Bất Bị (4)
+item,8214,;Công Kì Bất Bị (5)
+item,8215,;Công Kì Bất Bị (6)
+item,8220,;Hưng Sư Động Chúng (1)
+item,8221,;Hưng Sư Động Chúng (2)
+item,8222,;Hưng Sư Động Chúng (3)
+item,8223,;Hưng Sư Động Chúng (4)
+item,8224,;Hưng Sư Động Chúng (5)
+item,8225,;Hưng Sư Động Chúng (6)
+item,8230,;Thiên Y Vô Phùng (1)
+item,8231,;Thiên Y Vô Phùng (2)
+item,8232,;Thiên Y Vô Phùng (3)
+item,8233,;Thiên Y Vô Phùng (4)
+item,8234,;Thiên Y Vô Phùng (5)
+item,8235,;Thiên Y Vô Phùng (6)
+item,8240,;Thì Lai Vận Chuyển (1)
+item,8241,;Thì Lai Vận Chuyển (2)
+item,8242,;Thì Lai Vận Chuyển (3)
+item,8243,;Thì Lai Vận Chuyển (4)
+item,8244,;Thì Lai Vận Chuyển (5)
+item,8245,;Thì Lai Vận Chuyển (6)
+item,8250,;Sinh Tử Tướng Y (1)
+item,8251,;Sinh Tử Tướng Y (2)
+item,8252,;Sinh Tử Tướng Y (3)
+item,8253,;Sinh Tử Tướng Y (4)
+item,8254,;Sinh Tử Tướng Y (5)
+item,8255,;Sinh Tử Tướng Y (6)
+item,8260,;Nhu Trung Đái Cương (1)
+item,8261,;Nhu Trung Đái Cương (2)
+item,8262,;Nhu Trung Đái Cương (3)
+item,8263,;Nhu Trung Đái Cương (4)
+item,8264,;Nhu Trung Đái Cương (5)
+item,8265,;Nhu Trung Đái Cương (6)
+item,8270,;Cương Cường Bất Khuất (1)
+item,8271,;Cương Cường Bất Khuất (2)
+item,8272,;Cương Cường Bất Khuất (3)
+item,8273,;Cương Cường Bất Khuất (4)
+item,8274,;Cương Cường Bất Khuất (5)
+item,8275,;Cương Cường Bất Khuất (6)
+item,8290,;Dĩ Chiến Dưỡng Chiến (1)
+item,8291,;Dĩ Chiến Dưỡng Chiến (2)
+item,8292,;Dĩ Chiến Dưỡng Chiến (3)
+item,8293,;Dĩ Chiến Dưỡng Chiến (4)
+item,8294,;Dĩ Chiến Dưỡng Chiến (5)
+item,8295,;Dĩ Chiến Dưỡng Chiến (6)
+item,8300,;Công Kì Bất Bị (1)
+item,8301,;Công Kì Bất Bị (2)
+item,8302,;Công Kì Bất Bị (3)
+item,8303,;Công Kì Bất Bị (4)
+item,8304,;Công Kì Bất Bị (5)
+item,8305,;Công Kì Bất Bị (6)
+item,8310,;Hưng Sư Động Chúng (1)
+item,8311,;Hưng Sư Động Chúng (2)
+item,8312,;Hưng Sư Động Chúng (3)
+item,8313,;Hưng Sư Động Chúng (4)
+item,8314,;Hưng Sư Động Chúng (5)
+item,8315,;Hưng Sư Động Chúng (6)
+item,8320,;Thiên Y Vô Phùng (1)
+item,8321,;Thiên Y Vô Phùng (2)
+item,8322,;Thiên Y Vô Phùng (3)
+item,8323,;Thiên Y Vô Phùng (4)
+item,8324,;Thiên Y Vô Phùng (5)
+item,8325,;Thiên Y Vô Phùng (6)
+item,8330,;Thì Lai Vận Chuyển (1)
+item,8331,;Thì Lai Vận Chuyển (2)
+item,8332,;Thì Lai Vận Chuyển (3)
+item,8333,;Thì Lai Vận Chuyển (4)
+item,8334,;Thì Lai Vận Chuyển (5)
+item,8335,;Thì Lai Vận Chuyển (6)
+item,8340,;Sinh Tử Tướng Y (1)
+item,8341,;Sinh Tử Tướng Y (2)
+item,8342,;Sinh Tử Tướng Y (3)
+item,8343,;Sinh Tử Tướng Y (4)
+item,8344,;Sinh Tử Tướng Y (5)
+item,8345,;Sinh Tử Tướng Y (6)
+item,8350,;Nhu Trung Đái Cương (1)
+item,8351,;Nhu Trung Đái Cương (2)
+item,8352,;Nhu Trung Đái Cương (3)
+item,8353,;Nhu Trung Đái Cương (4)
+item,8354,;Nhu Trung Đái Cương (5)
+item,8355,;Nhu Trung Đái Cương (6)
+item,8360,;Cương Cường Bất Khuất (1)
+item,8361,;Cương Cường Bất Khuất (2)
+item,8362,;Cương Cường Bất Khuất (3)
+item,8363,;Cương Cường Bất Khuất (4)
+item,8364,;Cương Cường Bất Khuất (5)
+item,8365,;Cương Cường Bất Khuất (6)
+item,8380,;Dĩ Chiến Dưỡng Chiến (1)
+item,8381,;Dĩ Chiến Dưỡng Chiến (2)
+item,8382,;Dĩ Chiến Dưỡng Chiến (3)
+item,8383,;Dĩ Chiến Dưỡng Chiến (4)
+item,8384,;Dĩ Chiến Dưỡng Chiến (5)
+item,8385,;Dĩ Chiến Dưỡng Chiến (6)
+item,8390,;Công Kì Bất Bị (1)
+item,8391,;Công Kì Bất Bị (2)
+item,8392,;Công Kì Bất Bị (3)
+item,8393,;Công Kì Bất Bị (4)
+item,8394,;Công Kì Bất Bị (5)
+item,8395,;Công Kì Bất Bị (6)
+item,8400,;Hưng Sư Động Chúng (1)
+item,8401,;Hưng Sư Động Chúng (2)
+item,8402,;Hưng Sư Động Chúng (3)
+item,8403,;Hưng Sư Động Chúng (4)
+item,8404,;Hưng Sư Động Chúng (5)
+item,8405,;Hưng Sư Động Chúng (6)
+item,8410,;Thiên Y Vô Phùng (1)
+item,8411,;Thiên Y Vô Phùng (2)
+item,8412,;Thiên Y Vô Phùng (3)
+item,8413,;Thiên Y Vô Phùng (4)
+item,8414,;Thiên Y Vô Phùng (5)
+item,8415,;Thiên Y Vô Phùng (6)
+item,8420,;Thì Lai Vận Chuyển (1)
+item,8421,;Thì Lai Vận Chuyển (2)
+item,8422,;Thì Lai Vận Chuyển (3)
+item,8423,;Thì Lai Vận Chuyển (4)
+item,8424,;Thì Lai Vận Chuyển (5)
+item,8425,;Thì Lai Vận Chuyển (6)
+item,8430,;Sinh Tử Tướng Y (1)
+item,8431,;Sinh Tử Tướng Y (2)
+item,8432,;Sinh Tử Tướng Y (3)
+item,8433,;Sinh Tử Tướng Y (4)
+item,8434,;Sinh Tử Tướng Y (5)
+item,8435,;Sinh Tử Tướng Y (6)
+item,8440,;Nhu Trung Đái Cương (1)
+item,8441,;Nhu Trung Đái Cương (2)
+item,8442,;Nhu Trung Đái Cương (3)
+item,8443,;Nhu Trung Đái Cương (4)
+item,8444,;Nhu Trung Đái Cương (5)
+item,8445,;Nhu Trung Đái Cương (6)
+item,8450,;Cương Cường Bất Khuất (1)
+item,8451,;Cương Cường Bất Khuất (2)
+item,8452,;Cương Cường Bất Khuất (3)
+item,8453,;Cương Cường Bất Khuất (4)
+item,8454,;Cương Cường Bất Khuất (5)
+item,8455,;Cương Cường Bất Khuất (6)
+item,8470,;Dĩ Chiến Dưỡng Chiến (1)
+item,8471,;Dĩ Chiến Dưỡng Chiến (2)
+item,8472,;Dĩ Chiến Dưỡng Chiến (3)
+item,8473,;Dĩ Chiến Dưỡng Chiến (4)
+item,8474,;Dĩ Chiến Dưỡng Chiến (5)
+item,8475,;Dĩ Chiến Dưỡng Chiến (6)
+item,8480,;Công Kì Bất Bị (1)
+item,8481,;Công Kì Bất Bị (2)
+item,8482,;Công Kì Bất Bị (3)
+item,8483,;Công Kì Bất Bị (4)
+item,8484,;Công Kì Bất Bị (5)
+item,8485,;Công Kì Bất Bị (6)
+item,8490,;Hưng Sư Động Chúng (1)
+item,8491,;Hưng Sư Động Chúng (2)
+item,8492,;Hưng Sư Động Chúng (3)
+item,8493,;Hưng Sư Động Chúng (4)
+item,8494,;Hưng Sư Động Chúng (5)
+item,8495,;Hưng Sư Động Chúng (6)
+item,8500,;Thiên Y Vô Phùng (1)
+item,8501,;Thiên Y Vô Phùng (2)
+item,8502,;Thiên Y Vô Phùng (3)
+item,8503,;Thiên Y Vô Phùng (4)
+item,8504,;Thiên Y Vô Phùng (5)
+item,8505,;Thiên Y Vô Phùng (6)
+item,8510,;Thì Lai Vận Chuyển (1)
+item,8511,;Thì Lai Vận Chuyển (2)
+item,8512,;Thì Lai Vận Chuyển (3)
+item,8513,;Thì Lai Vận Chuyển (4)
+item,8514,;Thì Lai Vận Chuyển (5)
+item,8515,;Thì Lai Vận Chuyển (6)
+item,8520,;Sinh Tử Tướng Y (1)
+item,8521,;Sinh Tử Tướng Y (2)
+item,8522,;Sinh Tử Tướng Y (3)
+item,8523,;Sinh Tử Tướng Y (4)
+item,8524,;Sinh Tử Tướng Y (5)
+item,8525,;Sinh Tử Tướng Y (6)
+item,8530,;Nhu Trung Đái Cương (1)
+item,8531,;Nhu Trung Đái Cương (2)
+item,8532,;Nhu Trung Đái Cương (3)
+item,8533,;Nhu Trung Đái Cương (4)
+item,8534,;Nhu Trung Đái Cương (5)
+item,8535,;Nhu Trung Đái Cương (6)
+item,8540,;Cương Cường Bất Khuất (1)
+item,8541,;Cương Cường Bất Khuất (2)
+item,8542,;Cương Cường Bất Khuất (3)
+item,8543,;Cương Cường Bất Khuất (4)
+item,8544,;Cương Cường Bất Khuất (5)
+item,8545,;Cương Cường Bất Khuất (6)
+item,8560,;Dĩ Chiến Dưỡng Chiến (1)
+item,8561,;Dĩ Chiến Dưỡng Chiến (2)
+item,8562,;Dĩ Chiến Dưỡng Chiến (3)
+item,8563,;Dĩ Chiến Dưỡng Chiến (4)
+item,8564,;Dĩ Chiến Dưỡng Chiến (5)
+item,8565,;Dĩ Chiến Dưỡng Chiến (6)
+item,8570,;Công Kì Bất Bị (1)
+item,8571,;Công Kì Bất Bị (2)
+item,8572,;Công Kì Bất Bị (3)
+item,8573,;Công Kì Bất Bị (4)
+item,8574,;Công Kì Bất Bị (5)
+item,8575,;Công Kì Bất Bị (6)
+item,8580,;Hưng Sư Động Chúng (1)
+item,8581,;Hưng Sư Động Chúng (2)
+item,8582,;Hưng Sư Động Chúng (3)
+item,8583,;Hưng Sư Động Chúng (4)
+item,8584,;Hưng Sư Động Chúng (5)
+item,8585,;Hưng Sư Động Chúng (6)
+item,8590,;Thiên Y Vô Phùng (1)
+item,8591,;Thiên Y Vô Phùng (2)
+item,8592,;Thiên Y Vô Phùng (3)
+item,8593,;Thiên Y Vô Phùng (4)
+item,8594,;Thiên Y Vô Phùng (5)
+item,8595,;Thiên Y Vô Phùng (6)
+item,8600,;Thì Lai Vận Chuyển (1)
+item,8601,;Thì Lai Vận Chuyển (2)
+item,8602,;Thì Lai Vận Chuyển (3)
+item,8603,;Thì Lai Vận Chuyển (4)
+item,8604,;Thì Lai Vận Chuyển (5)
+item,8605,;Thì Lai Vận Chuyển (6)
+item,8610,;Sinh Tử Tướng Y (1)
+item,8611,;Sinh Tử Tướng Y (2)
+item,8612,;Sinh Tử Tướng Y (3)
+item,8613,;Sinh Tử Tướng Y (4)
+item,8614,;Sinh Tử Tướng Y (5)
+item,8615,;Sinh Tử Tướng Y (6)
+item,8620,;Nhu Trung Đái Cương (1)
+item,8621,;Nhu Trung Đái Cương (2)
+item,8622,;Nhu Trung Đái Cương (3)
+item,8623,;Nhu Trung Đái Cương (4)
+item,8624,;Nhu Trung Đái Cương (5)
+item,8625,;Nhu Trung Đái Cương (6)
+item,8630,;Cương Cường Bất Khuất (1)
+item,8631,;Cương Cường Bất Khuất (2)
+item,8632,;Cương Cường Bất Khuất (3)
+item,8633,;Cương Cường Bất Khuất (4)
+item,8634,;Cương Cường Bất Khuất (5)
+item,8635,;Cương Cường Bất Khuất (6)
+item,8650,;Dĩ Chiến Dưỡng Chiến (1)
+item,8651,;Dĩ Chiến Dưỡng Chiến (2)
+item,8652,;Dĩ Chiến Dưỡng Chiến (3)
+item,8653,;Dĩ Chiến Dưỡng Chiến (4)
+item,8654,;Dĩ Chiến Dưỡng Chiến (5)
+item,8655,;Dĩ Chiến Dưỡng Chiến (6)
+item,8660,;Công Kì Bất Bị (1)
+item,8661,;Công Kì Bất Bị (2)
+item,8662,;Công Kì Bất Bị (3)
+item,8663,;Công Kì Bất Bị (4)
+item,8664,;Công Kì Bất Bị (5)
+item,8665,;Công Kì Bất Bị (6)
+item,8670,;Hưng Sư Động Chúng (1)
+item,8671,;Hưng Sư Động Chúng (2)
+item,8672,;Hưng Sư Động Chúng (3)
+item,8673,;Hưng Sư Động Chúng (4)
+item,8674,;Hưng Sư Động Chúng (5)
+item,8675,;Hưng Sư Động Chúng (6)
+item,8680,;Thiên Y Vô Phùng (1)
+item,8681,;Thiên Y Vô Phùng (2)
+item,8682,;Thiên Y Vô Phùng (3)
+item,8683,;Thiên Y Vô Phùng (4)
+item,8684,;Thiên Y Vô Phùng (5)
+item,8685,;Thiên Y Vô Phùng (6)
+item,8690,;Thì Lai Vận Chuyển (1)
+item,8691,;Thì Lai Vận Chuyển (2)
+item,8692,;Thì Lai Vận Chuyển (3)
+item,8693,;Thì Lai Vận Chuyển (4)
+item,8694,;Thì Lai Vận Chuyển (5)
+item,8695,;Thì Lai Vận Chuyển (6)
+item,8700,;Sinh Tử Tướng Y (1)
+item,8701,;Sinh Tử Tướng Y (2)
+item,8702,;Sinh Tử Tướng Y (3)
+item,8703,;Sinh Tử Tướng Y (4)
+item,8704,;Sinh Tử Tướng Y (5)
+item,8705,;Sinh Tử Tướng Y (6)
+item,8710,;Nhu Trung Đái Cương (1)
+item,8711,;Nhu Trung Đái Cương (2)
+item,8712,;Nhu Trung Đái Cương (3)
+item,8713,;Nhu Trung Đái Cương (4)
+item,8714,;Nhu Trung Đái Cương (5)
+item,8715,;Nhu Trung Đái Cương (6)
+item,8720,;Cương Cường Bất Khuất (1)
+item,8721,;Cương Cường Bất Khuất (2)
+item,8722,;Cương Cường Bất Khuất (3)
+item,8723,;Cương Cường Bất Khuất (4)
+item,8724,;Cương Cường Bất Khuất (5)
+item,8725,;Cương Cường Bất Khuất (6)
+item,8800,;Lam Sắc Mệnh Cách Kinh Nghiệm
+item,8801,;Tử Sắc Mệnh Cách Kinh Nghiệm
+item,8802,;Chanh Sắc Mệnh Cách Kinh Nghiệm
+item,8803,;Hồng Sắc Mệnh Cách Kinh Nghiệm
+item,8810,;Bạch Sắc Mệnh Cách Tinh Hoa
+item,8811,;Lục Sắc Mệnh Cách Tinh Hoa
+item,8812,;Lam Sắc Mệnh Cách Tinh Hoa
+item,8813,;Tử Sắc Mệnh Cách Tinh Hoa
+item,8814,;Chanh Sắc Mệnh Cách Tinh Hoa
+item,8815,;Hồng Sắc Mệnh Cách Tinh Hoa
+item,8816,;Bạch Sắc Mệnh Cách Toái Phiến
+item,8817,;Lục Sắc Mệnh Cách Toái Phiến
+item,8818,;Lam Sắc Mệnh Cách Toái Phiến
+item,8819,;Tử Sắc Mệnh Cách Toái Phiến
+item,8820,;Chanh Sắc Mệnh Cách Toái Phiến
+item,8821,;Hồng Sắc Mệnh Cách Toái Phiến
+item,8900,;Dĩ Chiến Dưỡng Chiến
+item,8901,;Công Kì Bất Bị
+item,8902,;Hưng Sư Động Chúng
+item,8903,;Thiên Y Vô Phùng
+item,8904,;Thì Lai Vận Chuyển
+item,8905,;Sinh Tử Tướng Y
+item,8906,;Nhu Trung Đái Cương
+item,8907,;Cương Cường Bất Khuất
+item,8908,;Dĩ Chiến Dưỡng Chiến
+item,8909,;Công Kì Bất Bị
+item,8910,;Hưng Sư Động Chúng
+item,8911,;Thiên Y Vô Phùng
+item,8912,;Thì Lai Vận Chuyển
+item,8913,;Sinh Tử Tướng Y
+item,8914,;Nhu Trung Đái Cương
+item,8915,;Cương Cường Bất Khuất
+item,8916,;Dĩ Chiến Dưỡng Chiến
+item,8917,;Công Kì Bất Bị
+item,8918,;Hưng Sư Động Chúng
+item,8919,;Thiên Y Vô Phùng
+item,8920,;Thì Lai Vận Chuyển
+item,8921,;Sinh Tử Tướng Y
+item,8922,;Nhu Trung Đái Cương
+item,8923,;Cương Cường Bất Khuất
+item,8924,;Dĩ Chiến Dưỡng Chiến
+item,8925,;Công Kì Bất Bị
+item,8926,;Hưng Sư Động Chúng
+item,8927,;Thiên Y Vô Phùng
+item,8928,;Thì Lai Vận Chuyển
+item,8929,;Sinh Tử Tướng Y
+item,8930,;Nhu Trung Đái Cương
+item,8931,;Cương Cường Bất Khuất
+item,8932,;Dĩ Chiến Dưỡng Chiến
+item,8933,;Công Kì Bất Bị
+item,8934,;Hưng Sư Động Chúng
+item,8935,;Thiên Y Vô Phùng
+item,8936,;Thì Lai Vận Chuyển
+item,8937,;Sinh Tử Tướng Y
+item,8938,;Nhu Trung Đái Cương
+item,8939,;Cương Cường Bất Khuất
+item,8940,;Dĩ Chiến Dưỡng Chiến
+item,8941,;Công Kì Bất Bị
+item,8942,;Hưng Sư Động Chúng
+item,8943,;Thiên Y Vô Phùng
+item,8944,;Thì Lai Vận Chuyển
+item,8945,;Sinh Tử Tướng Y
+item,8946,;Nhu Trung Đái Cương
+item,8947,;Cương Cường Bất Khuất
+item,9001,;Sơ Cấp Vip Tạp
+item,9002,;Trung Cấp Vip Tạp
+item,9003,;Cao Cấp Vip Tạp
+item,9004,;Bạch Ngân Vip Tạp
+item,9005,;Hoàng Kim Vip Tạp
+item,9200,;Dĩ Chiến Dưỡng Chiến Toái Phiến
+item,9201,;Công Kì Bất Bị Toái Phiến
+item,9202,;Hưng Sư Động Chúng Toái Phiến
+item,9203,;Thiên Y Vô Phùng Toái Phiến
+item,9204,;Thì Lai Vận Chuyển Toái Phiến
+item,9205,;Sinh Tử Tướng Y Toái Phiến
+item,9210,;Nhu Trung Đái Cương Toái Phiến
+item,9211,;Cương Cường Bất Khuất Toái Phiến
+item,9212,;Dĩ Chiến Dưỡng Chiến Toái Phiến
+item,9213,;Công Kì Bất Bị Toái Phiến
+item,9214,;Hưng Sư Động Chúng Toái Phiến
+item,9215,;Thiên Y Vô Phùng Toái Phiến
+item,9220,;Thì Lai Vận Chuyển Toái Phiến
+item,9221,;Sinh Tử Tướng Y Toái Phiến
+item,9222,;Nhu Trung Đái Cương Toái Phiến
+item,9223,;Cương Cường Bất Khuất Toái Phiến
+item,9224,;Dĩ Chiến Dưỡng Chiến Toái Phiến
+item,9225,;Công Kì Bất Bị Toái Phiến
+item,9230,;Hưng Sư Động Chúng Toái Phiến
+item,9231,;Thiên Y Vô Phùng Toái Phiến
+item,9232,;Thì Lai Vận Chuyển Toái Phiến
+item,9233,;Sinh Tử Tướng Y Toái Phiến
+item,9234,;Nhu Trung Đái Cương Toái Phiến
+item,9235,;Cương Cường Bất Khuất Toái Phiến
+item,9240,;Dĩ Chiến Dưỡng Chiến Toái Phiến
+item,9241,;Công Kì Bất Bị Toái Phiến
+item,9242,;Hưng Sư Động Chúng Toái Phiến
+item,9243,;Thiên Y Vô Phùng Toái Phiến
+item,9244,;Thì Lai Vận Chuyển Toái Phiến
+item,9245,;Sinh Tử Tướng Y Toái Phiến
+item,9250,;Nhu Trung Đái Cương Toái Phiến
+item,9251,;Cương Cường Bất Khuất Toái Phiến
+item,9252,;Dĩ Chiến Dưỡng Chiến Toái Phiến
+item,9253,;Công Kì Bất Bị Toái Phiến
+item,9254,;Hưng Sư Động Chúng Toái Phiến
+item,9255,;Thiên Y Vô Phùng Toái Phiến
+item,9260,;Thì Lai Vận Chuyển Toái Phiến
+item,9261,;Sinh Tử Tướng Y Toái Phiến
+item,9262,;Nhu Trung Đái Cương Toái Phiến
+item,9263,;Cương Cường Bất Khuất Toái Phiến
+item,9264,;Dĩ Chiến Dưỡng Chiến Toái Phiến
+item,9265,;Công Kì Bất Bị Toái Phiến
+item,9270,;Hưng Sư Động Chúng Toái Phiến
+item,9271,;Thiên Y Vô Phùng Toái Phiến
+item,9272,;Thì Lai Vận Chuyển Toái Phiến
+item,9273,;Sinh Tử Tướng Y Toái Phiến
+item,9274,;Nhu Trung Đái Cương Toái Phiến
+item,9275,;Cương Cường Bất Khuất Toái Phiến
+item,9276,;Dĩ Chiến Dưỡng Chiến Tinh Hoa
+item,9277,;Công Kì Bất Bị Tinh Hoa
+item,9278,;Hưng Sư Động Chúng Tinh Hoa
+item,9279,;Thiên Y Vô Phùng Tinh Hoa
+item,9280,;Thì Lai Vận Chuyển Tinh Hoa
+item,9281,;Sinh Tử Tướng Y Tinh Hoa
+item,9282,;Nhu Trung Đái Cương Tinh Hoa
+item,9283,;Cương Cường Bất Khuất Tinh Hoa
+item,9284,;Dĩ Chiến Dưỡng Chiến Tinh Hoa
+item,9285,;Công Kì Bất Bị Tinh Hoa
+item,9286,;Hưng Sư Động Chúng Tinh Hoa
+item,9287,;Thiên Y Vô Phùng Tinh Hoa
+item,9288,;Thì Lai Vận Chuyển Tinh Hoa
+item,9289,;Sinh Tử Tướng Y Tinh Hoa
+item,9290,;Nhu Trung Đái Cương Tinh Hoa
+item,9291,;Cương Cường Bất Khuất Tinh Hoa
+item,9292,;Dĩ Chiến Dưỡng Chiến Tinh Hoa
+item,9293,;Công Kì Bất Bị Tinh Hoa
+item,9294,;Hưng Sư Động Chúng Tinh Hoa
+item,9295,;Thiên Y Vô Phùng Tinh Hoa
+item,9296,;Thì Lai Vận Chuyển Tinh Hoa
+item,9297,;Sinh Tử Tướng Y Tinh Hoa
+item,9298,;Nhu Trung Đái Cương Tinh Hoa
+item,9299,;Cương Cường Bất Khuất Tinh Hoa
+item,9300,;Dĩ Chiến Dưỡng Chiến Tinh Hoa
+item,9301,;Công Kì Bất Bị Tinh Hoa
+item,9302,;Hưng Sư Động Chúng Tinh Hoa
+item,9303,;Thiên Y Vô Phùng Tinh Hoa
+item,9304,;Thì Lai Vận Chuyển Tinh Hoa
+item,9305,;Sinh Tử Tướng Y Tinh Hoa
+item,9306,;Nhu Trung Đái Cương Tinh Hoa
+item,9307,;Cương Cường Bất Khuất Tinh Hoa
+item,9308,;Dĩ Chiến Dưỡng Chiến Tinh Hoa
+item,9309,;Công Kì Bất Bị Tinh Hoa
+item,9310,;Hưng Sư Động Chúng Tinh Hoa
+item,9311,;Thiên Y Vô Phùng Tinh Hoa
+item,9312,;Thì Lai Vận Chuyển Tinh Hoa
+item,9313,;Sinh Tử Tướng Y Tinh Hoa
+item,9314,;Nhu Trung Đái Cương Tinh Hoa
+item,9315,;Cương Cường Bất Khuất Tinh Hoa
+item,9316,;Dĩ Chiến Dưỡng Chiến Tinh Hoa
+item,9317,;Công Kì Bất Bị Tinh Hoa
+item,9318,;Hưng Sư Động Chúng Tinh Hoa
+item,9319,;Thiên Y Vô Phùng Tinh Hoa
+item,9320,;Thì Lai Vận Chuyển Tinh Hoa
+item,9321,;Sinh Tử Tướng Y Tinh Hoa
+item,9322,;Nhu Trung Đái Cương Tinh Hoa
+item,9323,;Cương Cường Bất Khuất Tinh Hoa
+item,10000,;Hồng Sắc Trương Cáp Toái Phiến
+item,10001,;Hồng Sắc Hoàng Cái Toái Phiến
+item,10002,;Hồng Sắc Văn Sửu Toái Phiến
+item,10003,;Hồng Sắc Hoa Hùng Toái Phiến
+item,10004,;Hồng Sắc Lí Điển Toái Phiến
+item,10005,;Hồng Sắc Chân Cơ Toái Phiến
+item,10006,;Hồng Sắc Hạ Hầu Đôn Toái Phiến
+item,10007,;Hồng Sắc Ti Mã Ý Toái Phiến
+item,10008,;Hồng Sắc Cổ Hủ Toái Phiến
+item,10009,;Hồng Sắc Tào Nhân Toái Phiến
+item,10010,;Hồng Sắc Triệu Vân Toái Phiến
+item,10011,;Hồng Sắc Mã Siêu Toái Phiến
+item,10012,;Hồng Sắc Hoàng Nguyệt Anh Toái Phiến
+item,10013,;Hồng Sắc Bàng Thống Toái Phiến
+item,10014,;Hồng Sắc Ngụy Duyên Toái Phiến
+item,10015,;Hồng Sắc Khương Duy Toái Phiến
+item,10016,;Hồng Sắc Đại Kiều Toái Phiến
+item,10017,;Hồng Sắc Tiểu Kiều Toái Phiến
+item,10018,;Hồng Sắc Thái Sử Từ Toái Phiến
+item,10019,;Hồng Sắc Lục Tốn Toái Phiến
+item,10020,;Hồng Sắc Lữ Mông Toái Phiến
+item,10021,;Hồng Sắc Tôn Sách Toái Phiến
+item,10022,;Hồng Sắc Điêu Thiền Toái Phiến
+item,10023,;Hồng Sắc Nhan Lương Toái Phiến
+item,10024,;Hồng Sắc Vu Cát Toái Phiến
+item,10025,;Hồng Sắc Đổng Trác Toái Phiến
+item,10026,;Hồng Sắc Lữ Linh Khỉ Toái Phiến
+item,10100,;Kim Sắc Trương Cáp Toái Phiến
+item,10101,;Kim Sắc Hoàng Cái Toái Phiến
+item,10102,;Kim Sắc Văn Sửu Toái Phiến
+item,10103,;Kim Sắc Hoa Hùng Toái Phiến
+item,10104,;Kim Sắc Lí Điển Toái Phiến
+item,10105,;Kim Sắc Chân Cơ Toái Phiến
+item,10106,;Kim Sắc Hạ Hầu Đôn Toái Phiến
+item,10107,;Kim Sắc Ti Mã Ý Toái Phiến
+item,10108,;Kim Sắc Cổ Hủ Toái Phiến
+item,10109,;Kim Sắc Tào Nhân Toái Phiến
+item,10110,;Kim Sắc Triệu Vân Toái Phiến
+item,10111,;Kim Sắc Mã Siêu Toái Phiến
+item,10112,;Kim Sắc Hoàng Nguyệt Anh Toái Phiến
+item,10113,;Kim Sắc Bàng Thống Toái Phiến
+item,10114,;Kim Sắc Ngụy Duyên Toái Phiến
+item,10115,;Kim Sắc Khương Duy Toái Phiến
+item,10116,;Kim Sắc Đại Kiều Toái Phiến
+item,10117,;Kim Sắc Tiểu Kiều Toái Phiến
+item,10118,;Kim Sắc Thái Sử Từ Toái Phiến
+item,10119,;Kim Sắc Lục Tốn Toái Phiến
+item,10120,;Kim Sắc Lữ Mông Toái Phiến
+item,10121,;Kim Sắc Tôn Sách Toái Phiến
+item,10122,;Kim Sắc Điêu Thiền Toái Phiến
+item,10123,;Kim Sắc Nhan Lương Toái Phiến
+item,10124,;Kim Sắc Vu Cát Toái Phiến
+item,10125,;Kim Sắc Đổng Trác Toái Phiến
+item,10126,;Kim Sắc Lữ Linh Khỉ Toái Phiến
+item,10127,;Kim Sắc Hoàng Trung Toái Phiến
+item,10128,;Kim Sắc Trương Giác Toái Phiến
+item,10129,;Kim Sắc Tôn Thượng Hương Toái Phiến
+item,10130,;Kim Sắc Từ Thứ Toái Phiến
+item,10131,;Kim Sắc Mạnh Hoạch Toái Phiến
+item,10132,;Kim Sắc Viên Thiệu Toái Phiến
+item,10133,;Kim Sắc Trương Liêu Toái Phiến
+item,10134,;Kim Sắc Tôn Kiên Toái Phiến
+item,10135,;Kim Sắc Viên Thuật Toái Phiến
+item,10136,;Kim Sắc Cam Trữ Toái Phiến
+item,10137,;Kim Sắc Tả Từ Toái Phiến
+item,10138,;Kim Sắc Lỗ Túc Toái Phiến
+item,10140,;Khoa Kĩ Trọng Trí Mật Quyển
+item,10141,;Sơ Cấp Tổ Đội Bảo Rương
+item,10142,;Trung Cấp Tổ Đội Bảo Rương
+item,10143,;Cao Cấp Tổ Đội Bảo Rương
+item,4105,;Lưu Thải Kiếm Tài Liệu
+item,4106,;Nhạn Linh Đầu Khôi Tài Liệu
+item,4107,;Nhạn Linh Khải Giáp Tài Liệu
+item,4108,;Nhạn Linh Yêu Đái Tài Liệu
+item,10166,;Họa Ảnh Kiếm Tài Liệu
+item,10167,;Minh Quang Đầu Khôi Tài Liệu
+item,10168,;Minh Quang Khải Giáp Tài Liệu
+item,10169,;Minh Quang Yêu Đái Tài Liệu
+item,10293,;Thuần Quân Kiếm Tài Liệu
+item,10294,;Sát Linh Đầu Khôi Tài Liệu
+item,10295,;Sát Linh Khải Giáp Tài Liệu
+item,10296,;Sát Linh Yêu Đái Tài Liệu
+item,10296,;CTXĐ Share By LouLx Game 2022

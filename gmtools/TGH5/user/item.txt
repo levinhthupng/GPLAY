@@ -1,0 +1,926 @@
+1;Vàng;1
+2;Kim Cương;1
+4;EXP N.Vật;1
+5;Điểm Đấu Trường;1
+6;Điểm Hữu Tình;1
+7;Uy Danh;1
+8;Tinh Thạch;1
+9;Cống Hiến Cá Nhân;1
+10;Tướng Hồn;1
+11;EXP Vip;1
+12;Chiêu hiền tệ;1
+13;Cạnh đoán tệ;1
+14;Xin giúp đỡ tệ;1
+15;Hồn Tinh;1
+16;Nạp tiền hạn mức;1
+17;Huyết Tinh;1
+18;Bí Tinh;1
+1701;Death;4
+1702;Thanatos;4
+2506;Zeus;4
+2601;Athena;4
+2602;Victoria;4
+2603;Helen;4
+2701;Rafael;4
+2702;War;4
+2801;Thần - Pestilence;4
+3701;Aurora;4
+3702;Seraphim;4
+4603;Morgana;4
+4701;Na Tra;4
+4702;Famine;4
+4801;Thần - Huyền Vũ;4
+201301;Tướng Bộ Binh Thẻ Kích Hoạt;2
+201302;Tướng Pháp Sư Thẻ Kích Hoạt;2
+201303;Tướng Thương Binh Thẻ Kích Hoạt;2
+201401;Tướng Aly na Thẻ Kích Hoạt;2
+201402;Tướng Diana Thẻ Kích Hoạt;2
+201403;Tướng Sakura Thẻ Kích Hoạt;2
+201404;Tướng Izanami Thẻ Kích Hoạt;2
+201405;Tướng Amaterasu Thẻ Kích Hoạt;2
+201501;Tướng Onimusha Thẻ Kích Hoạt;2
+201502;Tướng Tsukuyomi Thẻ Kích Hoạt;2
+201503;Tướng Susanoo Thẻ Kích Hoạt;2
+201504;Tướng Yuki Thẻ Kích Hoạt;2
+201505;Tướng Higanbana Thẻ Kích Hoạt;2
+201506;Tướng Lorelei Thẻ Kích Hoạt;2
+201601;Tướng Assyria Thẻ Kích Hoạt;2
+201602;Tướng Hestia Thẻ Kích Hoạt;2
+201603;Tướng Thanatos Thẻ Kích Hoạt;2
+201604;Tướng Kokusenn Thẻ Kích Hoạt;2
+201701;Tướng Death Thẻ Kích Hoạt;2
+201702;Tướng Yasuo Thẻ Kích Hoạt;2
+201801;Tướng Thần-Tsukuyomi Thẻ Kích Hoạt;2
+202301;Tướng Hilda Thẻ Kích Hoạt;2
+202302;Tướng Gaia Thẻ Kích Hoạt;2
+202303;Tướng Minotaur Thẻ Kích Hoạt;2
+202401;Tướng Hilda Thẻ Kích Hoạt;2
+202402;Tướng Themis Thẻ Kích Hoạt;2
+202403;Tướng Tethys Thẻ Kích Hoạt;2
+202404;Tướng Pandora Thẻ Kích Hoạt;2
+202405;Tướng Gaia Thẻ Kích Hoạt;2
+202501;Tướng Venus Thẻ Kích Hoạt;2
+202502;Tướng Ares Thẻ Kích Hoạt;2
+202503;Tướng Hades Thẻ Kích Hoạt;2
+202504;Tướng Poseidon Thẻ Kích Hoạt;2
+202505;Tướng Hera Thẻ Kích Hoạt;2
+202506;Tướng Zeus Thẻ Kích Hoạt;2
+202601;Tướng Athena Thẻ Kích Hoạt;2
+202602;Tướng Victoria Thẻ Kích Hoạt;2
+202603;Tướng Helen Thẻ Kích Hoạt;2
+202604;Tướng Ancalagon Thẻ Kích Hoạt;2
+202701;Tướng Rafael Thẻ Kích Hoạt;2
+202702;Tướng War Thẻ Kích Hoạt;2
+202801;Tướng Thần - Pestilence Thẻ Kích Hoạt;2
+203301;Tướng Gaia Thẻ Kích Hoạt;2
+203302;Tướng Gaia Thẻ Kích Hoạt;2
+203303;Tướng Gaia Thẻ Kích Hoạt;2
+203401;Tướng Alice Thẻ Kích Hoạt;2
+203402;Tướng Berserkers Thẻ Kích Hoạt;2
+203403;Tướng Lôi Thần Thor Thẻ Kích Hoạt;2
+203404;Tướng Faust Thẻ Kích Hoạt;2
+203405;Tướng Snow Queen Thẻ Kích Hoạt;2
+203501;Tướng Thetis Thẻ Kích Hoạt;2
+203502;Tướng Luna Thẻ Kích Hoạt;2
+203503;Tướng Odin Thẻ Kích Hoạt;2
+203504;Tướng Loki Thẻ Kích Hoạt;2
+203505;Tướng Bạo Lôi Thần Thẻ Kích Hoạt;2
+203506;Tướng Chiến Thần Tyr Thẻ Kích Hoạt;2
+203601;Tướng Hela Thẻ Kích Hoạt;2
+203602;Tướng Ophanim Thẻ Kích Hoạt;2
+203603;Tướng Sheena Thẻ Kích Hoạt;2
+203604;Tướng Mimir Thẻ Kích Hoạt;2
+203701;Tướng Aurora Thẻ Kích Hoạt;2
+203702;Tướng Seraphim Thẻ Kích Hoạt;2
+203801;Tướng Thần-Odin Thẻ Kích Hoạt;2
+204301;Tướng Gaia Thẻ Kích Hoạt;2
+204302;Tướng Minotaur Thẻ Kích Hoạt;2
+204303;Tướng Gaia Thẻ Kích Hoạt;2
+204401;Tướng Catherine Thẻ Kích Hoạt;2
+204402;Tướng Jeanne d'Arc Thẻ Kích Hoạt;2
+204403;Tướng Jaina Thẻ Kích Hoạt;2
+204404;Tướng Helios Thẻ Kích Hoạt;2
+204405;Tướng Thanh Long Thẻ Kích Hoạt;2
+204501;Tướng Bạch Hổ Thẻ Kích Hoạt;2
+204502;Tướng Chu Tước Thẻ Kích Hoạt;2
+204503;Tướng Huyền Vũ Thẻ Kích Hoạt;2
+204504;Tướng Hiên Viên Thẻ Kích Hoạt;2
+204505;Tướng Đồng Hoàng Thẻ Kích Hoạt;2
+204506;Tướng Tru Tiên Thẻ Kích Hoạt;2
+204601;Tướng Changyi Thẻ Kích Hoạt;2
+204602;Tướng Tề Thiên Đại Thánh Thẻ Kích Hoạt;2
+204603;Tướng Morgana Thẻ Kích Hoạt;2
+204604;Tướng Hằng Nga Thẻ Kích Hoạt;2
+204701;Tướng Na Tra Thẻ Kích Hoạt;2
+204702;Tướng Famine Thẻ Kích Hoạt;2
+204801;Tướng Thần - Huyền Vũ Thẻ Kích Hoạt;2
+211301;Tướng Bộ Binh (mảnh);2
+211302;Tướng Pháp Sư (mảnh);2
+211303;Tướng Thương Binh (mảnh);2
+211401;Tướng Aly na (mảnh);2
+211402;Tướng Diana (mảnh);2
+211403;Tướng Sakura (mảnh);2
+211404;Tướng Izanami (mảnh);2
+211405;Tướng Amaterasu (mảnh);2
+211501;Tướng Onimusha (mảnh);2
+211502;Tướng Tsukuyomi (mảnh);2
+211503;Tướng Susanoo (mảnh);2
+211504;Tướng Yuki (mảnh);2
+211505;Tướng Higanbana (mảnh);2
+211506;Tướng Lorelei (mảnh);2
+211601;Tướng Assyria (mảnh);2
+211602;Tướng Hestia (mảnh);2
+211603;Tướng Thanatos (mảnh);2
+211604;Tướng Kokusenn (mảnh);2
+211701;Tướng Death (mảnh);2
+211702;Tướng Thanatos (mảnh);2
+211801;Tướng Thần-Tsukuyomi (mảnh);2
+212301;Tướng Hilda (mảnh);2
+212302;Tướng Gaia (mảnh);2
+212303;Tướng Minotaur (mảnh);2
+212401;Tướng Hilda (mảnh);2
+212402;Tướng Themis (mảnh);2
+212403;Tướng Tethys (mảnh);2
+212404;Tướng Pandora (mảnh);2
+212405;Tướng Gaia (mảnh);2
+212501;Tướng Venus (mảnh);2
+212502;Tướng Ares (mảnh);2
+212503;Tướng Hades (mảnh);2
+212504;Tướng Poseidon (mảnh);2
+212505;Tướng Hera (mảnh);2
+212506;Tướng Zeus (mảnh);2
+212601;Tướng Athena (mảnh);2
+212602;Tướng Victoria (mảnh);2
+212603;Tướng Helen (mảnh);2
+212604;Tướng Ancalagon (mảnh);2
+212701;Tướng Rafael (mảnh);2
+212702;Tướng War (mảnh);2
+212801;Tướng Thần - Pestilence (mảnh);2
+213301;Tướng Gaia (mảnh);2
+213302;Tướng Gaia (mảnh);2
+213303;Tướng Gaia (mảnh);2
+213401;Tướng Alice (mảnh);2
+213402;Tướng Berserkers (mảnh);2
+213403;Tướng Lôi Thần Thor (mảnh);2
+213404;Tướng Faust (mảnh);2
+213405;Tướng Snow Queen (mảnh);2
+213501;Tướng Thetis (mảnh);2
+213502;Tướng Luna (mảnh);2
+213503;Tướng Odin (mảnh);2
+213504;Tướng Loki (mảnh);2
+213505;Tướng Bạo Lôi Thần (mảnh);2
+213506;Tướng Chiến Thần Tyr (mảnh);2
+213601;Tướng Hela (mảnh);2
+213602;Tướng Ophanim (mảnh);2
+213603;Tướng Sheena (mảnh);2
+213604;Tướng Mimir (mảnh);2
+213701;Tướng Aurora (mảnh);2
+213702;Tướng Seraphim (mảnh);2
+213801;Tướng Thần-Odin (mảnh);2
+214301;Tướng Gaia (mảnh);2
+214302;Tướng Minotaur (mảnh);2
+214303;Tướng Gaia (mảnh);2
+214401;Tướng Catherine (mảnh);2
+214402;Tướng Jeanne d'Arc (mảnh);2
+214403;Tướng Jaina (mảnh);2
+214404;Tướng Helios (mảnh);2
+214405;Tướng Thanh Long (mảnh);2
+214501;Tướng Bạch Hổ (mảnh);2
+214502;Tướng Chu Tước (mảnh);2
+214503;Tướng Huyền Vũ (mảnh);2
+214504;Tướng Hiên Viên (mảnh);2
+214505;Tướng Đồng Hoàng (mảnh);2
+214506;Tướng Tru Tiên (mảnh);2
+214601;Tướng Changyi (mảnh);2
+214602;Tướng Tề Thiên Đại Thánh (mảnh);2
+214603;Tướng Morgana (mảnh);2
+214604;Tướng Hằng Nga (mảnh);2
+214701;Tướng Na Tra (mảnh);2
+214702;Tướng Famine (mảnh);2
+214801;Tướng Thần - Huyền Vũ (mảnh);2
+220001;Tùy chọn Thần Tướng;2
+220002;Tùy Chọn Tướng Đỏ;2
+220003;Hộp Mảnh Tướng Vàng;2
+220101;Thần Tướng Thần Đạo;2
+220102;Thần Tướng Olympus;2
+220103;Thần Tướng Asgard;2
+220104;Thần Tướng Thiên Giới;2
+220105;Danh tướng Ẩn Tàng;2
+220201;Tướng cam 4 chọn 1;2
+220202;Tử Tinh Sáo Trang;2
+220203;Tử Tinh Bảo Khí;2
+220204;Huyễn Thiên Sáo Trang;2
+220205;Huyễn Thiên Bảo Khí;2
+220206;Thái Ất Sáo Trang;2
+220207;Thái Ất Bảo Khí;2
+220208;Thần Hoàng Sáo Trang;2
+220209;Thần Hoàng Bảo Khí;2
+220301;Tùy chọn Thần Tướng Vàng;2
+220302;Gói Thần Tướng Vàng;2
+220303;Rương Mảnh Death;2
+220304;Rương Mảnh Rafael;2
+220305;Rương Mảnh Aurora;2
+220306;Rương Mảnh Na Tra;2
+220351;Gói tùy chọn Nữ Thần Phượng Hoàng Cam;2
+220401;Rương kho báu 7 ngày;2
+220402;Mảnh mảnh kho báu 7 ngày;2
+220403;Hà Quang Sáo Trang;2
+220404;Hà Quang Bảo Khí;2
+220405;Lam Hải Sáo Trang;2
+220406;Đoạn Sầu Sáo Trang;2
+220407;Túi tùy chọn Nữ Thần Cam;2
+220408;Mảnh tùy chọn thiên kim;2
+220409;Hộp quà Ngày 1;2
+220410;Hộp quà Ngày 2;2
+220411;Hộp quà Ngày 3;2
+220412;Hộp quà Ngày 4;2
+220413;Hộp quà Ngày 5;2
+220414;Hộp quà Ngày 6;2
+220415;Hộp quà Ngày 7;2
+220416;Gói tùy chọn Thần Hoàng;2
+220501;Gói tùy chọn Thần Sủng Tím;2
+220502;Gói tùy chọn Thần Sủng Cam;2
+220601;Vật tư Thần Tướng;2
+220602;Túi quà ngẫu nhiên màu đỏ;2
+220603;Gói Exp Nữ Thần;2
+220701;Long Tuyền bộ tùy chọn;2
+220702;Cực Viêm bộ tùy chọn;2
+220703;Long Lân bộ tùy chọn;2
+220704;Phong Linh bộ tùy chọn;2
+220705;Tà Ma bộ tùy chọn;2
+220706;Thái Sơ bộ tùy chọn;2
+220801;Gói tùy chọn Chòm Sao tím;2
+220802;Gói tùy chọn Chòm Sao cam;2
+220803;Gói tùy chọn Chòm Sao đỏ;2
+220901;Gói tùy chọn Huyền Thiết Thiên Xu;2
+220902;Gói tùy chọn Tinh Tuyền Chân Vũ;2
+221001;Gói tùy chọn Thẻ Thấp;2
+221002;Gói tùy chọn Thẻ Tím;2
+221003;Gói tùy chọn Thẻ Cam;2
+221004;Gói tùy chọn Thẻ Đỏ;2
+221011;Gói thẻ Thần Đạo Thấp;2
+221014;Gói thẻ Thần Đạo Tím;2
+221015;Gói thẻ Thần Đạo Cam;2
+221016;Gói thẻ Thần Đạo Đỏ;2
+221021;Gói thẻ Olympus Thấp;2
+221024;Gói thẻ Olympus Tím;2
+221025;Gói thẻ Olympus Cam;2
+221026;Gói thẻ Olympus Đỏ;2
+221031;Gói thẻ Asgard Thấp;2
+221034;Gói thẻ Asgard Tím;2
+221035;Gói thẻ Asgard Cam;2
+221036;Gói thẻ Asgard Đỏ;2
+221041;Gói thẻ Thiên Giới Thấp;2
+221044;Gói thẻ Thiên Giới Tím;2
+221045;Gói thẻ Thiên Giới Cam;2
+221046;Gói thẻ Thiên Giới Đỏ;2
+221101;Gói tùy chọn trận pháp cam;2
+221102;Gói tùy chọn trận pháp đỏ;2
+221103;Gói tùy chọn trận pháp vàng;2
+221201;Hộp tùy chọn tinh phách;2
+221301;Gói Đá Màu;2
+221401;Long Lân Sáo Trang;2
+221501;Gói Thiên kim hào kiệt;2
+221502;Rương Thanatos;2
+221503;Rương War;2
+221504;Rương Seraphim;2
+221505;Rương Famine;2
+221601;Gói Thiên kim Chiến Thần;2
+221602;Rương Chiến Thần Ares;2
+221603;Rương Chiến Thần Ngộ Không;2
+221701;Gói Hào Kiệt;2
+221702;Gói Thần Tướng;2
+221801;Hộp quà Chiến Thần;2
+221802;Chiến Thần bảo rương;2
+221811;Hộp quà Bảo Khí;2
+221812;Bảo Khí bảo rương;2
+221821;Hộp quà tinh luyện;2
+221822;Bảo rương tinh luyện;2
+221831;Hộp quà kinh nghiệm;2
+221832;Kinh nghiệm bảo rương;2
+221901;Túi Ngẫu Nhiên Thiên Kim;2
+221911;Túi Ngẫu Nhiên Thần Tướng;2
+221912;Túi Ngẫu Nhiên Hào Kiệt;2
+222001;Gói phù văn đỏ;2
+222002;Gói phù văn vàng;2
+301001;Mảnh Tinh Thần Vẫn;2
+301002;Mảnh Thiên Nhận Phạt;2
+302001;Mảnh Thực Vũ Vụ;2
+302002;Mảnh Phá Thuẫn ảnh;2
+302003;Mảnh Minh Lôi Trừng;2
+302004;Mảnh Thủ Hộ Phong;2
+303001;Mảnh Chước Linh Diễm;2
+303002;Mảnh Phần Tâm Độc;2
+303003;Mảnh Băng Hồn Thống;2
+303004;Mảnh Nộ Hống Uy;2
+304001;Mảnh Lôi Thần Nộ;2
+304002;Mảnh Thánh Quang Dục;2
+311001;Mảnh Hô Lỗ Trư;2
+311002;Mảnh Tử Long;2
+311003;Mảnh Ma Cô;2
+312001;Mảnh Lão Nha;2
+312002;Mảnh Hàn Băng Khách;2
+312003;Mảnh Hỏa Dược Xà;2
+313001;Mảnh Lục Giác Yêu;2
+313002;Mảnh Diện Cụ Nha;2
+314001;Mảnh Tiểu Bạch Vân;2
+321001;Mảnh Đại Hùng;2
+321002;Mảnh Thiên Lang;2
+322001;Mảnh Nhân Mã;2
+322002;Mảnh Phượng Hoàng;2
+323001;Mảnh Thiên Nga;2
+323002;Mảnh Thiên Long;2
+323003;Mảnh Xà Phu;2
+323004;Mảnh Thiên Mã;2
+324001;Mảnh Bạch Kình;2
+324002;Mảnh Cự Giải;2
+325001;Mảnh Thiên Bình;2
+331001;Mảnh Liệt Diễm Pháp Trận;2
+331002;Mảnh Hàn Sương Pháp Trận;2
+332001;Mảnh Thánh Quang Pháp Trận;2
+332002;Mảnh Ám ảnh Pháp Trận;2
+332003;Mảnh Thông Linh Pháp Trận;2
+332004;Mảnh Phong ấn Pháp Trận;2
+333001;Mảnh Thời Gian Pháp Trận;2
+333002;Mảnh Không Gian Pháp Trận;2
+334001;Mảnh Kiếm Trũng;2
+401001;Mảnh Thời Trang Sắc Màu;2
+401002;Mảnh thời trang Phi Tướng;2
+401003;Mảnh thời trang Sát Thần;2
+501001;Sơ Xuất Mao Lư Thẻ Kích Hoạt;2
+501002;Đạp Nhập Vũ Đạo Thẻ Kích Hoạt;2
+501003;Vũ Đạo Tông Sư Thẻ Kích Hoạt;2
+501004;Vũ Đạo Chí Tôn Thẻ Kích Hoạt;2
+501005;Phượng Vũ Cửu Thiên Thẻ Kích Hoạt;2
+501006;Phi Long Tại Thiên Thẻ Kích Hoạt;2
+501007;Xuất Thần Nhập Hóa Thẻ Kích Hoạt;2
+501008;Kinh Thế Hãi Tục Thẻ Kích Hoạt;2
+501009;Chí Tôn Thiên Hạ Thẻ Kích Hoạt;2
+501010;Thiên Hạ Vô Địch Thẻ Kích Hoạt;2
+501011;Chấn Cổ Thước Kim Thẻ Kích Hoạt;2
+501012;Vũ Thánh Thẻ Kích Hoạt;2
+501013;Vương Giả Chi Thế Thẻ Kích Hoạt;2
+501014;Hoàng Giả Chi Uy Thẻ Kích Hoạt;2
+501015;Quý Khí Bức Nhân Thẻ Kích Hoạt;2
+501016;Tài Khí Trắc Lậu Thẻ Kích Hoạt;2
+501017;Danh Môn Vọng Tộc Thẻ Kích Hoạt;2
+501018;Hào Vô Nhân Tính Thẻ Kích Hoạt;2
+501019;Chiến Thần Hàng Lâm Thẻ Kích Hoạt;2
+501020;Ứng Thiên Thụ Mệnh Thẻ Kích Hoạt;2
+501021;Thiên Mệnh Sở Quy Thẻ Kích Hoạt;2
+501022;Thiên Mệnh Chi Tử Thẻ Kích Hoạt;2
+501023;Bách Chiến Bách Thắng Thẻ Kích Hoạt;2
+501024;Vô Tận Chi Vương Thẻ Kích Hoạt;2
+501025;Hoàng Kim Thần Tướng Thẻ Kích Hoạt;2
+501026;Uy Chấn Dị Giới Thẻ Kích Hoạt;2
+501027;Quyết Đấu Đỉnh Phong Thẻ Kích Hoạt;2
+501028;Chiến Binh Truyền Thuyết Thẻ Kích Hoạt;2
+501029;Vạn Thần Quy Phục Thẻ Kích Hoạt;2
+501030;Vô Song Chiến Thần Thẻ Kích Hoạt;2
+600101;Viên Màu Trắng;2
+600102;Viên Màu Lục;2
+600103;Viên Màu Lam;2
+600104;Viên Màu Tím;2
+600105;Viên Màu Cam;2
+600106;Viên Màu Đỏ;2
+600107;Viên Màu Vàng;2
+600108;Viên Màu Ánh Kim;2
+601301;Tướng Bộ Binh Thẻ thu thập;2
+601302;Tướng Pháp Sư Thẻ thu thập;2
+601303;Tướng Thương Binh Thẻ thu thập;2
+601401;Tướng Aly na Thẻ thu thập;2
+601402;Tướng Diana Thẻ thu thập;2
+601403;Tướng Sakura Thẻ thu thập;2
+601404;Tướng Izanami Thẻ thu thập;2
+601405;Tướng Amaterasu Thẻ thu thập;2
+601501;Tướng Onimusha Thẻ thu thập;2
+601502;Tướng Tsukuyomi Thẻ thu thập;2
+601503;Tướng Susanoo Thẻ thu thập;2
+601504;Tướng Yuki Thẻ thu thập;2
+601505;Tướng Higanbana Thẻ thu thập;2
+601506;Tướng Lorelei Thẻ thu thập;2
+601601;Tướng Assyria Thẻ thu thập;2
+601602;Tướng Hestia Thẻ thu thập;2
+601603;Tướng Thanatos Thẻ thu thập;2
+601604;Tướng Kokusenn Thẻ thu thập;2
+601701;Tướng Death Thẻ thu thập;2
+601702;Tướng Thanatos Thẻ thu thập;2
+601801;Tướng Thần-Tsukuyomi Thẻ thu thập;2
+602301;Tướng Hilda Thẻ thu thập;2
+602302;Tướng Gaia Thẻ thu thập;2
+602303;Tướng Minotaur Thẻ thu thập;2
+602401;Tướng Hilda Thẻ thu thập;2
+602402;Tướng Themis Thẻ thu thập;2
+602403;Tướng Tethys Thẻ thu thập;2
+602404;Tướng Pandora Thẻ thu thập;2
+602405;Tướng Gaia Thẻ thu thập;2
+602501;Tướng Venus Thẻ thu thập;2
+602502;Tướng Ares Thẻ thu thập;2
+602503;Tướng Hades Thẻ thu thập;2
+602504;Tướng Poseidon Thẻ thu thập;2
+602505;Tướng Hera Thẻ thu thập;2
+602506;Tướng Zeus Thẻ thu thập;2
+602601;Tướng Athena Thẻ thu thập;2
+602602;Tướng Victoria Thẻ thu thập;2
+602603;Tướng Helen Thẻ thu thập;2
+602604;Tướng Ancalagon Thẻ thu thập;2
+602701;Tướng Rafael Thẻ thu thập;2
+602702;Tướng War Thẻ thu thập;2
+602801;Tướng Thần - Pestilence Thẻ thu thập;2
+603301;Tướng Gaia Thẻ thu thập;2
+603302;Tướng Gaia Thẻ thu thập;2
+603303;Tướng Gaia Thẻ thu thập;2
+603401;Tướng Alice Thẻ thu thập;2
+603402;Tướng Berserkers Thẻ thu thập;2
+603403;Tướng Lôi Thần Thor Thẻ thu thập;2
+603404;Tướng Faust Thẻ thu thập;2
+603405;Tướng Snow Queen Thẻ thu thập;2
+603501;Tướng Thetis Thẻ thu thập;2
+603502;Tướng Luna Thẻ thu thập;2
+603503;Tướng Odin Thẻ thu thập;2
+603504;Tướng Loki Thẻ thu thập;2
+603505;Tướng Bạo Lôi Thần Thẻ thu thập;2
+603506;Tướng Chiến Thần Tyr Thẻ thu thập;2
+603601;Tướng Hela Thẻ thu thập;2
+603602;Tướng Ophanim Thẻ thu thập;2
+603603;Tướng Sheena Thẻ thu thập;2
+603604;Tướng Mimir Thẻ thu thập;2
+603701;Tướng Aurora Thẻ thu thập;2
+603702;Tướng Seraphim Thẻ thu thập;2
+603801;Tướng Thần-Odin Thẻ thu thập;2
+604301;Tướng Gaia Thẻ thu thập;2
+604302;Tướng Minotaur Thẻ thu thập;2
+604303;Tướng Gaia Thẻ thu thập;2
+604401;Tướng Catherine Thẻ thu thập;2
+604402;Tướng Jeanne d'Arc Thẻ thu thập;2
+604403;Tướng Jaina Thẻ thu thập;2
+604404;Tướng Helios Thẻ thu thập;2
+604405;Tướng Thanh Long Thẻ thu thập;2
+604501;Tướng Bạch Hổ Thẻ thu thập;2
+604502;Tướng Chu Tước Thẻ thu thập;2
+604503;Tướng Huyền Vũ Thẻ thu thập;2
+604504;Tướng Hiên Viên Thẻ thu thập;2
+604505;Tướng Đồng Hoàng Thẻ thu thập;2
+604506;Tướng Tru Tiên Thẻ thu thập;2
+604601;Tướng Changyi Thẻ thu thập;2
+604602;Tướng Tề Thiên Đại Thánh Thẻ thu thập;2
+604603;Tướng Morgana Thẻ thu thập;2
+604604;Tướng Hằng Nga Thẻ thu thập;2
+604701;Tướng Na Tra Thẻ thu thập;2
+604702;Tướng Famine Thẻ thu thập;2
+604801;Tướng Thần - Huyền Vũ Thẻ thu thập;2
+605301;Thẻ Thu Thập Tinh Thần Vẫn;2
+605302;Thẻ Thu Thập Thiên Nhận Phạt;2
+605303;Thẻ Thu Thập Thực Vũ Vụ;2
+605401;Thẻ Thu Thập Phá Thuẫn ảnh;2
+605402;Thẻ Thu Thập Minh Lôi Trừng;2
+605403;Thẻ Thu Thập Thủ Hộ Phong;2
+605404;Thẻ Thu Thập Chước Linh Diễm;2
+605405;Thẻ Thu Thập Phần Tâm Độc;2
+605501;Thẻ Thu Thập Băng Hồn Thống;2
+605502;Thẻ Thu Thập Nộ Hống Uy;2
+605601;Thẻ Thu Thập Lôi Thần Nộ;2
+605602;Thẻ Thu Thập Thánh Quang Dục;2
+606301;Thẻ Thu Thập Hô Lỗ Trư;2
+606302;Thẻ Thu Thập Tử Long;2
+606303;Thẻ Thu Thập Ma Cô;2
+606401;Thẻ Thu Thập Lão Nha;2
+606402;Thẻ Thu Thập Hàn Băng Khách;2
+606403;Thẻ Thu Thập Hỏa Dược Xà;2
+606404;Thẻ Thu Thập Lục Giác Yêu;2
+606405;Thẻ Thu Thập Diện Cụ Nha;2
+606501;Thẻ Thu Thập Tiểu Bạch Vân;2
+701001;Tàn quyển Huyền Binh;2
+701002;Tàn quyển Thiên Cương;2
+701003;Tàn quyển Địa Sát;2
+702001;Tàn quyển Tà Phong;2
+702002;Tàn quyển Tùng Vân;2
+702003;Tàn quyển Khốn Long;2
+703001;Tàn quyển Diệt Yêu;2
+703002;Tàn quyển Vân Điểu;2
+703003;Tàn quyển Linh Xà;2
+801001;Mảnh Thần Chiến Tranh War;2
+801002;Mảnh Nữ Vương Assyria;2
+802001;Mảnh Dịch Bệnh Thần - Pestilence;2
+802002;Mảnh Quỷ Mị Loki;2
+802003;Mảnh Cuồng Phong Lorelei;2
+802004;Mảnh Thần Mặt Trời ChangYi;2
+803001;Mảnh Chiến Thần Ares;2
+803002;Mảnh Chiến Thần Ngộ Không;2
+901001;Kỵ Sĩ Đầu Khôi;2
+902001;Kim Dương Mao;2
+902002;Đáp Án Chi Thư;2
+903001;Phi Ngư Can;2
+903002;Thắng Lợi Chi Kiếm;2
+10000000;Trắc Thí: Đạo Cụ Tự Chọn;2
+10000001;Vip Chuyên Chúc BOSS* TB Cam Mới;2
+10000002;Vip Chuyên Chúc BOSS* TB Cam Mới;2
+10000003;Vip Chuyên Chúc BOSS* TB Cam Mới;2
+10000004;Trắc Thí: Điệu Lạc Đạo Cụ Bao1;2
+10000005;Trắc Thí: Điệu Lạc Đạo Cụ Bao2;2
+10000006;Trắc Thí: Điệu Lạc Đạo Cụ Bao1;2
+10000007;Trắc Thí: Điệu Lạc Đạo Cụ Bao2;2
+10102004;100 Kim Cương;2
+10102005;600 Kim Cương;2
+10102006;1200 Kim Cương;2
+10102007;3000 Kim Cương;2
+10102008;6800 Kim Cương;2
+10102009;19800 Kim Cương;2
+10102010;32800 Kim Cương;2
+10102011;64800 Kim Cương;2
+10102012;Thẻ Tháng;2
+10102013;Thẻ vĩnh viễn;2
+10102014;Ưu đãi hằng ngày 1;2
+10102015;Ưu đãi hằng ngày 2;2
+10102016;Ưu đãi hằng ngày 3;2
+10102017;1 tệ Mua ngay;2
+10102018;3 tệ Mua ngay;2
+10102019;8 tệ Mua ngay;2
+10102020;Thẻ Tuần;2
+10102021;Ưu đãi hằng ngày 4;2
+10102022;Ưu đãi hằng ngày 5;2
+10102023;9800 Kim Cương;2
+12100001;Thủy Kính·Sinh Mệnh;7
+12100002;Thủy Kính·Công Kích;7
+12100003;Thủy Kính·Vật Phòng;7
+12100004;Thủy Kính·Pháp Phòng;7
+12100101;Nam Hoa·Chính Xác;7
+12100102;Nam Hoa·Bạo Kích;7
+12100201;Ô Giác·Né Tránh;7
+12100202;Ô Giác·Kháng Bạo;7
+12100401;Tử Hư·Mệnh Hồn;7
+12100402;Tử Hư·Phá Quân;7
+12100403;Tử Hư·Kiên Bích;7
+12100404;Tử Hư·Huyễn Thuẫn;7
+12100501;Thái Bình·Vô Song;7
+12100502;Thái Bình·Túc Mệnh;7
+12200001;Thủy Kính·Sinh Mệnh;7
+12200002;Thủy Kính·Công Kích;7
+12200003;Thủy Kính·Vật Phòng;7
+12200004;Thủy Kính·Pháp Phòng;7
+12200101;Nam Hoa·Chính Xác;7
+12200102;Nam Hoa·Bạo Kích;7
+12200201;Ô Giác·Né Tránh;7
+12200202;Ô Giác·Kháng Bạo;7
+12200401;Tử Hư·Mệnh Hồn;7
+12200402;Tử Hư·Phá Quân;7
+12200403;Tử Hư·Kiên Bích;7
+12200404;Tử Hư·Huyễn Thuẫn;7
+12200501;Thái Bình·Vô Song;7
+12200502;Thái Bình·Túc Mệnh;7
+12300001;Thủy Kính·Sinh Mệnh;7
+12300002;Thủy Kính·Công Kích;7
+12300003;Thủy Kính·Vật Phòng;7
+12300004;Thủy Kính·Pháp Phòng;7
+12300101;Nam Hoa·Chính Xác;7
+12300102;Nam Hoa·Bạo Kích;7
+12300201;Ô Giác·Né Tránh;7
+12300202;Ô Giác·Kháng Bạo;7
+12300401;Tử Hư·Mệnh Hồn;7
+12300402;Tử Hư·Phá Quân;7
+12300403;Tử Hư·Kiên Bích;7
+12300404;Tử Hư·Huyễn Thuẫn;7
+12300501;Thái Bình·Vô Song;7
+12300502;Thái Bình·Túc Mệnh;7
+12400001;Thủy Kính·Sinh Mệnh;7
+12400002;Thủy Kính·Công Kích;7
+12400003;Thủy Kính·Vật Phòng;7
+12400004;Thủy Kính·Pháp Phòng;7
+12400101;Nam Hoa·Chính Xác;7
+12400102;Nam Hoa·Bạo Kích;7
+12400201;Ô Giác·Né Tránh;7
+12400202;Ô Giác·Kháng Bạo;7
+12400401;Tử Hư·Mệnh Hồn;7
+12400402;Tử Hư·Phá Quân;7
+12400403;Tử Hư·Kiên Bích;7
+12400404;Tử Hư·Huyễn Thuẫn;7
+12400501;Thái Bình·Vô Song;7
+12400502;Thái Bình·Túc Mệnh;7
+12500001;Thủy Kính·Sinh Mệnh;7
+12500002;Thủy Kính·Công Kích;7
+12500003;Thủy Kính·Vật Phòng;7
+12500004;Thủy Kính·Pháp Phòng;7
+12500101;Nam Hoa·Chính Xác;7
+12500102;Nam Hoa·Bạo Kích;7
+12500201;Ô Giác·Né Tránh;7
+12500202;Ô Giác·Kháng Bạo;7
+12500401;Tử Hư·Mệnh Hồn;7
+12500402;Tử Hư·Phá Quân;7
+12500403;Tử Hư·Kiên Bích;7
+12500404;Tử Hư·Huyễn Thuẫn;7
+12500501;Thái Bình·Vô Song;7
+12500502;Thái Bình·Túc Mệnh;7
+30000001;Chiêu Mộ Lệnh;2
+30000002;Vé Khiêu Chiến Nhanh;2
+30000003;Tướng Tinh Thạch;2
+30000011;Lệnh hồi sinh trắng;2
+30000012;Lệnh hồi sinh vàng;2
+30000013;Thẻ chiêu mộ 10 lần;2
+30000014;Thẻ chiêu mộ Kim Cương;2
+30000015;Thăng cấp thạch;2
+30000018;Viễn Chinh trọng trí quyển;2
+30000019;Thẻ đổi tên;2
+30000020;Đá thiên mệnh;2
+30000021;Hồi Sinh BOSS;2
+30000022;Hồi Sinh BOSS-Cao;2
+30000023;Quân Nhu Lệnh;2
+30000024;Tầm Bảo Đồ;2
+30000025;Tinh phách Công Kích;2
+30000026;Tinh phách Sinh Mệnh;2
+30000027;Tinh phách Vật Phòng;2
+30000028;Tinh phách Pháp Phòng;2
+30000029;Tinh phách Linh Hồn;2
+30000030;Chiến Thần Tinh Thạch;2
+30000031;Thẻ đổi tên Quân Đoàn;2
+30000032;Xu Heo Vàng;2
+30000033;Xu Heo Bạc;2
+30000034;Khóa Bảo Khố;2
+30000035;Phiếu Đổi Thưởng;2
+30000036;Thần Luyện Thạch;2
+30000037;Mảnh Chòm Sao;2
+30000038;Thiên Tiên Vũ Lộ;2
+30000039;Tinh Thần Lưu Quang;2
+30000040;Tinh Thần Chi Ân;2
+30000041;Tinh Thần Chi Tứ;2
+30000042;Tinh Thần Chi Chúc;2
+30000043;Tinh Thần Chi Hữu;2
+30000100;Sách Exp-Sơ;2
+30000101;Sách Exp-Trung;2
+30000102;Sách Exp-Cao;2
+30000103;Sách Exp-Siêu;2
+30000201;Đá Tinh Luyện;2
+30000301;Đá Đột Phá;2
+30000302;Tinh hoa Đột Phá;2
+30000401;Exp Nữ Thần-Sơ;2
+30000402;Exp Nữ Thần-Trung;2
+30000403;Exp Nữ Thần-Cao;2
+30000404;Exp Nữ Thần-Siêu;2
+30000501;Tinh hoa trang bị đỏ;2
+30000502;Tinh hoa trang bị vàng;2
+30000601;Mảnh bảo thạch Công Kích;2
+30000602;Mảnh bảo thạch Vật Phòng;2
+30000603;Mảnh bảo thạch Pháp Phòng;2
+30000604;Mảnh bảo thạch Sinh Mệnh;2
+30000611;Hộp quà bảo thạch-Sơ;2
+30000612;Hộp quà bảo thạch-Trung;2
+30000613;Hộp quà bảo thạch-Cao;2
+30000614;Hộp quà bảo thạch-Siêu;2
+30000701;Đá luyện hồn;2
+30000801;Bảo Vật Cường Hóa Thạch;2
+30000811;Bảo Vật Tinh Luyện Thạch;2
+30000812;Tinh hoa tinh luyện;2
+30000901;Hộp quà mảnh vỡ Đỏ;2
+30001001;Exp Thần Sủng-Sơ;2
+30001002;Exp Thần Sủng-Trung;2
+30001003;Exp Thần Sủng-Cao;2
+30001004;Exp Thần Sủng-Siêu;2
+30001005;Đá thăng cấp-Sơ;2
+30001006;Đá thăng cấp-Trung;2
+30001007;Đá thăng cấp-Cao;2
+30001101;Mảnh vạn năng trắng;2
+30001201;Mảnh vạn năng lục;2
+30001301;Mảnh vạn năng lam;2
+30001401;Mảnh vạn năng tím;2
+30001501;Mảnh vạn năng cam;2
+30001601;Mảnh vạn năng đỏ;2
+30001701;Mảnh vạn năng thiên kim;2
+30001801;Mảnh vạn năng ám kim;2
+30010001;Thẻ gia tốc 1 Phút;2
+30010002;Thẻ gia tốc 5 Phút;2
+30010003;Thẻ gia tốc 30 Phút;2
+30010004;Thẻ gia tốc 2 Giờ;2
+30010005;Thẻ gia tốc 6 Giờ;2
+30010006;Thẻ gia tốc 12 Giờ;2
+30010007;Xu nghiên cứu khoa học;2
+30011001;Hộp quà thẻ nền;2
+30011002;Hộp 7 màu;2
+30011003;Hộp đan màu;2
+30011004;Hộp quà Dư hương;2
+30012001;Sơ Cấp Bí Tịch;2
+30012002;Trung Cấp Bí Tịch;2
+30012003;Cao Cấp Bí Tịch;2
+30012004;Đặc Cấp Bí Tịch;2
+30013001;Điểm tướng lệnh sơ cấp;2
+30013002;Điểm tướng lệnh trung cấp;2
+30013003;Điểm tướng lệnh cao cấp;2
+30013004;Điểm tướng lệnh đặc cấp;2
+30013011;Lệnh thu thuế;2
+30014001;Cuộn trận pháp sơ cấp;2
+30014002;Cuộn trận pháp trung cấp;2
+30014003;Cuộn trận pháp cao cấp;2
+30014004;Cuộn trận pháp đặc cấp;2
+30020001;Chiến Thần ngọc;2
+30030001;Bảo Khí tinh hoa;2
+30040001;Phù Thạch;2
+30040002;Gói phù văn sơ cấp;2
+30040003;Gói phù văn trung cấp;2
+30040004;Gói phù văn cao cấp;2
+30040005;Gói phù văn đặc cấp;2
+40100101;Mộc Kiếm;5
+40100102;Đầu Cân;5
+40100103;Bố Y;5
+40100104;Thảo Hài;5
+40100105;Phá Cựu Giới Chỉ;5
+40100106;Phá Cựu Thú Ấn;5
+40200101;Phổ Thông Loan Đao;5
+40200102;Phổ Thông Đầu Khôi;5
+40200103;Phổ Thông Bố Y;5
+40200104;Phổ Thông Bố Hài;5
+40200105;Phổ Thông Giới Chỉ;5
+40200106;Phổ Thông Thú Ấn;5
+40300101;Bích Thủy Kiếm;5
+40300102;Bích Thủy Quan;5
+40300103;Bích Thủy Y;5
+40300104;Bích Thủy Ngoa;5
+40300105;Bích Thủy Giới;5
+40300106;Cuồng Ngưu Ấn;5
+40300201;Lam Hải Chiến Kích;5
+40300202;Lam Hải Khôi;5
+40300203;Lam Hải Giáp;5
+40300204;Lam Hải Chiến Ngoa;5
+40300205;Lam Hải Giới;5
+40300206;Hải Mãng Ấn;5
+40400101;Tử Tinh Loan Đao;5
+40400102;Tử Tinh Đầu Đái;5
+40400103;Tử Tinh Y;5
+40400104;Tử Tinh Ngoa;5
+40400105;Tử Tinh Giới;5
+40400106;Thiên Mã Ấn;5
+40400201;Hà Quang Chiến Kích;5
+40400202;Hà Quang Quan;5
+40400203;Hà Quang Khải;5
+40400204;Hà Quang Chiến Ngoa;5
+40400205;Hồng Thạch Tử Giới;5
+40400206;Thụy Thú Ấn;5
+40400301;Đoạn Sầu Kiếm;5
+40400302;Đoạn Sầu Khôi;5
+40400303;Đoạn Sầu Chiến Giáp;5
+40400304;Đoạn Sầu Chiến Ngoa;5
+40400305;Tử Cực Viêm Giới;5
+40400306;Cuồng Thú Tử Ấn;5
+40500101;Thương Khung Chiến Kích;5
+40500102;Thương Khung Quan;5
+40500103;Thương Khung Chiến Giáp;5
+40500104;Thương Khung Chiến Ngoa;5
+40500105;Thương Khung Giới;5
+40500106;Thương Khung Ấn;5
+40500201;Huyễn Thiên Đao;5
+40500202;Huyễn Thiên Quan;5
+40500203;Huyễn Thiên Bào;5
+40500204;Huyễn Thiên Ngoa;5
+40500205;Tà Thú Cốt Giới;5
+40500206;Huyễn Thiên Ấn;5
+40600101;Viêm Ngục Kiếm;5
+40600102;Viêm Ngục Quan;5
+40600103;Viêm Ngục Chiến Bào;5
+40600104;Viêm Ngục Ngoa;5
+40600105;Huyền Băng Giới;5
+40600106;Xích Long Ấn;5
+40600201;Thái Ất Kiếm;5
+40600202;Thái Ất Khôi;5
+40600203;Thái Ất Chiến Giáp;5
+40600204;Thái Ất Chiến Ngoa;5
+40600205;Huyết Giới;5
+40600206;Huyền Vũ Huyết Ấn;5
+40700101;Thần Hoàng Kiếm;5
+40700102;Thần Hoàng Quan;5
+40700103;Thần Hoàng Chiến Bào;5
+40700104;Thần Hoàng Chiến Ngoa;5
+40700105;Thần Hoàng Tinh Giới;5
+40700106;Thần Hoàng Ấn;5
+40700201;Long Tuyền Kiếm;5
+40700202;Long Tuyền Khôi;5
+40700203;Long Tuyền Giáp;5
+40700204;Long Tuyền Ngoa;5
+40700205;Long Tuyền Giới;5
+40700206;Long Tuyền Ấn;5
+40700301;Cực Viêm Thương;5
+40700302;Cực Viêm Khôi;5
+40700303;Cực Viêm Giáp;5
+40700304;Cực Viêm Ngoa;5
+40700305;Cực Viêm Giới;5
+40700306;Cực Viêm Ấn;5
+40700401;Long Lân Đao;5
+40700402;Long Lân Khôi;5
+40700403;Long Lân Giáp;5
+40700404;Long Lân Ngoa;5
+40700405;Long Lân Giới;5
+40700406;Long Lân Ấn;5
+40800101;Phong Linh Phiến;5
+40800102;Phong Linh Mạo;5
+40800103;Phong Linh Giáp;5
+40800104;Phong Linh Ngoa;5
+40800105;Phong Linh Giới;5
+40800106;Phong Linh Ấn;5
+40800201;Tà Ma Đao;5
+40800202;Tà Ma Khôi;5
+40800203;Tà Ma Giáp;5
+40800204;Tà Ma Ngoa;5
+40800205;Tà Ma Giới;5
+40800206;Tà Ma Ấn;5
+40800301;Thái Sơ Kiếm;5
+40800302;Thái Sơ Đầu Đái;5
+40800303;Thái Sơ Y;5
+40800304;Thái Sơ Hài;5
+40800305;Thái Sơ Giới;5
+40800306;Thái Sơ Ấn;5
+
+40888889;1 Vạn 28;5
+40888890;2 Vạn 28;5
+40888891;-1 Vạn 28;5
+40888892;20 Nộ;5
+40888893;-9999 Điểm 28;5
+40888894;-2 Vạn Điểm 28;5
+41001500;Sách Trí Tuệ;5
+41001601;Lông Vũ Tiên Tri;5
+41001602;Roi Trật Tự;5
+41001603;Thái Dương Pháo;5
+41001604;Thâm Uyên Nhãn;5
+41001701;Phù Sĩ Thánh;5
+41001702;Athena Thần Kh;5
+41001801;Cuồng Phong Phiến;5
+41002500;Thần Chiếu Kính;5
+41002601;Vòng Vinh Quang;5
+41002602;Quỷ Vũ Giả;5
+41002603;Kiếm Ánh Trăng;5
+41002604;Cánh Thiên Sứ;5
+41002701;Mạn Đà La;5
+41002702;Hi Hòa Linh Khí;5
+41002801;Tai Ương;5
+41003500;Pandora;5
+41003601;Vệ Thần Kính;5
+41003602;Liềm Tử Vong;5
+41003603;Kiếm Địa Ngục;5
+41003604;Ngọc Thố;5
+41003701;Tuyết Ô;5
+41003702;Nón Hỏa Ma;5
+41003801;Toái Hồn Kiếm;5
+41004500;Nguyệt Linh;5
+41004601;Hải Luân;5
+41004602;Tinh Túc Phiến;5
+41004603;Kiếm Chiến Tranh;5
+41004604;Chung Linh;5
+41004701;Bạch Hổ Cung;5
+41004702;Hắc Long Pháo;5
+41004801;Điêu Linh Tiễn;5
+
+50000001;Lễ tế trời;2
+50000002;Lễ tế trời;2
+50000003;Lễ tế trời;2
+50000004;Lễ tế trời;2
+50000006;Thiên quan chúc phúc;2
+50000007;Thiên quan chúc phúc;2
+50000008;Thiên quan chúc phúc;2
+50010001;Hộp quà Quân đoàn;2
+50010002;Hộp quà Quân đoàn;2
+50010003;Hộp quà Quân đoàn;2
+50010004;Hộp quà Quân đoàn;2
+50010005;Hộp quà Quân đoàn;2
+50010006;Hộp quà Quân đoàn;2
+50010007;Hộp quà Quân đoàn;2
+50010008;Hộp quà Quân đoàn;2
+50010009;Hộp quà Quân đoàn;2
+50010010;Hộp quà Quân đoàn;2
+50010011;Hộp quà Quân đoàn;2
+50010012;Hộp quà Quân đoàn;2
+50010013;Hộp quà Quân đoàn;2
+50010014;Hộp quà Quân đoàn;2
+50010015;Hộp quà Quân đoàn;2
+50010016;Hộp quà Quân đoàn;2
+50010017;Hộp quà Quân đoàn;2
+50010018;Hộp quà Quân đoàn;2
+50010019;Hộp quà Quân đoàn;2
+50010020;Hộp quà Quân đoàn;2
+60000020;Rương đội cấp 20;2
+60000030;Rương đội cấp 30 Cấp;2
+60000040;Rương đội cấp 40 Cấp;2
+60000050;Rương đội cấp 50 Cấp;2
+60000060;Rương đội cấp 60 Cấp;2
+60000070;Rương đội cấp 70 Cấp;2
+60000080;Rương đội cấp 80 Cấp;2
+60000090;Rương đội cấp 90 Cấp;2
+60000100;Rương đội cấp 100 Cấp;2
+60000110;Rương đội cấp 110 Cấp;2
+60000120;Rương đội cấp 120 Cấp;2
+60000130;Rương đội cấp 130 Cấp;2
+60000140;Rương đội cấp 140 Cấp;2
+60000150;Rương đội cấp 150 Cấp;2
+60000160;Rương đội cấp 160 Cấp;2
+60000170;Rương đội cấp 170 Cấp;2
+60000180;Rương đội cấp 180 Cấp;2
+60000190;Rương đội cấp 190 Cấp;2
+60000200;Rương đội cấp 200 Cấp;2
+70000001;Chuông Giáng Sinh;2
+70000002;Vớ Giáng Sinh;2
+70000003;Trứng Vàng;2
+70000004;Trứng Bạc;2
+70000005;Túi phúc;2
+70000006;Túi Xui;2
+70000007;Túi phúc;2
+70000008;Túi Xui;2
+70000009;Hưng Điển Thủy Tinh;2
+70000010;Khánh điển bảo thạch;2
+70000011;Thủy tinh Tháng 3;2
+70000012;Thủy tinh Tháng 3;2
+70000013;Thủy tinh Tháng 4;2
+70000014;Thủy tinh Tháng 4;2

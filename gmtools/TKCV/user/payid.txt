@@ -1,0 +1,9 @@
+1; Nguyên bảo
+2; Khóa lại Nguyên bảo
+3; Khóa lại kim tệ
+4; Tiên phách kinh nghiệm
+5; Tiên phách điểm tích lũy
+6; Cơ duyên điểm tích lũy
+8; Điểm kinh nghiệm
+9; Vinh dự giá trị
+10; Thành tựu điểm

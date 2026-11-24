@@ -1,0 +1,193 @@
+20001; Diệu con ếch hạt giống mảnh vỡ
+20011; Tiểu hỏa long mảnh vỡ
+20021; Denis rùa mảnh vỡ
+20031; Lông xanh trùng mảnh vỡ
+20041; Lớn châm ong mảnh vỡ
+20051; Sóng sóng mảnh vỡ
+20061; Nhỏ Lada mảnh vỡ
+20071; Lie Sparrow mảnh vỡ
+20081; A Bách rắn mảnh vỡ
+20091; Da đồi mảnh vỡ
+20101; Xuyên Sơn Thử mảnh vỡ
+20111; Ni nhiều lan mảnh vỡ
+20121; Ni nhiều lãng mảnh vỡ
+20131; Da Bảo Bảo mảnh vỡ
+20151; Bảo Bảo đinh mảnh vỡ
+20161; Siêu âm Bức mảnh vỡ
+20171; Đi đường cỏ mảnh vỡ
+20191; Mao cầu mảnh vỡ
+20211; Meo meo mảnh vỡ
+20221; Có thể đạt tới vịt mảnh vỡ
+20231; Khỉ quái mảnh vỡ
+20241; Kathi chó mảnh vỡ
+20261; Cathy mảnh vỡ
+20271; Bắp thịt mảnh vỡ
+20281; Loa mầm mảnh vỡ
+20301; Tiểu Quyền Thạch mảnh vỡ
+20331; Nhỏ từ quái mảnh vỡ
+20341; Hành tây vịt mảnh vỡ
+20351; Tút tút mảnh vỡ
+20371; Thối bùn mảnh vỡ
+20381; Lưỡi to bối mảnh vỡ
+20391; Quỷ tư mảnh vỡ
+20401; Đại nham rắn mảnh vỡ
+20451; Tạp lạp Tạp lạp mảnh vỡ
+20461; Không sợ tiểu tử mảnh vỡ
+20471; Đầu lưỡi lớn mảnh vỡ
+20481; Gas bắn nát phiến
+20491; Độc giác tê giác mảnh vỡ
+20501; Tiểu Phúc trứng mảnh vỡ
+20541; Sừng cá vàng mảnh vỡ
+20551; Hải tinh tinh toái phiến
+20571; Phi Thiên Đường Lang mảnh vỡ
+20591; Điện giật quái mảnh vỡ
+20601; Vịt miệng Bảo Bảo mảnh vỡ
+20611; Khải La tư mảnh vỡ
+20631; Bạo Lý Long mảnh vỡ
+20641; Laplace mảnh vỡ
+20691; Hoá thạch nón trụ mảnh vỡ
+20701; Hoá thạch Dực Long mảnh vỡ
+20711; Nhỏ thẻ so thú mảnh vỡ
+20721; Cấp đống chim mảnh vỡ
+20731; Thiểm Điện điểu mảnh vỡ
+20741; Hỏa Diễm Điểu mảnh vỡ
+20751; Nhanh rồng mảnh vỡ
+20761; Siêu mộng mảnh vỡ
+20771; Mộng ảo mảnh vỡ
+20781; Cúc cây cỏ mảnh vỡ
+20791; Hỏa cầu chuột mảnh vỡ
+20801; Nhỏ cưa ngạc mảnh vỡ
+20861; Ba Khắc so mảnh vỡ
+20881; Be lợi dê mảnh vỡ
+20891; Lộ lực lệ mảnh vỡ
+20971; Mộng yêu mảnh vỡ
+21031; Thiên hạt mảnh vỡ
+21071; Hera Kroos mảnh vỡ
+21081; Nữu kéo mảnh vỡ
+21171; Mang Rewby mảnh vỡ
+21221; Lôi Công mảnh vỡ
+21231; Viêm Đế mảnh vỡ
+21241; Thủy quân mảnh vỡ
+21251; Ấu Kira tư mảnh vỡ
+21271; Phượng vương mảnh vỡ
+21291; Mộc thạch sùng mảnh vỡ
+21301; Hỏa Trĩ gà mảnh vỡ
+21311; Nước vọt cá mảnh vỡ
+21351; Sen Diệp Đồng tử mảnh vỡ
+21391; Kéo lỗ kéo mảnh vỡ
+21421; Người lười rái cá mảnh vỡ
+21441; Cô Nữu Nữu mảnh vỡ
+21501; Nhưng có thể nhiều kéo mảnh vỡ
+21611; Ngốc lửa còng mảnh vỡ
+21641; Lắc lắc ban mảnh vỡ
+21771; Xấu xấu cá mảnh vỡ
+21801; Oán ảnh bé con mảnh vỡ
+21811; Đêm tuần linh mảnh vỡ
+21841; A đột nhiên toa lỗ mảnh vỡ
+21851; Tuyết Đồng tử mảnh vỡ
+21861; Báo biển cầu mảnh vỡ
+21891; Bảo bối rồng mảnh vỡ
+21901; Sắt tạ tay mảnh vỡ
+21911; Lôi Cát Locke mảnh vỡ
+21921; Lôi Cát Ace mảnh vỡ
+21931; Régis Kỳ Lỗ mảnh vỡ
+21941; Latias mảnh vỡ
+21951; Kéo đế Oars mảnh vỡ
+22011; Cỏ mầm rùa mảnh vỡ
+22021; Lửa nhỏ diễm khỉ mảnh vỡ
+22031; Sóng Gia Mạn mảnh vỡ
+22071; Mèo con quái mảnh vỡ
+22231; Tròn lục cá mập mảnh vỡ
+22241; Lợi Âu đường mảnh vỡ
+22271; Không tốt con ếch mảnh vỡ
+22301; Tuyết nón lá quái mảnh vỡ
+22401; Kurei sắc Lợi Á mảnh vỡ
+22471; Dây leo dây leo rắn mảnh vỡ
+22481; Ủ ấm heo mảnh vỡ
+22491; Nước rái cá mảnh vỡ
+22591; Thạch viên thuốc mảnh vỡ
+22611; Đinh ốc chuột đất mảnh vỡ
+22631; Vận chuyển nhỏ tượng mảnh vỡ
+22681; Bách Túc Ngô Công mảnh vỡ
+22721; Mắt đen ngạc mảnh vỡ
+22821; Solo á mảnh vỡ
+22831; Bọt biển lật chuột mảnh vỡ
+22841; Gogh Bảo Bảo mảnh vỡ
+22871; Mini băng mảnh vỡ
+22891; Điện chuột bay mảnh vỡ
+22921; Nhẹ nhàng · Thư mảnh vỡ
+22922; Nhẹ nhàng · Hùng mảnh vỡ
+22961; Bánh răng mà mảnh vỡ
+22991; Ánh nến linh mảnh vỡ
+23001; Bập bẹ mảnh vỡ
+23011; Hắt xì gấu mảnh vỡ
+23021; Bao nhiêu bông tuyết mảnh vỡ
+23141; Đơn thủ rồng mảnh vỡ
+23151; Thiêu đốt trùng mảnh vỡ
+23161; Câu khăn đường ông mảnh vỡ
+23171; Thay mặt Raki ông mảnh vỡ
+23181; Nỗ lực cát ông mảnh vỡ
+23191; Vòi rồng mây mảnh vỡ
+23201; Lôi điện mây mảnh vỡ
+23231; Thổ địa mây mảnh vỡ
+23251; Khải đường Địch Âu mảnh vỡ
+23281; A lực lật mảnh vỡ
+23291; Hỏa Hồ ly mảnh vỡ
+23301; Oa oa ngâm con ếch mảnh vỡ
+23341; Nhỏ sư sư mảnh vỡ
+23351; Hoa bội bội mảnh vỡ
+23411; Độc vỏ kiếm mảnh vỡ
+23431; Rả rích bánh su kem mảnh vỡ
+23471; Thiết tí thương tôm mảnh vỡ
+23501; Băng Tuyết Long mảnh vỡ
+23511; Quẳng Giác Ưng người mảnh vỡ
+23541; Dinh dính bảo mảnh vỡ
+23561; Tiểu Mộc linh mảnh vỡ
+23591; Ông Bức mảnh vỡ
+23661; Mộc mộc kiêu mảnh vỡ
+23681; Cầu Cầu sư tử biển mảnh vỡ
+23771; Tốt xấu tinh toái phiến
+23841; Ngọt trúc trúc mảnh vỡ
+24131; Độc bối so mảnh vỡ
+27001; Tiểu Trí bản Pikachu mảnh vỡ
+27021; Tia chớp siêu cấp cảnh quỷ mảnh vỡ
+27031; Tia chớp siêu cấp ban Kira tư mảnh vỡ
+24111; Mã cơ Jana mảnh vỡ
+24101; Nại Kurou tư mã mảnh vỡ
+24121; Mã Hạ Đa mảnh vỡ
+24024; Lộ Netia kéo mảnh vỡ
+23623; Cơ Gerd mảnh vỡ
+27002; Mộng ảo Pi thần mảnh vỡ
+27003; Mộng ảo điện mèo mảnh vỡ
+27004; Toái không. Nhẫn thần tiểu Hắc mảnh vỡ
+27005; Vương bài DJ· Mã cơ
+27006; Truyền thuyết · Chung cực thành lũy
+27007; Thánh linh · Cửu sắc thần hươu
+27008; Băng Tuyết nữ thần · Tien hi
+22381; Lôi Cát kỳ Kaz mảnh vỡ
+22431; Đạt Clay y mảnh vỡ
+22441; Tạ gạo mảnh vỡ
+23631; Tien vỡ nát phiến
+21261; Lạc Kỳ á mảnh vỡ
+21961; Đóng Âu thẻ mảnh vỡ
+21971; Cố kéo nhiều mảnh vỡ
+21981; Liệt không tòa mảnh vỡ
+21991; Kira cầu mảnh vỡ
+23261; Đẹp Lạc a tháp · Tiếng ca mảnh vỡ
+22351; Đế răng Luka mảnh vỡ
+22361; Khăn Lucci á mảnh vỡ
+22391; Cưỡi kéo đế nạp mảnh vỡ
+23211; Lai Hi Lạp mẫu mảnh vỡ
+23221; Tiệp Khắc Rom mảnh vỡ
+23241; Tù Rem mảnh vỡ
+23641; Trừng trị Hồ khăn mảnh vỡ
+24023; Thor già Leo mảnh vỡ
+24171; Đẹp ghi chép thản mảnh vỡ
+23611; Y Bùi ngươi Thel mảnh vỡ
+21281; Lúc Labie mảnh vỡ
+23271; Đóng nặc thi đấu Kurt mảnh vỡ
+23601; Triết ngươi ni Á Tư mảnh vỡ
+24161; Nhanh kéo Aora mảnh vỡ
+29001; Tử sắc bách biến quái mảnh vỡ
+29002; Màu cam bách biến quái mảnh vỡ
+29003; Màu đỏ bách biến quái mảnh vỡ

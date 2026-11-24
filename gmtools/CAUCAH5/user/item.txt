@@ -1,0 +1,161 @@
+2; Vân Anh
+4; Ngọc Bích
+6; Phiếu quà tặng
+101; Điểm lễ hội
+102; Lệnh luận kiếm
+103; Phiếu thảo phạt
+104; Thẻ Như Ý
+105; Điểm lôi đài
+106; Tụ Lan Tinh
+107; Lệnh Phúc Vận Bảo
+108; Điểm Phong Vân Lục
+109; Điểm phái khiển
+201; Cống hiến bang phái
+202; Điểm hoạt động bang phái
+203; Kinh nghiệm bang phái
+204; Chiến công
+205; Tinh túy
+206; Giá trị bí bảo Cửu U
+207; Danh vọng
+208; Hồn lực dân làng
+209; Hồn lực dân quân
+210; Hồn lực hiệp sĩ
+211; Hồn lực cuồng đồ
+212; Hồn lực cấm quân
+213; Hồn lực huyết đao
+214; Hồn lực cầm ma
+215; Hồn lực tông sư
+216; Hồn lực bạch viên
+217; Lực tránh sương
+218; Huyết nhận ẩn sương
+219; Du hồn
+220; Nộ phách
+221; Điểm đảo ẩn sương
+222; Hổ phù
+223; Lệnh thần uy
+224; Gạch xây thành
+225; Linh phù
+120001; Kỷ tử
+120002; Rượu gạo
+120003; Lệnh giang hồ
+120004; Dưỡng tinh hoàn
+120005; Cửu chuyển kim đan
+120006; Tàn chương
+120007; Hương trà
+120008; Triều lộ
+120009; Ngọc đồng tâm
+120010; Tuyết liên cực phẩm
+120011; Tuyết liên tuyệt phẩm
+120012; Hỗn nguyên tán
+120013; Cửu nghi phách
+120014; San hô
+120015; Cát sao băng
+120016; Lương bổng
+120017; Thanh tuyền
+120018; Quả ngọt
+120019; Linh sâm
+120020; Bí quyển không chữ
+120021; Thiếp bái kiếm
+120022; Mật ong
+120023; Nhung hươu
+120024; Tuyết hà
+120025; Bách luyện cương
+120026; Cửu vĩ yêu hỏa
+120027; Ngọc âm dương
+120028; Tinh phách thần ưng
+120029; Tín vật kiếm tiên
+120030; Huyền băng
+120032; Ngọc Lăng Nha
+120033; Đan tránh sương
+120034; Linh hồn chuông
+120035; Đèn trấn phách
+120036; Cờ đao nhọn
+120037; Chiến thư
+120038; Huyền thiết ngàn năm
+120039; Phân kim trận bàn
+120040; Cát vũ hồn
+120041; Phiếu tỉnh ngộ bí kíp
+121001; Tinh mạo hiểm
+122001; Mảnh hương trà
+122002; Mảnh tuyết liên cực phẩm
+122003; Mảnh tuyết liên tuyệt phẩm
+122004; Mảnh ngẫu nhiên bạn đồng hành thần thoại
+122005; Mảnh tự chọn bạn đồng hành thần thoại
+122006; Mảnh tự chọn bạn đồng hành truyền thuyết
+122007; Mảnh tự chọn bí kíp hóa cảnh
+122008; Mảnh tự chọn bí kíp dung thần
+122009; Mảnh ngẫu nhiên bí kíp hóa cảnh
+122010; Mảnh ngẫu nhiên bí kíp dung thần
+122011; Tín vật Thiếu Mẫn Quận chúa
+130007; Bạn đồng hành xuất sắc ngẫu nhiên
+130009; Bạn đồng hành cao cấp ngẫu nhiên
+130010; Bạn đồng hành đỉnh cấp ngẫu nhiên
+130011; Bạn đồng hành thường gặp ngẫu nhiên
+130012; Bạn đồng hành thông thường ngẫu nhiên
+130013; Bạn đồng hành truyền thuyết ngẫu nhiên
+130014; Bạn đồng hành thần thoại ngẫu nhiên
+130019; Môn khách cao cấp ngẫu nhiên
+130020; Môn khách thường gặp ngẫu nhiên
+130022; Môn khách thông thường ngẫu nhiên
+130023; Môn khách xuất sắc ngẫu nhiên
+130024; Môn khách truyền thuyết ngẫu nhiên
+130025; Môn khách thần thoại ngẫu nhiên
+130026; Mảnh môn khách thường gặp ngẫu nhiên
+130027; Mảnh môn khách thông thường ngẫu nhiên
+130028; Mảnh môn khách xuất sắc ngẫu nhiên
+130029; Mảnh môn khách truyền thuyết ngẫu nhiên
+130030; Mảnh môn khách thần thoại ngẫu nhiên
+131001; Rương báu vật ngẫu nhiên
+131002; Rương báu vật ngẫu nhiên 2
+131003; Rương thách đấu cấm địa
+131004; Túi may mắn ngọc đồng tâm
+131005; Túi may mắn hương trà
+132001; Bí kíp hóa cảnh ngẫu nhiên
+132002; Bí kíp quan hình ngẫu nhiên
+132003; Bí kíp ngộ ý ngẫu nhiên
+132004; Bí kíp dung thần ngẫu nhiên
+133001; Rương dấu ấn cấp 1 ngẫu nhiên
+133002; Rương dấu ấn cấp 2 ngẫu nhiên
+133003; Rương dấu ấn cấp 3 ngẫu nhiên
+133004; Rương dấu ấn cấp 4 ngẫu nhiên
+133005; Rương dấu ấn cấp 5 ngẫu nhiên
+133006; Rương dấu ấn cấp 1~2 ngẫu nhiên
+133007; Rương dấu ấn cấp 1~5 ngẫu nhiên
+133008; Rương dấu ấn cấp 3~4 ngẫu nhiên
+140002; Bí kíp hóa cảnh tự chọn
+140003; Bí kíp dung thần tự chọn
+140004; Bí kíp ngộ ý tự chọn
+140005; Bí kíp quan hình tự chọn
+141008; Bạn đồng hành thần thoại tự chọn giới hạn
+141007; Bạn đồng hành truyền thuyết tự chọn giới hạn
+141001; Bạn đồng hành thần thoại tự chọn
+141002; Bạn đồng hành truyền thuyết tự chọn
+141003; Bạn đồng hành xuất sắc tự chọn
+141004; Bạn đồng hành thông thường tự chọn
+141005; Bạn đồng hành thường gặp tự chọn
+142001; Mảnh môn khách thần thoại tự chọn
+142002; Môn khách thần thoại tự chọn
+142003; Môn khách truyền thuyết tự chọn
+142004; Môn khách xuất sắc tự chọn
+142005; Môn khách thông thường tự chọn
+142006; Môn khách thường gặp tự chọn
+142007; Mảnh môn khách truyền thuyết tự chọn
+142008; Mảnh môn khách xuất sắc tự chọn
+142009; Mảnh môn khách thông thường tự chọn
+142010; Mảnh môn khách thường gặp tự chọn
+142011; Môn khách thần thoại tự chọn giới hạn
+142012; Môn khách truyền thuyết tự chọn giới hạn
+143001; Rương dấu ấn cấp 1 tự chọn
+160001; Đan tạo hình
+160002; Thẻ đổi tên
+160101; Y phục Vũ Y
+160102; Độc kiếm tầm hà
+160103; Phong lưu mai vận
+160201; Trường ca Bích Ba
+160301; Hải ẩn uyên thâm
+161001; Thiên Địa Kiền Khôn
+161002; Pháp vương Kim Luân
+161003; Thiên thần lục dực
+161004; Tử khí đông lai
+161005; Huyết nguyệt thượng huyền
+161006; Tế ti chiêm tinh

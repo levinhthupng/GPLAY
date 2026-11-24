@@ -1,0 +1,2155 @@
+1;Linh thạch;1
+2;Tiên ngọc;1
+3;Nhân vật kinh nghiệm;1
+4;Tiên đào;1
+5;Khiêu chiến trạng;1
+6;Canh Kim;1
+7;Ngũ sắc thạch;1
+10;Tịnh Bình nước;1
+11;Lưu ly châu;1
+18;Linh thú quả;1
+32;Tiên duyên điểm tích lũy;1
+41;Đổi tên thẻ;1
+69;Linh thú tẩy luyện tiền tệ;1
+70;Linh thú tẩy luyện bảo đảm thuộc tính tiền tệ;1
+71;Linh thú Tố Hồn tiền tệ;1
+72;Trang bị tinh luyện tiền tệ;1
+73;Trang bị tinh luyện thăng giai;1
+75;Quần anh bảng vấn đỉnh khoán;1
+76;Tiên thiên linh thảo;1
+77;Vạn năm linh chi;1
+80;Thần điểu linh dịch;1
+81;Đại bàng linh dịch;1
+82;Kim hoàng linh dịch;1
+83;Thánh Long linh dịch;1
+84;Tầm bảo la bàn;1
+85;Linh giới la bàn;1
+87;Đan dược;1
+88;Tiên nhưỡng;1
+89;Tinh khí đan;1
+111;Vận thế rút thưởng;1
+113;Triệu hoán lệnh;1
+114;Đạo thư;1
+117;Ngự linh thạch;1
+120;Thiên Diễn khiến;1
+121;Côn Luân sắt;1
+123;Đạo niệm;1
+124;1～2 Cấp ấn ký gói quà;1
+125;Tử Linh kim;1
+126;Huyền Hoàng quả;1
+127;Đan dược;1
+128;Tiên nhưỡng;1
+129;Đằng lưỡi rắn vật;1
+130;Dễ nhan đan;1
+131;Tinh xảo đan;1
+132;Linh lung đan;1
+134;Quần anh bảng điểm tích lũy;1
+135;Người cống hiến;1
+136;Vinh dự điểm tích lũy;1
+137;Cửu U linh ngọc;1
+138;Yêu minh sinh động độ;1
+139;Yêu minh kinh nghiệm;1
+140;Hi hữu bụi;1
+141;Trác tuyệt bụi;1
+142;Truyền thuyết bụi;1
+143;Thần thoại bụi;1
+144;Thiên đạo quả;1
+145;Ngộ đạo thạch;1
+146;Thiên cơ thạch;1
+149;Đạo văn thạch;1
+150;Hỗn Nguyên Đạo quả;1
+151;Tam giới ngọc;1
+152;Bản nguyên thạch;1
+153;Thái hư Nguyên thạch;1
+154;Thần thú Hồn Tinh;1
+996;Huyền Hoàng quả;1
+997;Tinh tú điểm tích lũy;1
+998;Dị thú bảo rương;1
+999;Thiên địa cơ duyên;1
+1044;Đào Ngột mảnh vỡ;21
+1045;Phù Tang mảnh vỡ;21
+1046;Tiểu Long Nữ mảnh vỡ;21
+1047;Xương mị mảnh vỡ;21
+1048;Huyền Minh giao mảnh vỡ;21
+1049;Tử con ngươi rồng sư mảnh vỡ;21
+1050;Hình Thiên mảnh vỡ;21
+1051;Nước quan lớn đế mảnh vỡ;21
+1052;Quỷ Tướng mảnh vỡ;21
+1053;Lôi Công mảnh vỡ;21
+1054;Đen Kỳ Lân mảnh vỡ;21
+1055;Bàn đào tiên nhân mảnh vỡ;21
+1056;Đại Minh Vương mảnh vỡ;21
+1057;Đạo chân mảnh vỡ;21
+1058;Ma Lễ Thanh mảnh vỡ;21
+1059;Tam nhãn Chân Quân mảnh vỡ;21
+1060;Hoàng đế mảnh vỡ;21
+1061;Đại thụ yêu mảnh vỡ;21
+1062;Đại sơn yêu mảnh vỡ;21
+1063;Đại Bằng Vương mảnh vỡ;21
+1064;Hà Bá mảnh vỡ;21
+1065;Hỗn độn sói mảnh vỡ;21
+1066;Tại dao mảnh vỡ;21
+1067;Bảo khí Các chủ mảnh vỡ;21
+1068;Nữ Đế mảnh vỡ;21
+1069;Mực bên trong tiên mảnh vỡ;21
+1070;Bá vương mảnh vỡ;21
+1071;Thi đấu Hoa Đà mảnh vỡ;21
+1072;Đầu trâu mảnh vỡ;21
+1073;Mặt ngựa mảnh vỡ;21
+1076;Con thỏ tinh mảnh vỡ;21
+1077;Cây dây gai tinh mảnh vỡ;21
+1078;Cây nấm|lề mề tinh mảnh vỡ;21
+1079;Nhỏ trác tử mảnh vỡ;21
+1080;Chim tinh quái mảnh vỡ;21
+1081;Hồ điệp tinh mảnh vỡ;21
+1082;Núi trạch tinh mảnh vỡ;21
+1083;Cá vàng đại vương mảnh vỡ;21
+1084;Thơ cuồng mảnh vỡ;21
+1085;Phá trận thư sinh mảnh vỡ;21
+1086;Hương phu nhân mảnh vỡ;21
+1087;Ngu Mỹ Nhân mảnh vỡ;21
+1088;Xảo thủ muội muội mảnh vỡ;21
+1089;Thủ cơm đồng tử mảnh vỡ;21
+1090;Sơn Tiêu mảnh vỡ;21
+2001;Thiên mệnh dũng sĩ;5
+2002;Đỉnh phong bá chủ;5
+2003;Vô tận chinh phục giả;5
+2004;Hút máu lưu cao thủ;5
+2005;Né tránh lưu cao thủ;5
+2006;Bạo kích lưu cao thủ;5
+2007;Liên kích lưu cao thủ;5
+2008;Phản kích lưu cao thủ;5
+2009;Kích choáng lưu cao thủ;5
+2010;Thực tập người mới;5
+2011;Tân tú du hiệp;5
+2012;Sơ giai du hiệp;5
+2013;Cao giai du hiệp;5
+2014;Thanh đồng dũng sĩ;5
+2015;Bí ngân dũng sĩ;5
+2016;Diệu kim dũng sĩ;5
+2017;Óng ánh kỵ sĩ;5
+2018;Vinh quang kỵ sĩ;5
+2019;Thần Thánh kỵ sĩ;5
+2020;Siêu phàm đại sư;5
+2021;Truyền kỳ anh hùng;5
+2022;Bất hủ truyền thuyết;5
+2023;Chiến tranh lãnh chúa;5
+2024;Kỳ tích đại công tước;5
+2025;Vực sâu chi vương;5
+2026;Vạn chúng chú mục;5
+2027;Thanh Long;8
+2028;Bạch Hổ;8
+2029;Chu Tước;8
+2030;Huyền Vũ;8
+2031;Kỳ Lân;8
+2032;Ứng Long;8
+2033;Năm;8
+2034;Không chi kỳ;8
+2035;Cửu Vĩ Hồ;8
+2036;Toan Nghê;8
+2037;Kế Mông;8
+2038;Diên chim;8
+2039;Bạch Trạch;8
+2040;Thiên mã;8
+2041;Đế Giang;8
+2042;Anh Chiêu;8
+2043;Lộc Thục;8
+2044;Tính tính;8
+2045;May mắn|Cát Lợi;8
+2046;Họa đấu;8
+2047;Linh Hồ mảnh vỡ;1
+2048;Vân Tước mảnh vỡ;1
+2049;Núi vượn mảnh vỡ;1
+2050;Thổ tinh mảnh vỡ;1
+2051;Con chuột lớn mảnh vỡ;1
+3000;Thần thoại tự do tinh quái;1
+3001;Phổ thông ngẫu nhiên tinh quái;1
+3002;Thần thoại tự do Linh thú;1
+3003;Phổ thông ngẫu nhiên Linh thú;1
+3004;Trác tuyệt tự do Linh thú;1
+3005;Truyền thuyết ngẫu nhiên tinh quái;1
+3006;Trác tuyệt ngẫu nhiên tinh quái;1
+3007;Truyền thuyết tự do tinh quái;1
+3008;Truyền thuyết tự do Linh thú;1
+3009;Trác tuyệt ngẫu nhiên Linh thú;1
+3010;Thần thoại ngẫu nhiên Linh thú;1
+3011;Truyền thuyết ngẫu nhiên Linh thú;1
+3012;Tự do thần thoại pháp bảo;1
+3013;Tự do truyền thuyết pháp bảo;1
+3014;Tự do trác tuyệt pháp bảo;1
+3015;Ngẫu nhiên thần thoại pháp bảo;1
+3016;Ngẫu nhiên trác tuyệt pháp bảo;1
+3017;Ngẫu nhiên truyền thuyết pháp bảo;1
+3018;Tự do ngộ đạo thần thông;1
+3019;Tự do thông huyền thần thông;1
+3020;Ngẫu nhiên ngộ đạo thần thông;1
+3021;Ngẫu nhiên thông huyền thần thông;1
+3022;Trác tuyệt tự do tinh quái;1
+3023;Tự do luyện hóa bảo rương;1
+3024;Ngẫu nhiên luyện hóa bảo rương;1
+3025;Ngẫu nhiên cao cấp tinh quái;1
+3026;Phổ biến ngẫu nhiên tinh quái;1
+3027;Ngẫu nhiên cao cấp Linh thú;1
+4001;1~2 Cấp ấn ký gói quà;1
+4002;1~5 Cấp ấn ký gói quà;1
+4003;3~4 Cấp ấn ký gói quà;1
+4004;1 Cấp ấn ký gói quà;1
+4005;2 Cấp ấn ký gói quà;1
+4006;3 Cấp ấn ký gói quà;1
+4007;4 Cấp ấn ký gói quà;1
+4008;5 Cấp ấn ký gói quà;1
+4009;1 Cấp ấn ký tự do bảo rương;1
+4010;2 Cấp ấn ký tự do bảo rương;1
+4011;3 Cấp ấn ký tự do bảo rương;1
+4012;4 Cấp ấn ký tự do bảo rương;1
+4013;5 Cấp ấn ký tự do bảo rương;1
+4014;6 Cấp ấn ký tự do bảo rương;1
+4015;7 Cấp ấn ký tự do bảo rương;1
+4016;8 Cấp ấn ký tự do bảo rương;1
+4017;9 Cấp ấn ký tự do bảo rương;1
+4018;10 Cấp ấn ký tự do bảo rương;1
+5000;Bích vảy đeo;1
+5001;Tử vân Lôi Linh;1
+5002;Thủy linh cà rốt;1
+5003;Chiêu tài tay nhỏ;1
+5004;Thương Lan châu;1
+5005;Mộng Điệp;1
+5006;Phượng vũ;1
+5007;Xuân yến về;1
+5008;Định tình trâm;1
+5009;Chu Tước Hoàn;1
+5010;Đầu sói Ngọc như ý;1
+5011;Linh đang;1
+5012;Chim trĩ quạt lông;1
+5013;Ngọc thạch tì bà;1
+5014;Trăm năm rượu ngon;1
+5015;Hạo nguyệt Thiên Hà;1
+5016;Gặp một lần phát tài;1
+5017;Oanh Ca Tiên lan;1
+5018;Thương đào nghe biển;1
+6001;Đặc thù tinh quái tự do bảo rương;1
+6002;Đặc thù Linh thú tự do bảo rương;1
+6003;Đặc thù tiên hữu tự do bảo rương;1
+6004;Sơn hải Linh thú tự do bảo rương;1
+6005;Cao cấp thời trang tự do bảo rương;1
+6006;Truyền thuyết thời trang tự do bảo rương;1
+6007;Thần thoại thời trang tự do bảo rương;1
+6008;Ảnh chân dung khung tự do bảo rương;1
+50101;1 Cấp lực lượng ấn ký;20
+50102;2 Cấp lực lượng ấn ký;20
+50103;3 Cấp lực lượng ấn ký;20
+50104;4 Cấp lực lượng ấn ký;20
+50105;5 Cấp lực lượng ấn ký;20
+50106;6 Cấp lực lượng ấn ký;20
+50107;7 Cấp lực lượng ấn ký;20
+50108;8 Cấp lực lượng ấn ký;20
+50109;9 Cấp lực lượng ấn ký;20
+50110;10 Cấp lực lượng ấn ký;20
+50201;1 Cấp Thủ hộ ấn ký;20
+50202;2 Cấp Thủ hộ ấn ký;20
+50203;3 Cấp Thủ hộ ấn ký;20
+50204;4 Cấp Thủ hộ ấn ký;20
+50205;5 Cấp Thủ hộ ấn ký;20
+50206;6 Cấp Thủ hộ ấn ký;20
+50207;7 Cấp Thủ hộ ấn ký;20
+50208;8 Cấp Thủ hộ ấn ký;20
+50209;9 Cấp Thủ hộ ấn ký;20
+50210;10 Cấp Thủ hộ ấn ký;20
+50301;1 Cấp bạo tổn thương ấn ký;20
+50302;2 Cấp bạo tổn thương ấn ký;20
+50303;3 Cấp bạo tổn thương ấn ký;20
+50304;4 Cấp bạo tổn thương ấn ký;20
+50305;5 Cấp bạo tổn thương ấn ký;20
+50306;6 Cấp bạo tổn thương ấn ký;20
+50307;7 Cấp bạo tổn thương ấn ký;20
+50308;8 Cấp bạo tổn thương ấn ký;20
+50309;9 Cấp bạo tổn thương ấn ký;20
+50310;10 Cấp bạo tổn thương ấn ký;20
+50401;1 Cấp cứng cỏi ấn ký;20
+50402;2 Cấp cứng cỏi ấn ký;20
+50403;3 Cấp cứng cỏi ấn ký;20
+50404;4 Cấp cứng cỏi ấn ký;20
+50405;5 Cấp cứng cỏi ấn ký;20
+50406;6 Cấp cứng cỏi ấn ký;20
+50407;7 Cấp cứng cỏi ấn ký;20
+50408;8 Cấp cứng cỏi ấn ký;20
+50409;9 Cấp cứng cỏi ấn ký;20
+50410;10 Cấp cứng cỏi ấn ký;20
+50501;1 Cấp trị liệu ấn ký;20
+50502;2 Cấp trị liệu ấn ký;20
+50503;3 Cấp trị liệu ấn ký;20
+50504;4 Cấp trị liệu ấn ký;20
+50505;5 Cấp trị liệu ấn ký;20
+50506;6 Cấp trị liệu ấn ký;20
+50507;7 Cấp trị liệu ấn ký;20
+50508;8 Cấp trị liệu ấn ký;20
+50509;9 Cấp trị liệu ấn ký;20
+50510;10 Cấp trị liệu ấn ký;20
+50601;1 Cấp đạo pháp ấn ký;20
+50602;2 Cấp đạo pháp ấn ký;20
+50603;3 Cấp đạo pháp ấn ký;20
+50604;4 Cấp đạo pháp ấn ký;20
+50605;5 Cấp đạo pháp ấn ký;20
+50606;6 Cấp đạo pháp ấn ký;20
+50607;7 Cấp đạo pháp ấn ký;20
+50608;8 Cấp đạo pháp ấn ký;20
+50609;9 Cấp đạo pháp ấn ký;20
+50610;10 Cấp đạo pháp ấn ký;20
+50701;1 Cấp Linh thú ấn ký;20
+50702;2 Cấp Linh thú ấn ký;20
+50703;3 Cấp Linh thú ấn ký;20
+50704;4 Cấp Linh thú ấn ký;20
+50705;5 Cấp Linh thú ấn ký;20
+50706;6 Cấp Linh thú ấn ký;20
+50707;7 Cấp Linh thú ấn ký;20
+50708;8 Cấp Linh thú ấn ký;20
+50709;9 Cấp Linh thú ấn ký;20
+50710;10 Cấp Linh thú ấn ký;20
+50801;1 Cấp chấn nhiếp ấn ký;20
+50802;2 Cấp chấn nhiếp ấn ký;20
+50803;3 Cấp chấn nhiếp ấn ký;20
+50804;4 Cấp chấn nhiếp ấn ký;20
+50805;5 Cấp chấn nhiếp ấn ký;20
+50806;6 Cấp chấn nhiếp ấn ký;20
+50807;7 Cấp chấn nhiếp ấn ký;20
+50808;8 Cấp chấn nhiếp ấn ký;20
+50809;9 Cấp chấn nhiếp ấn ký;20
+50810;10 Cấp chấn nhiếp ấn ký;20
+50901;1 Cấp phân tranh ấn ký;20
+50902;2 Cấp phân tranh ấn ký;20
+50903;3 Cấp phân tranh ấn ký;20
+50904;4 Cấp phân tranh ấn ký;20
+50905;5 Cấp phân tranh ấn ký;20
+50906;6 Cấp phân tranh ấn ký;20
+50907;7 Cấp phân tranh ấn ký;20
+50908;8 Cấp phân tranh ấn ký;20
+50909;9 Cấp phân tranh ấn ký;20
+50910;10 Cấp phân tranh ấn ký;20
+51001;1 Cấp chống cự ấn ký;20
+51002;2 Cấp chống cự ấn ký;20
+51003;3 Cấp chống cự ấn ký;20
+51004;4 Cấp chống cự ấn ký;20
+51005;5 Cấp chống cự ấn ký;20
+51006;6 Cấp chống cự ấn ký;20
+51007;7 Cấp chống cự ấn ký;20
+51008;8 Cấp chống cự ấn ký;20
+51009;9 Cấp chống cự ấn ký;20
+51010;10 Cấp chống cự ấn ký;20
+51101;1 Cấp vô vi ấn ký;20
+51102;2 Cấp vô vi ấn ký;20
+51103;3 Cấp vô vi ấn ký;20
+51104;4 Cấp vô vi ấn ký;20
+51105;5 Cấp vô vi ấn ký;20
+51106;6 Cấp vô vi ấn ký;20
+51107;7 Cấp vô vi ấn ký;20
+51108;8 Cấp vô vi ấn ký;20
+51109;9 Cấp vô vi ấn ký;20
+51110;10 Cấp vô vi ấn ký;20
+51201;1 Cấp Phá Quân ấn ký;20
+51202;2 Cấp Phá Quân ấn ký;20
+51203;3 Cấp Phá Quân ấn ký;20
+51204;4 Cấp Phá Quân ấn ký;20
+51205;5 Cấp Phá Quân ấn ký;20
+51206;6 Cấp Phá Quân ấn ký;20
+51207;7 Cấp Phá Quân ấn ký;20
+51208;8 Cấp Phá Quân ấn ký;20
+51209;9 Cấp Phá Quân ấn ký;20
+51210;10 Cấp Phá Quân ấn ký;20
+100001;Nguyệt thẻ;1
+100002;Chung thân thẻ;1
+100013;Vấn đỉnh thiếp;1
+100024;Yêu minh khiến;1
+100027;Thiên địa Tàn hồn;1
+100028;Phúc địa thăng cấp đạo cụ;1
+100033;Di tích tranh bá cá nhân điểm tích lũy;1
+100034;Di tích tranh bá đội ngũ điểm tích lũy;1
+100035;Khai phục khánh điển điểm tích lũy;1
+100039;Thám hiểm điểm tích lũy;1
+100040;Uẩn linh tinh;1
+100041;Thiên cơ lệnh;1
+100042;Khu Linh phù;1
+100043;Lịch luyện điểm tích lũy;1
+100049;Truyền thuyết Tố Hồn hoa;1
+100050;Thần thoại Tố Hồn hoa;1
+100051;Truyền thuyết Tố Hồn hoa mảnh vỡ;1
+100052;Thần thoại Tố Hồn hoa mảnh vỡ;1
+100053;Xi Vưu mảnh vỡ;1
+100054;Địch tiên lộ;1
+100055;Không thay đổi nham;1
+100066;Ngẫu nhiên thông huyền thần thông mảnh vỡ;1
+100067;Ngẫu nhiên ngộ đạo thần thông mảnh vỡ;1
+100068;Tự do thông huyền thần thông mảnh vỡ;1
+100069;Tự do ngộ đạo thần thông mảnh vỡ;1
+100071;Vô Tự Thiên Thư;1
+100073;Linh khí;1
+100075;Tự do thần thoại Linh thú mảnh vỡ;1
+100076;Ngẫu nhiên thần thoại Linh thú mảnh vỡ;1
+100077;Chuột tổng quản tuần thẻ;1
+100078;Chuột tổng quản nguyệt thẻ;1
+100080;Tầm bảo la bàn mảnh vỡ;1
+100083;Quyết đấu mời thiếp;1
+100087;Thiên Thương cự mãng mảnh vỡ;1
+100088;Sơn hải điểm tích lũy;1
+100089;Quỳnh tương linh dịch đặc quyền;1
+100090;Cửu U bảo châu;1
+100093;Cửu U mời thiếp;1
+100095;Cửu U linh thạch;1
+100096;Linh giới la bàn mảnh vỡ;1
+100099;Thú hồn tinh phách;1
+100100;Bản nguyên đan;1
+100102;Màu đỏ nội đan thức tỉnh vật liệu;1
+100103;Màu cam nội đan thức tỉnh vật liệu;1
+100104;Tử sắc nội đan thức tỉnh vật liệu;1
+100105;Màu lam nội đan thức tỉnh vật liệu;1
+100106;Lục sắc nội đan thức tỉnh vật liệu;1
+100108;Tướng mảnh vỡ;1
+100110;Bản nguyên đan mảnh vỡ;1
+100112;Vô danh thú hồn;1
+100114;Phệ Kim Trùng mảnh vỡ;1
+100115;Thổ Giáp Long mảnh vỡ;1
+100116;Chú Linh Tinh thạch;1
+100117;Triệu hoán lệnh mảnh vỡ;1
+100118;Truyền thuyết tự do Linh thú mảnh vỡ;1
+100119;Truyền thuyết ngẫu nhiên Linh thú mảnh vỡ;1
+100120;Tam giới công tích;1
+100121;Treo thưởng điểm tích lũy;1
+100122;Trấn ma mời thiếp;1
+100124;Tạo hóa thạch;1
+100125;Tiên thiên linh khí;1
+100126;Thái hư Nguyên thạch;1
+100127;Thế giới mảnh vỡ;1
+100128;Tam Túc Kim Ô mảnh vỡ;1
+100129;Phỉ trâu mảnh vỡ;1
+100130;Khâm Nguyên mảnh vỡ;1
+100131;Hổ Giao mảnh vỡ;1
+100136;Na Tra giấy viết thư;1
+100137;Hoa Hồ Điêu mảnh vỡ;1
+100138;Hao Thiên mảnh vỡ;1
+100139;Kim nhãn thần oanh mảnh vỡ;1
+100140;Thái hư Nguyên thạch mảnh vỡ;1
+100141;Đào thiên tệ;1
+100143;Huyễn quyển?Côn Luân hư;1
+100144;Huyễn quyển?Thần mộc rừng;1
+100145;Huyễn quyển?Lưỡng Giới Sơn;1
+100146;Huyễn quyển?Vân Mộng Trạch;1
+100147;Huyễn quyển?Linh Vụ Sơn;1
+100148;Huyễn quyển?Thu linh cốc;1
+100149;Huyễn quyển?Gió minh sườn núi;1
+100150;Huyễn quyển?Thái hư rừng;1
+100151;Huyễn quyển?Tiên trúc khe;1
+100152;Thiên Công bản vẽ;1
+100153;Tạo vật chi nguyên;1
+100154;Tam giới ngọc;1
+100155;Kim đào;1
+100157;Hồ yêu giấy viết thư;1
+100158;Linh thảo;1
+100159;Bàn đào;1
+100160;Luân hồi khiêu chiến lệnh;1
+100162;Thiên Công chùy;1
+100163;Gấu ẩn hiện giấy viết thư;1
+100164;Lục Ngô mảnh vỡ;1
+100165;Con ta tu dư mảnh vỡ;1
+100166;Cố thần kim đan;1
+100168;Thiên Công bản vẽ mảnh vỡ;1
+100174;Truyền thuyết ngẫu nhiên kiến trúc mảnh vỡ;1
+100175;Trác tuyệt ngẫu nhiên kiến trúc mảnh vỡ;1
+100176;Hi hữu ngẫu nhiên kiến trúc mảnh vỡ;1
+100177;Tinh lương ngẫu nhiên kiến trúc mảnh vỡ;1
+105000;Bạch ngân Yêu vực bảo rương;1
+105001;Hoàng kim Yêu vực bảo rương;1
+105002;Bạch ngân Yêu vực chìa khoá;1
+105003;Hoàng kim Yêu vực chìa khoá;1
+105004;Yêu vực điểm tích lũy;1
+105005;Dầu vừng;1
+105006;Yêu vực thể lực;1
+105007;Mười năm yêu đan;1
+105008;Trăm năm yêu đan;1
+105009;Năm trăm năm yêu đan;1
+105010;Ngàn năm yêu đan;1
+105011;Khiêu chiến lệnh;1
+105012;Loạn đấu điểm tích lũy;1
+105013;Loạn đấu công huân;1
+105014;Loạn đấu khiến;1
+105015;Huyền biển băng phách;1
+105016;Thanh Minh thạch;1
+105019;Công thành chiến lệnh;1
+105020;Linh Trì cam lộ;1
+105021;Công thành chiến điểm tích lũy;1
+105022;Vảy rồng;1
+105023;Năm ngàn năm yêu đan;1
+105024;Vạn năm yêu đan;1
+105025;Ba vạn năm yêu đan;1
+105026;Năm vạn năm yêu đan;1
+105027;Mười vạn năm yêu đan;1
+105028;Tơ vàng gỗ trinh nam;1
+105029;Hỏi khiến;1
+105030;Cầu đạo ngọc;1
+105031;Yêu thị thủ bài;1
+105032;Kiếm bảo điểm tích lũy;1
+105033;Công thành chiến thể lực;1
+105034;Đại yêu ấn;1
+105035;Yêu Tông khiến;1
+105036;Cạnh đoán tệ;1
+105037;Mời thiếp;1
+105039;Bồng Lai tiên quả;1
+105040;Linh Tinh;1
+105041;Cam tuyền linh dịch;1
+105042;Thánh tuyền linh dịch;1
+105043;Thiên trì linh dịch;1
+105045;Tiên nguyệt phúc bánh;1
+105046;Tinh quân ngọc bài;1
+105047;Lên cao điểm tích lũy;1
+105048;Nhật Diệu châu;1
+105049;Nguyệt chiếu châu;1
+105050;Chư thiên khiến;1
+105051;Vấn đỉnh điểm tích lũy;1
+105052;Bát Hoang điểm tích lũy;1
+105053;Bát Hoang thiếp;1
+105054;Khôi phục xúc xích bự;1
+105055;Thủy Tinh Huyết Long Tham;1
+105056;Bạo Vũ Lê Hoa Châm;1
+105057;Về mây huyễn ngọc;1
+105058;Về mộng tiên ngọc;1
+105059;Bắc Minh lệnh bài;1
+105060;Cầu nguyện phù;1
+105061;Thiên kiệt thông bảo;1
+105062;Địa linh thông bảo;1
+105063;Bí cảnh quỳnh quả;1
+105064;Cầu nguyện điểm tích lũy;1
+105065;Cỏ râu rồng;1
+105066;Long văn thạch;1
+105067;Nguyên Tiêu;1
+105068;Bàn đào;1
+105069;Dao Trì ngọc dịch;1
+105070;Bát Trân ngọc thực;1
+105071;Vạn năng nguyên liệu nấu ăn;1
+105072;Tân xuân hồng bao;1
+105073;Pháo;1
+105074;Kim heo phúc;1
+105075;Tường chim phúc;1
+105076;Hoan bảo phúc;1
+105077;Linh hầu phúc;1
+105078;Cá chép phúc;1
+105079;Kiếp này nguyên nhân;1
+105080;Thần Phong phiến;1
+105081;Trùng thiên pháo;1
+105082;Như ý kết;1
+105083;Tường thụy phúc thiếp;1
+105084;Trùng thiên điểm tích lũy;1
+105085;Yêu tháp ngọc lệnh;1
+105086;Yêu Tháp Linh ngọc;1
+105087;Yêu tháp tôn ngọc;1
+105088;Yêu tháp điểm tích lũy;1
+105089;Vật thật rút thưởng khoán;1
+105090;Nhật diệu Huyền Tinh;1
+105091;Tử Tiêu linh quáng;1
+105092;Luân hồi Huyền Ngọc;1
+105093;Long quật thể lực;1
+105094;;1
+105095;Làm vẽ hoa đăng;1
+105096;Cá chép hoa đăng;1
+105097;Tiên thỏ điểm tích lũy;1
+105098;Nát Thiên Chùy;1
+105099;Tạo hóa linh ngọc;1
+105100;Cửu thiên vẫn thạch;1
+105101;Cam lộ tiên dịch;1
+105102;Lệnh tập kết;1
+105103;Sinh động điểm tích lũy;1
+105104;Hỗn Nguyên chùy;1
+105105;Thiên nghịch thạch;1
+105106;Tinh Hải bình;1
+105107;Tiên linh quả;1
+105108;Cá tệ;1
+105109;Thánh Vực la bàn;1
+105110;Ngoài vòng giáo hoá thông bảo;1
+105111;Tụ phúc linh bích;1
+105112;Làm khôn như ý bàn;1
+105113;Làm khôn túi;1
+105114;Thánh Vực la bàn;1
+105115;Thiên Lôi trúc;1
+105116;Kiếm mang;1
+105117;Vận may chùy;1
+105118;Tiên Ma Linh châu;1
+105119;Cầu nguyện tệ;1
+105120;Linh khí;1
+105121;Linh ngọc;1
+105122;Danh vọng;1
+105123;Tiên thương khiêu chiến lệnh;1
+105124;Huyền Tinh;1
+105125;Phàm phẩm tinh thạch;1
+105126;Huyền phẩm tinh thạch;1
+105127;Tiên phẩm tinh thạch;1
+105128;Nhật Diệu thần thủy;1
+105129;Ánh trăng thần thủy;1
+105130;Tinh dập thần thủy;1
+105131;Đèn lồng;1
+105132;Hội quyển mảnh vỡ·Nhất;1
+105133;Hội quyển mảnh vỡ·Nhị;1
+105134;Hội quyển mảnh vỡ·Tam;1
+105135;Hội quyển mảnh vỡ·Tứ;1
+105136;Hội quyển mảnh vỡ·Ngũ;1
+105137;Hội quyển mảnh vỡ·Lục;1
+105138;Hội quyển mảnh vỡ·Thất;1
+105139;Hội quyển mảnh vỡ·Bát;1
+105140;Hội quyển mảnh vỡ·Cửu;1
+105141;Ngũ sắc bảo sen;1
+105142;Dạ minh châu;1
+105143;Hải bối;1
+105144;Kiếm bảo điểm tích lũy;1
+105145;Cửu chuyển kim đan;1
+105146;Bích ngó sen;1
+105147;Cạnh đoán tệ;1
+105148;Thiên Toàn nghi;1
+105149;Điểm kinh nghiệm;1
+105150;Làm khôn đeo;1
+105151;Tương tư đeo;1
+105152;Cùng Mộng Tâm kết;1
+105153;Bướm ảnh Ngọc như ý;1
+105154;Khổ tình thiên thư;1
+105155;Khổ tình hoa;1
+105156;Linh nguyên dịch;1
+105157;Thiên Lôi ấn;1
+105158;Tru Tiên Kiếm;1
+105159;Phục Nguyên Đan;1
+105160;Phù kiếm;1
+105161;Thiên đạo lệnh bài;1
+105162;Khí vận lệnh bài;1
+105163;Kiếm bảo điểm tích lũy;1
+105164;Thượng cổ chiến trường phục sinh đạo cụ;1
+105165;Thượng cổ chiến trường phó bản khiêu chiến nói cỗ;1
+105166;Thượng cổ chiến trường hiến cho vật liệu;1
+105167;Thượng cổ chiến trường chiến công giá trị;1
+105168;Dư thừa thẻ bài phân giải tinh tinh;1
+105169;Sinh động độ;1
+105170;Sơ cấp cam lộ;1
+105171;Trung cấp cam lộ;1
+105172;Cao cấp cam lộ;1
+105173;Khí vận;1
+105174;Công tích;1
+105179;Trăng khuyết tiêu;1
+111001;Linh Hồ;1
+111002;Vân Tước;1
+111003;Núi vượn;1
+111004;Thổ tinh;1
+111005;Con chuột lớn;1
+112001;Thỏ ngọc;1
+112002;Phong hi;1
+112003;Mưa công;1
+112004;Ang dũ;1
+112005;Ong ông;1
+114007;Loan Điểu;1
+115006;Xi Vưu;1
+115007;Thiên Thương cự mãng;1
+115008;Tướng;1
+115009;Phệ Kim Trùng;1
+115010;Thổ Giáp Long;1
+115011;Tam Túc Kim Ô;1
+115012;Phỉ trâu;1
+115013;Khâm Nguyên;1
+115014;Hổ Giao;1
+115015;Hoa Hồ Điêu;1
+115016;Hao Thiên;1
+115017;Kim nhãn thần oanh;1
+115018;Lục Ngô;1
+115019;Con ta tu dư;1
+135012;Cự Linh quan mảnh vỡ;21
+135013;Khúc Hồn mảnh vỡ;21
+135014;Nguyên Dao mảnh vỡ;21
+135015;Khương Tử Nha mảnh vỡ;21
+135016;Thân Công Báo mảnh vỡ;21
+135017;Thái Ất chân nhân mảnh vỡ;21
+135018;Vương quyền phú quý mảnh vỡ;21
+135019;Phương đông đầu tháng mảnh vỡ;21
+135020;Cát Cát quốc vương mảnh vỡ;21
+141001;Trư yêu 1;1
+141002;Trư yêu 2;1
+141003;Trư yêu 3;1
+141004;Trư yêu 4;1
+141005;Trư yêu 5;1
+142001;Chim yêu 1;1
+142002;Chim yêu 2;1
+142003;Chim yêu 3;1
+142004;Chim yêu 4;1
+142005;Chim yêu 5;1
+143001;Ngư yêu 1;1
+143002;Ngư yêu 2;1
+143003;Ngư yêu 3;1
+143004;Ngư yêu 4;1
+143005;Ngư yêu 5;1
+144001;Lục Nhĩ Mi Hầu;1
+144002;Thỏ ngọc;1
+144003;Cháy trời;1
+144004;Tuyết bay;1
+144005;Sao khiên ngưu;1
+144006;Sao Chức Nữ;1
+144012;Bá nguyệt;1
+144013;Từng tháng;1
+144014;Bé heo yêu;1
+144015;Quạ đen quái;1
+144016;Đi về phía tây đường;1
+144017;Mây xanh tiên hạc;1
+144018;Bì Bì tôm;1
+144019;Ếch xanh quái;1
+144020;Không lông quạ đen quái;1
+144021;Che mặt bé heo yêu;1
+144022;Thiếu niên Đường Tam;1
+144023;Hạo Thiên Chùy Đường Tam;1
+144024;Hải thần Đường Tam;1
+144025;Tu La thần Đường Tam;1
+144026;Thương răng;1
+144027;Bắc Minh già cá;1
+144028;Kỳ Lân Chân Quân;1
+144029;Cả đời chỗ yêu;1
+144030;Lưu sa cá;1
+144031;Đường Tam Tạng;1
+144032;Tôn Ngộ Không;1
+144033;Trư Bát Giới;1
+144034;Sa hòa thượng;1
+144035;Bạch Long Mã;1
+144036;Nhị Lang chim;1
+144037;An khang;1
+144038;Phúc bảo;1
+144039;Thụy long ngâm;1
+144040;Núi vàng trụ trì;1
+144041;Bằng Kiếm Tiên;1
+144042;Mới nhìn qua đạo môn;1
+144043;Bước vào tiên đồ;1
+144044;Tung hoành hải ngoại;1
+144045;Danh chấn Thiên Nam;1
+144046;Khuê mộc sói;1
+144047;Lam vũ;1
+144048;Về tà;1
+144049;Đuôi lửa hổ;1
+144050;Ki nước báo;1
+144052;Na Tra·Ma đồng;1
+144053;Heo heo náo biển;1
+144054;Na Tra·Thiếu niên;1
+144056;Ba đầu sáu tay;1
+144057;Lạnh lẽo Long Nữ;1
+144058;Đoan Dương trùng ngọ;1
+144059;Rồng năm Đế Tinh;1
+144060;Mão nhật gà;1
+144061;Trâu Kim Ngưu;1
+144062;Tâm nguyệt hồ;1
+144063;Để thổ con chồn;1
+144064;Trương Nguyệt Lộc;1
+144065;Quỷ kim dê;1
+144066;Dương Tiễn;1
+144067;Chúc tiên;1
+144068;Lương tiên;1
+144069;Huyền linh Thiên Sư;1
+144070;Thẻ da lốp bốp;1
+144071;Con sóc nhỏ tiện;1
+144072;Hoàng nhạc trích tiên;1
+144074;Đồ Sơn đỏ đỏ;1
+144075;Bạch nguyệt sơ;1
+144076;Đồ Sơn Tô Tô;1
+144077;Gấu hai;1
+144078;La Sát Thần Bỉ Bỉ Đông;1
+144079;Lan đêm;1
+144080;Nguyệt cung đạo tặc;1
+144081;Tiên gấu lớn;1
+144082;Đầu trọc mạnh;1
+144083;Vương phú quý;1
+144084;Chúc Dung;1
+144085;Dê ngạo thiên;1
+144086;Thà hái cá;1
+144087;Huyền sát;1
+144088;Đường Hạo;1
+144089;Ục ục;1
+144090;Lưu Huyền Điểu;1
+144091;Năm mới khỉ con;1
+144092;Giải Trĩ;1
+144093;Bao quanh heo;1
+144094;Năm mới con nai;1
+144095;Trương Tam Phong;1
+144096;Quan cá dài;1
+144097;Mây dịch tiên;1
+144098;Tiêu Viêm·Thiên Hỏa Tam Huyền Biến;1
+144100;Áo bào đen Tiêu Viêm;1
+144101;Hình Thiên;1
+144102;Chiến hoàng·Hình Thiên;1
+144103;Chiến thần·Hình Thiên;1
+144104;Mứt quả;1
+144105;Mèo lại;1
+144106;Trương Dực đồn;1
+144107;Tiêu Viêm·Thanh Liên Địa Tâm Hỏa;1
+144108;Tiêu Viêm·Vẫn Lạc Tâm Viêm;1
+144109;Tiêu Viêm·Tịnh Liên Yêu Hỏa;1
+144110;Mỹ Đỗ Toa Nữ Vương;1
+144111;Áo bào đen heo heo;1
+144112;Thụy tiêu hồ hiệp;1
+144113;Nguyệt lão;1
+144114;Luật tiên·Văn quân;1
+144115;Phú tiên·Tương Như;1
+144118;Hồ ma ma;1
+145001;Vạn giới chí tôn;1
+145002;Đạo Đức thiên tôn;1
+145003;Linh Bảo Thiên Tôn;1
+145004;Nguyên Thủy Thiên Tôn;1
+145005;Câu Trần đại đế;1
+145006;Tử Vi Đại Đế;1
+145007;Trường Sinh Đại Đế;1
+145008;Ngũ Nhạc đại đế;1
+145009;Bắc Đẩu tinh quân;1
+145010;Nam Đẩu tinh quân;1
+145011;Chín diệu tinh quân;1
+145012;Chí Đức Tinh Quân;1
+145013;Hòa Dương Tinh Quân;1
+145014;Thái Âm tinh quân;1
+145015;Thủy Đức Tiên quan;1
+145016;Hỏa Đức Tiên quan;1
+145017;Cự uy Tiên quan;1
+145018;Ti Thần Tiên quan;1
+145019;Hàng ma Tiên quan;1
+145020;Luyện Hư đệ nhất nhân;1
+145021;Hợp thể cảnh vô địch;1
+145022;Đại Thừa cảnh vô địch;1
+145023;Chân Tiên cảnh đỉnh cao nhất;1
+145024;Thiên Tiên đệ nhất nhân;1
+145025;Cửu U bá chủ;1
+145026;Huyền Tiên cảnh chủ làm thịt;1
+145027;Thiên uy tông sư;1
+145028;Vô thượng tông chủ;1
+145029;Mạnh nhất tổ sư;1
+145033;Huyền Tiên tiên thánh;1
+145034;Thiên Tiên Tiên Tôn;1
+145035;Chân Tiên Tiên Hoàng;1
+145036;Đại Thừa tiên linh;1
+145037;Hợp thể tiên tướng;1
+145041;Huyền Tiên Ma Thánh;1
+145042;Thiên Tiên Ma Tôn;1
+145043;Chân Tiên Ma Hoàng;1
+145044;Đại Thừa ma linh;1
+145045;Hợp thể ma tướng;1
+145046;Luyện Hư Tu La thần;1
+145047;Hợp thể Tu La thần;1
+145048;Đại Thừa Tu La thần;1
+145049;Chân Tiên Tu La thần;1
+145050;Thiên Tiên Tu La thần;1
+145051;Huyền Tiên Tu La thần;1
+146001;Yêu vực tân chủ;1
+146002;Đại đạo tranh phong;1
+146003;Sóng biếc thành đạo;1
+146004;Tử cực hỏi;1
+146005;Đạo hoả táng đạo;1
+146006;Sao trời;1
+146007;Minh nguyệt làm ảnh;1
+146008;Thiên Cương nguyên khí;1
+146009;Đốt tâm nộ diễm;1
+146010;Đăng lâm ngày xưa;1
+146011;Đấu La Võ Hồn;1
+146012;Đón gió về tuyết;1
+146013;Phúc lộc năm được mùa;1
+146014;Thần long hiện lên tường;1
+146015;Tỉnh sư đưa phúc;1
+146016;Nguyện đến một lòng người;1
+146017;Vấn đỉnh quán quân;1
+146018;Vấn đỉnh á quân;1
+146019;Vấn đỉnh quý quân;1
+146020;Giăng đèn kết hoa;1
+146021;Tiên đồ lại khải;1
+146022;Người già bất tương ly;1
+146023;Xuân ý dạt dào;1
+146024;Luyện Khí Tông Sư;1
+146025;Phàm nhân tu tiên;1
+146026;Trên trời rơi xuống manh sủng;1
+146027;Phục ma vạn quân;1
+146028;Tiên lộ bắt đầu;1
+146029;Phong Hỏa phi luân;1
+146030;Đào nhánh rậm rạp;1
+146031;Tròn năm khánh điển;1
+146032;Bạch hồ đêm độn;1
+146033;Phá cảnh phi thăng;1
+146034;Mạnh nhất tiên tu;1
+146035;Mạnh nhất ma tu;1
+146036;Tiên Ma hợp kích;1
+146037;Tiên Ma chiến trường;1
+146038;Dệt hoa đúc mộng;1
+146039;Tứ hải phong thần;1
+146040;Đáy biển Quy Khư;1
+146041;Tùng Hải Vân Xuyên;1
+146042;Tu La chi thần;1
+146043;Tu La Tôn Giả;1
+146044;Tu La Tông sư;1
+146045;Mới quen hồ yêu;1
+146046;Tình định Đồ Sơn;1
+146047;Cửu thiên chi đỉnh;1
+146048;Luyện Ngục chi đỉnh;1
+146049;Ngũ Nhạc chi đỉnh;1
+146050;Quả hạch tiệc;1
+146051;Thỏ ngọc đảo thuốc;1
+146052;Hừng hực rừng rậm;1
+146053;Phong yêu Thiên Sư;1
+146054;Giống như gấm phồn hoa;1
+146055;Vấn đỉnh cổ vực;1
+146056;Hồng Mông bá chủ;1
+146057;Cổ vực cự phách;1
+146058;Long Chiến Vu Dã;1
+146059;Hữu phượng lai nghi;1
+146060;Như hổ thêm cánh;1
+146061;Huyền hươu lọt mắt xanh;1
+146062;Loan ca yến ngữ;1
+146063;Vong ưu linh canh;1
+146064;Hạo Thiên thần chùy;1
+146065;Thiên sứ lạc ấn;1
+146066;Vân điên Võ Đang;1
+146067;Thụy ngọc tiên hoa;1
+146068;Cờ diệu nghị minh;1
+146069;Bạch Hổ Võ Hồn;1
+146070;Linh Lung Bảo Tháp;1
+146073;Ngày mùa thu ăn cơm dã ngoại;1
+147001;Đầy sao;1
+147002;Lôi đình;1
+148001;Núi không tại cao;1
+148002;Đến vực thèm cá;1
+148003;Phi long tại thiên;1
+148004;Rừng cây tiểu yêu;1
+148005;Uy chấn Bát Hoang;1
+148006;Vung Mặc đại ngàn;1
+148007;Ma đồng hàng thế;1
+148008;Xanh thẳm ven biển;1
+148009;Cửu Minh ma rít gào;1
+148010;Nhiếp phách ma âm;1
+148011;Cửu Thiên Tiên luật;1
+148012;Như linh tiên ngữ;1
+148013;Tiên Ma tiếng vọng;1
+148014;Nhàn nhã hoa ảnh;1
+148015;Tu La giáng lâm;1
+148016;Danh chấn cửu thiên;1
+148017;Danh chấn Luyện Ngục;1
+148018;Danh chấn Ngũ Nhạc;1
+148019;Trong rừng khẽ nói;1
+149002;Thỏ công;1
+149003;Thiên Cương nguyên khí;1
+149004;Đốt tâm nộ diễm;1
+149005;Hạ bút có thần;1
+149008;Tiêu dao thiên quân;1
+149009;Cùng tử cách nói sẵn có;1
+149010;Ung dung ta nghĩ;1
+149011;Hướng bạch chiếu tâm;1
+149012;Mộ tô ẩn tình;1
+149013;Vui vẻ gấu hai;1
+149014;Vui vẻ gấu lớn;1
+149501;Kiếm đãng chư thiên;1
+150002;Thần thoại ngẫu nhiên tinh quái;1
+150007;Thần thoại ngẫu nhiên tinh quái mảnh vỡ;1
+150008;Truyền thuyết ngẫu nhiên tinh quái mảnh vỡ;1
+150009;Trác tuyệt ngẫu nhiên tinh quái mảnh vỡ;1
+150010;Phổ thông ngẫu nhiên tinh quái mảnh vỡ;1
+150011;Phổ biến ngẫu nhiên tinh quái mảnh vỡ;1
+150012;Ngẫu nhiên Linh thú;1
+150018;Phổ biến ngẫu nhiên Linh thú;1
+150019;Vấn quyển điều tra bảo rương;1
+150020;Trò chơi vòng bảo rương;1
+150021;Công chúng hào bảo rương;1
+150022;Tham dự rèn luyện gói quà;1
+150023;Rèn luyện tiến độ gói quà①;1
+150024;Rèn luyện tiến độ gói quà②;1
+150025;Minh chủ chuyên môn tập kết ban thưởng;1
+150026;Thành viên tập kết ban thưởng;1
+150027;Yêu minh đứng đầu ban thưởng;1
+150028;Mỗi ngày đăng nhập ban thưởng;1
+150029;Mỗi ngày rèn luyện 100 lần ban thưởng;1
+150030;Yêu minh hiệp trợ 1 lần ban thưởng;1
+150031;Yêu minh hiệp trợ 3 lần ban thưởng;1
+150032;Yêu minh hiệp trợ 5 lần ban thưởng;1
+150033;1 Tên thành viên đấu pháp tính gộp lại thu hoạch được 200 điểm tích lũy ban thưởng;1
+150034;3 Tên thành viên đấu pháp tính gộp lại thu hoạch được 200 điểm tích lũy ban thưởng;1
+150035;5 Tên thành viên đấu pháp tính gộp lại thu hoạch được 200 điểm tích lũy ban thưởng;1
+150036;Yêu minh 10 người Trấn Yêu Tháp đạt tới 5-1 Tầng ban thưởng;1
+150037;Yêu minh 15 người Trấn Yêu Tháp đạt tới 5-1 Tầng ban thưởng;1
+150038;Yêu minh 10 người Trấn Yêu Tháp đạt tới 10-1 Tầng ban thưởng;1
+150039;Yêu minh 15 người Trấn Yêu Tháp đạt tới 10-1 Tầng ban thưởng;1
+150040;Rèn luyện tiến độ gói quà①;1
+150041;Rèn luyện tiến độ gói quà②;1
+150042;Man Hoang Yêu vực quái vật 1 hào;1
+150043;Man Hoang Yêu vực quái vật 2 hào;1
+150044;Man Hoang Yêu vực quái vật 3 hào;1
+150045;Man Hoang Yêu vực quái vật 4 hào;1
+150046;Man Hoang Yêu vực quái vật 5 hào;1
+150047;Man Hoang Yêu vực quái vật 6 hào;1
+150048;Man Hoang Yêu vực quái vật 7 hào;1
+150049;Man Hoang Yêu vực quái vật 8 hào;1
+150050;Man Hoang Yêu vực quái vật 9 hào;1
+150051;Man Hoang Yêu vực bảo khố 1 hào;1
+150052;Man Hoang Yêu vực bảo khố 2 hào;1
+150053;Man Hoang Yêu vực bảo khố 3 hào;1
+150054;Man Hoang Yêu vực đạo hữu ban thưởng;1
+150055;Cứ điểm chiến đánh bại ban thưởng;1
+150056;Cứ điểm chiến bảo khố thưởng lớn;1
+150057;Cứ điểm chiến phổ thông hiến cho ban thưởng;1
+150058;Cứ điểm chiến cao cấp hiến cho ban thưởng;1
+150059;Treo thưởng bảo rương;1
+150061;Tu tiên cảm ngộ gói quà;1
+150062;Đánh dấu 5 trời gói quà;1
+150063;Đánh dấu 10 trời gói quà;1
+150064;Đánh dấu 15 trời gói quà;1
+150065;Đánh dấu 20 trời gói quà;1
+150066;Đánh dấu 25 trời gói quà;1
+150067;Đạo thư gói quà;1
+150068;Lưu ly châu gói quà;1
+150069;Tiên thiên linh thảo gói quà;1
+150070;Ngự linh thạch gói quà;1
+150071;Canh Kim gói quà;1
+150072;Tiên đào gói quà;1
+150073;Linh thú quả gói quà;1
+150074;Khóa lại phúc lợi gói quà;1
+150075;Bạch tiên gói quà;1
+150076;Chân Tiên gói quà;1
+150077;Thiên Tiên gói quà;1
+150078;Kim Tiên gói quà;1
+150079;Huyền Tiên gói quà;1
+150080;Tiên Tôn gói quà;1
+150081;Tiên ngọc gói quà;1
+150082;Chuột bảo may mắn gói quà;1
+150083;Chuột bảo trợ lực gói quà;1
+150084;Chuột Bảo Tiên đào gói quà;1
+150085;Chuột bảo phúc lợi gói quà;1
+150086;Ngẫu nhiên thượng cổ mảnh vỡ pháp bảo;1
+150087;Dự đăng kí gói quà;1
+150095;Mycard Hảo lễ;1
+150096;Mycard Hảo lễ;1
+150097;Bignox Hợp tác hảo lễ;1
+150098;LDPlayer Hợp tác hảo lễ;1
+150099;Bluestacks Hợp tác hảo lễ;1
+150100;Tu hành nhỏ gói quà;1
+150101;Tu hành gói quà lớn;1
+150102;Vấn quyển điều tra gói quà;1
+150103;Chứng nhận VIP Phúc lợi;1
+150104;VIP Chuyên môn gói quà;1
+150105;Tôn hưởng SVIP Phúc lợi;1
+150106;Trữ giá trị trở lại lợi gói quà 1;1
+150107;Trữ giá trị trở lại lợi gói quà 2;1
+150108;Trữ giá trị trở lại lợi gói quà 3;1
+150109;Trữ giá trị trở lại lợi gói quà 4;1
+150110;Chuột chuột ta nha gói quà;1
+150111;Chuột chuột phúc lợi gói quà;1
+150112;Hoan nghênh đạo hữu hảo lễ;1
+150113;Công lược đứng chú ý gói quà;1
+150114;Tiểu yêu hỏi cộng đồng hảo lễ 1;1
+150115;Tiểu yêu hỏi cộng đồng hảo lễ 2;1
+150116;Tiểu yêu hỏi cộng đồng hảo lễ 3;1
+150117;Tiểu yêu hỏi cộng đồng hảo lễ 4;1
+150118;Tiểu yêu hỏi cộng đồng hảo lễ 5;1
+150119;Tiểu yêu hỏi cộng đồng hảo lễ 6;1
+150120;Tiểu yêu hỏi cộng đồng hảo lễ 7;1
+150121;Tiểu yêu hỏi cộng đồng hảo lễ 8;1
+150122;Siêu lời nói chuột chuột gói quà;1
+150123;Tu hành gói quà 1;1
+150124;Tu hành gói quà 2;1
+150125;Tu hành gói quà 3;1
+150126;Mong đợi hơi tăng thêm gói quà;1
+150127;Tu hành nhỏ gói quà;1
+150128;Tu hành gói quà lớn;1
+150129;Tu hành gói quà 1;1
+150130;Tu hành gói quà 2;1
+150131;Tu hành gói quà 3;1
+150132;Dự đăng kí gói quà;1
+150133;Dự đăng kí gói quà;1
+150134;Lôi điện máy mô phỏng hợp tác hảo lễ (lớn);1
+150135;Lôi điện máy mô phỏng hợp tác hảo lễ(Nhỏ );1
+150136;Bluestacks Máy mô phỏng hợp tác hảo lễ;1
+150137;Dự đăng kí gói quà (Lounge）;1
+150138;Mỗi tuần xã bầy hảo lễ;1
+150139;KOL-CHUL;1
+150140;KOL-Tú sen;1
+150141;KOL-Lục đầu;1
+150142;KOL-Quảng Tây người anh em;1
+150143;Người phát ngôn-Trịnh còn huân;1
+150144;Người phát ngôn-Trịnh còn huân;1
+150145;Người phát ngôn-Trịnh còn huân;1
+150146;Seiyuu-Nam độ hừ;1
+150147;Seiyuu-Lão đầu;1
+150148;Trước đó hẹn trước chứng nhận gói quà;1
+150149;Hội viên khích lệ;1
+150150;Lounge Hội viên nhân số mục tiêu 1000 ban thưởng;1
+150151;Lounge Hội viên nhân số mục tiêu 2000 ban thưởng;1
+150152;Tu hành nhỏ gói quà-Nhật phục;1
+150153;Tu hành gói quà lớn-Nhật phục;1
+150154;Tu hành gói quà 1-Nhật phục;1
+150155;Tu hành gói quà 2-Nhật phục;1
+150156;Tu hành gói quà 3-Nhật phục;1
+150157;Bignox Hợp tác hảo lễ;1
+150158;LDPlayer Hợp tác hảo lễ;1
+150159;Vấn quyển điều tra hảo lễ;1
+150160;Hoan nghênh đạo hữu hảo lễ;1
+150161;Công lược đứng chú ý gói quà;1
+150162;Dự đăng kí gói quà;1
+150163;Trữ giá trị hư bảo trở lại lợi;1
+150164;Tiểu yêu hỏi xã bầy hảo lễ 1;1
+150165;Tiểu yêu hỏi xã bầy hảo lễ 2;1
+150166;Tiểu yêu hỏi xã bầy hảo lễ 3;1
+150167;Tiểu yêu hỏi xã bầy hảo lễ 4;1
+150168;Tiểu yêu hỏi xã bầy hảo lễ 5;1
+150169;Tiểu yêu hỏi xã bầy hảo lễ 6;1
+150170;Tiểu yêu hỏi xã bầy hảo lễ 7;1
+150171;Tiểu yêu hỏi xã bầy hảo lễ 8;1
+150172;Tiểu yêu xã bầy cao giai hảo lễ 1;1
+150173;Xã bầy chú ý hảo lễ;1
+150174;GP Download bảng TOP1;1
+150175;IOS Download bảng TOP1;1
+150176;Thôi đặc chú ý đột phá ban thưởng (1000 người );1
+150177;Thôi đặc chú ý đột phá ban thưởng (3000 người );1
+150178;Thôi đặc chú ý đột phá ban thưởng (5000 người );1
+150179;（Mỗi 2000 người giải tỏa một cái toàn bộ server gói quà mã );1
+150180;Tiểu yêu xã bầy cao giai hảo lễ 2;1
+150181;Tiểu yêu xã bầy cao giai hảo lễ 3;1
+150182;Tiểu yêu xã bầy cao giai hảo lễ 4;1
+150183;Tiểu yêu xã bầy cao giai hảo lễ 5;1
+150184;Chứng nhận VIP Phúc lợi;1
+150185;VIP Chuyên môn gói quà;1
+150186;Tôn hưởng SVIP Phúc lợi;1
+150187;Trữ giá trị trở lại lợi gói quà 1;1
+150188;Trữ giá trị trở lại lợi gói quà 2;1
+150189;Trữ giá trị trở lại lợi gói quà 3;1
+150190;Trữ giá trị trở lại lợi gói quà 4;1
+150191;KOL Gói quà mã—hono7;1
+150192;KOL Gói quà mã—chuki7;1
+150193;KOL Gói quà mã—super999;1
+150194;KOL Gói quà mã-GTY777;1
+150195;Ngẫu nhiên Tố Hồn hoa mảnh vỡ;1
+150196;KOL Gói quà mã-GIKO777;1
+150197;KOL Gói quà mã-SKJ999;1
+150198;KOL Gói quà mã-sirokuro;1
+150199;KOL Gói quà mã-horipro;1
+150200;KOL Gói quà mã-YUDE777 ;1
+150208;Vấn quyển hữu lễ;1
+150210;Đông chí chí bảo;1
+150211;Ngẫu nhiên nguyên liệu nấu ăn hộp;1
+150212;Tân xuân tiên ngọc phúc túi;1
+150213;Tân xuân cơ duyên phúc túi 1;1
+150214;Tân xuân cơ duyên phúc túi 2;1
+150215;Tân xuân cơ duyên phúc túi 3;1
+150216;Vượt năm phúc lễ;1
+150220;Tiểu hàn ấm lòng hộp quà;1
+150221;Ngày mồng tám tháng chạp lửa nóng hộp quà;1
+150222;Ngày tết ông Táo Táo quân hào lễ;1
+150223;Song yêu tùy duyên hộp một;1
+150224;Song yêu tùy duyên hộp hai;1
+150225;Cô ảnh kinh hỉ hộp;1
+150226;Tân xuân khởi đầu tốt đẹp;1
+150227;Tiên nữ trú nhan hộp quà;1
+150228;Xuân ý dạt dào hộp quà;1
+150229;Tập kết điểm tích lũy bảo rương;1
+150271;Lập hạ thanh hà;1
+150272;Tiểu mãn kim tuệ;1
+150273;Mưa sinh trăm cốc;1
+150274;Phàm nhân tu tiên kinh hỉ hộp quà;1
+150283;Tình thâm ý tống;1
+150284;Nóng bức bổ lạnh (tiên đào );1
+150285;Ngày mùa hè diễm hỏa (tiên đào );1
+150286;Biển cả quà tặng (tiên đào );1
+150287;Thần thủy bản nguyên;1
+150288;Nóng bức bổ lạnh (tiên ngọc );1
+150289;Tái tạo pháp thân kinh hỉ hộp quà;1
+150290;Ngày mùa hè diễm hỏa (tiên ngọc );1
+150291;Biển cả quà tặng (tiên ngọc );1
+150292;Cầu nguyện ngẫu nhiên làn da rương;1
+150293;Thu Vận bội thu (tiên đào );1
+150294;Thu Vận bội thu (tiên ngọc );1
+150295;Thanh lương Thu Vận (tiên đào );1
+150296;Thanh lương Thu Vận (tiên ngọc );1
+150297;Phàm phẩm tâm duyên lễ hộp;1
+150298;Huyền phẩm tâm duyên lễ hộp;1
+150299;Tiên phẩm tâm duyên lễ hộp;1
+150300;Ánh đèn cầu phúc (tiên đào );1
+150301;Ánh đèn cầu phúc (tiên ngọc );1
+150302;Thu lộ ấm lòng (tiên đào );1
+150303;Thu lộ ấm lòng (tiên ngọc );1
+150304;Sương lạnh thụy trạch (tiên đào );1
+150305;Sương lạnh thụy trạch (tiên ngọc );1
+150306;Trùng Dương cúc rượu (tiên đào );1
+150307;Trùng Dương cúc rượu (tiên ngọc );1
+150308;Kim thu duyệt hưởng (tiên đào );1
+150309;Kim thu duyệt hưởng (tiên ngọc );1
+150310;Đồ Sơn tục duyên kinh hỉ hộp quà;1
+150311;Bọc nhỏ linh thảo;1
+150312;Bên trong bao linh thảo;1
+150313;Bao lớn linh thảo;1
+150314;Kim thu khánh điển (tiên đào );1
+150315;Kim thu khánh điển (tiên ngọc );1
+150320;Cầu nguyện ngẫu nhiên chí tôn làn da;1
+150321;Cầu nguyện ngẫu nhiên trưởng thành làn da;1
+150322;Cầu nguyện ngẫu nhiên Hồng Hoang Linh thú;1
+150323;Cầu nguyện ngẫu nhiên thần thoại pháp bảo;1
+160004;Phổ thông tự do tinh quái;1
+160005;Phổ biến tự do tinh quái;1
+160009;Phổ thông tự do Linh thú;1
+160010;Phổ biến tự do Linh thú;1
+160011;Thần thoại tự do tinh quái mảnh vỡ;1
+160012;Truyền thuyết tự do tinh quái mảnh vỡ;1
+160013;Trác tuyệt tự do tinh quái mảnh vỡ;1
+160014;Phổ thông tự do tinh quái mảnh vỡ;1
+160015;Phổ biến tự do tinh quái mảnh vỡ;1
+160016;Vạn tượng bảo rương;1
+160018;Tự do tọa giá bảo rương;1
+160019;Đêm thất tịch hình tượng bảo rương;1
+160020;Tự do thượng cổ mảnh vỡ pháp bảo;1
+160021;Tự do thượng cổ pháp bảo;1
+160023;Tẩy luyện tự do bảo rương;1
+160024;Trung thu tự do pháp bảo;1
+160025;Trung thu tự do mảnh vỡ pháp bảo;1
+160026;Tiên Ma mảnh vỡ pháp bảo;1
+160037;Trường sinh pháp bảo tự do gói quà;1
+160038;Tuần sơn tiểu đội bảo rương;1
+160039;Chế tiễn tiểu đội bảo rương;1
+160040;Đấu La nhân vật chính trưởng thành bảo rương;1
+160041;Đấu La nhân vật chính Chí Tôn Bảo rương;1
+160042;Đấu La tiên hữu bảo rương;1
+160043;Đấu La Thần khí mảnh vỡ rương;1
+160044;Hồn đạo khí mảnh vỡ rương;1
+160045;Đường Môn lợi khí mảnh vỡ rương;1
+160046;Đấu La ảnh chân dung khung bảo rương;1
+160047;Tự do hồn đạo khí;1
+160048;Tự do Đường Môn lợi khí;1
+160049;Tự do Đấu La pháp bảo rương;1
+160050;Tự do thần thoại mảnh vỡ pháp bảo rương;1
+160051;Đấu La Thần khí tự do rương;1
+160052;Tự do Bắc Minh pháp bảo;1
+160053;Tự do Bắc Minh mảnh vỡ pháp bảo;1
+160054;Tiểu Vũ tiên hữu bảo rương;1
+160055;Vân Tranh tiên hữu bảo rương;1
+160056;Tết nguyên đán tự do pháp bảo;1
+160057;Tết nguyên đán tự do mảnh vỡ pháp bảo;1
+160058;Tây Du làn da tự do rương;1
+160059;Nguyên Tiêu tự do pháp bảo;1
+160060;Nguyên Tiêu tự do mảnh vỡ pháp bảo;1
+160061;Tự do tân xuân pháp bảo;1
+160062;Tự do tân xuân mảnh vỡ pháp bảo;1
+160063;Trở về ảnh chân dung khung bảo rương;1
+160064;Tự do nguyên liệu nấu ăn hộp;1
+160065;Tự do Long Đằng pháp bảo;1
+160066;Tự do Long Đằng mảnh vỡ pháp bảo;1
+160067;Trở về làn da tự do bảo rương;1
+160068;Minh nguyệt làm ảnh tự do rương;1
+160069;Thỏ công tự do rương;1
+160070;Đăng lâm ngày xưa tự do rương;1
+160071;Giăng đèn kết hoa tự do rương;1
+160072;Lá xanh tiên hữu bảo rương;1
+160073;Mặt trời mùa xuân tự do pháp bảo;1
+160074;Mặt trời mùa xuân tự do mảnh vỡ pháp bảo;1
+160075;Xuân ý dạt dào tự do rương;1
+160076;Tam trọng thần thoại kỳ trân rương;1
+160077;Song trọng truyền thuyết trân bảo rương;1
+160078;Tam trọng truyền thuyết trân bảo rương;1
+160079;Phúc lộc năm được mùa tự do rương;1
+160080;Tam trọng truyền thuyết vực bảo rương;1
+160081;Phàm nhân tu tiên tự do rương;1
+160082;Tiên lộ bắt đầu tự do rương;1
+160083;Thiên đạo tự do pháp bảo;1
+160084;Thiên đạo tự do mảnh vỡ pháp bảo;1
+160085;Đón gió về tuyết tự do rương;1
+160086;Phong Hỏa nội đan mảnh vỡ rương;1
+160087;Sơn thủy nội đan mảnh vỡ rương;1
+160088;Tam trọng nội đan mảnh vỡ rương;1
+160089;Ba pha nội đan mảnh vỡ rương;1
+160090;Tứ Tượng nội đan mảnh vỡ rương;1
+160091;Ngũ Hành nội đan mảnh vỡ rương;1
+160092;Tiên đồ tự do pháp bảo;1
+160093;Tiên đồ tự do mảnh vỡ pháp bảo;1
+160094;Hỏi tự do pháp bảo;1
+160095;Hỏi tự do mảnh vỡ pháp bảo;1
+160096;Phàm nhân tu tiên tiên hữu bảo rương;1
+160097;Phàm tu nhân vật chính trưởng thành bảo rương;1
+160098;Phàm tu nhân vật chính Chí Tôn Bảo rương;1
+160099;Chín thủ Thực Nhật mảnh vỡ rương;1
+160100;Lão ma linh sủng mảnh vỡ rương;1
+160101;Tam trọng Hồng Hoang mảnh vỡ rương;1
+160102;Tứ Tượng Hồng Hoang mảnh vỡ rương;1
+160103;Thần long hiện lên tường tự do rương;1
+160104;Song trọng ngẫu nhiên truyền thuyết trân bảo rương;1
+160105;Tam trọng ngẫu nhiên truyền thuyết trân bảo rương;1
+160106;Tam trọng ngẫu nhiên truyền thuyết vực bảo rương;1
+160107;Bồng Lai pháp bảo tự do bảo rương;1
+160108;Loạn đấu pháp bảo tự do bảo rương;1
+160109;Man Hoang pháp bảo tự do bảo rương;1
+160110;Công thành pháp bảo tự do bảo rương;1
+160111;Long quật pháp bảo tự do bảo rương;1
+160112;Thần thoại pháp bảo tự do rươngⅠ;1
+160113;Thần thoại pháp bảo tự do rươngⅡ;1
+160114;Mênh mông huyền cơ bình;1
+160115;Phàm tu tự do pháp bảo;1
+160116;Phàm tu tự do mảnh vỡ pháp bảo;1
+160117;Thần quỷ tự do pháp bảo;1
+160118;Thần quỷ tự do mảnh vỡ pháp bảo;1
+160119;Phong Hỏa phi luân tự do rương;1
+160120;Đào nhánh rậm rạp tự do rương;1
+160121;Tròn năm khánh điển tự do rương;1
+160122;Na Tra nhân vật chính trưởng thành bảo rương;1
+160124;Phong thần tự do pháp bảo;1
+160125;Phong thần tự do mảnh vỡ pháp bảo;1
+160126;Đấu chuyển tự do pháp bảo;1
+160127;Đấu chuyển tự do mảnh vỡ pháp bảo;1
+160128;Vạn tượng tự do pháp bảo;1
+160129;Vạn tượng tự do mảnh vỡ pháp bảo;1
+160130;Bạch hồ đêm độn tự do rương;1
+160131;Na Tra nhân vật chính Chí Tôn Bảo rương;1
+160132;Na Tra nhân vật chính Chí Tôn Bảo rương;1
+160133;Phù diêu tiên hữu bảo rương;1
+160134;Tứ trọng thần thoại kỳ trân rương;1
+160135;Tứ trọng truyền thuyết vực bảo rương;1
+160136;Tứ trọng ngẫu nhiên truyền thuyết vực bảo rương;1
+160137;Na Tra giấy viết thư tự do rương;1
+160138;Thương đồ pháp bảo tự do bảo rương;1
+160139;Lương Chúc hình tượng bảo rương;1
+160140;Huyền linh Thiên Sư tự do rương;1
+160141;Tứ hải phong thần tự do rương;1
+160142;Na Tra tiên hữu bảo rương;1
+160143;Tình ý tự do pháp bảo;1
+160144;Tình ý tự do mảnh vỡ pháp bảo;1
+160145;Dệt hoa đúc mộng tự do rương;1
+160146;Phàm diệu bảo hộp;1
+160147;Thần diệu bảo hộp;1
+160148;Nguyện đến một lòng người tự do rương;1
+160149;Thiên địa thần uy huyễn hóa rương;1
+160150;Đấu La anh hùng Chí Tôn Bảo rương;1
+160151;Thần uy thiên địa huyễn hóa rương;1
+160152;Băng hỏa tự do pháp bảo;1
+160153;Châu phách tự do pháp bảo;1
+160154;Kiếm nước mắt tự do pháp bảo;1
+160155;Mới quen hồ yêu tự do rương;1
+160156;Tình định Đồ Sơn tự do rương;1
+160157;Hồ yêu giấy viết thư tự do rương;1
+160158;Bảo vực nội đan tự do rương;1
+160159;Thỏ ngọc đảo thuốc tự do rương;1
+160160;Kim thu tự do pháp bảo;1
+160161;Kim thu tự do mảnh vỡ pháp bảo;1
+160162;Hồ yêu hình tượng bảo rương;1
+160163;Trung thu truyền thuyết kiến trúc rương;1
+160164;Nhị trọng Trung thu tự do pháp bảo;1
+160165;Băng hỏa tự do mảnh vỡ pháp bảo;1
+160166;Châu phách tự do mảnh vỡ pháp bảo;1
+160167;Thiên khung tự do pháp bảo;1
+160168;Thiên khung tự do mảnh vỡ pháp bảo;1
+160169;Vạn thương tự do pháp bảo;1
+160170;Vạn thương tự do mảnh vỡ pháp bảo;1
+160171;Trung thu nhân vật chính chí tôn rương;1
+160172;Trung thu nhân vật chính trưởng thành rương;1
+160173;Giống như gấm phồn hoa tự do bảo rương;1
+160174;Hừng hực rừng rậm tự do rương;1
+160175;Chín thánh tự do pháp bảo;1
+160176;Gấu ẩn hiện biểu lộ bao tự do;1
+160188;Quỳnh lâu hí mộng kiến trúc rương;1
+171100;Thoát thai hoán cốt mảnh vỡ;1
+171101;Mượn lực thuật mảnh vỡ;1
+171102;Lạc Thạch Thuật mảnh vỡ;1
+171200;Định thân chú mảnh vỡ;1
+171201;Thân ngoại thân pháp mảnh vỡ;1
+171202;Chưởng Tâm Lôi| (*súng nhỏ dành cho phụ nữ) mảnh vỡ;1
+171203;Cát vàng trận mảnh vỡ;1
+171300;Ngũ sắc thần quang mảnh vỡ;1
+171301;Hộ thể kim quang mảnh vỡ;1
+171302;Phệ hồn cấp tủy mảnh vỡ;1
+171303;Tam muội lửa mảnh vỡ;1
+171304;Ngũ Hành bổ sung mảnh vỡ;1
+171400;Hồi sinh chân ngôn mảnh vỡ;1
+171401;Băng Phong Thiên Lý mảnh vỡ;1
+171402;Ly Hỏa trận mảnh vỡ;1
+171403;Pháp Thiên Tượng Địa mảnh vỡ;1
+171404;Bảy mươi hai biến mảnh vỡ;1
+171405;Thổi hào thành binh mảnh vỡ;1
+171406;Tụ hình tán khí mảnh vỡ;1
+172100;Thần thức đâm mảnh vỡ;1
+172101;Linh hồn rít gào mảnh vỡ;1
+172102;Hô tên đoạt hồn mảnh vỡ;1
+172200;Thức hải đinh mảnh vỡ;1
+172201;Phụ linh thuật mảnh vỡ;1
+172202;Câu thần mảnh vỡ;1
+172203;Thanh tâm diệu pháp mảnh vỡ;1
+172300;Uống hồn pháp mảnh vỡ;1
+172301;Minh Hồn Thuật mảnh vỡ;1
+172302;Đốt tâm hỏa mảnh vỡ;1
+172303;Diệt tâm ma loại mảnh vỡ;1
+172304;Thần nguyên phản chấn mảnh vỡ;1
+172400;Phản bản quy nguyên mảnh vỡ;1
+172401;Thực hồn chú mảnh vỡ;1
+172402;Xâm thần tam trọng mảnh vỡ;1
+172403;Nhiếp hồn cập thân mảnh vỡ;1
+172404;Lay tâm chú mảnh vỡ;1
+172405;Nguyên thần xuất khiếu mảnh vỡ;1
+172406;Gặm tâm nuốt linh mảnh vỡ;1
+173100;Liếm láp mảnh vỡ;1
+173101;Cộng minh mảnh vỡ;1
+173102;Nhảy vọt mảnh vỡ;1
+173200;Hồi xuân mảnh vỡ;1
+173201;Nhiễu loạn mảnh vỡ;1
+173202;Ám tập mảnh vỡ;1
+173203;Chà đạp mảnh vỡ;1
+173300;Kim kê hót vang mảnh vỡ;1
+173301;Hoàng khí mảnh vỡ;1
+173302;Lạnh hơi thở mảnh vỡ;1
+173303;Hỏa độc mảnh vỡ;1
+173304;Đe dọa mảnh vỡ;1
+173400;Toái tâm pháp mảnh vỡ;1
+173401;Xé rách mảnh vỡ;1
+173402;Nằm ảnh mảnh vỡ;1
+173403;Lòng son cùng cũng mảnh vỡ;1
+173404;Khiếu nguyệt mảnh vỡ;1
+173405;Sư Tử Hống mảnh vỡ;1
+173406;Linh mạch tỉnh lại mảnh vỡ;1
+174100;Trường sinh thể mảnh vỡ;1
+174101;Mình đồng da sắt mảnh vỡ;1
+174102;Hóa vũ mảnh vỡ;1
+174200;Đại ma tà thân mảnh vỡ;1
+174201;Trời mị thể mảnh vỡ;1
+174202;Hoa sen hóa thân mảnh vỡ;1
+174203;Cánh tay Kỳ Lân mảnh vỡ;1
+174300;Ba đầu sáu tay mảnh vỡ;1
+174301;Kim Cương Bất Hoại mảnh vỡ;1
+174302;Sinh linh đồng thể mảnh vỡ;1
+174303;Mờ mịt thân mảnh vỡ;1
+174304;Thú linh thể mảnh vỡ;1
+174400;Vĩnh sinh bất diệt mảnh vỡ;1
+174401;Trăm gai thông cánh tay mảnh vỡ;1
+174402;Tà đuôi ngầm châm mảnh vỡ;1
+174403;Hỏa Nhãn Kim Tinh mảnh vỡ;1
+174404;Vạn yêu thể mảnh vỡ;1
+174405;Tu La thân thể mảnh vỡ;1
+174406;Hoàng diễm ma thân mảnh vỡ;1
+180111;11 Cấp lực lượng ấn ký;1
+180112;12 Cấp lực lượng ấn ký;1
+180211;11 Cấp bạo tổn thương ấn ký;1
+180212;12 Cấp bạo tổn thương ấn ký;1
+180311;11 Cấp Linh thú ấn ký;1
+180312;12 Cấp Linh thú ấn ký;1
+180411;11 Cấp đạo pháp ấn ký;1
+180412;12 Cấp đạo pháp ấn ký;1
+180511;11 Cấp phân tranh ấn ký;1
+180512;12 Cấp phân tranh ấn ký;1
+180611;11 Cấp Phá Quân ấn ký;1
+180612;12 Cấp Phá Quân ấn ký;1
+180711;11 Cấp chống cự ấn ký;1
+180712;12 Cấp chống cự ấn ký;1
+180811;11 Cấp vô vi ấn ký;1
+180812;12 Cấp vô vi ấn ký;1
+180911;11 Cấp trị liệu ấn ký;1
+180912;12 Cấp trị liệu ấn ký;1
+181011;11 Cấp Thủ hộ ấn ký;1
+181012;12 Cấp Thủ hộ ấn ký;1
+181111;11 Cấp cứng cỏi ấn ký;1
+181112;12 Cấp cứng cỏi ấn ký;1
+181211;11 Cấp chấn nhiếp ấn ký;1
+181212;12 Cấp chấn nhiếp ấn ký;1
+200001;Ngẫu nhiên linh cảm thần thông;1
+200002;Ngẫu nhiên mở thần thông;1
+201001;Tự do linh cảm thần thông;1
+201002;Tự do mở thần thông;1
+202001;Phi thuyền;1
+202002;Pháo;1
+202003;Cá mập;1
+202004;Con diều;1
+202005;Kim giảo cắt;1
+202006;Như ý;1
+202007;Sứa;1
+202008;Hạc giấy;1
+202009;Phú quý tôm;1
+202010;Trường sinh màu diên;1
+202011;Một hươu hướng bắc;1
+202012;Bỉ dực;1
+202013;Đồng tâm;1
+202014;Cá chép;1
+202015;Giấy cua tiên đăng;1
+202016;Tỉnh sư;1
+202017;Cự ngoan;1
+202018;Thần Phong thuyền;1
+202019;Du long Tiểu Thúy;1
+202020;Sơn Hà Đồ;1
+202021;Cầu vồng điêu;1
+202022;Mực lân;1
+202023;Khổ tình thiên thư;1
+202024;Từng tháng mây thỏ;1
+202025;Mạ vàng song long giá;1
+211001;Chu nhan đàn mảnh vỡ;1
+211002;Văn Khúc tinh cũ bút mảnh vỡ;1
+211003;Phong cấm cờ mảnh vỡ;1
+211004;Cửa nhà linh đang mảnh vỡ;1
+211005;Bích ngọc kim tỉ mảnh vỡ;1
+211006;Không ao ước tiên mảnh vỡ;1
+211007;Hành trời cán mảnh vỡ;1
+211008;Rồng nôn châu mảnh vỡ;1
+211009;Thầy thuốc thần châm mảnh vỡ;1
+211010;Thiên cơ mai rùa mảnh vỡ;1
+211011;Hỏi Linh Liên hoa kính mảnh vỡ;1
+211012;Nghe biển mảnh vỡ;1
+211013;Tỏa Long xương vỡ phiến;1
+211014;Ngự ma ngâm mảnh vỡ;1
+211015;Ngọc vì váy mảnh vỡ;1
+211016;Ba ngày lăng không mảnh vỡ;1
+211017;Hộ tâm cỏ mảnh vỡ;1
+211018;Linh chi như ý mảnh vỡ;1
+211019;Trúc khiêu khiêu mảnh vỡ;1
+211020;Trấn sơn búa mảnh vỡ;1
+212001;Thái hư song kiếm mảnh vỡ;1
+212002;Thái Nguyên lưu ly châu mảnh vỡ;1
+212003;Tu di luân chuyển mảnh vỡ;1
+212004;Di tinh Dẫn Hồn đèn mảnh vỡ;1
+212005;Thượng thanh thủ trời phất trần mảnh vỡ;1
+212006;Phong rồng tuyệt tiên dù mảnh vỡ;1
+212007;Phù Hoa vô tướng bình vỡ phiến;1
+212008;Thủ một nguyên đèn mảnh vỡ;1
+212009;Thiên địa vũ diễm mảnh vỡ;1
+212010;Ngọc Hư Tỏa Thần đồ mảnh vỡ;1
+212011;Cực lạc tiên âm linh mảnh vỡ;1
+212012;Lăng hư quang minh cờ mảnh vỡ;1
+212013;Hỗn Thiên Tuyền Cơ bình vỡ phiến;1
+212014;Vạn giới trận đồ mảnh vỡ;1
+212015;Phích lịch Thất Sát sừng mảnh vỡ;1
+212016;Thái Hành tử kim linh mảnh vỡ;1
+212017;Giang sơn phong Tiên Đồ mảnh vỡ;1
+212018;Triền ty khóa ma kim túi mảnh vỡ;1
+212019;Sáu hư ngọc tinh kiếm mảnh vỡ;1
+212020;Ma xương Phá Quân đao mảnh vỡ;1
+212021;Thần cơ phệ linh châm mảnh vỡ;1
+212022;Tu La phục long vòng mảnh vỡ;1
+212023;Lưu ly kinh mộng chuông mảnh vỡ;1
+212024;Tử Long huyễn cảnh cờ mảnh vỡ;1
+212025;Bích xương song yêu vòng mảnh vỡ;1
+212026;Khốn yêu sợ hãi mảnh vỡ;1
+212027;Khai ngộ xử mảnh vỡ;1
+212028;Hàn băng huyền thiết mảnh vỡ;1
+212029;Vạn pháp hỏi thần đăng mảnh vỡ;1
+212030;Ma Nguyên Kim Giao Tiễn mảnh vỡ;1
+212031;Phá pháp chùy mảnh vỡ;1
+212032;Đại tuệ Linh Bảo mảnh vỡ;1
+212033;Thôn thiên trống mảnh vỡ;1
+212034;Thu yêu phù mảnh vỡ;1
+212035;Thái Sơ hồ lô mảnh vỡ;1
+212036;Xích Tiêu Kim Linh mảnh vỡ;1
+212037;Khám tà Dẫn Hồn đèn mảnh vỡ;1
+212038;Thiên Nguyên yêu đan mảnh vỡ;1
+212039;Đãng ma Xích Viêm giáp mảnh vỡ;1
+212040;Tụ linh yêu rít gào địch mảnh vỡ;1
+212041;Hạc vũ hóa sát áo mảnh vỡ;1
+212042;Tử âm u kim giáp mảnh vỡ;1
+212043;Cửu luyện lưu ly phiến mảnh vỡ;1
+212044;Luyện Hư ma vảy mảnh vỡ;1
+212045;Phẫn nộ vẻ mặt mảnh vỡ;1
+212046;Kim lưu phong thiên quan mảnh vỡ;1
+212047;Cưỡi rồng kim quang mang mảnh vỡ;1
+212048;Yêu vực lư hương mảnh vỡ;1
+212049;Amaterasu liệt hỏa đao mảnh vỡ;1
+212050;Huyền Minh hóa ảnh đao mảnh vỡ;1
+213001;Nhiếp Hồn Linh mảnh vỡ;1
+213002;Thiên tượng bảo hồ lô mảnh vỡ;1
+213003;Vô cực lăng vân mảnh vỡ;1
+213004;Thông Thiên tháp mảnh vỡ;1
+213005;Vạn tượng chư thế kính mảnh vỡ;1
+213006;Thiên giới pháp ấn mảnh vỡ;1
+213007;Che trời linh tỉ mảnh vỡ;1
+213008;Sáu hào bảo bình mảnh vỡ;1
+213009;Chiếu trời hồ lô mảnh vỡ;1
+213010;Yêu xương bát mảnh vỡ;1
+213011;Già Thiên Tán mảnh vỡ;1
+213012;Phượng vũ yêu xương phiến mảnh vỡ;1
+213013;Chim hồng tước linh hỏa phiến mảnh vỡ;1
+213014;Yêu khí trùng thiên cờ mảnh vỡ;1
+213015;Thắng thiên con rể mảnh vỡ;1
+213016;Làm khôn diễn tự mảnh vỡ;1
+213017;Sơn hà uyên mảnh vỡ;1
+213018;Sáng thế quyển đồ mảnh vỡ;1
+213019;Trấn ma bảo tháp mảnh vỡ;1
+213020;Điểm mực du long mảnh vỡ;1
+213021;Màn trướng kim dây thừng mảnh vỡ;1
+213022;Phái yêu cờ mảnh vỡ;1
+213023;Lượng Thiên Xích mảnh vỡ;1
+213024;Vấn thiên giản mảnh vỡ;1
+213025;Tụ Thần Đỉnh mảnh vỡ;1
+213026;Hỗn Thiên đỉnh mảnh vỡ;1
+213027;Chân hỏa nham màu lô mảnh vỡ;1
+213028;Trần thế kính mảnh vỡ;1
+213029;Chiêm tinh kính mảnh vỡ;1
+213030;Nam Cực vô lượng mảnh vỡ;1
+213031;Thanh xương bí kiếm mảnh vỡ;1
+213032;Phục long thuẫn mảnh vỡ;1
+213033;Thủy sinh vạn vật kính mảnh vỡ;1
+213034;Bảy chim kim quạt lông mảnh vỡ;1
+213035;Thần Nông đỉnh mảnh vỡ;1
+213036;Cửu U huyền vũ bảo giáp mảnh vỡ;1
+213037;Thiên địa một quyển mảnh vỡ;1
+213038;Diệu pháp tạo mộng đèn mảnh vỡ;1
+213039;Chiêu tài tiến bảo mảnh vỡ;1
+213040;Hồng Mông bảo vòng mảnh vỡ;1
+213041;Vạn âm dù mảnh vỡ;1
+213042;Mặt trời vòng mảnh vỡ;1
+213043;Vấn Thiên Kiếm mảnh vỡ;1
+213044;Vạn thú chí tôn mảnh vỡ;1
+213045;Làm Nguyên Thiên châu mảnh vỡ;1
+213046;Phục ma châu mảnh vỡ;1
+213047;Phong tiên việt mảnh vỡ;1
+213048;Lưu ly cữu mảnh vỡ;1
+213049;Quảng Hàn ấn mảnh vỡ;1
+213050;Mộc tê ngăn cản mảnh vỡ;1
+213051;Bàn Long quải trượng mảnh vỡ;1
+213052;Nguyên Thủy đào mừng thọ mảnh vỡ;1
+213053;Thu đạo nằm yêu mảnh vỡ;1
+213054;Chảy đều huyễn lan bàn mảnh vỡ;1
+213055;Sương lẫm Băng Tâm giáp mảnh vỡ;1
+213056;Minh ngộ trời đồng mảnh vỡ;1
+213057;Tịch tung xoáy nguyệt mảnh vỡ;1
+213058;Kim vũ phác phiến mảnh vỡ;1
+213059;Sương lang mái vòm thương mảnh vỡ;1
+213060;Bắc Minh Huyền Tinh phiến mảnh vỡ;1
+213061;Bắc Minh Thiên Uyên lưỡi đao mảnh vỡ;1
+213062;Bắc Minh từng tháng cung mảnh vỡ;1
+213063;Màu mỡ thần thụ mảnh vỡ;1
+213064;Xán thế Nguyên bảo mảnh vỡ;1
+213065;Tụ tài bảo đỉnh mảnh vỡ;1
+213066;Thanh Liên bảo kính mảnh vỡ;1
+213067;Thanh Liên sáo trúc mảnh vỡ;1
+213068;Thanh Liên thần phủ mảnh vỡ;1
+213069;Xán thế Kim Long liên mảnh vỡ;1
+213070;Tụ phúc kim heo giống mảnh vỡ;1
+213071;Chúc tuổi trường sinh vụn vặt phiến;1
+213072;Trấn yêu bảo tháp mảnh vỡ;1
+213073;Tử Kim Bát Vu mảnh vỡ;1
+213074;Tình định cầu gãy dù mảnh vỡ;1
+213075;Kim Từ Linh Mộc mảnh vỡ;1
+213076;Nghịch Tinh Bàn mảnh vỡ;1
+213077;Tam Thanh lôi âm mảnh vỡ;1
+213078;Kim phù tử mẫu lưỡi đao mảnh vỡ;1
+213079;Thanh Trúc Phong Vân Kiếm mảnh vỡ;1
+213080;Thất Diễm Phiến mảnh vỡ;1
+213081;Ngô Câu song kiếm mảnh vỡ;1
+213082;Lạc hồn chuông mảnh vỡ;1
+213083;Thái Cực ấn phù mảnh vỡ;1
+213084;Ngũ Phương Kỳ mảnh vỡ;1
+213085;Tử tuy tiên y mảnh vỡ;1
+213086;Âm Dương kính mảnh vỡ;1
+213087;Hỗn Nguyên pháp đập nát phiến;1
+213088;Tứ Tượng tháp mảnh vỡ;1
+213089;Nhật Nguyệt Châu mảnh vỡ;1
+213090;Lương duyên tiên vụn vặt phiến;1
+213091;Dệt mộng chuông đồng mảnh vỡ;1
+213092;Vĩnh kết tâm đeo mảnh vỡ;1
+213093;Vô tận bầu rượu mảnh vỡ;1
+213094;Thuần chất dương viêm mảnh vỡ;1
+213095;Băng Linh Tuyết thương mảnh vỡ;1
+213096;Ngự thủy châu mảnh vỡ;1
+213097;Tử kim hoan linh mảnh vỡ;1
+213098;U phách sừng mảnh vỡ;1
+213099;Phỉ ngọc Kim Thiềm mảnh vỡ;1
+213100;Nguyệt quế kim đăng mảnh vỡ;1
+213101;Ánh Nguyệt quạt lụa mảnh vỡ;1
+213102;Huyền Thiên lôi đập nát phiến;1
+213103;Bích lân cung khảm sừng mảnh vỡ;1
+213104;Toái tinh loạn nguyệt mảnh vỡ;1
+213105;Nghìn đạo luân hồi mảnh vỡ;1
+213106;Cổ linh thương kính mảnh vỡ;1
+213107;Thiên Cơ Linh châu mảnh vỡ;1
+214001;Đông Hoàng Chung mảnh vỡ;1
+214002;Cửu Thiên Tức Nhưỡng mảnh vỡ;1
+214003;Phục Hi đàn mảnh vỡ;1
+214004;Luyện Yêu Hồ mảnh vỡ;1
+214005;Chúc Dung kích mảnh vỡ;1
+214006;Che hải thần đao mảnh vỡ;1
+214007;Bàn Cổ Phiên mảnh vỡ;1
+214008;Chư thiên Khánh Vân mảnh vỡ;1
+214009;Hỗn Độn Thanh Liên mảnh vỡ;1
+214010;Bàn Cổ Phủ mảnh vỡ;1
+214011;Kim triều kích mảnh vỡ;1
+214012;Minh ảnh chi nhận mảnh vỡ;1
+214013;Tổ Long châu mảnh vỡ;1
+214014;Rồng đỉnh ngọc tỉ mảnh vỡ;1
+214015;Chưởng thiên bình vỡ phiến;1
+214016;Hư Thiên Đỉnh mảnh vỡ;1
+214017;Hiên Viên Kiếm mảnh vỡ;1
+214018;Xạ Nhật cung mảnh vỡ;1
+214019;Côn Luân kính mảnh vỡ;1
+214020;Hỗn Nguyên Thái Thanh phù mảnh vỡ;1
+214021;Hồng Quân hồ lô mảnh vỡ;1
+214022;Sơn hà chí bảo ghi chép mảnh vỡ;1
+214023;Ngọc Thanh Quạt ba tiêu mảnh vỡ;1
+214024;Côn Ngô Cát Ngọc Đao mảnh vỡ;1
+214025;Hình Thiên làm thích thuẫn mảnh vỡ;1
+214026;Tru Tiên trận đồ mảnh vỡ;1
+214027;Tam Quang Thần Thủy mảnh vỡ;1
+214028;Đả Thần Tiên mảnh vỡ;1
+214029;Thái Ất kim lân thuyền mảnh vỡ;1
+214030;Tiên Ma nghịch mảnh vỡ;1
+214031;Túc duyên bướm tiên ngọc nát phiến;1
+214034;Trảm tiên kiếm mảnh vỡ;1
+214036;Hư không chi nước mắt mảnh vỡ;1
+214037;Vương quyền kiếm mảnh vỡ;1
+214038;Phạt quế thần phủ mảnh vỡ;1
+214039;Chín thánh huyền linh quan mảnh vỡ;1
+214040;Chín thánh thương tiên trượng mảnh vỡ;1
+214041;Biển sâu triều âm mảnh vỡ;1
+214042;Biển xanh rồng đào mảnh vỡ;1
+214043;Nghịch kích kình ca mảnh vỡ;1
+214044;Tử Cực Thiên Lôi lưỡi đao mảnh vỡ;1
+214045;Thiên Toàn xâu lôi cung mảnh vỡ;1
+214046;Diêu quang bôn lôi giày mảnh vỡ;1
+220001;Yêu thành bá chủ;1
+220002;Thần đình diệu cờ;1
+220003;Quân lâm Cửu Châu;1
+220004;Vấn đỉnh Bồng Lai;1
+220005;Hùng ngồi tiên đảo;1
+220006;Vấn đỉnh quán quân;1
+220007;Vấn đỉnh á quân;1
+220008;Vấn đỉnh quý quân;1
+220009;Vấn đỉnh 32 mạnh;1
+220010;Long du Cửu U;1
+220011;Phượng múa Cửu U;1
+220012;Hổ khiếu Cửu U;1
+240004;Tự do phổ thông pháp bảo;1
+240008;Ngẫu nhiên phổ thông pháp bảo;1
+240010;Tự do truyền thuyết mảnh vỡ pháp bảo;1
+240011;Tự do trác tuyệt mảnh vỡ pháp bảo;1
+240012;Tự do phổ thông mảnh vỡ pháp bảo;1
+240014;Ngẫu nhiên truyền thuyết mảnh vỡ pháp bảo;1
+240015;Ngẫu nhiên trác tuyệt mảnh vỡ pháp bảo;1
+240016;Ngẫu nhiên phổ thông mảnh vỡ pháp bảo;1
+241001;Tự do thần thoại Linh giới pháp bảo;1
+241002;Tự do truyền thuyết Linh giới pháp bảo;1
+241003;Tự do trác tuyệt Linh giới pháp bảo;1
+241004;Tự do hi hữu Linh giới pháp bảo;1
+241005;Ngẫu nhiên thần thoại Linh giới pháp bảo;1
+241006;Ngẫu nhiên truyền thuyết Linh giới pháp bảo;1
+241007;Ngẫu nhiên trác tuyệt Linh giới pháp bảo;1
+241008;Ngẫu nhiên hi hữu Linh giới pháp bảo;1
+241009;Tự do thần thoại Linh giới mảnh vỡ pháp bảo;1
+241010;Tự do truyền thuyết Linh giới mảnh vỡ pháp bảo;1
+241011;Tự do trác tuyệt Linh giới mảnh vỡ pháp bảo;1
+241012;Tự do hi hữu Linh giới mảnh vỡ pháp bảo;1
+241013;Ngẫu nhiên thần thoại Linh giới mảnh vỡ pháp bảo;1
+241014;Ngẫu nhiên truyền thuyết Linh giới mảnh vỡ pháp bảo;1
+241015;Ngẫu nhiên trác tuyệt Linh giới mảnh vỡ pháp bảo;1
+241016;Ngẫu nhiên hi hữu Linh giới mảnh vỡ pháp bảo;1
+242001;Song vực thần thoại pháp bảo tự do rương;1
+242002;Song vực truyền thuyết pháp bảo tự do rương;1
+242003;Song vực trác tuyệt pháp bảo tự do rương;1
+242004;Song vực phổ thông pháp bảo tự do rương;1
+242005;Song vực thần thoại pháp bảo ngẫu nhiên rương;1
+242006;Song vực truyền thuyết pháp bảo ngẫu nhiên rương;1
+242007;Song vực trác tuyệt pháp bảo ngẫu nhiên rương;1
+242008;Song vực phổ thông pháp bảo ngẫu nhiên rương;1
+242009;Song vực thần thoại pháp bảo tự do mảnh vỡ;1
+242010;Song vực truyền thuyết pháp bảo tự do mảnh vỡ;1
+242011;Song vực trác tuyệt pháp bảo tự do mảnh vỡ;1
+242012;Song vực phổ thông pháp bảo tự do mảnh vỡ;1
+242013;Song vực thần thoại pháp bảo ngẫu nhiên mảnh vỡ;1
+242014;Song vực truyền thuyết pháp bảo ngẫu nhiên mảnh vỡ;1
+242015;Song vực trác tuyệt pháp bảo ngẫu nhiên mảnh vỡ;1
+242016;Song vực phổ thông pháp bảo ngẫu nhiên mảnh vỡ;1
+250001;Phổ thông tuyên cổ chấn trứng;1
+250002;Trác tuyệt tuyên cổ chấn trứng;1
+250003;Truyền thuyết tuyên cổ chấn trứng;1
+260001;Kim thu thưởng cúc;1
+260002;Mù sương cùng múa;1
+260003;Tỉnh sư múa bào;1
+260004;Thanh Xà xuyến;1
+260005;Thanh lương dưa hấu;1
+271001;Thủy kính phù túi thơm mảnh vỡ;1
+271002;Minh Tâm ngọc kính mảnh vỡ;1
+271003;Quỳnh hoa ngọc bội mảnh vỡ;1
+271004;Kỳ Lân độc giác mảnh vỡ;1
+271005;Thất khiếu Huyền Châu mảnh vỡ;1
+271006;Huyền Thiên thần mộc mảnh vỡ;1
+271007;Cổ linh mệnh châu mảnh vỡ;1
+271008;Cửu Phượng ngọc trâm mảnh vỡ;1
+271009;Dao Trì trời hà đèn mảnh vỡ;1
+271010;Thái thủy bình an chụp mảnh vỡ;1
+271011;Hàn băng bích ngọc búa mảnh vỡ;1
+271012;Tấc kim quang âm đấu mảnh vỡ;1
+271013;Tất Phương chân viêm đèn mảnh vỡ;1
+271014;Hải long giáp mảnh vỡ;1
+271015;Linh tê hồ lô mảnh vỡ;1
+271016;Thương khung thiên hỏa bồng mảnh vỡ;1
+271017;Huyền văn kim như ý mảnh vỡ;1
+271018;Kim xà bảo giám mảnh vỡ;1
+271019;Linh lan chuông mảnh vỡ;1
+271020;Thanh ngọc bảo xoắn ốc mảnh vỡ;1
+272001;Đốt thế Ma Long vảy mảnh vỡ;1
+272002;Minh Hà câu hồn tác mảnh vỡ;1
+272003;Thương phượng cháy thiên thương mảnh vỡ;1
+272004;Cổ thánh giấy tuyên mảnh vỡ;1
+272005;Mặc Long làm khôn nghiễn mảnh vỡ;1
+272006;Say mộng âm dương gối mảnh vỡ;1
+272007;Địa Hoàng bảo túi mảnh vỡ;1
+272008;Mây hoả táng kim kích mảnh vỡ;1
+272009;Tiên nhân ngọc giản mảnh vỡ;1
+272010;Ngưng thần ngọc đâm mảnh vỡ;1
+272011;Thiên lý giang sơn đồ mảnh vỡ;1
+272012;Cát phúc vận may cờ mảnh vỡ;1
+272013;Chữ thiên tấm lụa mảnh vỡ;1
+272014;Cự Linh Thần Ngọc Hoàn mảnh vỡ;1
+272015;Đoạn nghĩa nhân duyên cắt mảnh vỡ;1
+272016;Xuân khóa oán cung Tiêu mảnh vỡ;1
+272017;Huyền Linh nến mảnh vỡ;1
+272018;Đốt thành tị hỏa áo mảnh vỡ;1
+272019;Thiên Tinh phá trận giáp mảnh vỡ;1
+272020;Sóng biếc Long Vương trượng mảnh vỡ;1
+272021;Bích ngọc sừng tê mảnh vỡ;1
+272022;Tú nguyệt hàm quang kiếm mảnh vỡ;1
+272023;Thương lôi vũ lưỡi đao mảnh vỡ;1
+272024;Mưa bụi Vô Ngân Kiếm mảnh vỡ;1
+272025;Hoa vũ trời Tịnh Bình mảnh vỡ;1
+272026;Liệt hồn đoạt phách câu mảnh vỡ;1
+272027;Kim tú hồng Ngọc Hoàn mảnh vỡ;1
+272028;Trấn sát đồ mảnh vỡ;1
+272029;Gió trảm song kiếm mảnh vỡ;1
+272030;Hoàng Tuyền độ người mái chèo mảnh vỡ;1
+273001;Vạn dân cầu nguyện dù mảnh vỡ;1
+273002;Vạn giới Linh tu tháp mảnh vỡ;1
+273003;Tam sinh kỷ yếu mảnh vỡ;1
+273004;Lưỡng Nghi Thái Cực đài mảnh vỡ;1
+273005;Cửu thiên lôi phượng phiến mảnh vỡ;1
+273006;Thiên Cương thần hỏa kính mảnh vỡ;1
+273007;Ngũ Hành trấn ác cờ mảnh vỡ;1
+273008;Phục Hi hung cát bàn mảnh vỡ;1
+273009;Bát Hoang lôi chấn mảnh vỡ;1
+273010;Thái Thanh làm khôn kính mảnh vỡ;1
+273011;Ngàn hoàng Xích Hỏa phiến mảnh vỡ;1
+273012;Thôn thiên hồ lô mảnh vỡ;1
+273013;Sơn hải nguyên châu mảnh vỡ;1
+273014;Tửu tiên thanh tôn mảnh vỡ;1
+273015;Biển cả Huyền Ngọc vòng mảnh vỡ;1
+273016;Tiên con trai Linh châu mảnh vỡ;1
+273017;Tồi thành phá hải roi mảnh vỡ;1
+273018;Côn Luân chi nước mắt mảnh vỡ;1
+273019;Không ta Kim Thiền mảnh vỡ;1
+273020;Thủy Long thanh ngọc vòng mảnh vỡ;1
+273021;Thanh tâm gương sáng đèn mảnh vỡ;1
+273022;Thượng thanh quy nguyên đỉnh mảnh vỡ;1
+273023;Về hồn linh sức mảnh vỡ;1
+273024;Liệu nguyên Phần Thiên búa mảnh vỡ;1
+273025;Bệ Ngạn Trấn Ngục tỉ mảnh vỡ;1
+273026;Kim Hi Huyền Vũ ấn mảnh vỡ;1
+273027;Ngọc bích tụ linh đỉnh mảnh vỡ;1
+273028;Ngọc Hành linh quang thuẫn mảnh vỡ;1
+273029;Bạch Đế trảm xà kiếm mảnh vỡ;1
+273030;Cửu tiêu tiên miện mảnh vỡ;1
+273031;Phá tà Linh Lung Tháp mảnh vỡ;1
+273032;Không một hạt bụi tuệ quang sa mảnh vỡ;1
+273033;Tơ vàng gân rồng tác mảnh vỡ;1
+273034;Kim sợi Tiên Vũ váy mảnh vỡ;1
+273035;Núi xanh tiên như ý mảnh vỡ;1
+273036;Phong nguyệt linh thông giám mảnh vỡ;1
+273037;Thần Tức phượng ảnh đồ mảnh vỡ;1
+273038;Hồng Mông Thiên Tinh mảnh vỡ;1
+273039;Xanh thẫm Ngọc Tịnh bình mảnh vỡ;1
+273040;Chân lôi Ứng Long khiến mảnh vỡ;1
+273041;Hàn Nguyệt trảm hồn đao mảnh vỡ;1
+273042;Yêu minh Dẫn Hồn đèn mảnh vỡ;1
+273043;Huyền quang diệu linh đèn mảnh vỡ;1
+273044;Che khuất bầu trời cờ mảnh vỡ;1
+273045;Vết sương phá thiên búa mảnh vỡ;1
+274001;Sóng dữ long hồn thương mảnh vỡ;1
+274002;Ngọc Thanh trường sinh ấn mảnh vỡ;1
+274003;Thần Hoàng thiên cơ hộp mảnh vỡ;1
+274004;Cách Thiên Diễm chỉ riêng cờ mảnh vỡ;1
+274005;Đâu Suất thiên đạo lô mảnh vỡ;1
+281001;Ly Hỏa?Ly lực mảnh vỡ;1
+281002;Ly Hỏa?Đương Khang mảnh vỡ;1
+281003;Ly Hỏa?Thanh ly mảnh vỡ;1
+281004;Tốn gió?Huyền ong mảnh vỡ;1
+281005;Tốn gió?Ngụ Bức mảnh vỡ;1
+281006;Tốn gió?Liêm bọ cạp mảnh vỡ;1
+281007;Cấn núi?Rót rót mảnh vỡ;1
+281008;Cấn núi?Xoáy rùa mảnh vỡ;1
+281009;Cấn núi?Cự nhện mảnh vỡ;1
+281010;Khảm nước?Hàm dê mảnh vỡ;1
+281011;Khảm nước?Hào cá mảnh vỡ;1
+281012;Khảm nước?Nặng cá mảnh vỡ;1
+281013;Chấn lôi?Biển thiềm mảnh vỡ;1
+281014;Chấn lôi?Giảo hoạt mảnh vỡ;1
+281015;Chấn lôi?Thư đường mảnh vỡ;1
+282001;Ly Hỏa?Huyền báo mảnh vỡ;1
+282002;Ly Hỏa?Tẫn gấu mảnh vỡ;1
+282003;Ly Hỏa?Trì sói mảnh vỡ;1
+282004;Tốn gió?Vân Hạc mảnh vỡ;1
+282005;Tốn gió?Thanh cày mảnh vỡ;1
+282006;Tốn gió?Lam chim mảnh vỡ;1
+282007;Cấn núi?Thiên Hồ mảnh vỡ;1
+282008;Cấn núi?Hóa rắn mảnh vỡ;1
+282009;Cấn núi?Lộc Thục mảnh vỡ;1
+282010;Khảm nước?Ai rắn mảnh vỡ;1
+282011;Khảm nước?Thương vượn mảnh vỡ;1
+282012;Khảm nước?Giao nhân mảnh vỡ;1
+282013;Chấn lôi?Mạnh cực mảnh vỡ;1
+282014;Chấn lôi?Rầm rĩ chim mảnh vỡ;1
+282015;Chấn lôi?Chạy gấu mảnh vỡ;1
+283001;Ly Hỏa?Hống mảnh vỡ;1
+283002;Ly Hỏa?Tất Phương mảnh vỡ;1
+283003;Ly Hỏa?Nặng hung mảnh vỡ;1
+283004;Ly Hỏa?Hoàng Điểu mảnh vỡ;1
+283005;Ly Hỏa?Thận Long mảnh vỡ;1
+283006;Ly Hỏa?Kim Ô mảnh vỡ;1
+283007;Tốn gió?Thừa hoàng mảnh vỡ;1
+283008;Tốn gió?Huyền Điểu mảnh vỡ;1
+283009;Tốn gió?Gió lớn mảnh vỡ;1
+283010;Tốn gió?Khung ngựa mảnh vỡ;1
+283011;Tốn gió?Bỉ dực mảnh vỡ;1
+283012;Tốn gió?Nhai Tí mảnh vỡ;1
+283013;Cấn núi?Đồ Sơn hồ mảnh vỡ;1
+283014;Cấn núi?Hung phệ mảnh vỡ;1
+283015;Cấn núi?Quỳ Ngưu mảnh vỡ;1
+283016;Cấn núi?Họa đấu mảnh vỡ;1
+283017;Cấn núi?Thao Thiết mảnh vỡ;1
+283018;Cấn núi?Nặng tướng mảnh vỡ;1
+283019;Khảm nước?Li Vẫn mảnh vỡ;1
+283020;Khảm nước?Linh tượng mảnh vỡ;1
+283021;Khảm nước?Thương Long mảnh vỡ;1
+283022;Khảm nước?Cửu Vĩ rắn mảnh vỡ;1
+283023;Khảm nước?Ai hồ mảnh vỡ;1
+283024;Khảm nước?Chư mang mảnh vỡ;1
+283025;Chấn lôi?Kim Bằng mảnh vỡ;1
+283026;Chấn lôi?Đình sư mảnh vỡ;1
+283027;Chấn lôi?Bệ Ngạn mảnh vỡ;1
+283028;Chấn lôi?Tê mương mảnh vỡ;1
+283029;Chấn lôi?Câu Trần mảnh vỡ;1
+283030;Chấn lôi?Cuồng tranh mảnh vỡ;1
+284001;Ly Hỏa?Cùng Kỳ mảnh vỡ;1
+284002;Tốn gió?Đào Ngột mảnh vỡ;1
+284003;Cấn núi?Cửu Anh mảnh vỡ;1
+284004;Khảm nước?Côn Bằng mảnh vỡ;1
+284005;Chấn lôi?Chúc Long mảnh vỡ;1
+284006;Ly Hỏa?Chu Yếm mảnh vỡ;1
+284007;Tốn gió?Hỗn độn mảnh vỡ;1
+284008;Cấn núi?Lục Ngô mảnh vỡ;1
+284009;Khảm nước?Ngao hung ác mảnh vỡ;1
+284010;Chấn lôi?Tổ Kỳ Lân mảnh vỡ;1
+290001;Ngẫu nhiên trong thần thoại đan;1
+290002;Ngẫu nhiên trong truyền thuyết đan;1
+290003;Ngẫu nhiên trác tuyệt nội đan;1
+290004;Ngẫu nhiên hi hữu nội đan;1
+290005;Ngẫu nhiên trong thần thoại đan mảnh vỡ;1
+290006;Ngẫu nhiên trong truyền thuyết đan mảnh vỡ;1
+290007;Ngẫu nhiên trác tuyệt nội đan mảnh vỡ;1
+290008;Ngẫu nhiên hi hữu nội đan mảnh vỡ;1
+290009;Tự do trong thần thoại đan;1
+290010;Tự do trong truyền thuyết đan;1
+290011;Tự do trác tuyệt nội đan;1
+290012;Tự do hi hữu nội đan;1
+290013;Tự do trong thần thoại đan mảnh vỡ;1
+290014;Tự do trong truyền thuyết đan mảnh vỡ;1
+290015;Tự do trác tuyệt nội đan mảnh vỡ;1
+290016;Tự do hi hữu nội đan mảnh vỡ;1
+300001;Tiên các nhã yến mời thiếp;1
+300002;Bụi hiên Giai Yến mời thiếp;1
+310001;Ảnh Bức tập mảnh vỡ;1
+310002;Phong nhận quyết mảnh vỡ;1
+310003;Ngũ Nhạc vỡ nát phiến;1
+310004;Vạn tinh dẫn mảnh vỡ;1
+310005;Chân nguyên chú mảnh vỡ;1
+310006;Nát lưỡi đao chém vỡ phiến;1
+310007;Thiên Lôi vỡ vụn phiến;1
+310008;Hoàng viêm Phần Thiên mảnh vỡ;1
+310009;Cửu tiêu truy hồn mảnh vỡ;1
+310010;Đồ Sơn bí chú mảnh vỡ;1
+310011;Ba ngàn kiếm ý mảnh vỡ;1
+310012;Đại đạo thiên uy trận mảnh vỡ;1
+310013;Hỗn Nguyên làm khôn quyết mảnh vỡ;1
+310014;Hỗn Độn Thanh Liên chú mảnh vỡ;1
+310015;Thiên Cương chấn ngục kích mảnh vỡ;1
+310016;Diệu sen chú mảnh vỡ;1
+310017;Phá giáp thuật mảnh vỡ;1
+310018;Câu hồn thuật mảnh vỡ;1
+310019;Chiến phách quyết mảnh vỡ;1
+310020;Thiên uy giận mảnh vỡ;1
+310021;Ngự thú thuật mảnh vỡ;1
+310022;Chấn hồn vỡ vụn phiến;1
+310023;Tàn tượng ảnh tập mảnh vỡ;1
+310024;Sương hàn Cửu Châu mảnh vỡ;1
+310025;Đạo sinh lưỡng cực mảnh vỡ;1
+310026;Lăng Phong kiếm thức mảnh vỡ;1
+310027;Viêm Đế vẫn Thần quyết mảnh vỡ;1
+310028;Cửu Lê thực tâm chú mảnh vỡ;1
+310029;Vô thượng Võ Thần quyết mảnh vỡ;1
+310030;Vạn thú hung hồn dẫn mảnh vỡ;1
+310031;Cố Thần quyết mảnh vỡ;1
+310032;Máu sát thuật mảnh vỡ;1
+310033;Ngưng trệ chú mảnh vỡ;1
+310034;Hàng linh quyết mảnh vỡ;1
+310035;Mê Tung Bộ mảnh vỡ;1
+310036;Thực cốt thuật mảnh vỡ;1
+310037;Toái kiếm quyết mảnh vỡ;1
+310038;Thay đổi làm khôn mảnh vỡ;1
+310039;Bất khuất chiến ý mảnh vỡ;1
+310040;Tiên hơi thở quy nguyên mảnh vỡ;1
+310041;Ngự linh đồng tâm mảnh vỡ;1
+310042;Bàn Nhược chỉ toàn tâm chú mảnh vỡ;1
+310043;Thương Linh ngũ suy chú mảnh vỡ;1
+310044;Vô thượng huyền quang ngự mảnh vỡ;1
+310045;Thái Cổ châm ngôn quyết mảnh vỡ;1
+320001;Ngẫu nhiên thông thiên huyền quyết;1
+320002;Ngẫu nhiên hiểu Địa Huyền quyết;1
+320003;Ngẫu nhiên biết huyền huyền quyết;1
+320004;Ngẫu nhiên biết U Huyền quyết;1
+320005;Ngẫu nhiên thông thiên huyền quyết mảnh vỡ;1
+320006;Ngẫu nhiên hiểu Địa Huyền quyết mảnh vỡ;1
+320007;Ngẫu nhiên biết huyền huyền quyết mảnh vỡ;1
+320008;Ngẫu nhiên biết U Huyền quyết mảnh vỡ;1
+320009;Tự do thông thiên huyền quyết;1
+320010;Tự do hiểu Địa Huyền quyết;1
+320011;Tự do biết huyền huyền quyết;1
+320012;Tự do biết U Huyền quyết;1
+320013;Tự do thông thiên huyền quyết mảnh vỡ;1
+320014;Tự do hiểu Địa Huyền quyết mảnh vỡ;1
+320015;Tự do biết huyền huyền quyết mảnh vỡ;1
+320016;Tự do biết U Huyền quyết mảnh vỡ;1
+330001;Phổ thông Thái Sơ bí quyển;1
+330002;Trác tuyệt Thái Sơ bí quyển;1
+330003;Truyền thuyết Thái Sơ bí quyển;1
+340001;Bụi hàng rào gỗ mảnh vỡ;1
+340002;Huyền Mộc hàng rào mảnh vỡ;1
+341001;Bụi song gỗ môn mảnh vỡ;1
+341002;Mộc xuân mảnh vỡ;1
+341003;Cẩu Vĩ Thảo mảnh vỡ;1
+341004;Tiểu yêu cờ mảnh vỡ;1
+341005;Ngoan thạch mảnh vỡ;1
+341006;Phong Lăng đá bể phiến;1
+341007;Bàn thạch đèn mảnh vỡ;1
+341008;Linh Diệp trúc mảnh vỡ;1
+341009;Linh tâm hà mảnh vỡ;1
+341010;Hồ điệp lan mảnh vỡ;1
+341011;Hoa mai mai mảnh vỡ;1
+341012;Thúy chồng ly mảnh vỡ;1
+341013;Dưới ánh trăng lỏng mảnh vỡ;1
+341014;Trẻ non lan mảnh vỡ;1
+341015;Chiếu rọi đèn mảnh vỡ;1
+341016;Tôm tử đèn mảnh vỡ;1
+341017;Bích lan thiên bi phiến;1
+341018;Vinh quang buổi sáng mảnh vỡ;1
+341019;Oa oa đá bể phiến;1
+341020;Heo heo băng ghế mảnh vỡ;1
+342001;Huyền Mộc cửa hàng rào mảnh vỡ;1
+342002;Trầm mộc bậc thang mảnh vỡ;1
+342003;Nguyệt Diệu đèn mảnh vỡ;1
+342004;Thương Huyền cây mảnh vỡ;1
+342005;Bồ công anh mảnh vỡ;1
+342006;Diệu sen bồn mảnh vỡ;1
+342007;Thỏ hà ngọn mảnh vỡ;1
+342008;Mùi thơm hoa cỏ lô mảnh vỡ;1
+342009;Bạch Ngọc Lan mảnh vỡ;1
+342010;Rơm rạ yêu mảnh vỡ;1
+342011;Bái yêu giống mảnh vỡ;1
+342012;Giả sơn nham mảnh vỡ;1
+342013;Gỗ đào ghế dựa mảnh vỡ;1
+342014;Chuối tây cây mảnh vỡ;1
+342015;Tháp cao đèn mảnh vỡ;1
+342016;Hoa sen cái lồng mảnh vỡ;1
+342017;Lộng lẫy cúc mảnh vỡ;1
+342018;Hoa mẫu đơn mảnh vỡ;1
+342019;Đá xanh tháp mảnh vỡ;1
+342020;Nhàn thú oa mảnh vỡ;1
+342021;Quả khắp cây mảnh vỡ;1
+342022;Kim cắm ngọn mảnh vỡ;1
+342023;Ngàn đèn đỡ mảnh vỡ;1
+342024;Cây Ngọc Lan mảnh vỡ;1
+343001;Ngũ tinh ngọn mảnh vỡ;1
+343002;Đào nguyện đu dây mảnh vỡ;1
+343003;Nhập Huyền Môn mảnh vỡ;1
+343004;Vui tiêu dao mảnh vỡ;1
+343005;Độ mộng đình mảnh vỡ;1
+343006;Sơn hải nham mảnh vỡ;1
+343007;Huyễn Linh ao mảnh vỡ;1
+343008;Trầm mộc cầu mảnh vỡ;1
+343009;Liên Tiên ngọn mảnh vỡ;1
+343010;Đâu Suất huyền đài mảnh vỡ;1
+343011;Trời suối huyền giếng mảnh vỡ;1
+343012;Mộc yêu cọc mảnh vỡ;1
+343013;Vui vẻ doanh môn mảnh vỡ;1
+344001;Thái Sơ khắc hình rồng mảnh vỡ;1
+344002;Phù thế tiên tuyền mảnh vỡ;1
+344003;Tiên gặp treo cầu mảnh vỡ;1
+344004;Ngừng dây cung độ mảnh vỡ;1
+344005;Hiện nguyệt tiên thuyền mảnh vỡ;1
+344006;Bàn vườn hươu điêu mảnh vỡ;1
+344007;Năm kì sân khấu kịch mảnh vỡ;1
+344008;Bách hoa vườn mảnh vỡ;1
+344009;Hồ sen mảnh vỡ;1
+344010;Chư tiên cùng vui mảnh vỡ;1
+344011;Hỏa Thiềm tiên nồi mảnh vỡ;1
+344012;Tiên trì guồng nước mảnh vỡ;1
+344013;Hoa anh đào khe núi mảnh vỡ;1
+344014;Ngắm trăng Tiên Đài mảnh vỡ;1
+344015;Nguyệt quế tiên thụ mảnh vỡ;1
+344016;Ánh Nguyệt đầm mảnh vỡ;1
+344017;Say hoa quỳnh lâu mảnh vỡ;1
+344018;Bảy vượng sân khấu kịch mảnh vỡ;1
+344019;Cửu tiêu cùng vui mảnh vỡ;1
+345001;Công Thâu Huyền Thiên vòng mảnh vỡ;1
+345002;Tám yêu Huyền Thiên ngọn mảnh vỡ;1
+345003;Thần Vũ cửu huyền đài mảnh vỡ;1
+345004;Làm cách Phong Thần|Maruti cung mảnh vỡ;1
+345005;Phù Tang cổ tiên cư mảnh vỡ;1
+345006;Quảng Hàn Lăng Nguyệt cung mảnh vỡ;1
+345007;Kiến Mộc phù tiên cư mảnh vỡ;1
+345008;Biển cả làm khôn giới mảnh vỡ;1
+350001;Thần thoại ngẫu nhiên kiến trúc;1
+350002;Truyền thuyết ngẫu nhiên kiến trúc;1
+350003;Trác tuyệt ngẫu nhiên kiến trúc;1
+350004;Hi hữu ngẫu nhiên kiến trúc;1
+350005;Tinh lương ngẫu nhiên kiến trúc;1
+350007;Ngẫu nhiên thần thoại kiến trúc mảnh vỡ;1
+350008;Ngẫu nhiên truyền thuyết kiến trúc mảnh vỡ;1
+350009;Ngẫu nhiên trác tuyệt kiến trúc mảnh vỡ;1
+350010;Ngẫu nhiên hi hữu kiến trúc mảnh vỡ;1
+350011;Ngẫu nhiên tinh lương kiến trúc mảnh vỡ;1
+350013;Tự do thần thoại kiến trúc;1
+350014;Tự do truyền thuyết kiến trúc;1
+350015;Tự do trác tuyệt kiến trúc;1
+350016;Tự do hi hữu kiến trúc;1
+350017;Tự do tinh lương kiến trúc;1
+350019;Tự do thần thoại kiến trúc mảnh vỡ;1
+350020;Tự do truyền thuyết kiến trúc mảnh vỡ;1
+350021;Tự do trác tuyệt kiến trúc mảnh vỡ;1
+350022;Tự do hi hữu kiến trúc mảnh vỡ;1
+350023;Tự do tinh lương kiến trúc mảnh vỡ;1
+350025;Ngẫu nhiên kiến trúc mảnh vỡ;1
+360001;Bụi phẩm Bồi Nguyên đan;1
+360002;Phàm phẩm Bồi Nguyên đan;1
+360003;Huyền phẩm Bồi Nguyên đan;1
+360004;Tiên phẩm Bồi Nguyên đan;1
+360005;Tuyệt phẩm Bồi Nguyên đan;1
+370001;Thiên Uyên Cổ Long mảnh vỡ;1
+370002;Tẫn thiên thần hoàng mảnh vỡ;1
+370003;Thiên uy đế hổ mảnh vỡ;1
+370004;Thần Tiêu Kỳ Lân mảnh vỡ;1
+370005;Địa tổ Huyền Vũ mảnh vỡ;1
+380001;Ly Hỏa Chú Kiếm đài;1
+380002;Ngũ phương thánh linh suối;1
+380003;Cửu Thiên Tiên chỉ giống;1
+380004;Cửu Minh ma la giống;1
+380005;Thần long hiển thánh các;1
+380006;Tiên Hoàng Niết Bàn đài;1
+380007;Minh hổ Trấn Ngục quan;1
+380008;Luân hồi giếng;1
+380009;Đại thánh hiển thần uy;1
+380010;Tổ Long thông thiên đàn;1
+390001;1 Tinh hội quyển;1
+390002;2 Tinh hội quyển;1
+390003;3 Tinh hội quyển;1
+390004;4 Tinh hội quyển;1
+390005;5 Tinh hội quyển;1
+395001;5 Tinh tự do Tiên Đồ;1
+400001;Hàn băng tằm;1
+400002;Xích Dương ngọc châu;1
+400003;Linh Hư tuệ quả;1
+400004;Diệu đế đài sen;1
+400005;Cửu Diệp Tuyết Liên;1
+400006;Long phách tiên mộc;1
+400007;Vảy rồng tiên quả;1
+400008;Mặt trời lặn tâm cỏ;1
+400009;Bồ Đề linh quả;1
+400010;Diêu quang Huyền Liên;1
+400011;Bắc Minh lạnh hoa;1
+400012;Thiên Tiên ngọc lộ;1
+400013;Thủy Vân quả;1
+400014;Kỳ Lân nước bọt;1
+400015;Tiên Lệ Lục Kim;1
+400016;Huyền Quy giáp;1
+400017;Huyền Lôi sắt;1
+400018;Huyết dương sắt;1
+400019;Ngân Tuyết sương mộc;1
+400020;Tơ bạc tinh;1
+400021;Đỏ mực linh chi;1
+400022;Huyền Ngọc nhung;1
+400023;Hà trời trúc;1
+400024;Lửa uẩn thạch;1
+400025;Bạch lộ Thiên Sương;1
+400026;Huyền tước vũ;1
+400027;Cửu chuyển linh sâm;1
+400028;Bắc Minh Huyền Tinh;1

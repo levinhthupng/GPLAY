@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Student Card Generator — SNU style (Enhanced)</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Noto+Sans+KR:wght@400;700&display=swap" rel="stylesheet">
+  <!-- html2canvas for download as PNG -->
+  <script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
+  <!-- QRCode generator -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+  <!-- Barcode (Code128) -->
+  <script src="https://cdn.jsdelivr.net/npm/jsbarcode@3.11.6/dist/JsBarcode.all.min.js"></script>
+  <!-- SHA-256 for signing payloads -->
+  <script src="https://cdn.jsdelivr.net/npm/js-sha256@0.11.0/build/sha256.min.js"></script>
+  <style>
+    :root {
+      --bg: #0b1026;
+      --card: #0f1a3a;
+      --ink: #eaf0ff;
+      --muted: #adbbff;
+      --accent: #4c7cff;
+      --accent-2: #8bb0ff;
+      --shadow: 0 10px 30px rgba(0,0,0,.35);
+    }
+
+    * { box-sizing: border-box }
+    html, body { height: 100% }
+    body { margin: 0; background: radial-gradient(1200px 800px at 20% -10%, #1b2557 0%, #0b1026 50%, #090e21 100%); color: var(--ink); font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, "Noto Sans KR", Arial, "Apple Color Emoji", "Segoe UI Emoji"; line-height: 1.45; }
+
+    .container { max-width: 1200px; margin: 24px auto; padding: 0 16px; }
+    header { display:flex; align-items:center; gap:16px; margin-bottom: 18px; }
+    .logo { width: 44px; height: 44px; border-radius: 12px; display:grid; place-items:center; background: linear-gradient(135deg, var(--accent), var(--accent-2)); color: white; font-weight: 900; box-shadow: var(--shadow); }
+    h1 { font-size: clamp(20px, 2.8vw, 32px); margin:0 }
+    .sub { color: var(--muted); font-size: 14px }
+
+    .tabs { display:flex; gap:8px; flex-wrap: wrap; margin: 10px 0 16px }
+    .tab { background: #0c1534; color:#d8e2ff; border:1px solid rgba(255,255,255,.08); padding: 8px 12px; border-radius: 10px; cursor:pointer; user-select:none; }
+    .tab[aria-selected="true"] { background: var(--accent); color:#081021; font-weight:700 }
+
+    .grid { display:grid; grid-template-columns: 1.05fr .95fr; gap: 18px }
+    @media (max-width: 980px) { .grid { grid-template-columns: 1fr } }
+
+    .panel { background: rgba(255,255,255,.04); border:1px solid rgba(255,255,255,.08); border-radius: 16px; padding: 16px; box-shadow: var(--shadow); }
+
+    .controls { display:grid; grid-template-columns: repeat(2, minmax(0,1fr)); gap: 12px }
+    @media (max-width: 720px) { .controls { grid-template-columns: 1fr } }
+
+    label { font-size: 12px; color: var(--muted) }
+    input[type="text"], input[type="date"], select { width:100%; padding:10px 12px; border-radius: 10px; border:1px solid rgba(255,255,255,.12); background:#0b1535; color:#e9efff }
+    input::file-selector-button { border: none; padding: 6px 10px; border-radius: 8px; background: var(--accent); color:#081021; margin-right: 10px }
+
+    .row { display:flex; gap:10px; align-items:center; flex-wrap: wrap }
+    .btn { display:inline-flex; align-items:center; gap:8px; padding: 10px 14px; border-radius: 12px; cursor:pointer; background: var(--accent); color:#081021; border:none; font-weight:700; box-shadow: var(--shadow) }
+    .btn.secondary { background:#0c1534; color:#dce6ff; border:1px solid rgba(255,255,255,.12); font-weight:600 }
+    .btn.ghost { background: transparent; color: var(--muted); border: 1px dashed rgba(255,255,255,.18); }
+
+    .notice { margin-top: 10px; font-size: 12px; color: #c7d5ffb8; }
+
+    /* Card */
+    .card-wrap { display:grid; gap: 10px }
+    .card-shell { position: relative; width: 680px; height: 420px; border-radius: 18px; overflow: hidden; box-shadow: var(--shadow); }
+    @media (max-width: 740px) { .card-shell { width: 100%; height: auto; aspect-ratio: 680/420 } }
+
+    .id1 { width: 85.6mm !important; height: 54mm !important; }
+    @media print { body { background: white; } .container { margin: 0; } .panel, header, nav, .actions, footer { display: none !important; } .card-shell { margin: 0 auto; box-shadow: none; border: none } .card-shell.id1 { border: 0; } }
+
+    .card-bg { position:absolute; inset:0; background: radial-gradient(600px 300px at 120% -20%, rgba(255,255,255,.25), transparent 50%), radial-gradient(600px 300px at -10% 110%, rgba(255,255,255,.2), transparent 50%), linear-gradient(145deg, #06102c, var(--card)); }
+    .watermark { position:absolute; inset:0; opacity:.06; display:grid; place-items:center; pointer-events:none; }
+    .watermark span { font-size: 120px; font-weight: 900; letter-spacing: .06em; color:#eaf1ff }
+
+    .card { position:relative; z-index:1; display:grid; grid-template-columns: 1fr 1.4fr; gap: 0; width:100%; height:100%; padding: 18px; color:#eaf0ff; }
+
+    .left { display:grid; grid-template-rows: auto 1fr auto; gap: 12px }
+    .logo-badge { display:flex; align-items:center; gap:10px }
+    .badge { width: 56px; height: 56px; border-radius: 14px; display:grid; place-items:center; font-weight:900; color:#081021; background: linear-gradient(135deg, var(--accent), var(--accent-2)); }
+    .uni-title { font-weight: 800; font-size: 18px; }
+    .uni-sub { color:#bfd1ff; font-size: 12px }
+    .photo { width: 100%; aspect-ratio: 7/9; background:#0b1535; border:1px solid rgba(255,255,255,.12); border-radius: 12px; overflow:hidden; display:grid; place-items:center }
+    .photo img { width:100%; height:100%; object-fit: cover }
+    .photo .placeholder { font-size: 13px; color:#91a7ff; text-align:center; padding: 14px }
+
+    .right { display:grid; grid-template-rows: auto 1fr auto; gap:6px }
+    .fields { display:grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-top: 6px }
+    .field { background: rgba(255,255,255,.04); border:1px solid rgba(255,255,255,.08); border-radius: 10px; padding: 10px; min-width: 0 }
+    .field .k { color:#b8c8ff; font-size: 11px }
+    .field .v { font-weight: 700; margin-top: 4px; font-variant-numeric: tabular-nums; white-space: nowrap; overflow: hidden; text-overflow: ellipsis }
+#fDept, #fClass, #fCourse { white-space: normal; word-break: break-word }
+
+    .footer { display:flex; justify-content: space-between; align-items: center; gap: 10px; margin-top: 8px }
+    .valid { font-size: 12px; color:#c9d6ff }
+    .qr { width: 92px; height: 92px; background:#fff; border-radius: 8px; display:grid; place-items:center; overflow:hidden }
+    .barcode { height: 42px; display: grid; align-items: end; }
+    .barcode svg { width: 100%; height: 42px }
+
+    .actions { display:flex; gap: 10px; flex-wrap: wrap }
+
+    dialog { border:1px solid rgba(255,255,255,.14); border-radius: 14px; background:#0d1636; color:#eaf0ff; padding: 16px; width:min(680px, 92vw) }
+    dialog::backdrop { background: rgba(0,0,0,.45) }
+    .dialog-actions { display:flex; justify-content:flex-end; gap:10px; margin-top: 12px }
+
+    .tag { font-size: 11px; padding:.2rem .5rem; border-radius: 999px; background:#102152; color:#c9d6ff; border:1px solid rgba(255,255,255,.12) }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div class="logo" id="logoMini">SNU</div>
+      <div>
+        <h1>Máy tạo thẻ sinh viên trực tuyến</h1>
+        <div class="sub">Chuyển nhanh giữa các trường · Tạo ngẫu nhiên · Tải PNG · Mã QR & Barcode · Ký số SHA‑256 · Chế độ in ID‑1</div>
+      </div>
+    </header>
+
+    <nav aria-label="Trường" class="tabs" id="schoolTabs"></nav>
+
+    <div class="grid">
+      <section class="panel" aria-labelledby="form-title">
+        <h2 id="form-title" style="margin-top:0">Thiết lập thẻ</h2>
+        <div class="controls" id="controls">
+          <div><label>Tên (KR)</label><input id="inpName" type="text" placeholder="VD: 김민준" /></div>
+          <div><label>Ngày sinh</label><input id="inpDob" type="date" /></div>
+          <div><label>Mã sinh viên</label><input id="inpSid" type="text" placeholder="2024123456" /></div>
+          <div><label>Khoa/Bộ môn</label><input id="inpDept" type="text" placeholder="컴퓨터공학부" list="deptList" /><datalist id="deptList"></datalist></div>
+          <div><label>Lớp/Niên chế</label><input id="inpClass" type="text" placeholder="컴퓨터공학부 2학년" /></div>
+          <div><label>Khóa học (start - end)</label><input id="inpCourse" type="text" placeholder="2024 - 2028" /></div>
+          <div><label>Hạn sử dụng</label><input id="inpValid" type="text" placeholder="31/07/2029" /></div>
+          <div><label>Số di động</label><input id="inpPhone" type="text" placeholder="010-1234-5678" /></div>
+          <div><label>Email .edu (tuỳ chọn)</label><input id="inpEmail" type="text" placeholder="minjun@snu.ac.kr" /></div>
+          <div><label>Khoá bí mật (ký số tuỳ chọn)</label><input id="inpSecret" type="text" placeholder="Nhập để tạo chữ ký SHA-256" /></div>
+          <div><label>Ảnh sinh viên</label><input id="inpPhoto" type="file" accept="image/*" /></div>
+          <div class="row" style="align-items:center; gap:10px; padding-top: 8px">
+            <input id="chkWatermark" type="checkbox" checked /> <label for="chkWatermark"> Hiển thị watermark trường</label>
+            <input id="chkId1" type="checkbox" style="margin-left:8px" /> <label for="chkId1"> Chế độ in thẻ ID‑1 (85.6×54mm)</label>
+          </div>
+        </div>
+        <div class="row" style="margin-top: 14px">
+          <button class="btn" id="btnRandom">🎲 Tạo thẻ mới</button>
+          <button class="btn secondary" id="btnClear">🧹 Xóa ô nhập</button>
+        </div>
+        <div class="notice">Lưu ý: Công cụ giáo dục & trình diễn. Không liên quan đến trường thật. Logo dùng ký tự để tránh vấn đề bản quyền.</div>
+      </section>
+
+      <section class="panel">
+        <h2 style="margin-top:0">Xem trước & hành động</h2>
+        <div class="card-wrap">
+          <div id="cardShell" class="card-shell" role="img" aria-label="Thẻ sinh viên xem trước">
+            <div class="card-bg"></div>
+            <div class="watermark" id="wm"><span id="wmText">SNU</span></div>
+            <div class="card" id="card">
+              <div class="left">
+                <div class="logo-badge">
+                  <div class="badge" id="badge">SNU</div>
+                  <div>
+                    <div class="uni-title" id="uniKo">서울대학교</div>
+                    <div class="uni-sub" id="uniEn">Seoul National University · Republic of Korea</div>
+                  </div>
+                </div>
+                <div class="photo" id="photoBox"><div class="placeholder">Chưa có ảnh<br/>Tải ảnh ở panel trái</div></div>
+                <div class="tag" id="tagCampus">Campus: Gwanak</div>
+              </div>
+              <div class="right">
+                <div class="fields">
+                  <div class="field"><div class="k">Name</div><div class="v" id="fName">—</div></div>
+                  <div class="field"><div class="k">Date of Birth</div><div class="v" id="fDob">—</div></div>
+                  <div class="field"><div class="k">Student ID</div><div class="v" id="fSid">—</div></div>
+                  <div class="field"><div class="k">Department</div><div class="v" id="fDept">—</div></div>
+                  <div class="field"><div class="k">Class</div><div class="v" id="fClass">—</div></div>
+                  <div class="field"><div class="k">Course</div><div class="v" id="fCourse">—</div></div>
+                </div>
+                <div class="footer">
+                  <div>
+                    <div class="valid">Valid until: <span id="fValid">—</span></div>
+                    <div class="barcode"><svg id="barcode"></svg></div>
+                  </div>
+                  <div class="qr"><div id="qrcode"></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="actions">
+            <button class="btn" id="btnDownload">⬇️ Tải xuống PNG</button>
+            <button class="btn secondary" id="btnCopy">📋 Copy JSON</button>
+            <button class="btn ghost" id="btnPrint">🖨️ In / Xuất PDF</button>
+            <button class="btn ghost" id="btnVerify">✅ Xác minh sinh viên</button>
+          </div>
+        </div>
+      </section>
+    </div>
+
+    <dialog id="dlgVerify">
+      <h3 style="margin-top:0">Xác minh sinh viên</h3>
+      <p>Mã xác minh (tự sinh & lưu cục bộ trên trình duyệt này):</p>
+      <div class="row">
+        <input id="verifyCode" type="text" readonly style="flex:1; padding:10px 12px; border-radius:10px; border:1px solid rgba(255,255,255,.18); background:#0b1535; color:#e9efff"/>
+        <button class="btn secondary" id="btnCopyCode">Copy code</button>
+      </div>
+      <p class="notice">Có thể gửi mã này cho người khác. Ở máy nhận, dán <b>code</b> vào ô dưới để tra cứu từ LocalStorage (hoặc dán JSON đã copy để kiểm tra chữ ký).</p>
+      <div style="margin-top:8px">
+        <label>Nhập code để kiểm tra:</label>
+        <div class="row">
+          <input id="inpCheck" type="text" placeholder="Dán code..." style="flex:1; padding:10px 12px; border-radius:10px; border:1px solid rgba(255,255,255,.18); background:#0b1535; color:#e9efff" />
+          <button class="btn" id="btnCheck">Kiểm tra</button>
+        </div>
+        <div id="checkResult" class="notice"></div>
+        <div style="margin-top:10px">
+          <label>Dán JSON để kiểm tra chữ ký (nếu có):</label>
+          <textarea id="jsonCheck" rows="4" style="width:100%; padding:10px 12px; border-radius:10px; border:1px solid rgba(255,255,255,.18); background:#0b1535; color:#e9efff" placeholder='{"sid":"...","sig":"..."}'></textarea>
+          <div class="row">
+            <input id="secretCheck" type="text" placeholder="Khoá bí mật để verify SHA-256" style="flex:1; padding:10px 12px; border-radius:10px; border:1px solid rgba(255,255,255,.18); background:#0b1535; color:#e9efff" />
+            <button class="btn" id="btnVerifySig">Verify chữ ký</button>
+          </div>
+          <div id="sigResult" class="notice"></div>
+        </div>
+      </div>
+      <div class="dialog-actions"><button class="btn secondary" id="btnCloseDlg">Đóng</button></div>
+    </dialog>
+
+    <footer class="notice" style="margin-top: 14px">© <span id="year"></span> Demo generator. For education only.</footer>
+  </div>
+
+<script>
+  // —— App Config ——
+  const universities = {
+    snu: { key: 'snu', short: 'SNU', badge: 'SNU', uniKo: '서울대학교', uniEn: 'Seoul National University · Republic of Korea', campus: 'Campus: Gwanak', colors: { accent: '#4c7cff', accent2: '#8bb0ff', card: '#0f1a3a' }, watermark: 'SNU', depts: ['컴퓨터공학부','전기전자공학부','경영학과','경제학부','의학과','법학과','심리학과','화학과','기계공학부','건축학과','수학과'] },
+    mahe: { key: 'mahe', short: 'MAHE', badge: 'MAHE', uniKo: '마헤 대학교', uniEn: 'MAHE · Manipal Academy of Higher Education · India', campus: 'Campus: Manipal', colors: { accent: '#ff8c37', accent2: '#ffd29f', card: '#2a1710' }, watermark: 'MAHE', depts: ['Computer Science','Electronics & Communication','Business Administration','Medicine','Law','Psychology','Mechanical Eng.','Architecture'] },
+    sfc: { key: 'sfc', short: 'SFC', badge: 'SFC', uniKo: '산타페 칼리지', uniEn: 'Santa Fe College · United States', campus: 'Campus: Gainesville', colors: { accent: '#00b3ad', accent2: '#a2f1ee', card: '#0f2a2a' }, watermark: 'SFC', depts: ['Information Technology','Business','Health Sciences','Liberal Arts','Fine Arts','Engineering'] }
+  };
+  const KR_FAMILIES = ['김','이','박','최','정','강','조','윤','장','임'];
+  const KR_GIVEN = ['민준','서준','도윤','시우','주원','하준','지후','지호','현우','윤우','예준','유준','지우','서연','서윤','하윤','지유','윤서','지민','민서'];
+  const $ = sel => document.querySelector(sel);
+  const $$ = sel => Array.from(document.querySelectorAll(sel));
+  const fmtDate = d => d.toISOString().slice(0,10);
+
+  let state = { uni: universities.snu, photoDataUrl: null, verifyCode: null, id1:false, sig:null };
+
+  // —— UI Setup ——
+  function applyTheme() {
+    document.documentElement.style.setProperty('--accent', state.uni.colors.accent);
+    document.documentElement.style.setProperty('--accent-2', state.uni.colors.accent2);
+    document.documentElement.style.setProperty('--card', state.uni.colors.card);
+    $('#badge').textContent = state.uni.badge;
+    $('#logoMini').textContent = state.uni.short;
+    $('#uniKo').textContent = state.uni.uniKo;
+    $('#uniEn').textContent = state.uni.uniEn;
+    $('#wmText').textContent = state.uni.watermark;
+    $('#tagCampus').textContent = state.uni.campus;
+    const dl = $('#deptList'); dl.innerHTML = ''; state.uni.depts.forEach(d => { const o = document.createElement('option'); o.value = d; dl.appendChild(o); });
+  }
+  function buildTabs() { const tabs = $('#schoolTabs'); tabs.innerHTML = ''; Object.values(universities).forEach(u => { const b = document.createElement('button'); b.className = 'tab'; b.textContent = (u.key === 'snu' ? 'Seoul National University' : (u.key === 'mahe' ? 'Đại học MAHE' : 'Santa Fe College')); b.setAttribute('role','tab'); b.setAttribute('aria-selected', state.uni.key === u.key); b.addEventListener('click', () => { state.uni = u; applyTheme(); renderFromInputs(); $$('#schoolTabs .tab').forEach(x => x.setAttribute('aria-selected', x===b)); }); tabs.appendChild(b); }); }
+
+  // —— Helpers ——
+  function rand(arr){ return arr[Math.floor(Math.random()*arr.length)] }
+  function randInt(min,max){ return Math.floor(Math.random()*(max-min+1))+min }
+
+  // —— Randomizers ——
+  function makeRandom() {
+    const yNow = new Date().getFullYear();
+    const start = Math.random()<.5 ? yNow : yNow-1; const end = start + 4; const valid = `31/07/${end+1}`;
+    const name = `${rand(KR_FAMILIES)}${rand(KR_GIVEN)}`; const yob = randInt(yNow-28, yNow-18); const dob = new Date(yob, randInt(0,11), randInt(1,28)); const sid = `${start}${randInt(100000, 999999)}`; const dept = rand(state.uni.depts); const year = randInt(1,4);
+    $('#inpName').value = name; $('#inpDob').value = fmtDate(dob); $('#inpSid').value = sid; $('#inpDept').value = dept; $('#inpClass').value = `${dept} ${year}학년`; $('#inpCourse').value = `${start} - ${end}`; $('#inpValid').value = valid; $('#inpPhone').value = `010-${randInt(1000,9999)}-${randInt(1000,9999)}`; $('#inpEmail').value = '';
+    state.photoDataUrl = null; renderPhoto(); makeVerifyCode(); saveSnapshot(); renderFromInputs();
+  }
+
+  // —— Rendering ——
+  function renderPhoto(){ const box = $('#photoBox'); box.innerHTML = ''; if(state.photoDataUrl){ const img = new Image(); img.src = state.photoDataUrl; img.alt = 'Student Photo'; box.appendChild(img); } else { const ph = document.createElement('div'); ph.className='placeholder'; ph.innerHTML='Chưa có ảnh<br/>Tải ảnh ở panel trái'; box.appendChild(ph); } }
+  function computeSignature(){ const secret = $('#inpSecret')?.value?.trim(); if(!secret){ state.sig = null; return; } const payload = { uni: state.uni.key, name: $('#inpName').value, dob: $('#inpDob').value, sid: $('#inpSid').value, dept: $('#inpDept').value, cls: $('#inpClass').value, course: $('#inpCourse').value, valid: $('#inpValid').value, phone: $('#inpPhone').value, email: $('#inpEmail').value }; const json = JSON.stringify(payload); state.sig = sha256(json + '|' + secret); }
+  function updateBarcode(){ const sid = $('#inpSid').value || ''; const svg = document.querySelector('#barcode'); if(!svg) return; svg.innerHTML=''; if(sid.trim().length){ try { JsBarcode(svg, sid, {format:'CODE128', height:42, displayValue:false, margin:0}); } catch(e){} } }
+  function ensureQr(){
+    const node = document.getElementById('qrcode');
+    if(!node) return;
+    node.innerHTML = '';
+    // prefer lowest correction for capacity; fallback to 1 (L)
+    let level = 1;
+    try { level = (window.QRCode && QRCode.CorrectLevel && (QRCode.CorrectLevel.L ?? 1)) || 1; } catch(e){ level = 1; }
+    const text = buildQrText();
+    try {
+      new QRCode(node, { text, width: 92, height: 92, correctLevel: level });
+    } catch (e) {
+      console.error('QR init failed:', e);
+      const fallback = document.createElement('div');
+      fallback.style.cssText = 'font-size:10px;color:#222;padding:6px;text-align:center;';
+      fallback.textContent = 'QR lỗi. Kiểm tra console.';
+      node.appendChild(fallback);
+    }
+  }
+function renderFromInputs(){ $('#fName').textContent = $('#inpName').value || '—'; const dob = $('#inpDob').value; $('#fDob').textContent = dob ? new Date(dob).toLocaleDateString('vi-VN') : '—'; $('#fSid').textContent = $('#inpSid').value || '—'; $('#fDept').textContent = $('#inpDept').value || '—'; $('#fClass').textContent = $('#inpClass').value || '—'; $('#fCourse').textContent = $('#inpCourse').value || '—'; $('#fValid').textContent = $('#inpValid').value || '—'; $('#wm').style.display = $('#chkWatermark').checked ? 'grid' : 'none'; computeSignature(); updateBarcode(); ensureQr(); }
+
+  // —— Photo upload ——
+  $('#inpPhoto').addEventListener('change', (e)=>{ const f = e.target.files?.[0]; if(!f) return; const r = new FileReader(); r.onload = () => { state.photoDataUrl = r.result; renderPhoto(); saveSnapshot(); }; r.readAsDataURL(f); });
+
+  // —— QR / Verify ——
+  function buildPayload(){ return { uni: state.uni.key, name: $('#inpName').value, dob: $('#inpDob').value, sid: $('#inpSid').value, dept: $('#inpDept').value, cls: $('#inpClass').value, course: $('#inpCourse').value, valid: $('#inpValid').value, phone: $('#inpPhone').value, email: $('#inpEmail').value, code: state.verifyCode, sig: state.sig }; }
+  function buildQrText(){ const minimal = {code: state.verifyCode, sid: $('#inpSid').value, uni: state.uni.key}; if(state.sig) minimal.sig = state.sig; return JSON.stringify(minimal); }
+  function makeVerifyCode(){ const abc='ABCDEFGHJKLMNPQRSTUVWXYZ23456789'; let s = state.uni.short + '-'; for(let i=0;i<8;i++) s += abc[Math.floor(Math.random()*abc.length)]; state.verifyCode = s; $('#verifyCode').value = s; }
+  function saveSnapshot(){ const data = buildPayload(); try { localStorage.setItem('student-card:'+data.code, JSON.stringify(data)); } catch(e) { console.warn('localStorage error:', e); } }
+
+  // —— Actions ——
+  $('#btnRandom').addEventListener('click', makeRandom);
+  $('#btnClear').addEventListener('click', ()=>{ $$('#controls input[type="text"],#controls input[type="date"]').forEach(i=> i.value=''); state.photoDataUrl = null; renderPhoto(); renderFromInputs(); });
+  $('#chkWatermark').addEventListener('change', renderFromInputs);
+  $$('#controls input').forEach(inp=> inp.addEventListener('input', ()=>{ renderFromInputs(); saveSnapshot(); }));
+  $('#chkId1').addEventListener('change', ()=>{ state.id1 = $('#chkId1').checked; const shell = $('#cardShell'); shell.classList.toggle('id1', state.id1); });
+  $('#btnDownload').addEventListener('click', async ()=>{ const node = $('#cardShell'); const canvas = await html2canvas(node, { backgroundColor: null, scale: 2 }); const url = canvas.toDataURL('image/png'); const a = document.createElement('a'); a.href = url; a.download = `student-card-${Date.now()}.png`; a.click(); });
+  $('#btnCopy').addEventListener('click', async ()=>{ const data = buildPayload(); try { await navigator.clipboard.writeText(JSON.stringify(data, null, 2)); alert('Đã copy JSON vào clipboard'); } catch(e){ alert('Không copy được: '+e.message) } });
+  $('#btnPrint').addEventListener('click', ()=> window.print());
+  $('#btnVerify').addEventListener('click', ()=>{ $('#dlgVerify').showModal(); });
+  $('#btnCloseDlg').addEventListener('click', ()=> $('#dlgVerify').close());
+  $('#btnCopyCode').addEventListener('click', async ()=>{ try { await navigator.clipboard.writeText($('#verifyCode').value); alert('Đã copy code!'); } catch(e){ alert('Lỗi: '+e.message) } });
+  $('#btnCheck').addEventListener('click', ()=>{ const code = $('#inpCheck').value.trim(); const raw = localStorage.getItem('student-card:'+code); const out = $('#checkResult'); if(!raw){ out.innerHTML = '<b>Không tìm thấy</b> trong LocalStorage máy này.'; return; } const data = JSON.parse(raw); out.innerHTML = `✔️ Hợp lệ — <b>${data.name}</b> · ${data.dept} · SID ${data.sid} · Khoá ${data.course}`; });
+  $('#btnVerifySig').addEventListener('click', ()=>{ const jsonStr = $('#jsonCheck').value.trim(); const secret = $('#secretCheck').value.trim(); const out = $('#sigResult'); try { const data = JSON.parse(jsonStr); const {sig, ...rest} = data; if(!sig){ out.textContent = 'JSON không có trường sig'; return; } const recomputed = sha256(JSON.stringify(rest) + '|' + secret); out.textContent = (recomputed === sig) ? '✔️ Chữ ký hợp lệ' : '❌ Sai chữ ký'; } catch(e){ out.textContent = 'JSON không hợp lệ: '+e.message; } });
+
+  // —— Boot ——
+  // Ensure everything runs after external libs are ready
+  window.addEventListener('load', () => {
+    buildTabs();
+    applyTheme();
+    makeRandom();       // also calls renderFromInputs() -> ensureQr()
+    ensureQr();         // extra guard: draw QR immediately even if randomizer is modified
+    document.getElementById('year').textContent = new Date().getFullYear();
+  });
+</script>
+</body>
+</html>

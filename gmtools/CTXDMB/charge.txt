@@ -1,0 +1,15 @@
+diamond;Kim Nguyên Bảo
+gold,;Đồng
+food,;Lương thảo
+lumber,;Gỗ
+exp,;Kinh Nghiệm
+soul,;Tướng hồn
+tech,;Điểm Khoa kỹ
+horse;Bảo Mã
+wine;Mỹ Tửu
+book;Thư Họa
+medal;Khóa Phục
+jungong;Huyền Thiết
+duel;Xu Tôn Vinh
+juedou;Vé Chiêu Mộ
+fanpaibi;Xu Phiên Bài

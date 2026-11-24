@@ -1,0 +1,12 @@
+90003;Belly
+90004;Kim cương
+90005;Thể lực
+90006;Điểm kỹ năng
+90007;Vinh dự
+90008;Tiêu hao kim cương
+90009;Tính gộp lại nạp tiền mộng bảo cốc tệ
+90010;Đấu kỹ tệ
+90011;Học giả chứng minh
+90012;Chinh phục điểm
+90013;Đồng minh tệ
+90014;Tuần hành tệ

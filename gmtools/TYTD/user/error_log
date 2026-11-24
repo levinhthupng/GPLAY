@@ -1,0 +1,73 @@
+[05-Apr-2026 01:03:48 PRC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[05-Apr-2026 15:04:53 PRC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[05-Apr-2026 15:04:59 PRC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[05-Apr-2026 15:05:03 PRC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[05-Apr-2026 15:05:12 PRC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[05-Apr-2026 15:05:27 PRC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[05-Apr-2026 22:18:52 PRC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[05-Apr-2026 22:19:00 PRC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[05-Apr-2026 22:19:19 PRC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[05-Apr-2026 22:19:20 PRC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[09-Apr-2026 15:18:35 PRC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[09-Apr-2026 15:19:58 PRC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[09-Apr-2026 15:19:59 PRC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[09-Apr-2026 15:20:05 PRC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[09-Apr-2026 15:20:06 PRC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[09-Apr-2026 15:20:16 PRC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[09-Apr-2026 15:26:43 PRC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[09-Apr-2026 15:26:45 PRC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[12-Apr-2026 16:56:54 PRC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[12-Apr-2026 16:57:21 PRC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[12-Apr-2026 16:57:23 PRC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[12-Apr-2026 16:57:30 PRC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[12-Apr-2026 16:57:31 PRC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[12-Apr-2026 16:57:34 PRC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[12-Apr-2026 16:57:34 PRC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[12-Apr-2026 17:00:27 PRC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[12-Apr-2026 17:00:37 PRC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[12-Apr-2026 17:00:38 PRC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[12-Apr-2026 17:00:38 PRC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[12-Apr-2026 17:00:39 PRC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[12-Apr-2026 17:00:39 PRC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[12-Apr-2026 17:00:39 PRC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[12-Apr-2026 17:00:39 PRC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[12-Apr-2026 17:00:39 PRC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[12-Apr-2026 17:00:40 PRC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[12-Apr-2026 17:00:40 PRC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[12-Apr-2026 17:00:56 PRC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[12-Apr-2026 17:01:20 PRC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[12-Apr-2026 17:01:29 PRC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[12-Apr-2026 17:07:21 PRC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[12-Apr-2026 17:07:22 PRC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[12-Apr-2026 17:07:37 PRC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[12-Apr-2026 17:07:38 PRC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[12-Apr-2026 17:07:43 PRC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[12-Apr-2026 17:07:43 PRC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[12-Apr-2026 17:07:44 PRC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[12-Apr-2026 17:07:44 PRC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[12-Apr-2026 17:07:44 PRC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[12-Apr-2026 17:07:44 PRC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[12-Apr-2026 17:07:44 PRC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[12-Apr-2026 17:07:45 PRC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[12-Apr-2026 17:07:46 PRC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[12-Apr-2026 17:07:46 PRC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[12-Apr-2026 17:07:47 PRC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[12-Apr-2026 17:07:47 PRC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[14-Apr-2026 21:49:29 PRC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[18-Apr-2026 10:42:53 PRC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[23-Apr-2026 22:21:46 PRC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[23-Apr-2026 22:21:56 PRC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[23-Apr-2026 22:22:17 PRC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[23-Apr-2026 22:22:39 PRC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[23-Apr-2026 22:26:02 PRC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[26-Apr-2026 17:41:24 PRC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[28-Apr-2026 07:05:45 PRC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[28-Apr-2026 07:06:16 PRC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[28-Apr-2026 07:06:38 PRC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[28-Apr-2026 07:08:00 PRC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[28-Apr-2026 07:08:04 PRC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[28-Apr-2026 07:08:05 PRC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[28-Apr-2026 07:08:19 PRC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[28-Apr-2026 07:08:26 PRC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[28-Apr-2026 07:08:31 PRC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27
+[02-May-2026 17:04:54 PRC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/gknet12/public_html/gmtools/TYTD/user/gmquery.php on line 27

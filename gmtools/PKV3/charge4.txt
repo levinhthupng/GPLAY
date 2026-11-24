@@ -1,0 +1,52 @@
+3001; Hỏa chi thạch
+3002; Thủy chi thạch
+3003; Lôi chi thạch
+3004; Lá chi thạch
+3005; Nguyệt chi thạch
+3006; Nhật chi thạch
+3007; Quang chi thạch
+3008; Ám chi thạch
+3009; Thức tỉnh chi thạch
+3010; Băng chi thạch
+3011; Tiến Hóa Thạch
+3012; Lửa Tiến Hóa Thạch
+3013; Nước Tiến Hóa Thạch
+3014; Cỏ Tiến Hóa Thạch
+3015; Điện Tiến Hóa Thạch
+3016; Băng Tiến Hóa Thạch
+3017; Cách đấu Tiến Hóa Thạch
+3018; Độc Tiến Hóa Thạch
+3019; Mặt đất Tiến Hóa Thạch
+3020; Phi hành vào hoá thạch
+3021; Siêu năng Tiến Hóa Thạch
+3022; Trùng Tiến Hóa Thạch
+3023; Nham thạch Tiến Hóa Thạch
+3024; U linh Tiến Hóa Thạch
+3025; Rồng Tiến Hóa Thạch
+3026; Ác Tiến Hóa Thạch
+3027; Thép Tiến Hóa Thạch
+3028; Yêu tinh Tiến Hóa Thạch
+3029; Tử sắc tiến hóa chìa thạch
+3030; Màu cam tiến hóa chìa thạch
+3031; Màu đỏ tiến hóa chìa thạch
+3032; Không hoàn mỹ chìa thạch
+3033; Thần kỳ Tiến Hóa Thạch
+3101; Diệu con ếch hoa Tiến Hóa Thạch
+3102; Rồng phun lửa Tiến Hóa Thạch X
+3103; Rồng phun lửa Tiến Hóa Thạch Y
+3104; Thủy tiễn rùa Tiến Hóa Thạch
+3105; Lớn châm ong Tiến Hóa Thạch
+3106; Bạo tuyết vương Tiến Hóa Thạch
+3107; Cảnh quỷ Tiến Hóa Thạch
+3108; Hồ Tiến Hóa Thạch
+3109; Điện Long Tiến Hóa Thạch
+3110; Liệt không tòa Tiến Hóa Thạch
+3111; Cự kim quái Tiến Hóa Thạch
+3112; Cự chiểu quái Tiến Hóa Thạch
+3113; Cự kìm bọ ngựa Tiến Hóa Thạch
+3114; Chanay đóa Tiến Hóa Thạch
+3115; Ngải đường lôi đóa Tiến Hóa Thạch
+3116; Sóng sĩ nhưng nhiều kéo vào hoá thạch
+3117; Cố kéo nhiều Tiến Hóa Thạch
+3118; Đóng Âu thẻ Tiến Hóa Thạch
+3119; Tien hi Tiến Hóa Thạch'

@@ -1,0 +1,176 @@
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+<IfModule mod_headers.c>
+    Header set Cache-Control "no-cache, no-store, must-revalidate"
+    Header set Pragma "no-cache"
+    Header set Expires 0
+</IfModule>
+
+ErrorDocument 404 /ErrorDocument/404.php
+<IfModule mod_headers.c>
+    Header set Access-Control-Allow-Origin "*"
+    Header set Access-Control-Allow-Credentials "true"
+    Header set Access-Control-Allow-Methods "GET, POST, OPTIONS"
+    Header set Access-Control-Expose-Headers "X-Requested-With"
+</IfModule>
+#Ma Vuong H5
+RewriteRule ^gm-tools/ma-vuong-h5/(.*)$ /gmtools/MVH5/$1 [L]
+RewriteRule ^gm-tools/ma-vuong-h5$ /gmtools/MVH5/ [L]
+#Vua Thien Long
+RewriteRule ^gm-tools/vua-thien-long/(.*)$ /gmtools/VTL/$1 [L]
+RewriteRule ^gm-tools/vua-thien-long$ /gmtools/VTL/ [L]
+#Meo Meo H5
+RewriteRule ^gm-tools/meo-meo-h5/(.*)$ /gmtools/MMH5/$1 [L]
+RewriteRule ^gm-tools/meo-meo-h5$ /gmtools/MMH5/ [L]
+#Công Thành Xưng Đế H5
+RewriteRule ^gm-tools/cong-thanh-xung-de-h5/(.*)$ /gmtools/CTXDH5/$1 [L]
+RewriteRule ^gm-tools/cong-thanh-xung-de-h5$ /gmtools/CTXDH5/ [L]
+#Công Thành Xưng Đế
+RewriteRule ^gm-tools/cong-thanh-xung-de/(.*)$ /gmtools/CTXDMB/$1 [L]
+RewriteRule ^gm-tools/cong-thanh-xung-de$ /gmtools/CTXDMB/ [L]
+#NThần Ma 2D
+RewriteRule ^gm-tools/than-ma-2d/(.*)$ /gmtools/TM2D/$1 [L]
+RewriteRule ^gm-tools/than-ma-2d$ /gmtools/TM2D/ [L]
+#Nhất Kiếm Giang Hồ
+RewriteRule ^gm-tools/nhat-kiem-giang-ho/(.*)$ /gmtools/NKGH/$1 [L]
+RewriteRule ^gm-tools/nhat-kiem-giang-ho$ /gmtools/NKGH/ [L]
+#Âm Dương Sư H5
+RewriteRule ^gm-tools/am-duong-su-h5/(.*)$ /gmtools/ADSH5/$1 [L]
+RewriteRule ^gm-tools/am-duong-su-h5$ /gmtools/ADSH5/ [L]
+#Kỷ Nguyên Thái Cổ
+RewriteRule ^gm-tools/ky-nguyen-thai-co/(.*)$ /gmtools/KNTC/$1 [L]
+RewriteRule ^gm-tools/ky-nguyen-thai-co$ /gmtools/KNTC/ [L]
+#Pocket Incoming V3
+RewriteRule ^gm-tools/pocket-incoming-v3/(.*)$ /gmtools/PKV3/$1 [L]
+RewriteRule ^gm-tools/pocket-incoming-v3$ /gmtools/PKV3/ [L]
+#Hải Tặc AFK
+RewriteRule ^gm-tools/hai-tac-afk/(.*)$ /gmtools/HTAFK/$1 [L]
+RewriteRule ^gm-tools/hai-tac-afk$ /gmtools/HTAFK/ [L]
+#Tiểu Yêu Tầm Đạo
+RewriteRule ^gm-tools/tieu-yeu-tam-dao/(.*)$ /gmtools/TYTD/$1 [L]
+RewriteRule ^gm-tools/tieu-yeu-tam-dao$ /gmtools/TYTD/ [L]
+#Tam Quốc Legend
+RewriteRule ^gm-tools/thien-kiem-chi-van/(.*)$ /gmtools/TKCV/$1 [L]
+RewriteRule ^gm-tools/thien-kiem-chi-van$ /gmtools/TKCV/ [L]
+#Tam Quốc Legend
+RewriteRule ^gm-tools/luyen-khi-h5/(.*)$ /gmtools/LKH5/$1 [L]
+RewriteRule ^gm-tools/luyen-khi-h5$ /gmtools/LKH5/ [L]
+#Tam Quốc Legend
+RewriteRule ^gm-tools/tam-quoc-legend/(.*)$ /gmtools/3QLEGEND/$1 [L]
+RewriteRule ^gm-tools/tam-quoc-legend$ /gmtools/3QLEGEND/ [L]
+#Câu Cá H5
+RewriteRule ^gm-tools/cau-ca-h5/(.*)$ /gmtools/CAUCAH5/$1 [L]
+RewriteRule ^gm-tools/cau-ca-h5$ /gmtools/CAUCAH5/ [L]
+#Đại Hiệp Chạy D9i
+RewriteRule ^gm-tools/dai-hiep-chay-di/(.*)$ /gmtools/DHCD/$1 [L]
+RewriteRule ^gm-tools/dai-hiep-chay-di$ /gmtools/DHCD/ [L]
+#Tiên Kiếm Vấn Đạo
+RewriteRule ^gm-tools/tien-kiem-van-dao/(.*)$ /gmtools/TKVD/$1 [L]
+RewriteRule ^gm-tools/tien-kiem-van-dao$ /gmtools/TKVD/ [L]
+#Nghịch Kiếm 3D
+RewriteRule ^gm-tools/nghich-kiem-3d/(.*)$ /gmtools/NK3D/$1 [L]
+RewriteRule ^gm-tools/nghich-kiem-3d$ /gmtools/NK3D/ [L]
+#Tình Thiên Hạ
+RewriteRule ^gm-tools/tinh-thien-ha/(.*)$ /gmtools/TTH/$1 [L]
+RewriteRule ^gm-tools/tinh-thien-ha$ /gmtools/TTH/ [L]
+#3Q Soái Ca
+RewriteRule ^gm-tools/3q-soai-ca/(.*)$ /gmtools/3QSC/$1 [L]
+RewriteRule ^gm-tools/3q-soai-ca$ /gmtools/3QSC/ [L]
+#Hàng Long Thập Bát Chưởng
+RewriteRule ^gm-tools/hang-long-thap-bat-chuong/(.*)$ /gmtools/HLTBC/$1 [L]
+RewriteRule ^gm-tools/hang-long-thap-bat-chuong$ /gmtools/HLTBC/ [L]
+#Rồng Thần
+RewriteRule ^gm-tools/rong-than/(.*)$ /gmtools/RONGTHAN/$1 [L]
+RewriteRule ^gm-tools/rong-than$ /gmtools/RONGTHAN/ [L]
+#Cửu Châu H5
+RewriteRule ^gm-tools/cuu-chau-h5/(.*)$ /gmtools/CUUCHAUH5/$1 [L]
+RewriteRule ^gm-tools/cuu-chau-h5$ /gmtools/CUUCHAUH5/ [L]
+#The God H5
+RewriteRule ^gm-tools/the-god-h5/(.*)$ /gmtools/TGH5/$1 [L]
+RewriteRule ^gm-tools/the-god-h5$ /gmtools/TGH5/ [L]
+#Thiên Địa Quyết
+RewriteRule ^gm-tools/thien-dia-quyet/(.*)$ /gmtools/TDQ/$1 [L]
+RewriteRule ^gm-tools/thien-dia-quyet$ /gmtools/TDQ/ [L]
+#Bách Chiến Truyền Kỳ
+RewriteRule ^gm-tools/bach-chien-truyen-ky/(.*)$ /gmtools/BCTK/$1 [L]
+RewriteRule ^gm-tools/bach-chien-truyen-ky$ /gmtools/BCTK/ [L]
+#Mu H5
+RewriteRule ^gm-tools/mu-h5/(.*)$ /gmtools/MUH5/$1 [L]
+RewriteRule ^gm-tools/mu-h5$ /gmtools/MUH5/ [L]
+#Ma Hoang Ky H5
+RewriteRule ^gm-tools/man-hoang-ky-h5/(.*)$ /gmtools/MHK/$1 [L]
+RewriteRule ^gm-tools/man-hoang-ky-h5$ /gmtools/MHK/ [L]
+#Bộ Lạc H5
+RewriteRule ^gm-tools/bo-lac-h5/(.*)$ /gmtools/BOLACH5/$1 [L]
+RewriteRule ^gm-tools/bo-lac-h5$ /gmtools/BOLACH5/ [L]
+#Kiếm Hiệp Tình
+RewriteRule ^gm-tools/kiem-hiep-tinh/(.*)$ /gmtools/KHT/$1 [L]
+RewriteRule ^gm-tools/kiem-hiep-tinh$ /gmtools/KHT/ [L]
+#Đấu La Đại Lục
+RewriteRule ^gm-tools/dau-la-dai-luc/(.*)$ /gmtools/DLDL/$1 [L]
+RewriteRule ^gm-tools/dau-la-dai-luc$ /gmtools/DLDL/ [L]
+#3Q Quần Anh Truyện
+RewriteRule ^gm-tools/3q-quan-anh-truyen/(.*)$ /gmtools/3QQAT/$1 [L]
+RewriteRule ^gm-tools/3q-quan-anh-truyen$ /gmtools/3QQAT/ [L]
+#3Q Đế Vương
+RewriteRule ^gm-tools/3q-de-vuong/(.*)$ /gmtools/3QDV/$1 [L]
+RewriteRule ^gm-tools/3q-de-vuong$ /gmtools/3QDV/ [L]
+
+#Xử lý Route CLIENT
+RewriteRule ^home/$ /index.php [L]
+RewriteRule ^login/$ /public/DangNhap.php [L]
+RewriteRule ^register/$ /public/DangKy.php [L]
+RewriteRule ^register/([A-Za-z0-9-]+) /public/DangKy.php?ref=$1 [L]
+RewriteRule ^forgot-password/$ /public/QuenMatKhau.php [L]
+RewriteRule ^reset-password/([A-Za-z0-9-]+) /public/ResetPassword.php?token=$1 [L]
+RewriteRule ^log-out/$ /dang-xuat.php [L]
+RewriteRule ^pay/card/$ /public/NapCard.php [L]
+RewriteRule ^pay/paypal/$ /public/paypal.php [L]
+RewriteRule ^pay/momo/$ /public/NapMomo.php [L]
+RewriteRule ^pay/bank/$ /public/NapBank.php [L]
+RewriteRule ^profile/$ /public/Profile.php [L]
+RewriteRule ^mua-tools$ /public/MuaTools.php [L]
+RewriteRule ^history/orders/$ /public/DanhSachDonHang.php [L]
+RewriteRule ^order/view/([A-Za-z0-9-]+) /public/XemDonHang.php?id=$1 [L]
+RewriteRule ^support/$ /public/DanhSachHoTro.php [L]
+RewriteRule ^support/([A-Za-z0-9-]+) /public/XemHoTro.php?id=$1 [L]
+RewriteRule ^download/([A-Za-z0-9-]+) /file/DownloadFile.php?token=$1 [L]
+RewriteRule ^giftcode/$ /public/Giftcode.php [L]
+RewriteRule ^discount/$ /public/discount.php [L]
+
+#Xử lý Route ADMIN
+
+
+#Xử lý nạp tiền
+RewriteRule ^recharge/([A-Za-z0-9-]+) /momo/index.php?module=client&action=$1 [L]
+#Xử lý Route COMMON
+RewriteRule ^common/([A-Za-z0-9-]+) /momo/index.php?module=common&action=$1 [L]
+<IfModule LiteSpeed>
+	RewriteEngine On
+	RewriteCond %{REMOTE_ADDR} ^42\.112\.150\.85$ [OR]
+	RewriteCond %{REMOTE_ADDR} ^1\.53\.95\.240$ [OR]
+	RewriteCond %{REMOTE_ADDR} ^42\.114\.0\.165$ [OR]
+	RewriteCond %{REMOTE_ADDR} ^1\.54\.234\.94$ [OR]
+	RewriteCond %{REMOTE_ADDR} ^113\.22\.228\.208$ [OR]
+	RewriteCond %{REMOTE_ADDR} ^42\.116\.47\.255$ [OR]
+	RewriteCond %{REMOTE_ADDR} ^118\.70\.85\.253$ [OR]
+	RewriteCond %{REMOTE_ADDR} ^1\.55\.143\.111$ [OR]
+	RewriteCond %{REMOTE_ADDR} ^113\.22\.228\.254$ [OR]
+	RewriteCond %{REMOTE_ADDR} ^1\.55\.143\.66$ [OR]
+	RewriteCond %{REMOTE_ADDR} ^42\.114\.0\.216$ [OR]
+	RewriteCond %{REMOTE_ADDR} ^118\.70\.85\.45$ [OR]
+	RewriteCond %{REMOTE_ADDR} ^42\.112\.150\.44$ [OR]
+	RewriteCond %{REMOTE_ADDR} ^118\.70\.85\.4$ [OR]
+	RewriteCond %{REMOTE_ADDR} ^1\.54\.234\.58$ [OR]
+	RewriteCond %{REMOTE_ADDR} ^1\.54\.225\.184$ [OR]
+	RewriteCond %{REMOTE_ADDR} ^58\.186\.209\.111$ [OR]
+	RewriteCond %{REMOTE_ADDR} ^118\.69\.89\.93$ [OR]
+	RewriteCond %{REMOTE_ADDR} ^42\.118\.140\.166$ [OR]
+	RewriteCond %{REMOTE_ADDR} ^118\.69\.98\.163$ [OR]
+	RewriteCond %{REMOTE_ADDR} ^58\.186\.209\.108$ [OR]
+	RewriteCond %{REMOTE_ADDR} ^1\.53\.95\.209$ [OR]
+	RewriteCond %{REMOTE_ADDR} ^1\.54\.225\.174$ [OR]
+	RewriteCond %{REMOTE_ADDR} ^1\.2\.3\.4$
+	RewriteRule .* - [E=verifycaptcha:drop]
+</IfModule>

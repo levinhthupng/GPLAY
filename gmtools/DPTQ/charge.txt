@@ -1,0 +1,50 @@
+1010;60 Long Ngọc
+1020;300 Long Ngọc
+1030;680 Long Ngọc
+1035;980 Long Ngọc
+1040;1280 Long Ngọc
+1045;1980 Long Ngọc
+1050;3280 Long Ngọc
+1060;6480 Long Ngọc
+2010;Thẻ Tháng Đặc Huệ
+2020;Thẻ Tháng Tôn Hưởng
+3010;Quỹ Đầu Tư
+3020;Quỹ Đầu Tư 2
+4010;Mỗi Ngày Ưu Huệ Lễ Bao
+4020;Mỗi Ngày Đặc Huệ Lễ Bao
+4030;Mỗi Ngày Cự Huệ Lễ Bao
+4040;Mỗi Ngày Lễ Bao 7 Ngày
+4050;Mỗi Ngày Lễ Bao 7 Ngày
+7010;Điển Tàng Chiến Lệnh
+8010;Kim Tương Ngọc Quỹ
+10010;Gói Giảm Giá
+10020;Gói Giảm Giá
+10030;Gói Giảm Giá
+10040;Gói Giảm Giá
+10050;Gói Giảm Giá
+10060;Gói Giảm Giá
+10070;Gói Giảm Giá
+10080;Gói Giảm Giá
+10090;Gói Giảm Giá
+10100;Gói Giảm Giá
+10110;Gói Giảm Giá
+10120;Gói Giảm Giá
+10130;Gói Giảm Giá
+10140;Gói Giảm Giá
+1070;12980 Long Ngọc
+1080;19980 Long Ngọc
+1090;32980 Long Ngọc
+1100;64980 Long Ngọc
+8020;Kim Lan Chi Yêu 1
+8030;Kim Lan Chi Yêu 2
+8040;Độc Hành Trường Lộ
+9010;Bình Bộ Thanh Vân
+9020;Đại Triển Hồng Đồ
+9030;Bôn Dật Tuyệt Trần
+9040;Nhất Nhật Thiên Lý
+9050;Thiên Huyền Chi Bảo
+9060;Thần Linh Chi Bảo
+9110;Kim Ngân Mãn Quán
+9120;Bồn Mãn Bát Mãn
+12010;Cao Cấp Chiến Lệnh
+12020;Tôn Hưởng Chiến Lệnh

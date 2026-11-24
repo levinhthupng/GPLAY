@@ -1,0 +1,3128 @@
+0_3|Đồng
+0_4|KNB
+0_5|Chân Khí
+0_6|EXP Nhân Vật
+0_8|Điểm Quần Hào Phổ
+0_9|Điểm VIP
+0_10|Điểm Hiệp Nghĩa
+0_11|Công Hội Cống Hiến
+0_12|Điểm Chiêu Mộ
+0_13|Đản Hoa
+0_14|Tinh Lộ
+0_15|Vô Lượng Sơn Tinh Sổ
+0_16|Duyệt Lịch
+0_17|Điểm Sát Lục
+0_21|Hổ Lệnh
+0_22|Long Lệnh
+0_30|Tuệ Tâm Tệ
+0_31|Tru Tâm Tệ
+0_33|Danh Vọng
+1_1|Hàn thiết cự kiếm
+1_2|Chân Vũ kiếm
+1_3|Trảm Long Đao
+1_4|Hạo Thiên kiếm
+1_5|Trục chó bổng
+1_6|Kim Long kiếm
+1_7|Tú hoa châm
+1_8|Băng Nguyệt kỳ đao
+1_9|Huyền thiết chủy thủ
+1_10|Tây Dương súng kíp
+1_11|Việt Vương kiếm
+1_12|Long phượng đao
+1_13|Ngưng bích kiếm
+1_14|Cự ác cắt
+1_15|Máu vỏ
+1_16|Anh hùng trường kiếm
+1_17|Hồng nhan đoản kiếm
+1_18|Ngũ độc trượng
+1_19|Đuôi bọ cạp roi
+1_20|Song đao
+1_21|Trúc bổng
+1_22|Tụ tiễn
+1_23|Kiếm sắt
+1_24|Ô Kim bảo giáp
+1_25|Tơ vàng sau lưng
+1_26|Tơ vàng bảo giáp
+1_27|Lòng son giáp
+1_28|Võ Đang quần áo đen
+1_29|Núi tuyết áo bông
+1_30|Bảo trì trạng thái c
+1_31|Phi thiên Vân Thường
+1_32|Tướng quân khải
+1_33|Mật tông pháp bào
+1_34|Thiếu Lâm tăng y
+1_35|Giang hồ cát áo
+1_36|Da cá sấu hộ giáp
+1_37|Tịnh Minh Đạo bào
+1_38|Nga Mi Truy Y
+1_39|Áo da
+1_40|Trăm kết áo
+1_41|Y phục dạ hành
+1_42|Áo vải
+1_43|Huyền thiết eo vòng
+1_44|Thần chiếu dây lụa
+1_45|Vô lượng Ngọc Hoàn
+1_46|Tiêu dao vũ câm
+1_47|Đầu thú hộ eo
+1_48|Bảo thạch eo vòng
+1_49|Mạn Đà vòng hoa
+1_50|Mạn Đà đai lưng
+1_51|Phỉ thúy eo vòng
+1_52|Đồng thau đai lưng
+1_53|Hiệp sĩ mang
+1_54|Tơ vàng đai lưng
+1_55|Da hổ mang
+1_56|Da đai lưng
+1_57|Tơ lụa mang
+1_58|Trăm kết câm
+1_59|Ngũ long khiến vòng
+1_60|Cực lạc chiếc nhẫn
+1_61|Phỉ thúy chiếc nhẫn
+1_62|Thánh hỏa giới
+1_63|Hàng Long Giới
+1_64|Băng tằm giới
+1_65|Thanh phong giới
+1_66|Hàn Ngọc giới
+1_67|Đại vương giới
+1_68|Huyền thiết giới
+1_69|Hương phi giới
+1_70|Thần mộc giới
+1_71|Ngũ độc chiếc nhẫn
+1_72|Thiết nhẫn
+1_73|Nhẫn bạc
+1_74|Nhẫn vàng
+1_75|Lăng Ba Phi Yến
+1_76|Đại Yên hoàng giày
+1_77|Bậc thang mây bảo gi
+1_78|Sấm Vương giày chiến
+1_79|Thần hành giày
+1_80|Phi thiên giày
+1_81|Cỏ lau giày
+1_82|Thủy thượng phiêu
+1_83|Võ tăng giày
+1_84|Giày thêu
+1_85|Truy luyến
+1_86|Mang giày
+1_87|Giày vải
+1_88|Da hươu giày
+1_89|Guốc gỗ
+1_90|Thúy Vũ Hoàng Sam
+1_91|Bích ngọc tiêu
+1_92|Bước mây giày
+1_93|Bàn rồng giày
+1_94|Hạc vũ y
+1_95|Long phượng vòng
+1_96|Bồ Đề cà sa
+1_97|Ngọc Hoàng mang
+1_98|Không bụi kiếm
+1_99|Chín diệu giày chiến
+1_100|Linh lung khải
+1_101|Phượng Linh mang
+1_102|Mị ảnh giày
+1_103|Lạnh xuyên mang
+1_104|Dệt kim mang
+1_105|U dạ giới
+1_106|Tua cờ mang
+1_107|Từng ngày giày
+1_108|Phục ma trượng
+1_109|Thiên Cương phục
+1_110|Ngạo thiên kiếm
+1_111|Ngạo thiên giáp
+1_112|Ngạo thiên mang
+1_113|Ngạo thiên giới
+1_114|Ngạo thiên giày
+1_115|Long ngâm kiếm
+1_116|Long ngâm giáp
+1_117|Long ngâm mang
+1_118|Long ngâm giới
+1_119|Long ngâm giày
+1_120|Tròn năm khánh vũ kh
+1_121|Tròn năm khánh áo
+1_122|Tròn năm khánh đai l
+1_123|Tròn năm khánh chiế
+1_124|Tròn năm khánh giày
+2_1001|Cấp một khí huyết th
+2_1002|Cấp hai khí huyết th
+2_1003|Cấp ba khí huyết thạ
+2_1004|Cấp bốn khí huyết th
+2_1005|Cấp năm khí huyết th
+2_1006|Cấp sáu khí huyết th
+2_1007|Cấp bảy khí huyết th
+2_1008|Cấp tám khí huyết th
+2_1009|Cấp chín khí huyết t
+2_1010|Mười cấp khí huyết t
+2_1011|Cấp mười một khí huy
+2_1012|12 cấp khí huyết thạ
+2_1013|Mười ba cấp khí huyế
+2_1014|Mười bốn cấp khí huy
+2_1015|Cấp mười lăm khí huy
+2_1016|Cấp một vũ lực thạch
+2_1017|Cấp hai vũ lực thạch
+2_1018|Cấp ba vũ lực thạch
+2_1019|Cấp bốn vũ lực thạch
+2_1020|Cấp năm vũ lực thạch
+2_1021|Cấp sáu vũ lực thạch
+2_1022|Cấp bảy vũ lực thạch
+2_1023|Cấp tám vũ lực thạch
+2_1024|Cấp chín vũ lực thạc
+2_1025|Mười cấp vũ lực thạc
+2_1026|Cấp mười một vũ lực
+2_1027|12 cấp vũ lực thạch
+2_1028|Mười ba cấp vũ lực t
+2_1029|Mười bốn cấp vũ lực
+2_1030|Cấp mười lăm vũ lực
+2_1031|Cấp một nội lực thạc
+2_1032|Cấp hai nội lực thạc
+2_1033|Cấp ba nội lực thạch
+2_1034|Cấp bốn nội lực thạc
+2_1035|Cấp năm nội lực thạc
+2_1036|Cấp sáu nội lực thạc
+2_1037|Cấp bảy nội lực thạc
+2_1038|Cấp tám nội lực thạc
+2_1039|Cấp chín nội lực thạ
+2_1040|Mười cấp nội lực thạ
+2_1041|Cấp mười một nội lực
+2_1042|12 cấp nội lực thạch
+2_1043|Mười ba cấp nội lực
+2_1044|Mười bốn cấp nội lực
+2_1045|Cấp mười lăm nội lực
+2_1046|Cấp một phòng ngự th
+2_1047|Cấp hai phòng ngự th
+2_1048|Cấp ba phòng ngự thạ
+2_1049|Cấp bốn phòng ngự th
+2_1050|Cấp năm phòng ngự th
+2_1051|Cấp sáu phòng ngự th
+2_1052|Cấp bảy phòng ngự th
+2_1053|Cấp tám phòng ngự th
+2_1054|Cấp chín phòng ngự t
+2_1055|Mười cấp phòng ngự t
+2_1056|Cấp mười một phòng n
+2_1057|12 cấp phòng ngự thạ
+2_1058|Mười ba cấp phòng ng
+2_1059|Mười bốn cấp phòng n
+2_1060|Cấp mười lăm phòng n
+2_1061|Cấp một hỏa công thạ
+2_1062|Cấp hai hỏa công thạ
+2_1063|Cấp ba hỏa công thạc
+2_1064|Cấp bốn hỏa công thạ
+2_1065|Cấp năm hỏa công thạ
+2_1066|Cấp sáu hỏa công thạ
+2_1067|Cấp bảy hỏa công thạ
+2_1068|Cấp tám hỏa công thạ
+2_1069|Cấp chín hỏa công th
+2_1070|Mười cấp hỏa công th
+2_1071|Cấp mười một hỏa côn
+2_1072|12 cấp hỏa công thạc
+2_1073|Mười ba cấp hỏa công
+2_1074|Mười bốn cấp hỏa côn
+2_1075|Cấp mười lăm hỏa côn
+2_1076|Cấp một băng công th
+2_1077|Cấp hai băng công th
+2_1078|Cấp ba băng công thạ
+2_1079|Cấp bốn băng công th
+2_1080|Cấp năm băng công th
+2_1081|Cấp sáu băng công th
+2_1082|Cấp bảy băng công th
+2_1083|Cấp tám băng công th
+2_1084|Cấp chín băng công t
+2_1085|Mười cấp băng công t
+2_1086|Cấp mười một băng cô
+2_1087|12 cấp băng công thạ
+2_1088|Mười ba cấp băng côn
+2_1089|Mười bốn cấp băng cô
+2_1090|Cấp mười lăm băng cô
+2_1091|Cấp một độc công thạ
+2_1092|Cấp hai độc công thạ
+2_1093|Cấp ba độc công thạc
+2_1094|Cấp bốn độc công thạ
+2_1095|Cấp năm độc công thạ
+2_1096|Cấp sáu độc công thạ
+2_1097|Cấp bảy độc công thạ
+2_1098|Cấp tám độc công thạ
+2_1099|Cấp chín độc công th
+2_1100|Mười cấp độc công th
+2_1101|Cấp mười một độc côn
+2_1102|12 cấp độc công thạc
+2_1103|Mười ba cấp độc công
+2_1104|Mười bốn cấp độc côn
+2_1105|Cấp mười lăm độc côn
+2_1106|Cấp một hỏa kháng th
+2_1107|Cấp hai hỏa kháng th
+2_1108|Cấp ba hỏa kháng thạ
+2_1109|Cấp bốn hỏa kháng th
+2_1110|Cấp năm hỏa kháng th
+2_1111|Cấp sáu hỏa kháng th
+2_1112|Cấp bảy hỏa kháng th
+2_1113|Cấp tám hỏa kháng th
+2_1114|Cấp chín hỏa kháng t
+2_1115|Mười cấp hỏa kháng t
+2_1116|Cấp mười một hỏa khá
+2_1117|12 cấp hỏa kháng thạ
+2_1118|Mười ba cấp hỏa khán
+2_1119|Mười bốn cấp hỏa khá
+2_1120|Cấp mười lăm hỏa khá
+2_1121|Cấp một băng kháng t
+2_1122|Cấp hai băng kháng t
+2_1123|Cấp ba băng kháng th
+2_1124|Cấp bốn băng kháng t
+2_1125|Cấp năm băng kháng t
+2_1126|Cấp sáu băng kháng t
+2_1127|Cấp bảy băng kháng t
+2_1128|Cấp tám băng kháng t
+2_1129|Cấp chín băng kháng
+2_1130|Mười cấp băng kháng
+2_1131|Cấp mười một băng kh
+2_1132|12 cấp băng kháng th
+2_1133|Mười ba cấp băng khá
+2_1134|Mười bốn cấp băng kh
+2_1135|Cấp mười lăm băng kh
+2_1136|Cấp một độc kháng th
+2_1137|Cấp hai độc kháng th
+2_1138|Cấp ba độc kháng thạ
+2_1139|Cấp bốn độc kháng th
+2_1140|Cấp năm độc kháng th
+2_1141|Cấp sáu độc kháng th
+2_1142|Cấp bảy độc kháng th
+2_1143|Cấp tám độc kháng th
+2_1144|Cấp chín độc kháng t
+2_1145|Mười cấp độc kháng t
+2_1146|Cấp mười một độc khá
+2_1147|12 cấp độc kháng thạ
+2_1148|Mười ba cấp độc khán
+2_1149|Mười bốn cấp độc khá
+2_1150|Cấp mười lăm độc khá
+2_1151|Cấp một bạo kích thạ
+2_1152|Cấp hai bạo kích thạ
+2_1153|Cấp ba bạo kích thạc
+2_1154|Cấp bốn bạo kích thạ
+2_1155|Cấp năm bạo kích thạ
+2_1156|Cấp sáu bạo kích thạ
+2_1157|Cấp bảy bạo kích thạ
+2_1158|Cấp tám bạo kích thạ
+2_1159|Cấp chín bạo kích th
+2_1160|Mười cấp bạo kích th
+2_1161|Cấp mười một bạo kíc
+2_1162|12 cấp bạo kích thạc
+2_1163|Mười ba cấp bạo kích
+2_1164|Mười bốn cấp bạo kíc
+2_1165|Cấp mười lăm bạo kíc
+2_1166|Cấp một kháng Bạo Th
+2_1167|Cấp hai kháng Bạo Th
+2_1168|Cấp ba kháng Bạo Thạ
+2_1169|Cấp bốn kháng Bạo Th
+2_1170|Cấp năm kháng Bạo Th
+2_1171|Cấp sáu kháng Bạo Th
+2_1172|Cấp bảy kháng Bạo Th
+2_1173|Cấp tám kháng Bạo Th
+2_1174|Cấp chín kháng Bạo T
+2_1175|Mười cấp kháng Bạo T
+2_1176|Cấp mười một kháng B
+2_1177|12 cấp kháng Bạo Thạ
+2_1178|Mười ba cấp kháng Bạ
+2_1179|Mười bốn cấp kháng B
+2_1180|Cấp mười lăm kháng B
+2_1181|Cấp một thân pháp th
+2_1182|Cấp hai thân pháp th
+2_1183|Cấp ba thân pháp thạ
+2_1184|Cấp bốn thân pháp th
+2_1185|Cấp năm thân pháp th
+2_1186|Cấp sáu thân pháp th
+2_1187|Cấp bảy thân pháp th
+2_1188|Cấp tám thân pháp th
+2_1189|Cấp chín thân pháp t
+2_1190|Mười cấp thân pháp t
+2_1191|Cấp mười một thân ph
+2_1192|12 cấp thân pháp thạ
+2_1193|Mười ba cấp thân phá
+2_1194|Mười bốn cấp thân ph
+2_1195|Cấp mười lăm thân ph
+2_1196|Cấp một trúng đích t
+2_1197|Cấp hai trúng đích t
+2_1198|Cấp ba trúng đích th
+2_1199|Cấp bốn trúng đích t
+2_1200|Cấp năm trúng đích t
+2_1201|Cấp sáu trúng đích t
+2_1202|Cấp bảy trúng đích t
+2_1203|Cấp tám trúng đích t
+2_1204|Cấp chín trúng đích
+2_1205|Mười cấp trúng đích
+2_1206|Cấp mười một trúng đ
+2_1207|12 cấp trúng đích th
+2_1208|Mười ba cấp trúng đí
+2_1209|Mười bốn cấp trúng đ
+2_1210|Cấp mười lăm trúng đ
+2_1211|Cấp một né tránh thạ
+2_1212|Cấp hai né tránh thạ
+2_1213|Cấp ba né tránh thạc
+2_1214|Cấp bốn né tránh thạ
+2_1215|Cấp năm né tránh thạ
+2_1216|Cấp sáu né tránh thạ
+2_1217|Cấp bảy né tránh thạ
+2_1218|Cấp tám né tránh thạ
+2_1219|Cấp chín né tránh th
+2_1220|Mười cấp né tránh th
+2_1221|Cấp mười một né trán
+2_1222|12 cấp né tránh thạc
+2_1223|Mười ba cấp né tránh
+2_1224|Mười bốn cấp né trán
+2_1225|Cấp mười lăm né trán
+2_1301|16 cấp khí huyết thạ
+2_1302|Cấp 17 khí huyết thạ
+2_1303|Mười tám cấp khí huy
+2_1304|19 cấp khí huyết thạ
+2_1305|Hai mươi cấp khí huy
+2_1306|16 cấp vũ lực thạch
+2_1307|Cấp 17 vũ lực thạch
+2_1308|Mười tám cấp vũ lực
+2_1309|19 cấp vũ lực thạch
+2_1310|Hai mươi cấp vũ lực
+2_1311|16 cấp nội lực thạch
+2_1312|Cấp 17 nội lực thạch
+2_1313|Mười tám cấp nội lực
+2_1314|19 cấp nội lực thạch
+2_1315|Hai mươi cấp nội lực
+2_1316|16 cấp phòng ngự thạ
+2_1317|Cấp 17 phòng ngự thạ
+2_1318|Mười tám cấp phòng n
+2_1319|19 cấp phòng ngự thạ
+2_1320|Hai mươi cấp phòng n
+2_1321|16 cấp bạo kích thạc
+2_1322|Cấp 17 bạo kích thạc
+2_1323|Mười tám cấp bạo kíc
+2_1324|19 cấp bạo kích thạc
+2_1325|Hai mươi cấp bạo kíc
+2_1326|16 cấp kháng Bạo Thạ
+2_1327|Cấp 17 kháng Bạo Thạ
+2_1328|Mười tám cấp kháng B
+2_1329|19 cấp kháng Bạo Thạ
+2_1330|Hai mươi cấp kháng B
+2_1331|16 cấp thân pháp thạ
+2_1332|Cấp 17 thân pháp thạ
+2_1333|Mười tám cấp thân ph
+2_1334|19 cấp thân pháp thạ
+2_1335|Hai mươi cấp thân ph
+2_1336|16 cấp trúng đích th
+2_1337|Cấp 17 trúng đích th
+2_1338|Mười tám cấp trúng đ
+2_1339|19 cấp trúng đích th
+2_1340|Hai mươi cấp trúng đ
+2_1341|16 cấp né tránh thạc
+2_1342|Cấp 17 né tránh thạc
+2_1343|Mười tám cấp né trán
+2_1344|19 cấp né tránh thạc
+2_1345|Hai mươi cấp né trán
+7_2000|Nhân vật chính hiệp
+7_2001|Kiều bang chủ hiệp h
+7_2002|Đoàn công tử hiệp hồ
+7_2003|Mộ Dung công tử hiệp
+7_2004|Chu nhi hiệp hồn
+7_2005|Tử nhi hiệp hồn
+7_2006|Linh Thứu cung chủ
+7_2007|Hung thần ác sát hiệ
+7_2008|Đinh lão quái hiệp h
+7_2009|Đại Luân Minh Vương
+7_2010|Thiên Sơn mỗ mỗ hiệp
+7_2011|Tiêu dao chưởng môn
+7_2012|Quét rác thần tăng h
+7_2013|Thần tiên tỷ tỷ hiệp
+7_2014|Tội ác chồng chất hi
+7_2015|Việc ác bất tận hiệp
+7_2016|Cùng hung cực ác hiệ
+7_2017|Khô khốc pháp sư hiệ
+7_2018|Đầu sắt người hiệp h
+7_2019|Thu thuỷ hiệp hồn
+7_2020|Toàn đà chủ hiệp hồn
+7_2021|Uyển muội hiệp hồn
+7_2022|Đoàn vương gia hiệp
+7_2023|Tiêu phương xa hiệp
+7_2024|Linh muội hiệp hồn
+7_2025|Đao Hoàng phi hiệp h
+7_2026|Mã bang chủ hiệp hồn
+7_2027|Bao cũng không phải
+7_2028|Quảng Lăng hiệp hồn
+7_2029|Trân lung cờ chủ hi
+7_2030|Mộ Dung Bác xa hiệp
+7_2031|Tiết thần y hiệp hồn
+7_2032|Hồng Miên hiệp hồn
+7_2033|Đan thần hiệp hồn
+7_2034|Tinh trúc hiệp hồn
+7_2035|Đặng lão đại hiệp hồ
+7_2036|Phong lão tứ hiệp hồ
+7_2037|Thôi bàn tính hiệp h
+7_2038|Tả đạo trưởng hiệp h
+7_2039|Chung cốc chủ hiệp h
+7_2040|Thích khách áo đen h
+7_2041|Chung phu nhân hiệp
+7_2042|Vương phu nhân hiệp
+7_2043|Mã phu nhân hiệp hồn
+7_2044|Tây Hạ công chúa hiệ
+7_2045|Hoa mai kiếm hiệp hồ
+7_2046|Hoa lan kiếm hiệp hồ
+7_2047|Trúc hoa kiếm hiệp h
+7_2048|Hoa cúc kiếm hiệp hồ
+7_2049|Bích Nhi hiệp hồn
+7_2050|Bảo Định Đế hiệp hồn
+7_2051|Bản bởi vì đại sư hi
+7_2052|Bản quán đại sư hiệp
+7_2053|Bản tham gia đại sư
+7_2054|Bản tướng đại sư hiệ
+7_2055|Bạch trưởng lão hiệp
+7_2056|Ngô trưởng lão hiệp
+7_2057|Lữ trưởng lão hiệp h
+7_2058|Trần trưởng lão hiệp
+7_2059|Tống trưởng lão hiệp
+7_2060|Hề trưởng lão hiệp h
+7_2061|Đệ tử Cái Bang hiệp
+7_2062|Thiếu Lâm phương trư
+7_2063|Huyền Sanh hiệp hồn
+7_2064|Huyền Khổ hiệp hồn
+7_2065|Huyền Nan hiệp hồn
+7_2066|Huyền tịch hiệp hồn
+7_2068|Tuệ chữ song đao tăn
+7_2069|Tuệ chữ đại đao tăng
+7_2070|Tuệ chữ song chùy tă
+7_2071|Hư tự song đao tăng
+7_2072|Hư tự đại đao tăng h
+7_2073|Hư tự song chùy tăng
+7_2074|Song đao đồng nhân h
+7_2075|Đại đao đồng nhân hi
+7_2076|Song chùy đồng nhân
+7_2077|Kiếm Ma truyền nhân
+7_2078|Thánh giáo giáo chủ
+7_2079|Nga Mi chưởng môn hi
+7_2080|Bang chủ Cái bang hi
+7_2081|Tiểu Bảo hiệp hồn
+7_2082|Kha nhi hiệp hồn
+7_2083|Song Nhi hiệp hồn
+7_2084|Thần long phu nhân h
+7_2085|Phương cô nương hiệp
+7_2086|Tiểu quận chúa hiệp
+7_2087|Kiến Ninh công chúa
+7_2088|Tăng cô nương hiệp h
+7_2089|Viên công tử hiệp hồ
+7_2090|Kim kiếm lang quân h
+7_2091|Trường Bình công chú
+7_2092|Hà giáo chủ hiệp hồn
+7_2093|Thanh Thanh hiệp hồn
+7_2094|Phi hồ đại hiệp hiệp
+7_2095|Phi hồ công tử hiệp
+7_2096|Miêu đại hiệp hiệp h
+7_2097|Nhược Lan hiệp hồn
+7_2098|Áo tím hiệp hồn
+7_2099|Linh cô nương hiệp h
+7_2100|Phá thiên hiệp hồn
+7_2101|Bên trong ngọc hiệp
+7_2102|Đinh đương hiệp hồn
+7_2103|Hoa hồng đà chủ hiệp
+7_2104|Thanh Đồng hiệp hồn
+7_2105|Hồi Cương công chúa
+7_2106|Liên thành công tử h
+7_2107|Thích sư muội hiệp h
+7_2108|Thủy cô nương hiệp h
+7_2109|Quan nam hiệp hồn
+7_2110|Bên trong tuệ hiệp h
+7_2111|Văn tú hiệp hồn
+7_2112|An Tiểu Tuệ hiệp hồn
+7_2113|Tư Không bang chủ hi
+7_2114|Thần Nông giúp đệ tử
+7_2115|Lý Duyên Tông hiệp h
+7_2116|Nhất Phẩm Đường võ s
+7_2117|Mao đại vương hiệp h
+7_2118|Điền chưởng môn hiệp
+7_2119|Diêm đại phu hiệp hồ
+7_2120|Bảo thụ đại sư hiệp
+7_2121|Thiên Long môn đệ tử
+7_2122|Trường Lạc Cốc đệ tử
+7_2123|Trương Tam hiệp hồn
+7_2124|Lý Tứ hiệp hồn
+7_2125|Ma giáo đệ tử hiệp h
+7_2126|Bối đại phu hiệp hồn
+7_2127|Thị nữ hiệp hồn
+7_2128|Màu xanh tiểu xà hiệ
+7_2129|Kim sắc tiểu xà hiệp
+7_2130|Ngũ sắc tiểu xà hiệp
+7_2131|Ngũ Độc giáo đệ tử h
+7_2132|Sa trại chủ hiệp hồn
+7_2133|Trình bang chủ hiệp
+7_2134|Tề trưởng lão hiệp h
+7_2135|Gì Hồng Cô hiệp hồn
+7_2136|Người thần bí hiệp h
+7_2137|Ôn lão đại hiệp hồn
+7_2138|Ôn lão nhị hiệp hồn
+7_2139|Ôn lão tam hiệp hồn
+7_2140|Ôn lão tứ hiệp hồn
+7_2141|Ôn lão ngũ hiệp hồn
+7_2142|Thanh Thanh hiệp hồn
+7_2143|Quản gia hiệp hồn
+7_2144|Lão phu nhân hiệp hồ
+7_2145|Hoa cúc kiếm khách h
+7_2146|Độc thủ thạch hiệp h
+7_2147|Dược Vương Cốc đệ tử
+7_2148|Ngũ long đảo đệ tử h
+7_2149|Dược vương đại đệ tử
+7_2150|Dược vương Nhị đệ tử
+7_2151|Hồng giáo chủ hiệp h
+7_2155|Người thần bí hiệp h
+7_2156|Biển công công hiệp
+7_2157|Tiểu Huyền Tử hiệp h
+7_2158|Ngao Bái hiệp hồn
+7_2159|Trần Cận Nam hiệp hồ
+7_2160|Trịnh công tử hiệp h
+7_2161|Phùng Tích Phạm hiệp
+7_2162|Lạt Ma hiệp hồn
+7_2163|Thổ Phiên Phiên Tăng
+7_2164|Tang kết Lạt Ma hiệp
+7_2165|Cát ngươi đan hiệp h
+7_2166|Du lịch Đại trang ch
+7_2167|Ngọc bút Trang đệ tử
+7_2168|Tinh Tú phái đệ tử h
+7_2169|Hắc long sứ hiệp hồn
+7_2170|Thanh Long sử hiệp h
+7_2171|Hoàng long sử hiệp h
+7_2172|Xích Long làm hiệp h
+7_2173|Giả Thái hậu hiệp hồ
+7_2174|Thanh văn hiệp hồn
+7_2175|Mây kỳ hiệp hồn
+7_2176|U cốc môn khách hiệp
+7_2177|Thanh trúc giúp đệ t
+7_2178|Đại đao võ sĩ hiệp h
+7_2179|Trịnh gia quân hiệp
+7_2180|Trường thương võ sĩ
+7_2181|Đại Liêu võ sĩ hiệp
+7_2182|Phái Hoa Sơn đệ tử h
+7_2183|Phái Võ Đang đệ tử h
+7_2184|Tiêu Dao phái đệ tử
+7_2185|Vạn Kiếp cốc tùy tùn
+7_2186|Mộ Dung gia đinh hiệ
+7_2187|Thạch lương phái đệ
+7_2188|Giang hồ tay chân hi
+7_2189|Thích khách áo đen h
+7_2200|Du lịch Nhị trang ch
+7_2205|Tuệ chữ lót côn tăng
+7_2206|Hư tự bối côn tăng h
+7_2207|Trường côn đồng nhân
+7_2252|Ma giáo giáo chủ hiệ
+7_2253|Giang hồ thần côn hi
+7_2273|Tuyệt tình tiên tử h
+7_2274|Băng Hỏa đảo chủ hi
+7_2275|Linh xà phu nhân hiệ
+7_2276|Mày trắng giáo chủ h
+7_2277|Phi thiên Pháp Vương
+7_2278|Nhật nguyệt giáo chủ
+7_2279|Thiếu nữ áo trắng hi
+7_2280|Đại tiểu thư hiệp hồ
+7_2281|Cửu Dương giáo chủ h
+7_2282|Chu chưởng môn hiệp
+7_2283|Ba Tư Thánh nữ hiệp
+7_2284|Mông Cổ quận chúa hi
+7_2285|Quang minh tả sứ hiệ
+7_2286|Quang minh hữu sứ hi
+7_2287|Trương Tam Phong hiệ
+7_2288|Vô tình sư thái hiệp
+7_2289|Dương công tử hiệp h
+7_2290|Mông Cổ quốc sư hiệp
+7_2291|Lâm chưởng môn hiệp
+7_2292|Tinh nghịch lão nhân
+7_2293|Tương Dương thành ch
+7_2294|Trí kế hiệp nữ hiệp
+7_2295|Đảo hoang quái khách
+7_2296|Điên độc nhân hiệp h
+7_2297|Tên ăn mày thủ lĩnh
+7_2298|Tây Nam thánh tăng h
+7_2299|Trùng Dương chân nhâ
+7_2300|Doãn đạo sĩ hiệp hồn
+7_2301|Khâu đạo trưởng hiệp
+7_2302|Đan Dương Tử hiệp hồ
+7_2303|Dài thật tử hiệp hồn
+7_2304|Ngọc Dương tử hiệp h
+7_2305|Thái Cổ tử hiệp hồn
+7_2306|Trường Sinh Tử hiệp
+7_2307|Thanh tĩnh tán nhân
+7_2308|Đại sư huynh hiệp hồ
+7_2309|Linh San hiệp hồn
+7_2310|Hái hoa đạo tặc hiệp
+7_2311|Thiên Vương lão tử h
+7_2312|Kiếm Tông ẩn sĩ hiệp
+7_2313|Ngũ Nhạc chưởng môn
+7_2314|Ngũ Nhạc minh chủ hi
+7_2315|Kiếm Ma hiệp hồn
+7_2316|Đạt Ma hiệp hồn
+7_2317|Tiêu dao chân nhân h
+7_2318|Mộ Dung Tông chủ hiệ
+7_2319|Nữ tử áo vàng hiệp h
+7_2320|Tiền triều thái giám
+7_2321|A Thanh hiệp hồn
+7_2322|Phích lịch thủ hiệp
+7_2323|Nga Mi tổ sư hiệp hồ
+7_2324|U Minh hạc già hiệp
+7_2325|U Minh Lộc lão hiệp
+7_2326|Quang Minh giáo chủ
+7_2327|Chín sát cư sĩ hiệp
+7_2328|Nam Viện đại vương h
+7_2329|Quá huyền ảo công tử
+7_2330|Đại Lý Thái tổ hiệp
+7_2331|Thuốc Vương Truyền n
+7_2332|Huyết y lão tổ hiệp
+7_2333|Thần giáo giáo chủ h
+7_2334|Tây Thi hiệp hồn
+7_2335|Đấu rượu La Hán hiệp
+7_2337|Kim Xà lang quân hiệ
+7_2338|Thần kiếm tiên duyên
+7_2339|Ngưng hương công chú
+7_2340|Phúc uy tổ sư hiệp h
+7_2400|Bá vương hoàn hiệp h
+7_2401|Nakoruru hiệp hồn
+7_2500|Tửu quán hỏa kế hiệp
+7_2501|Tay chân hiệp hồn
+7_2502|Lưu trúc trang hiệp
+7_2503|Trương toàn tường hi
+7_2504|Từ trưởng lão hiệp
+7_2505|Trí Quang đại sư hiệ
+7_2506|Đàm công hiệp hồn
+7_2507|Đàm bà hiệp hồn
+7_2508|Triệu Tiền Tôn hiệp
+7_2509|Hách Liên Thiết thụ
+7_2510|Đệ tử Thiếu lâm hiệp
+7_2511|Kỳ lục hiệp hồn
+7_2512|Hướng Vọng Hải hiệp
+7_2513|Sơn trang tá điền hi
+7_2514|Phó nghĩ về hiệp hồn
+7_2515|Chử Vạn Lý hiệp hồn
+7_2516|Cổ Đốc Thành hiệp hồ
+7_2517|Khiết Đan kỵ binh hi
+7_2518|Mục quý phi hiệp hồn
+7_2519|Hoàn Nhan A Cốt Đả h
+7_2520|Gia Luật Hồng Cơ hiệ
+7_2521|Phái Vô Lượng đệ tử
+7_2522|Linh Thứu làm hiệp h
+7_2523|Thiên Long tự cao tă
+7_2524|Dư bà bà hiệp hồn
+7_2525|Đoạt mệnh ong hiệp h
+7_2526|Công Dã Càn hiệp hồn
+7_2527|Phạm Bách Linh hiệp
+7_2528|Ô lão đại hiệp hồn
+7_2529|Bất bình nói sĩ hiệp
+7_2530|Duyên cây hiệp hồn
+7_2531|Paolo tinh hiệp hồn
+7_2532|Triết la tinh hiệp h
+7_2533|Bên trên Thần Sơn ng
+7_2534|Tây Hạ võ sĩ hiệp hồ
+7_2535|Nhất Phẩm Đường thị
+7_2536|Khiết Đan hộ vệ hiệp
+7_2537|Tuệ chỉ toàn hòa thư
+7_2538|Băng tằm hiệp hồn
+7_2539|Tang động chủ hiệp h
+7_2540|Bưng động chủ hiệp h
+7_2541|Lê đảo chủ hiệp hồn
+7_2542|Trình Thanh Sương hi
+7_2543|Phù Mẫn Nghi hiệp hồ
+7_2544|Thổ Phiên tông tán v
+7_2545|Ngũ Độc giáo hộ pháp
+7_2546|Ngũ Độc giáo trưởng
+7_2547|Lý vụng đạo nhân hiệ
+7_2548|Thanh minh thiền sư
+7_2549|Ôn Nghi hiệp hồn
+7_2550|Ấm phương lộc hiệp h
+7_2551|Cẩm Y Vệ hiệp hồn
+7_2552|An Tiểu Tuệ hiệp hồn
+7_2553|Tôn trọng quân hiệp
+7_2554|Quy Tân Thụ hiệp hồn
+7_2555|Mục Nhân Thanh hiệp
+7_2556|Mộc Tang đạo trưởng
+7_2557|Đa Nhĩ Cổn hiệp hồn
+7_2558|Ngô quốc kiếm sĩ hiệ
+7_2559|Việt quốc kiếm sĩ hi
+7_2560|Văn Chủng hiệp hồn
+7_2561|Phạm Lãi hiệp hồn
+7_2562|Tiết nến hiệp hồn
+7_2563|Gió râu ria hiệp hồn
+7_2564|Vượn trắng hiệp hồn
+7_2565|Ngô quốc hoàng cung
+7_2566|Tây Thi hiệp hồn
+7_2567|Ngũ Tử Tư hiệp hồn
+7_2568|Ngô Vương phu chênh
+7_2569|Thiên địa sẽ đệ tử h
+7_2570|Ngự tiền thị vệ hiệp
+7_2571|Thụy Đống hiệp hồn
+7_2572|Liễu yến hiệp hồn
+7_2573|Từ Thiên xuyên hiệp
+7_2574|Phong Tế Trung hiệp
+7_2575|Trừng Quan hiệp hồn
+7_2576|Thiết Kiếm Môn nữ đệ
+7_2577|Cửu Nạn hiệp hồn
+7_2578|Minh châu hiệp hồn
+7_2579|Đi điên hiệp hồn
+7_2580|Còn có thể vui hiệp
+7_2581|Cảnh Tinh Trung hiệp
+7_2582|Ngô Ứng Hùng hiệp hồ
+7_2583|Ngô gia quân hiệp hồ
+7_2584|Tác trán đồ hiệp hồn
+7_2585|Đào Hồng Anh hiệp hồ
+7_2586|Lý Tự Thành hiệp hồn
+7_2587|Lớn thuận quân hiệp
+7_2588|Gầy đầu đà hiệp hồn
+7_2589|Đỏ nước bọt rắn hổ m
+7_2590|Bạch Long sứ hiệp hồ
+7_2591|Lục Cao Hiên hiệp hồ
+7_2592|Mới có đức hiệp hồn
+7_2593|Chu Khởi hiệp hồn
+7_2594|Tuần trọng anh hiệp
+7_2595|Đồng Triệu Hòa hiệp
+7_2596|Trương Triệu Trọng h
+7_2597|Trần Chính Đức hiệp
+7_2598|Hồng Hoa hội đệ tử h
+7_2599|Bạch Chấn Hiệp hồn
+7_2600|Phúc Khang An hiệp h
+7_2601|Càn Long hiệp hồn
+7_2602|Lớn điên đại sư hiệp
+7_2603|Lớn si đại sư hiệp h
+7_2604|Thiên Hồng thiền sư
+7_2605|Lục Phỉ Thanh hiệp h
+7_2606|Vô Trần đạo trưởng h
+7_2607|Hồi bộ chiến sĩ hiệp
+7_2608|Hoắc a y hiệp hồn
+7_2609|Mộc Trác Luân hiệp h
+7_2610|Giọt máu hiệp hồn
+7_2611|Tiêu sư hiệp hồn
+7_2612|Diêm thế khôi hiệp h
+7_2613|Diêm thế chương hiệp
+7_2614|Lý Nguyên Chỉ hiệp h
+7_2615|Hàn văn xông hiệp hồ
+7_2616|Thiết giáp quân hiệp
+7_2617|Chợt luân lớn hổ hiệ
+7_2618|Điềm báo huệ hiệp hồ
+7_2619|Hầu kiếm hiệp hồn
+7_2620|Triển Phi Hiệp hồn
+7_2621|Không tam hiệp hồn
+7_2622|A thêu hiệp hồn
+7_2623|Côn Luân phái đệ tử
+7_2624|Liêu trưởng lão hiệp
+7_2625|Tề trưởng lão hiệp h
+7_2626|Phong trưởng lão hiệ
+7_2627|Không bốn hiệp hồn
+7_2628|Tiểu Thúy hiệp hồn
+7_2629|Mai Phương Cô hiệp h
+7_2630|Meven hinh hiệp hồn
+7_2631|Bạch chưởng môn hiệp
+7_2632|Tư Đồ hoành hiệp hồn
+7_2633|Mùi gạo chủ hiệp hồ
+7_2634|Đại bi lão nhân hiệp
+7_2635|Cẩu tạp chủng hiệp h
+7_2636|Tạ khói khách hiệp h
+7_2637|Bạch Vạn Kiếm hiệp h
+7_2638|Mẫn Nhu hiệp hồn
+7_2639|Thạch Thanh hiệp hồn
+7_2640|Bát Quái Môn đệ tử h
+7_2641|Thương kiếm minh hiệ
+7_2642|Thương lão thái hiệp
+7_2643|Phạm bang chủ hiệp h
+7_2644|Bình a Tứ hiệp hồn
+7_2645|Hồ phu nhân hiệp hồn
+7_2646|Nhân viên phục vụ hi
+7_2647|Kiệu phu hiệp hồn
+7_2648|Độc Thủ Dược Vương h
+7_2649|Nam Lan hiệp hồn
+7_2650|Thương Bảo Chấn hiệp
+7_2651|Phượng Thiên Nam hiệ
+7_2652|Lưu hạc thật hiệp hồ
+7_2653|Dễ cát hiệp hồn
+7_2654|Tần nhịn chi hiệp hồ
+7_2655|Tuần Thiết Ưng hiệp
+7_2656|Không Thanh Tử đạo t
+7_2657|Đại trí thiền sư hiệ
+7_2658|Canh bái hiệp hồn
+7_2659|Hoàng Mi tăng hiệp h
+7_2660|Việt Vương Câu Tiễn
+7_2661|Vi xuân hoa hiệp hồn
+7_2662|Ba nhan hiệp hồn
+7_2663|Hành Si hiệp hồn
+7_2664|Ngô Tam Quế hiệp hồn
+7_2665|Lạc Băng hiệp hồn
+7_2666|Quan Đông tam ma hiệ
+7_2667|Mộc đảo chủ hiệp hồn
+7_2668|Long đảo chủ hiệp hồ
+7_2669|Chuông điềm báo văn
+7_2670|Chuông điềm báo anh
+7_2671|Trí chỉ riêng hòa th
+7_2672|Uông Kiếm thông hiệp
+7_2673|Tiết Thước hiệp hồn
+7_3000|Trăm năm mật rắn
+7_3001|Ngàn năm mật rắn
+7_3002|Núi tuyết dị mật rắn
+7_3003|Thần điêu kim xà gan
+3_5000|Nhân vật chính hồn m
+3_5001|Kiều bang chủ hồn má
+3_5006|Linh Thứu cung chủ
+3_5012|Quét rác thần tăng h
+3_5013|Thần tiên tỷ tỷ hồn
+3_5281|Cửu Dương giáo chủ h
+3_5289|Dương công tử hồn má
+3_5293|Tương Dương thành ch
+3_5294|Trí kế hiệp nữ hồn m
+3_5295|Đông Hải đảo chủ hồn
+3_5296|Tây Vực tiên sinh hồ
+3_5299|Trùng Dương chân nhâ
+3_5308|Đại sư huynh hồn máu
+3_30001|Rượu ngon
+3_30002|Loa nhỏ
+3_30003|Chiêu tài thần phù
+3_30004|Hoàng kim bảo rương
+3_30005|Bạch ngân bảo rương
+3_30006|Thanh đồng bảo rương
+3_30007|Hoàng kim chìa khoá
+3_30008|Bạch ngân chìa khoá
+3_30009|Thanh đồng chìa khoá
+3_30010|Vượt quan đồng khiến
+3_30011|Quần hào chiến lệnh
+3_30012|Thiên Cương tinh cờ
+3_30013|Thiếu Lâm thẻ tre
+3_30014|Vô Lượng sơn thạch
+3_30015|Sơ cấp truyền thừa đ
+3_30016|Trung cấp truyền thừ
+3_30017|Cao cấp truyền thừa
+3_30018|Vượt quan Kim Lệnh
+3_30019|Tẩy Tủy đan
+3_30020|Thông tâm hoàn
+3_30021|Tinh luyện thạch
+3_30022|Sơ cấp chân khí đan
+3_30023|Trung cấp chân khí đ
+3_30024|Cao cấp chân khí đan
+9_30025|Nguyên thạch
+9_30026|Thanh đồng
+9_30027|Huyền thiết
+9_30028|Tử Tinh
+9_30029|Bao cát
+9_30030|Người giả
+9_30031|Mai hoa thung
+9_30032|Đồng Nhân Trận
+10_30033|Đổi mới khiến
+10_30034|Thiết lập lại khiến
+10_30035|Càn quét khiến
+10_30036|Bích Loa Xuân
+10_30037|Trúc Diệp Thanh
+10_30038|Nữ Nhi Hồng
+3_30039|Tinh phẩm đột phá th
+10_30040|Khánh điển đèn lồng
+10_30041|Thưởng thiện khiến
+10_30042|Phạt ác khiến
+10_30043|Hiệp khách đột phá đ
+10_30044|Đại hiệp đột phá đan
+10_30045|Hào hiệp đột phá đan
+10_30046|Tông sư đột phá đan
+10_30047|Truyền thuyết đột ph
+10_30048|Thánh Hỏa lệnh
+10_30049|Bang phái bảo rương
+10_30050|Bang phái bảo rương
+10_30051|Trang bị tẩy luyện t
+10_30052|Tinh lộ
+10_30053|Phàm phẩm câu ngọc
+10_30054|Tinh phẩm câu ngọc
+10_30055|Chùy bạc tử
+10_30056|Kim chùy
+10_30057|Thánh
+10_30058|Sinh
+10_30059|Nhanh
+10_30060|Vui
+10_30061|Nguyên
+10_30062|Sáng
+10_30063|Nhanh
+10_30064|Vui
+10_30065|Đổi tên thẻ
+10_30066|Bang hội thay tên kh
+3_30067|Ăn cướp khiến
+10_30068|Cháo mồng 8 tháng ch
+10_30069|Bang phái càng cờ kh
+10_30070|Mới
+10_30071|Năm
+10_30072|Lớn
+10_30073|Cát
+10_30074|Đồng tâm kết
+10_30075|Chè trôi nước
+10_30076|Cao cấp tử kim thạch
+10_30077|Cao cấp cam luyện th
+3_30078|7 Nhật kinh nghiệm t
+10_30079|Chuyển đổi đan
+3_30080|Đạo cụ thẻ
+3_30081|Sơ cấp tông sư con r
+3_30082|Trung cấp tông sư co
+3_30083|Cao cấp tông sư con
+3_30084|Sơ cấp truyền thuyết
+3_30085|Trung cấp truyền thu
+3_30086|Cao cấp truyền thuyế
+10_30087|Cầu nguyện phù
+16_30088|Ảnh chân dung khung
+17_30089|Phế thạch
+10_30090|Cực phẩm đột phá phù
+10_30091|Tuyệt phẩm đột phá p
+10_30092|Cực phẩm thăng nặng
+10_30093|Tuyệt phẩm thăng nặn
+10_30094|Thiên thư thiết lập
+3_30095|Bản thiếu tàn trang
+3_30096|Bản sao tàn trang
+3_30097|Cả bộ tàn trang
+3_30098|Bản tốt nhất tàn tra
+3_30099|Sách quý tàn trang
+10_30100|Sơ cấp tàng bảo đồ
+10_30101|Trung cấp tàng bảo đ
+10_30102|Cao cấp tàng bảo đồ
+3_30103|Vượt phục loa
+10_30104|Cực phẩm Khí Hồn kìm
+10_30105|Tuyệt phẩm Khí Hồn k
+3_30106|Luận bàn khiến
+3_30107|Bánh bao
+10_30108|Hạnh Hoa rượu ngon
+3_30109|2 Nhật kinh nghiệm t
+3_30110|3 Nhật kinh nghiệm t
+10_30111|Lương phẩm đột phá p
+10_30112|Lương phẩm thăng nặn
+10_30113|Hào giản
+10_30114|Tước giản
+10_30115|Hoàng giản
+10_30116|Tinh phẩm tông sư lu
+10_30117|Tinh phẩm truyền thu
+10_30118|Cấp thấp Tu La đan
+10_30119|Trung cấp Tu La đan
+10_30120|Cao cấp Tu La đan
+10_30121|Anh hùng thiếp
+3_30122|Cấp thấp giang hồ
+3_30123|Cao cấp giang hồ ghi
+10_30124|Hồng tâm bảo thạch
+10_30125|Xá Lợi Tử
+10_30126|Thần thoại đột phá đ
+10_30127|Tinh phẩm thần thoại
+10_30128|Xích Viêm đan
+10_30129|Ngon miệng bánh chưn
+10_30130|Tinh thạch
+10_30131|Đá mài
+10_30132|Tuyền Cơ kính
+10_30133|Côn Luân ngọc
+10_30134|Hi Hoàng bướm
+7_30135|Tông sư vạn năng hiệ
+7_30136|Truyền thuyết vạn nă
+9_30137|Luyện ngân
+9_30138|Xích Kim
+10_30139|Kim Diện Phật
+10_30140|Lâm thời anh hùng th
+9_30141|Phàm phẩm phụ ma thạ
+9_30142|Lương phẩm phụ ma th
+9_30143|Tinh phẩm phụ ma thạ
+9_30144|Cực phẩm phụ ma thạc
+9_30145|Tuyệt phẩm phụ ma th
+10_30146|Cực phẩm thăng giai
+10_30147|Tuyệt phẩm thăng gia
+10_30148|Huyền thiết khiến
+18_30149|Du mộc
+18_30150|Gỗ thông
+18_30151|Gỗ hoa lê
+18_30152|Gỗ tử đàn
+3_30153|Phong thuỷ la bàn
+10_30154|Olympic kim bài
+10_30155|Lạnh buốt quả dừa
+10_30156|Rắn hổ mang Bảo huyế
+3_30157|Ác mộng Hồn thạch
+10_30158|Song sinh câu ngọc
+21_30159|Phàm phẩm Ngũ Hành t
+21_30160|Lương phẩm Ngũ Hành
+21_30161|Tinh phẩm Ngũ Hành t
+21_30162|Cực phẩm Ngũ Hành th
+21_30163|Tuyệt phẩm Ngũ Hành
+10_30164|Thanh đồng cổ tệ
+10_30165|Mạ vàng cổ tệ
+10_30166|Cửu cung đồ
+10_30167|Một nghìn đồng bảo h
+10_30168|Năm ngàn Nguyên bảo
+10_30169|Một vạn Nguyên bảo h
+10_30170|Xoát mỏ khiến
+10_30171|Hoa sen đèn
+22_30172|50% kim bài ưu đãi k
+22_30173|Giảm còn 80% kim bài
+22_30174|50% kim bài ưu đãi k
+22_30175|Giảm còn 80% kim bài
+16_30176|Trước nhập giang hồ
+3_30177|Dương viêm châu
+10_30178|Kim kê
+10_30179|Tân xuân phúc thiếp
+10_30180|Chùy bạc tử
+10_30181|Kim chùy
+10_30182|Chùy bạc tử
+10_30183|Kim chùy
+10_30184|Chùy bạc tử
+10_30185|Kim chùy
+10_30186|Chùy bạc tử
+10_30187|Kim chùy
+10_30188|Trời
+10_30189|Tốt
+10_30190|Lễ
+10_30191|Hoa đào
+7_30192|Phổ thông vạn năng h
+7_30193|Đại hiệp vạn năng hi
+7_30194|Hào hiệp vạn năng hi
+10_30195|Bản tốt nhất nghiên
+10_30196|Sách quý nghiên tu q
+10_30197|Phàm phẩm bản tốt nh
+10_30198|Phàm phẩm sách quý n
+10_30199|Thất Tinh Hải Đường
+10_30200|Tiểu hồng hoa
+10_30201|Hoa cẩm chướng
+10_30202|Cực phẩm dễ trận bí
+10_30203|Tuyệt phẩm dễ trận b
+10_30204|Cực phẩm thiên thư ấ
+10_30205|Tuyệt phẩm thiên thư
+10_30206|Dưa hấu ướp đá
+10_30207|Tây Vực nước đá bào
+10_30208|Bút lông sói bút
+50_30209|Nhiều lần càn quét k
+22_30210|Một chiết ưu đãi kho
+22_30211|30% giảm giá ưu đãi
+22_30212|50% ưu đãi khoán
+22_30213|Giảm còn 80% ưu đãi
+22_30214|Một chiết ưu đãi kho
+22_30215|30% giảm giá ưu đãi
+22_30216|50% ưu đãi khoán
+22_30217|Giảm còn 80% ưu đãi
+22_30218|Một chiết ưu đãi kho
+22_30219|30% giảm giá ưu đãi
+22_30220|50% ưu đãi khoán
+22_30221|Giảm còn 80% ưu đãi
+22_30222|Một chiết ưu đãi kho
+22_30223|30% giảm giá ưu đãi
+22_30224|50% ưu đãi khoán
+22_30225|Giảm còn 80% ưu đãi
+4_30227|6 Nguyên ngân phiếu
+4_30228|30 Nguyên ngân phiếu
+4_30229|98 Nguyên ngân phiếu
+4_30230|198 Nguyên ngân phiế
+4_30231|328 Nguyên ngân phiế
+4_30232|648 Nguyên ngân phiế
+10_30234|Ngũ long khiến
+10_30235|Phi hồ khiến
+10_30236|Tiêu dao khiến
+10_30237|Cực phẩm ngộ tâm ký
+10_30238|Tuyệt phẩm ngộ tâm k
+23_30245|Cực phẩm ngộ tâm tàn
+23_30246|Tuyệt phẩm ngộ tâm t
+10_30247|Giáng Sinh tuyết cầu
+11_30248|Cấp thấp đánh tan
+11_30249|Trung cấp đánh tan b
+11_30250|Cao cấp đánh tan bảo
+10_30264|Xích Viêm câu ngọc
+10_30265|Chỉ riêng Long Tiên
+10_30266|Song nhị Long Tiên T
+10_30267|Ba Diệp Long nước bọ
+10_30268|Bốn Linh Long nước b
+10_30269|Ngũ uẩn Long Tiên Th
+10_30270|Một mạch Hồn Tinh
+10_30271|Lưỡng Nghi Hồn Tinh
+10_30272|Tam Thanh Hồn Tinh
+10_30273|Bốn hướng Hồn Tinh
+30_30274|Thuần linh quả
+30_30275|Cửu Diệp thuần linh
+10_30286|Lưu ly tử
+10_30289|Bạch lộc giấy
+10_30290|Giấy ngọc bản
+10_30291|Vẩy ngân tiên
+10_30292|Đính kim tiên
+21_30297|Cực phẩm binh pháp t
+21_30298|Tuyệt phẩm binh pháp
+10_30300|Phúc lộc
+10_30306|Tròn năm thông bảo
+16_30313|Lễ Giáng Sinh ảnh ch
+3_30400|Thỏi vàng ròng rương
+3_30401|Chữ thiên · Bí bảo
+3_30402|Huyền tự · Bí bảo
+3_30403|Địa tự · Bí bảo
+3_30404|Chữ vàng · Bí bảo
+3_30405|Chữ thiên · Bí bảo
+3_30406|Huyền tự · Bí bảo
+3_30407|Địa tự · Bí bảo
+3_30408|Chữ vàng · Bí bảo
+10_30409|Miễn chiến bài
+35_30410|Tám bộ thần uy - Tra
+35_30411|Thánh đạo bá mạnh -
+35_30412|Chúc Long múa trời -
+35_30413|Chân viêm bất diệt -
+35_30414|Phi Yến từng tháng -
+35_30415|Tám bộ thần uy - Tàn
+35_30416|Thánh đạo bá mạnh -
+35_30417|Chúc Long múa trời -
+35_30418|Chân viêm bất diệt -
+35_30419|Phi Yến từng tháng -
+35_30420|Tám bộ thần uy - Cả
+35_30421|Thánh đạo bá mạnh -
+35_30422|Chúc Long múa trời -
+35_30423|Chân viêm bất diệt -
+35_30424|Phi Yến từng tháng -
+10_30425|Tuệ tâm tệ
+3_30426|Truy tung khiến
+35_30427|Tâm pháp điểm chính
+35_30428|Tâm pháp tinh yếu
+10_30429|Thiên Sư phù
+10_30430|Thiên Cương phù
+10_30431|Dễ tâm đan
+10_30432|Pháo
+10_30433|Trùng thiên pháo
+16_30434|2018 Tết xuân ảnh ch
+10_30435|Bùa đào
+3_30436|Anh hùng khiến
+10_30437|Thú quyết
+23_30438|Thú quyết tàn trang
+21_30500|Tinh phẩm Tứ Tượng s
+21_30501|Cực phẩm Tứ Tượng sa
+21_30502|Tuyệt phẩm Tứ Tượng
+25_30600|Cực phẩm tinh võ bí
+25_30601|Cực phẩm lăng vân bí
+25_30602|Cực phẩm cuồng bạo b
+25_30603|Cực phẩm dẻo dai bí
+25_30604|Cực phẩm hóa giải bí
+25_30605|Tuyệt phẩm tinh võ b
+25_30606|Tuyệt phẩm lăng vân
+25_30607|Tuyệt phẩm cuồng bạo
+25_30608|Tuyệt phẩm dẻo dai b
+25_30609|Tuyệt phẩm hóa giải
+10_30621|Tâm pháp tàn thiên M
+10_30622|Tâm pháp cả bộ Minh
+26_30623|Vứt bỏ thiên mệnh
+27_30624|Lương phẩm khí huyết
+27_30625|Lương phẩm vũ lực
+27_30626|Lương phẩm phòng ngự
+27_30627|Lương phẩm nội lực
+27_30628|Lương phẩm thân pháp
+27_30629|Lương phẩm cường khí
+27_30630|Lương phẩm mạnh vũ l
+27_30631|Lương phẩm mạnh phòn
+27_30632|Lương phẩm mạnh nội
+27_30633|Lương phẩm cường thâ
+28_30634|Lương phẩm trúng đíc
+28_30635|Lương phẩm né tránh
+28_30636|Lương phẩm bạo kích
+28_30637|Lương phẩm kháng bạo
+28_30638|Lương phẩm phổ công
+28_30639|Lương phẩm kỹ năng t
+28_30640|Lương phẩm tiếp tục
+28_30641|Lương phẩm phổ công
+28_30642|Lương phẩm kỹ năng g
+28_30643|Lương phẩm tiếp tục
+29_30644|Lương phẩm khí huyết
+29_30645|Lương phẩm thụ liệu
+29_30646|Lương phẩm tổn thươn
+29_30647|Lương phẩm giảm tổn
+29_30648|Lương phẩm bạo tổn t
+29_30649|Lương phẩm bạo tổn t
+29_30650|Lương phẩm không nhì
+27_30651|Tinh phẩm khí huyết
+27_30652|Tinh phẩm vũ lực
+27_30653|Tinh phẩm phòng ngự
+27_30654|Tinh phẩm nội lực
+27_30655|Tinh phẩm thân pháp
+27_30656|Tinh phẩm cường khí
+27_30657|Tinh phẩm mạnh vũ lự
+27_30658|Tinh phẩm mạnh phòng
+27_30659|Tinh phẩm mạnh nội l
+27_30660|Tinh phẩm cường thân
+28_30661|Tinh phẩm trúng đích
+28_30662|Tinh phẩm né tránh
+28_30663|Tinh phẩm bạo kích
+28_30664|Tinh phẩm kháng bạo
+28_30665|Tinh phẩm phổ công t
+28_30666|Tinh phẩm kỹ năng tổ
+28_30667|Tinh phẩm tiếp tục t
+28_30668|Tinh phẩm phổ công g
+28_30669|Tinh phẩm kỹ năng gi
+28_30670|Tinh phẩm tiếp tục g
+29_30671|Tinh phẩm khí huyết
+29_30672|Tinh phẩm thụ liệu t
+29_30673|Tinh phẩm tổn thương
+29_30674|Tinh phẩm giảm tổn t
+29_30675|Tinh phẩm bạo tổn th
+29_30676|Tinh phẩm bạo tổn th
+29_30677|Tinh phẩm không nhìn
+27_30678|Cực phẩm khí huyết
+27_30679|Cực phẩm vũ lực
+27_30680|Cực phẩm phòng ngự
+27_30681|Cực phẩm nội lực
+27_30682|Cực phẩm thân pháp
+27_30683|Cực phẩm cường khí m
+27_30684|Cực phẩm mạnh vũ lực
+27_30685|Cực phẩm mạnh phòng
+27_30686|Cực phẩm mạnh nội lự
+27_30687|Cực phẩm cường thân
+28_30688|Cực phẩm trúng đích
+28_30689|Cực phẩm né tránh
+28_30690|Cực phẩm bạo kích
+28_30691|Cực phẩm kháng bạo
+28_30692|Cực phẩm phổ công tổ
+28_30693|Cực phẩm kỹ năng tổn
+28_30694|Cực phẩm tiếp tục tổ
+28_30695|Cực phẩm phổ công gi
+28_30696|Cực phẩm kỹ năng giả
+28_30697|Cực phẩm tiếp tục gi
+29_30698|Cực phẩm khí huyết k
+29_30699|Cực phẩm thụ liệu tă
+29_30700|Cực phẩm tổn thương
+29_30701|Cực phẩm giảm tổn th
+29_30702|Cực phẩm bạo tổn thư
+29_30703|Cực phẩm bạo tổn thư
+29_30704|Cực phẩm không nhìn
+27_30705|Tuyệt phẩm khí huyết
+27_30706|Tuyệt phẩm vũ lực
+27_30707|Tuyệt phẩm phòng ngự
+27_30708|Tuyệt phẩm nội lực
+27_30709|Tuyệt phẩm thân pháp
+27_30710|Tuyệt phẩm cường khí
+27_30711|Tuyệt phẩm mạnh vũ l
+27_30712|Tuyệt phẩm mạnh phòn
+27_30713|Tuyệt phẩm mạnh nội
+27_30714|Tuyệt phẩm cường thâ
+28_30715|Tuyệt phẩm trúng đíc
+28_30716|Tuyệt phẩm né tránh
+28_30717|Tuyệt phẩm bạo kích
+28_30718|Tuyệt phẩm kháng bạo
+28_30719|Tuyệt phẩm phổ công
+28_30720|Tuyệt phẩm kỹ năng t
+28_30721|Tuyệt phẩm tiếp tục
+28_30722|Tuyệt phẩm phổ công
+28_30723|Tuyệt phẩm kỹ năng g
+28_30724|Tuyệt phẩm tiếp tục
+29_30725|Tuyệt phẩm khí huyết
+29_30726|Tuyệt phẩm thụ liệu
+29_30727|Tuyệt phẩm tổn thươn
+29_30728|Tuyệt phẩm giảm tổn
+29_30729|Tuyệt phẩm bạo tổn t
+29_30730|Tuyệt phẩm bạo tổn t
+29_30731|Tuyệt phẩm không nhì
+27_30732|Tuyệt phẩm khí huyết
+27_30733|Tuyệt phẩm vũ lực
+27_30734|Tuyệt phẩm phòng ngự
+27_30735|Tuyệt phẩm nội lực
+27_30736|Tuyệt phẩm thân pháp
+27_30737|Tuyệt phẩm cường khí
+27_30738|Tuyệt phẩm mạnh vũ l
+27_30739|Tuyệt phẩm mạnh phòn
+27_30740|Tuyệt phẩm mạnh nội
+27_30741|Tuyệt phẩm cường thâ
+28_30742|Tuyệt phẩm trúng đíc
+28_30743|Tuyệt phẩm né tránh
+28_30744|Tuyệt phẩm bạo kích
+28_30745|Tuyệt phẩm kháng bạo
+28_30746|Tuyệt phẩm phổ công
+28_30747|Tuyệt phẩm kỹ năng t
+28_30748|Tuyệt phẩm tiếp tục
+28_30749|Tuyệt phẩm phổ công
+28_30750|Tuyệt phẩm kỹ năng g
+28_30751|Tuyệt phẩm tiếp tục
+29_30752|Tuyệt phẩm khí huyết
+29_30753|Tuyệt phẩm thụ liệu
+29_30754|Tuyệt phẩm tổn thươn
+29_30755|Tuyệt phẩm giảm tổn
+29_30756|Tuyệt phẩm bạo tổn t
+29_30757|Tuyệt phẩm bạo tổn t
+29_30758|Tuyệt phẩm không nhì
+25_30759|Cực phẩm xuyên dương
+25_30760|Tuyệt phẩm xuyên dươ
+25_30761|Cực phẩm Thuấn Bộ bí
+25_30762|Tuyệt phẩm Thuấn Bộ
+27_30763|Siêu cấp kinh nghiệm
+10_30901|Quốc Khánh huân chươ
+10_30902|Quốc Khánh kỷ niệm t
+10_30903|Bánh Trung thu
+10_30904|Lá phong
+10_30905|Kim khay ngọc
+3_30906|Tròn năm Khánh Thiên
+3_30907|Anh hiệp thiên thư t
+10_30908|Bóng đá
+10_30909|Bia
+10_30910|Ỷ Thiên Kiếm
+10_30911|Thơ Đường tuyển tập
+10_30912|Thần Mộc Vương Đỉnh
+10_30913|Phỉ thúy mã
+10_30914|Thất Huyền Cầm
+10_30915|Kim xà chùy
+10_30916|Uyên Ương đao
+4_31001|Tuyệt phẩm trang bị
+4_31002|Cực phẩm trang bị gó
+4_31003|Tinh phẩm trang bị g
+4_31004|Lương phẩm trang bị
+4_31005|Phàm phẩm trang bị g
+4_31006|Truyền thuyết gói qu
+4_31007|Tông sư gói quà lớn
+4_31008|Hào hiệp gói quà lớn
+4_31009|Đại hiệp gói quà lớn
+4_31010|Hiệp khách gói quà l
+4_31011|Võ học bí tịch gói q
+4_31012|Tửu quán gói quà
+4_31013|Hai mươi hai siêu gi
+4_31014|Hai mươi hai hạn lúc
+4_31015|Trăm phục khánh điển
+4_31016|Trăm phục khánh điển
+4_31017|Mộ Dung đồng bạn gói
+4_31018|Giáng Sinh siêu giá
+4_31019|Giáng Sinh hạn lúc g
+4_31020|Giáng Sinh khánh điể
+4_31021|Giáng Sinh khánh điể
+4_31022|Siêu cường phòng ngự
+4_31023|Mạnh nhất tông sư bả
+4_31024|Vượt năm gói quà lớn
+4_31025|Vượt năm nhỏ gói quà
+4_31026|Lớn tài thần gói quà
+4_31027|Tiểu tài thần gói qu
+4_31028|Tết nguyên đán siêu
+4_31029|Tết nguyên đán hạn l
+4_31030|Tết nguyên đán khánh
+4_31031|Tết nguyên đán khánh
+4_31032|Trang bị tẩy luyện g
+4_31033|Câu ngọc gói quà
+4_31034|Giao thừa siêu giá t
+4_31035|Giao thừa hạn lúc nh
+4_31036|Giao thừa khánh điển
+4_31037|Giao thừa khánh điển
+4_31038|Tân xuân siêu giá tr
+4_31039|Tân xuân hạn lúc nhỏ
+4_31040|Tân xuân khánh điển
+4_31041|Tân xuân khánh điển
+4_31042|Lễ tình nhân siêu gi
+4_31043|Lễ tình nhân hạn lúc
+4_31044|Lễ tình nhân khánh đ
+4_31045|Lễ tình nhân khánh đ
+4_31046|Nguyên Tiêu siêu giá
+4_31047|Nguyên Tiêu hạn lúc
+4_31048|Nguyên Tiêu khánh đi
+4_31049|Nguyên Tiêu khánh đi
+4_31050|Thần Điêu Hiệp Lữ bả
+8_31600|Cực phẩm tinh võ bí
+8_31601|Cực phẩm lăng vân bí
+8_31602|Cực phẩm cuồng bạo b
+8_31603|Cực phẩm dẻo dai bí
+8_31604|Cực phẩm hóa giải bí
+8_31605|Tuyệt phẩm tinh võ b
+8_31606|Tuyệt phẩm lăng vân
+8_31607|Tuyệt phẩm cuồng bạo
+8_31608|Tuyệt phẩm dẻo dai b
+8_31609|Tuyệt phẩm hóa giải
+8_31759|Cực phẩm xuyên dương
+8_31760|Tuyệt phẩm xuyên dươ
+8_31761|Cực phẩm Thuấn Bộ bí
+8_31762|Tuyệt phẩm Thuấn Bộ
+3_35039|Phàm phẩm đột phá th
+10_35076|Phàm phẩm tử kim thạ
+10_35077|Phàm phẩm cam luyện
+10_35116|Phàm phẩm tông sư lu
+10_35117|Phàm phẩm truyền thu
+10_35127|Phàm phẩm thần thoại
+10_35436|Ngự linh thảo
+4_39001|Thần thoại hiệp khác
+4_39002|Tất cả hiệp khách gó
+4_39003|Cấp mười lăm bảo thạ
+4_39004|Vật liệu gói quà
+4_39005|Võ học bí tịch gói q
+4_39006|Võ học bí tịch gói q
+4_39007|Tuyệt phẩm trang bị
+4_39008|Cực phẩm trang bị gó
+4_39009|Tinh phẩm trang bị g
+4_39010|Lương phẩm trang bị
+4_39011|Phàm phẩm trang bị g
+4_39012|Truyền thuyết gói qu
+4_39013|Tông sư gói quà lớn
+4_39014|Hào hiệp gói quà lớn
+4_39015|Đại hiệp gói quà lớn
+4_39016|Hiệp khách gói quà l
+4_39017|Thiên thư gói quà
+4_39018|Tinh yếu gói quà lớn
+4_39019|Trận pháp gói quà lớ
+4_40001|Khảo thí gói quà 1
+4_40002|Toàn nhân vật gói qu
+4_40003|VIP1 Gói quà lớn
+4_40004|VIP2 Gói quà lớn
+4_40005|VIP3 Gói quà lớn
+4_40006|VIP4 Gói quà lớn
+4_40007|VIP5 Gói quà lớn
+4_40008|VIP6 Gói quà lớn
+4_40009|VIP7 Gói quà lớn
+4_40010|VIP8 Gói quà lớn
+4_40011|VIP9 Gói quà lớn
+4_40012|VIP10 Gói quà lớn
+4_40013|VIP11 Gói quà lớn
+4_40014|VIP12 Gói quà lớn
+4_40015|VIP13 Gói quà lớn
+4_40016|VIP14 Gói quà lớn
+4_40017|VIP15 Gói quà lớn
+4_40018|VIP0 Gói quà lớn
+4_40019|3 Cấp gói quà lớn
+4_40020|5 Cấp gói quà lớn
+4_40021|10 Cấp gói quà lớn
+4_40022|15 Cấp gói quà lớn
+4_40023|20 Cấp gói quà lớn
+11_40024|Tuyệt phẩm vũ khí mả
+11_40025|Tuyệt phẩm đồ phòng
+11_40026|Tuyệt phẩm đai lưng
+11_40027|Tuyệt phẩm chiếc nh
+11_40028|Tuyệt phẩm giày mảnh
+11_40029|Vũ khí cực phẩm mảnh
+11_40030|Cực phẩm đồ phòng ng
+11_40031|Cực phẩm đai lưng mả
+11_40032|Cực phẩm chiếc nhẫ
+11_40033|Cực phẩm giày mảnh v
+11_40034|Tinh phẩm vũ khí mản
+11_40035|Tinh phẩm đồ phòng n
+11_40036|Tinh phẩm đai lưng m
+11_40037|Tinh phẩm chiếc nhâ
+11_40038|Tinh phẩm giày mảnh
+11_40039|Cấp một bảo thạch rư
+11_40040|Cấp hai bảo thạch rư
+11_40041|Cấp ba bảo thạch rươ
+11_40042|Cấp bốn bảo thạch rư
+11_40043|Cấp năm bảo thạch rư
+11_40044|Cấp sáu bảo thạch rư
+11_40045|Cấp bảy bảo thạch rư
+11_40046|Cấp tám bảo thạch rư
+11_40047|Cấp chín bảo thạch r
+11_40048|Mười cấp bảo thạch r
+4_40049|Trang bị thăng tinh
+4_40050|Chăm học khổ luyện g
+4_40051|Trang bị cường hóa g
+11_40052|Truyền thuyết ngẫu n
+11_40053|Tông sư ngẫu nhiên b
+4_40054|Kinh mạch tăng lên g
+4_40055|Khánh điển gói quà
+4_40056|Khánh điển đèn lồng
+11_40057|Hoa hồng đà chủ rươn
+4_40058|Trang bị thăng tinh
+4_40059|Trang bị thăng tinh
+4_40060|Siêu giá trị cuồng
+4_40061|Điểm anh hùng bảo rư
+4_40062|Phạt ác khiến gói qu
+11_40063|Viên công tử ngẫu nh
+11_40064|Nhất trọng võ học rư
+11_40065|Nhị trọng võ học rươ
+11_40066|Tam trọng võ học rươ
+11_40067|Tứ trọng võ học rươn
+11_40068|Ngũ trọng võ học rươ
+11_40069|Lục trọng võ học rươ
+11_40070|Thất trọng võ học rư
+11_40071|Bát trọng võ học rươ
+11_40072|Cửu trọng võ học rươ
+4_40073|VIP1 Thường ngày gói
+4_40074|VIP3 Thường ngày gói
+4_40075|VIP5 Thường ngày gói
+4_40076|VIP7 Thường ngày gói
+4_40077|VIP9 Thường ngày gói
+4_40078|VIP11 Thường ngày gó
+11_40079|Truyền thuyết hiệp h
+11_40080|Tông sư hiệp hồn bảo
+11_40081|Hào hiệp hiệp hồn bả
+11_40082|Thiên long hiệp hồn
+11_40083|Hươu đỉnh hiệp hồn b
+11_40084|Vũ khí cực phẩm bảo
+11_40085|Cực phẩm chiếc nhẫ
+11_40086|Cực phẩm đai lưng bả
+11_40087|Tuyệt phẩm vũ khí bả
+11_40088|Tuyệt phẩm chiếc nh
+11_40089|Tuyệt phẩm đai lưng
+11_40090|Lương phẩm trang bị
+11_40091|Nhị trọng võ học rươ
+11_40092|Tam trọng võ học rươ
+11_40093|Tứ trọng võ học rươn
+11_40094|Ngũ trọng võ học rươ
+11_40095|Lục trọng võ học rươ
+11_40096|5 Cấp bảo thạch bảo
+11_40097|4 Cấp bảo thạch bảo
+11_40098|3 Cấp bảo thạch bảo
+11_40099|2 Cấp bảo thạch bảo
+11_40100|1 Cấp bảo thạch bảo
+11_40101|Tông sư hiệp hồn bảo
+11_40102|6 Cấp bảo thạch bảo
+11_40103|Tuyệt phẩm đồ phòng
+11_40104|Tuyệt phẩm giày bảo
+11_40105|Cực phẩm đồ phòng ng
+11_40106|Cực phẩm giày bảo rư
+4_40107|Võ học gói quà lớn
+11_40108|Ngũ trọng võ học rươ
+11_40109|Mộ Dung Bác xa hồn r
+11_40110|Linh Thứu cung chủ
+11_40111|Thu thuỷ hồn rương
+11_40112|Tiêu dao chưởng môn
+11_40113|Phi hồ công tử hồn r
+4_40114|Nhiều tuyển một bảo
+11_40115|Tính toán khảo thí
+11_40116|Tính toán khảo thí
+11_40117|Tính toán khảo thí
+11_40118|Tính toán khảo thí
+11_40119|Tính toán khảo thí
+11_40120|Tính toán khảo thí
+11_40121|Tính toán khảo thí
+11_40122|Tính toán khảo thí
+11_40123|Tính toán khảo thí
+11_40124|Tính toán khảo thí
+11_40125|Tính toán khảo thí
+11_40126|Tính toán khảo thí
+11_40127|Tính toán khảo thí
+11_40128|Khảo thí Nhạn Môn Qu
+4_40129|Mật rắn gói quà
+11_40130|Băng Hỏa đảo chủ hi
+11_40131|Tiêu phương xa hiệp
+11_40132|Thu thuỷ ngẫu nhiên
+11_40133|Truyền thuyết hiệp h
+11_40134|Kiều bang chủ hiệp h
+11_40135|Miêu đại hiệp bảo rư
+11_40136|Chiến lực tăng lên g
+11_40137|Quét rác thần tăng h
+11_40138|Mộ Dung công tử hồn
+4_40139|Thánh Hỏa lệnh gói q
+11_40140|Mộ Dung Bác bảo rươn
+11_40141|Linh Thứu cung chủ
+11_40142|Tiêu dao chưởng môn
+11_40143|Chu nhi ngẫu nhiên g
+11_40144|Phi hồ đại hiệp ngẫu
+11_40145|Phùng Tích Phạm ngẫu
+11_40146|Đầu sắt người ngẫu n
+11_40147|Thu thuỷ hiệp hồn rư
+4_40148|Siêu cường khống chế
+4_40149|Siêu cường công kích
+4_40150|Tuyệt phẩm vũ khí mả
+4_40151|Tuyệt phẩm đồ phòng
+4_40152|Tuyệt phẩm chiếc nh
+4_40153|Tuyệt phẩm đai lưng
+4_40154|Tuyệt phẩm giày mảnh
+4_40155|Tết mồng tám tháng c
+4_40156|Tết mồng tám tháng c
+4_40157|Tết mồng tám tháng c
+4_40158|Tết mồng tám tháng c
+4_40159|Tết mồng tám tháng c
+4_40160|Tết mồng tám tháng c
+4_40161|Cháo mồng 8 tháng ch
+4_40162|Siêu giá trị tăng lê
+4_40163|Hạn lúc gói quà
+4_40164|Kinh hỉ gói quà lớn
+4_40165|Siêu giá trị nhỏ gói
+4_40166|Kinh hỉ gói quà lớn
+11_40167|Ngọc nữ chưởng môn h
+11_40168|Dương công tử hiệp h
+4_40169|Tái xuất giang hồ (5
+4_40170|Tái xuất giang hồ (6
+4_40171|Tái xuất giang hồ (7
+11_40172|Ma giáo giáo chủ hồn
+11_40173|Nhật nguyệt giáo chủ
+11_40174|Mông Cổ quốc sư hồn
+11_40175|Đại sư huynh hồn rươ
+11_40176|Ngọc nữ chưởng môn n
+11_40177|Dương công tử ngẫu n
+11_40178|Quét rác thần tăng n
+4_40179|Tinh phẩm câu ngọc b
+4_40180|Cấp một bảo thạch rư
+4_40181|Cấp hai bảo thạch rư
+4_40182|Cấp ba bảo thạch rươ
+4_40183|Cấp bốn bảo thạch rư
+4_40184|Cấp năm bảo thạch rư
+4_40185|Cấp sáu bảo thạch rư
+4_40186|Cấp bảy bảo thạch rư
+4_40187|Cấp tám bảo thạch rư
+4_40188|Cấp chín bảo thạch r
+4_40189|Mười cấp bảo thạch r
+4_40190|Tiếu ngạo giang hồ h
+4_40191|Tiếu ngạo giang hồ h
+4_40192|Tuyệt phẩm vũ khí ch
+4_40193|Tuyệt phẩm đồ phòng
+4_40194|Tuyệt phẩm chiếc nh
+4_40195|Tuyệt phẩm đai lưng
+4_40196|Tuyệt phẩm giày chỉ
+4_40197|Cấp một mới bảo thạc
+4_40198|Cấp hai mới bảo thạc
+4_40199|Cấp ba mới bảo thạch
+4_40200|Cấp bốn mới bảo thạc
+4_40201|Cấp năm mới bảo thạc
+4_40202|Cấp sáu mới bảo thạc
+4_40203|Cấp bảy mới bảo thạc
+4_40204|Cấp tám mới bảo thạc
+4_40205|Cấp chín mới bảo thạ
+4_40206|Mười cấp mới bảo thạ
+4_40207|Lộc Đỉnh ký hiệp khá
+4_40208|Tông sư phòng ngự bả
+4_40209|Tông sư khống chế bả
+4_40210|Tông sư trị liệu bảo
+4_40211|Hiệp Khách Hành bảo
+11_40212|Đại tiểu thư ngẫu nh
+11_40213|Nhật nguyệt giáo chủ
+11_40214|Ma giáo giáo chủ ngẫ
+11_40215|Đại sư huynh ngẫu nh
+4_40216|Ma giáo giáo chủ hiệ
+4_40217|Ma giáo giáo chủ bảo
+4_40218|Thần Điêu Hiệp Lữ hi
+11_40219|Đại tiểu thư hiệp hồ
+4_40220|Câu ngọc sáo trang
+11_40221|Tây Vực tiên sinh ng
+11_40222|Đông Hải đảo chủ ngẫ
+11_40223|Tây Vực tiên sinh hồ
+11_40224|Đông Hải đảo chủ hồn
+4_40225|Đông Tà Tây Độc hiệp
+4_40226|Đông Tà Tây Độc bảo
+4_40227|Đông Tà Tây Độc ngẫu
+11_40228|Cực phẩm tinh yếu hộ
+11_40229|Tuyệt phẩm tinh yếu
+4_40230|Tiếu ngạo hiệp lữ ng
+4_40231|Thần Điêu Hiệp Lữ ng
+4_40232|Ma giáo giáo chủ ngẫ
+4_40233|Thiên Sơn Tam lão ng
+11_40234|Thiên Sơn mỗ mỗ hồn
+11_40235|Thu thuỷ hồn rương
+11_40236|Tiêu dao chưởng môn
+4_40237|12 cấp bảo thạch rươ
+4_40238|Nam Đế Bắc Cái hiệp
+4_40239|Nam Đế Bắc Cái bảo r
+4_40240|Đại Lý Hoàng đế bảo
+4_40241|Thần cái bảo rương
+4_40242|Đại Lý Hoàng đế hồn
+4_40243|Thần cái hồn rương
+11_40244|Đại Lý Hoàng đế ngẫu
+11_40245|Thần cái ngẫu nhiên
+11_40246|Đại Lý Hoàng đế hồn
+11_40247|Thần cái hồn rương
+4_40248|Nam Đế Bắc Cái ngẫu
+4_40249|Tây Vực tiên sinh bả
+4_40250|Đông Hải đảo chủ bảo
+4_40251|Đại sư huynh bảo rươ
+4_40252|Đại tiểu thư bảo rươ
+4_40253|Nhật nguyệt giáo chủ
+4_40254|Ma giáo giáo chủ bảo
+4_40255|Dương công tử bảo rư
+4_40256|Ngọc nữ chưởng môn b
+11_40257|Cơ sở tinh yếu hộp
+11_40258|Mở rộng tinh yếu hộp
+11_40259|Cơ sở tinh yếu rương
+11_40260|Mở rộng tinh yếu rươ
+11_40261|Cơ sở tinh yếu tàn t
+11_40262|Mở rộng tinh yếu tàn
+11_40263|Cơ sở tinh yếu tàn t
+11_40264|Mở rộng tinh yếu tàn
+4_40265|Trân phẩm tàn trang
+4_40266|Bản tốt nhất tàn tra
+4_40267|Cả bộ tàn trang rươn
+4_40268|Trùng Dương chân nhâ
+4_40269|Trùng Dương chân nhâ
+11_40270|Trùng Dương chân nhâ
+4_40271|Tuyệt phẩm vũ khí ch
+4_40272|Tuyệt phẩm đồ phòng
+4_40273|Tuyệt phẩm chiếc nh
+4_40274|Tuyệt phẩm đai lưng
+4_40275|Tuyệt phẩm giày chỉ
+4_40276|Cấp mười một bảo thạ
+4_40277|Cấp mười một mới bảo
+11_40278|Trùng Dương chân nhâ
+4_40279|Linh Thứu cung chủ
+4_40280|Tiêu dao chưởng môn
+4_40281|Mộ Dung công tử bảo
+4_40282|Thiên Sơn mỗ mỗ bảo
+4_40283|Mộ Dung Bác xa bảo r
+4_40284|Thu thuỷ bảo rương
+4_40285|Tiêu phương xa bảo r
+4_40286|Phi hồ công tử bảo r
+4_40287|Mông Cổ quốc sư bảo
+4_40288|Năm kỳ hiệp khách bả
+11_40289|Linh Thứu cung chủ
+4_40290|Lâm chưởng môn bảo r
+11_40291|Lâm chưởng môn hồn r
+4_40292|Năm kỳ hiệp hồn ngẫu
+4_40293|12 cấp mới bảo thạch
+4_40294|Kiếm Ma bảo rương
+4_40295|Ba Tư Thánh nữ bảo r
+11_40296|Ba Tư Thánh nữ hồn r
+11_40297|Lâm chưởng môn ngẫu
+11_40298|Ba Tư Thánh nữ ngẫu
+4_40299|Truyền thuyết hiệp k
+4_40300|Tông sư hiệp khách đ
+4_40301|Hào hiệp hiệp khách
+4_40302|Đại hiệp hiệp khách
+4_40303|Mông Cổ quận chúa bả
+11_40304|Mông Cổ quận chúa hồ
+4_40305|Chu chưởng môn bảo r
+11_40306|Chu chưởng môn hồn r
+4_40307|Cực phẩm tinh yếu bả
+4_40308|Tuyệt phẩm tinh yếu
+4_40309|Thần trận bảo rương
+4_40310|Kỳ trận bảo rương
+4_40311|Cửu Dương giáo chủ h
+11_40312|Cửu Dương giáo chủ h
+4_40313|Thần võ tàn phiến hộ
+4_40314|Thần áo tàn phiến hộ
+4_40315|Thần giới tàn phiến
+4_40316|Thần eo tàn phiến hộ
+4_40317|Thần giày tàn phiến
+4_40318|Cao cấp chiêu mộ chỉ
+4_40319|Giang hồ Tam Tuyệt c
+4_40320|Tam Tuyệt hiệp hồn c
+4_40321|Tam Tuyệt hiệp hồn c
+4_40322|Tam Tuyệt hiệp hồn c
+4_40323|Tuyệt phẩm chiếc nh
+4_40335|Tròn năm khánh trang
+4_40337|Mười ba cấp bảo thạc
+4_40339|Mười bốn cấp bảo thạ
+4_40341|Cấp mười lăm bảo thạ
+11_40343|6 Nguyên trở lại lợi
+11_40344|30 Nguyên trở lại lợ
+11_40345|98 Nguyên trở lại lợ
+11_40346|198 Nguyên trở lại l
+11_40347|328 Nguyên trở lại l
+11_40348|648 Nguyên trở lại l
+11_40349|Đoàn công tử hồn rươ
+11_40350|Thần tiên tỷ tỷ hồn
+11_40351|Tương Dương thành ch
+11_40352|Trí kế hiệp nữ hồn r
+11_40353|Bá vương hoàn hồn rư
+11_40354|Nakoruru hồn rương
+11_40355|Quang minh tả sứ hồn
+11_40356|Quang minh hữu sứ hồ
+4_40357|Trung thu nhỏ gói qu
+4_40358|Trung thu gói quà lớ
+4_40359|Trung thu đoàn viên
+4_40360|Trung thu ngày hội g
+4_40361|Quốc Khánh nhỏ gói q
+4_40362|Quốc Khánh gói quà l
+4_40363|Quốc Khánh siêu giá
+4_40364|Quốc Khánh đoàn viên
+4_45324|Tết nguyên đán đặc b
+4_45325|Tết nguyên đán siêu
+4_45326|Tết nguyên đán siêu
+4_45327|Tết nguyên đán siêu
+4_45328|Trang bị tinh luyện
+4_45329|Truyền thuyết hiệp h
+11_45330|Tân xuân tiểu hồng b
+11_45331|Chúc tuổi đại hồng b
+4_45332|Năm mới phúc lợi gói
+4_45333|Năm mới phúc lợi nhỏ
+4_45334|Chúc mừng năm mới gó
+4_45335|Chúc mừng năm mới nh
+4_45336|Năm mới kinh hỉ nhỏ
+4_45337|Năm mới kinh hỉ gói
+4_45338|Năm mới siêu giá trị
+11_45339|Tiểu Bảo hồn rương
+4_45340|Truyền thuyết hiệp h
+4_45341|Tông sư hiệp hồn đại
+11_45342|Bá vương hoàn ngẫu n
+11_45343|Nakoruru ngẫu nhiên
+11_45344|Kiều bang chủ ngẫu n
+11_45345|Đoàn công tử ngẫu nh
+11_45346|Mộ Dung công tử ngẫu
+11_45347|Linh Thứu cung chủ
+11_45348|Thiên Sơn mỗ mỗ ngẫu
+11_45349|Tiêu dao chưởng môn
+11_45350|Thu thuỷ ngẫu nhiên
+11_45351|Tiểu Bảo ngẫu nhiên
+11_45352|Ngọc nữ chưởng môn n
+4_45353|Tinh lộ nhỏ gói quà
+4_45354|Tinh lộ gói quà lớn
+4_45355|Ngũ tuyệt hồn rương
+4_45356|Tương Dương hiệp lữ
+4_45357|Thiên Sơn Tam lão hồ
+4_45358|SNK Hồn rương
+4_45359|Quang minh sứ giả hồ
+4_45360|Thiên long tứ tuyệt
+4_45361|Thiên long hiệp lữ h
+11_45362|Mày trắng giáo chủ h
+11_45363|Phi thiên Pháp Vương
+11_45364|Vô tình sư thái hồn
+11_45365|Băng Hỏa đảo chủ hồ
+11_45366|Linh xà phu nhân hồn
+4_45367|Ma giáo hộ pháp hồn
+11_45368|Tiêu phương xa ngẫu
+11_45369|Mày trắng giáo chủ n
+11_45370|Phi thiên Pháp Vương
+11_45371|Cửu Dương giáo chủ n
+11_45372|Mông Cổ quận chúa ng
+11_45373|Quang minh tả sứ ngẫ
+11_45374|Quang minh hữu sứ ng
+11_45375|Vô tình sư thái ngẫu
+11_45376|Tương Dương thành ch
+11_45377|Trí kế hiệp nữ ngẫu
+4_45378|Mẫu thân tiết hạn lú
+4_45379|Mẫu thân tiết cảm ân
+4_45380|Mẫu thân tiết siêu g
+4_45381|Mẫu thân tiết phúc l
+11_45382|Quang Minh giáo chủ
+4_45383|Giáo chủ hồn rương
+4_45384|Thần trận tàn trang
+4_45385|Kỳ trận tàn trang bả
+4_45386|Tuyệt phẩm vũ khí lự
+4_45387|Tuyệt phẩm đồ phòng
+4_45388|Tuyệt phẩm chiếc nh
+4_45389|Tuyệt phẩm đai lưng
+4_45390|Tuyệt phẩm giày lựa
+4_45391|Truyền thuyết công k
+4_45392|Truyền thuyết phòng
+4_45393|Truyền thuyết khống
+4_45394|Truyền thuyết trị li
+4_45395|Ngày mùa hè siêu giá
+4_45396|Ngày mùa hè nhẹ nhàn
+4_45397|Ngày mùa hè chói cha
+4_45398|Ngày mùa hè hạn lúc
+11_45399|U Minh hạc già hồn r
+11_45400|U Minh Lộc lão hồn r
+4_45401|U Minh Nhị lão hồn r
+4_45402|Thần trận tàn trang
+4_45403|Tông sư hiệp khách đ
+4_45404|Tông sư vũ khí đại b
+4_45405|Truyền thuyết hiệp k
+4_45406|Vật liệu lựa chọn rư
+4_45407|Cực phẩm bí yếu bảo
+4_45408|Tuyệt phẩm bí yếu bả
+4_45409|Truyền thuyết hiệp k
+4_45410|Tròn năm khánh chiến
+4_45411|Tròn năm khánh chiến
+4_45412|Tròn năm khánh Hồn T
+4_45413|Tròn năm khánh Hồn T
+4_45414|Tròn năm khánh thuần
+4_45415|Tròn năm khánh trận
+4_45416|Tròn năm Khánh Thiên
+4_45417|Tròn năm khánh phúc
+4_45418|Tròn năm khánh chú g
+4_45419|Tròn năm khánh thần
+11_45420|Tâm pháp trang sách
+11_45421|Tâm pháp tàn thiên m
+11_45422|Tâm pháp cả bộ mảnh
+4_45423|Tâm pháp tàn thiên c
+4_45424|Tâm pháp cả bộ chỉ đ
+11_45425|Tâm pháp cả bộ ngẫu
+4_45426|Thần thoại hiệp khác
+4_45427|Truyền thuyết công k
+4_45428|Truyền thuyết phòng
+4_45429|Truyền thuyết khống
+4_45430|Truyền thuyết trị li
+4_45431|Truyền thuyết hồn má
+4_45432|Hiệp khách đột phá b
+4_45433|Truyền thuyết luyện
+4_45434|Thần thoại luyện thể
+4_45435|Phàm phẩm tinh yếu b
+4_45436|Lương phẩm tinh yếu
+4_45437|Tinh phẩm tinh yếu b
+4_45438|Rương Thiên Cơ
+4_45439|Thiên thư thăng trọn
+4_45440|Thiên thư chú giải b
+4_45441|Thiên thư nghiên tu
+4_45442|Chiến sủng Long Tiên
+4_45443|Chiến sủng Hồn Tinh
+4_45444|Chiến sủng thuần hóa
+4_45445|Trang bị thăng tinh
+4_45446|Trang bị tinh luyện
+4_45447|Trang bị thăng giai
+4_45448|Thần trận tàn trang
+4_45449|Trận pháp đột phá bả
+4_45450|Trận pháp thôi diễn
+4_45451|Trận pháp nghiên cứu
+4_45452|Câu ngọc lựa chọn bả
+4_45453|Long ngâm bảo rương
+4_45454|Mười ba cấp mới bảo
+4_45455|VIP0 Gói quà lớn
+4_45456|VIP1 Gói quà lớn
+4_45457|VIP2 Gói quà lớn
+4_45458|VIP3 Gói quà lớn
+4_45459|VIP4 Gói quà lớn
+4_45460|VIP5 Gói quà lớn
+4_45461|VIP6 Gói quà lớn
+4_45462|VIP7 Gói quà lớn
+4_45463|VIP8 Gói quà lớn
+4_45464|VIP9 Gói quà lớn
+4_45465|VIP10 Gói quà lớn
+4_45466|VIP11 Gói quà lớn
+4_45467|VIP12 Gói quà lớn
+4_45468|VIP13 Gói quà lớn
+4_45469|VIP14 Gói quà lớn
+4_45470|VIP15 Gói quà lớn
+4_45471|Hiệp hồn gói quà ( M
+4_45472|Hiệp hồn gói quà ( M
+4_45473|Hồn máu gói quà ( Mộ
+4_45474|Truyền thuyết trang
+4_45475|Truyền thuyết hiệp k
+4_45476|Đài chủ gói quà
+4_45477|Trang bị đúc lại bảo
+4_45478|Tâm pháp cô đọng gói
+4_40558|8 Gãy tâm pháp gói q
+4_40559|5 Gãy tâm pháp gói q
+4_40560|4 Gãy tâm pháp gói q
+4_40561|2 Gãy tâm pháp gói q
+4_40562|8 Gãy ngưng luyện gó
+4_40563|5 Gãy ngưng luyện gó
+4_40564|4 Gãy ngưng luyện gó
+4_40565|2 Gãy ngưng luyện gó
+4_40566|8 Gãy Minh Tâm gói q
+4_40567|5 Gãy Minh Tâm gói q
+4_40568|4 Gãy Minh Tâm gói q
+4_40569|2 Gãy Minh Tâm gói q
+4_40573|Linh khí nhỏ gói quà
+4_40574|Linh khí bên trong g
+4_40575|Linh khí gói quà lớn
+4_40576|Linh khí gói quà
+4_40577|Tuyệt phẩm tinh yếu
+4_40578|Mười bốn cấp bảo thạ
+4_40579|Mười bốn cấp mới bảo
+4_40580|Cấp mười lăm bảo thạ
+4_40581|Cấp mười lăm mới bảo
+4_40582|Cực phẩm bí yếu bảo
+4_40583|Tuyệt phẩm bí yếu bả
+4_40584|Cực phẩm bí yếu mảnh
+4_40585|Tuyệt phẩm bí yếu mả
+11_40586|Quyết chiến Quang Mi
+11_40587|Ngưu gia thôn phong
+11_40588|Kịch chiến Tụ Hiền t
+11_40589|Luận kiếm Hoa Sơn đỉ
+11_40590|Giang hồ lão đầu khi
+4_40591|Chiến sủng bồi dưỡng
+4_40592|Tâm pháp cả bộ mảnh
+11_40593|Mười bốn cấp bảo thạ
+11_40594|Mười bốn cấp mới bảo
+11_40595|Cấp mười lăm bảo thạ
+11_40596|Cấp mười lăm mới bảo
+12_50001|Đúc lung bản thiếu
+12_50002|Đúc lung bản sao
+12_50003|Đúc lung cả bộ
+12_50004|Đúc lung bản tốt nhấ
+12_50005|Đúc lung sách quý
+12_50006|Hào tước bản thiếu
+12_50007|Hào tước bản sao
+12_50008|Hào tước cả bộ
+12_50009|Hào tước bản tốt nhấ
+12_50010|Hào tước sách quý
+12_50011|Thần binh bản thiếu
+12_50012|Thần binh bản sao
+12_50013|Thần binh cả bộ
+12_50014|Thần binh bản tốt nh
+12_50015|Thần binh sách quý
+12_50016|Linh thú bản thiếu
+12_50017|Linh thú bản sao
+12_50018|Linh thú cả bộ
+12_50019|Linh thú bản tốt nhấ
+12_50020|Linh thú sách quý
+12_50021|Chín kiếm bản thiếu
+12_50022|Chín kiếm bản sao
+12_50023|Chín kiếm cả bộ
+12_50024|Chín kiếm bản tốt nh
+12_50025|Chín kiếm sách quý
+19_50026|Phiêu dật kỳ trận
+19_50027|Phiêu dật thần trận
+19_50028|Thuẫn cố kỳ trận
+19_50029|Thuẫn cố thần trận
+19_50030|Giương võ kỳ trận
+19_50031|Giương võ thần trận
+10_50032|Trận tâm thạch
+10_50033|Trận Hồn thạch
+12_50034|Tròn năm Khánh Thiên
+19_50035|Tròn năm khánh thần
+19_50036|Ngự Khí thần trận
+19_50037|Thanh Long thần trận
+12_50043|Anh hiệp thiên thư
+14_51001|Phàm phẩm khí huyết
+14_51002|Lương phẩm khí huyết
+14_51003|Tinh phẩm khí huyết
+14_51004|Cực phẩm khí huyết t
+14_51005|Tuyệt phẩm khí huyết
+14_51006|Phàm phẩm vũ lực tin
+14_51007|Lương phẩm vũ lực ti
+14_51008|Tinh phẩm vũ lực tin
+14_51009|Cực phẩm vũ lực tinh
+14_51010|Tuyệt phẩm vũ lực ti
+14_51011|Phàm phẩm nội lực ti
+14_51012|lương phẩm nội lực tinh yếu
+14_51013|tinh phẩm nội lực tinh yếu
+14_51014|cực phẩm nội lực tinh yếu
+14_51015|thần phẩm nội lực tinh yếu
+14_51016|phàm phẩm thân pháp tinh yếu
+14_51017|lương phẩm thân pháp tinh yếu
+14_51018|tinh phẩm thân pháp tinh yếu
+14_51019|cực phẩm thân pháp tinh yếu
+14_51020|thần phẩm thân pháp tinh yếu
+14_51021|phàm phẩm phòng ngự tinh yếu
+14_51022|lương phẩm phòng ngự tinh yếu
+14_51023|tinh phẩm phòng ngự tinh yếu
+14_51024|cực phẩm phòng ngự tinh yếu
+14_51025|thần phẩm phòng ngự tinh yếu
+14_51026|phàm phẩm bạo kích tinh yếu
+14_51027|lương phẩm bạo kích tinh yếu
+14_51028|tinh phẩm bạo kích tinh yếu
+14_51029|cực phẩm bạo kích tinh yếu
+14_51030|thần phẩm bạo kích tinh yếu
+14_51031|phàm phẩm thiểm tị tinh yếu
+14_51032|lương phẩm thiểm tị tinh yếu
+14_51033|tinh phẩm thiểm tị tinh yếu
+14_51034|cực phẩm thiểm tị tinh yếu
+14_51035|thần phẩm thiểm tị tinh yếu
+14_51036|phàm phẩm kháng bạo tinh yếu
+14_51037|lương phẩm kháng bạo tinh yếu
+14_51038|tinh phẩm kháng bạo tinh yếu
+14_51039|cực phẩm kháng bạo tinh yếu
+14_51040|thần phẩm kháng bạo tinh yếu
+14_51041|phàm phẩm mệnh trung tinh yếu
+14_51042|lương phẩm mệnh trung tinh yếu
+14_51043|tinh phẩm mệnh trung tinh yếu
+14_51044|cực phẩm mệnh trung tinh yếu
+14_51045|thần phẩm mệnh trung tinh yếu
+14_51046|Tuyệt phẩm khí huyết tinh yếu
+14_51047|Tuyệt phẩm vũ lực tinh yếu
+14_51048|Tuyệt phẩm nội lực tinh yếu
+14_51049|Tuyệt phẩm thân pháp tinh yếu
+14_51050|Tuyệt phẩm phòng ngự tinh yếu
+14_51051|Tuyệt phẩm bạo kích tinh yếu
+14_51052|Tuyệt phẩm thiểm tị tinh yếu
+14_51053|Tuyệt phẩm kháng bạo tinh yếu
+14_51054|Tuyệt phẩm mệnh trung tinh yếu
+15_52001|phàm phẩm khí huyết tàn thiên
+15_52002|lương phẩm khí huyết tàn thiên
+15_52003|tinh phẩm khí huyết tàn thiên
+15_52004|cực phẩm khí huyết tàn thiên
+15_52005|thần phẩm khí huyết tàn thiên
+15_52006|phàm phẩm vũ lực tàn thiên
+15_52007|lương phẩm vũ lực tàn thiên
+15_52008|tinh phẩm vũ lực tàn thiên
+15_52009|cực phẩm vũ lực tàn thiên
+15_52010|thần phẩm vũ lực tàn thiên
+15_52011|phàm phẩm nội lực tàn thiên
+15_52012|lương phẩm nội lực tàn thiên
+15_52013|tinh phẩm nội lực tàn thiên
+15_52014|cực phẩm nội lực tàn thiên
+15_52015|thần phẩm nội lực tàn thiên
+15_52016|phàm phẩm thân pháp tàn thiên
+15_52017|lương phẩm thân pháp tàn thiên
+15_52018|tinh phẩm thân pháp tàn thiên
+15_52019|cực phẩm thân pháp tàn thiên
+15_52020|thần phẩm thân pháp tàn thiên
+15_52021|phàm phẩm phòng ngự tàn thiên
+15_52022|lương phẩm phòng ngự tàn thiên
+15_52023|tinh phẩm phòng ngự tàn thiên
+15_52024|cực phẩm phòng ngự tàn thiên
+15_52025|thần phẩm phòng ngự tàn thiên
+15_52026|phàm phẩm bạo kích tàn thiên
+15_52027|lương phẩm bạo kích tàn thiên
+15_52028|tinh phẩm bạo kích tàn thiên
+15_52029|cực phẩm bạo kích tàn thiên
+15_52030|thần phẩm bạo kích tàn thiên
+15_52031|phàm phẩm thiểm tị tàn thiên
+15_52032|lương phẩm thiểm tị tàn thiên
+15_52033|tinh phẩm thiểm tị tàn thiên
+15_52034|cực phẩm thiểm tị tàn thiên
+15_52035|thần phẩm thiểm tị tàn thiên
+15_52036|phàm phẩm kháng bạo tàn thiên
+15_52037|lương phẩm kháng bạo tàn thiên
+15_52038|tinh phẩm kháng bạo tàn thiên
+15_52039|cực phẩm kháng bạo tàn thiên
+15_52040|thần phẩm kháng bạo tàn thiên
+15_52041|phàm phẩm mệnh trung tàn thiên
+15_52042|lương phẩm mệnh trung tàn thiên
+15_52043|tinh phẩm mệnh trung tàn thiên
+15_52044|cực phẩm mệnh trung tàn thiên
+15_52045|thần phẩm mệnh trung tàn thiên
+20_52046|phiêu dật kỳ trận tàn hiệt
+20_52047|phiêu dật thần trận tàn hiệt
+20_52048|thuẫn cố kỳ trận tàn hiệt
+20_52049|thuẫn cố thần trận tàn hiệt
+20_52050|dương vũ kỳ trận tàn hiệt
+20_52051|dương vũ thần trận tàn hiệt
+20_52052|chu niên khánh thần trận tàn hiệt
+20_52053|ngự khí thần trận tàn hiệt
+20_52054|thanh long thần trận tàn hiệt
+15_52063|Tuyệt phẩm khí huyết tàn thiên
+15_52055|Tuyệt phẩm vũ lực tàn thiên
+15_52056|Tuyệt phẩm nội lực tàn thiên
+15_52057|Tuyệt phẩm thân pháp tàn thiên
+15_52058|Tuyệt phẩm phòng ngự tàn thiên
+15_52059|Tuyệt phẩm bạo kích tàn thiên
+15_52060|Tuyệt phẩm thiểm tị tàn thiên
+15_52061|Tuyệt phẩm kháng bạo tàn thiên
+15_52062|Tuyệt phẩm mệnh trung tàn thiên
+24_53001|bạch vĩ điêu
+24_53002|tuyết dực điêu
+24_53003|kim sí điêu
+24_53004|bích đồng linh điêu
+24_53005|diễm linh thần điêu
+24_53006|tiểu hắc viên
+24_53007|bạch nhung viên
+24_53008|thiết tí viên
+24_53009|hàn xuyên linh viên
+24_53010|luyện ngục thần viên
+24_53011|thất bộ xà
+24_53012|thiết tuyến xà
+24_53013|xích luyện xà
+24_53014|quỷ mục vương xà
+24_53015|kim quan lân xà
+36_55001|bát bộ thần uy - thư hiệt toái phiến·nhất
+36_55002|bát bộ thần uy - thư hiệt toái phiến·nhị
+36_55003|bát bộ thần uy - thư hiệt toái phiến·tam
+36_55004|bát bộ thần uy - tàn thiên toái phiến·nhất
+36_55005|bát bộ thần uy - tàn thiên toái phiến·nhị
+36_55006|bát bộ thần uy - tàn thiên toái phiến·tam
+36_55007|bát bộ thần uy - tàn thiên toái phiến·tứ
+36_55008|bát bộ thần uy - toàn bản toái phiến·nhất
+36_55009|bát bộ thần uy - toàn bản toái phiến·nhị
+36_55010|bát bộ thần uy - toàn bản toái phiến·tam
+36_55011|bát bộ thần uy - toàn bản toái phiến·tứ
+36_55012|bát bộ thần uy - toàn bản toái phiến·ngũ
+36_55013|thánh đạo bá cường - thư hiệt toái phiến·nhất
+36_55014|thánh đạo bá cường - thư hiệt toái phiến·nhị
+36_55015|thánh đạo bá cường - thư hiệt toái phiến·tam
+36_55016|thánh đạo bá cường - tàn thiên toái phiến·nhất
+36_55017|thánh đạo bá cường - tàn thiên toái phiến·nhị
+36_55018|thánh đạo bá cường - tàn thiên toái phiến·tam
+36_55019|thánh đạo bá cường - tàn thiên toái phiến·tứ
+36_55020|thánh đạo bá cường - toàn bản toái phiến·nhất
+36_55021|thánh đạo bá cường - toàn bản toái phiến·nhị
+36_55022|thánh đạo bá cường - toàn bản toái phiến·tam
+36_55023|thánh đạo bá cường - toàn bản toái phiến·tứ
+36_55024|thánh đạo bá cường - toàn bản toái phiến·ngũ
+36_55025|chúc long vũ thiên - thư hiệt toái phiến·nhất
+36_55026|chúc long vũ thiên - thư hiệt toái phiến·nhị
+36_55027|chúc long vũ thiên - thư hiệt toái phiến·tam
+36_55028|chúc long vũ thiên - tàn thiên toái phiến·nhất
+36_55029|chúc long vũ thiên - tàn thiên toái phiến·nhị
+36_55030|chúc long vũ thiên - tàn thiên toái phiến·tam
+36_55031|chúc long vũ thiên - tàn thiên toái phiến·tứ
+36_55032|chúc long vũ thiên - toàn bản toái phiến·nhất
+36_55033|chúc long vũ thiên - toàn bản toái phiến·nhị
+36_55034|chúc long vũ thiên - toàn bản toái phiến·tam
+36_55035|chúc long vũ thiên - toàn bản toái phiến·tứ
+36_55036|chúc long vũ thiên - toàn bản toái phiến·ngũ
+36_55037|chân viêm bất diệt - thư hiệt toái phiến·nhất
+36_55038|chân viêm bất diệt - thư hiệt toái phiến·nhị
+36_55039|chân viêm bất diệt - thư hiệt toái phiến·tam
+36_55040|chân viêm bất diệt - tàn thiên toái phiến·nhất
+36_55041|chân viêm bất diệt - tàn thiên toái phiến·nhị
+36_55042|chân viêm bất diệt - tàn thiên toái phiến·tam
+36_55043|chân viêm bất diệt - tàn thiên toái phiến·tứ
+36_55044|chân viêm bất diệt - toàn bản toái phiến·nhất
+36_55045|chân viêm bất diệt - toàn bản toái phiến·nhị
+36_55046|chân viêm bất diệt - toàn bản toái phiến·tam
+36_55047|chân viêm bất diệt - toàn bản toái phiến·tứ
+36_55048|chân viêm bất diệt - toàn bản toái phiến·ngũ
+36_55049|phi yến trục nguyệt - thư hiệt toái phiến·nhất
+36_55050|phi yến trục nguyệt - thư hiệt toái phiến·nhị
+36_55051|phi yến trục nguyệt - thư hiệt toái phiến·tam
+36_55052|phi yến trục nguyệt - tàn thiên toái phiến·nhất
+36_55053|phi yến trục nguyệt - tàn thiên toái phiến·nhị
+36_55054|phi yến trục nguyệt - tàn thiên toái phiến·tam
+36_55055|phi yến trục nguyệt - tàn thiên toái phiến·tứ
+36_55056|phi yến trục nguyệt - toàn bản toái phiến·nhất
+36_55057|phi yến trục nguyệt - toàn bản toái phiến·nhị
+36_55058|phi yến trục nguyệt - toàn bản toái phiến·tam
+36_55059|phi yến trục nguyệt - toàn bản toái phiến·tứ
+36_55060|phi yến trục nguyệt - toàn bản toái phiến·ngũ
+36_55061|tâm pháp khái yếu - toái phiến·nhất
+36_55062|tâm pháp khái yếu - toái phiến·nhị
+36_55063|tâm pháp khái yếu - toái phiến·tam
+36_55064|tâm pháp khái yếu - toái phiến·tứ
+36_55065|tâm pháp tinh yếu - toái phiến·nhất
+36_55066|tâm pháp tinh yếu - toái phiến·nhị
+36_55067|tâm pháp tinh yếu - toái phiến·tam
+36_55068|tâm pháp tinh yếu - toái phiến·tứ
+36_55069|tâm pháp tinh yếu - toái phiến·ngũ
+10_74001|túc cầu
+10_74002|a căn đình
+10_74003|ai cập
+10_74004|ba tây
+10_74005|bỉ lợi thì
+10_74006|băng đảo
+10_74007|ba lan
+10_74008|đan mạch
+10_74009|đức quốc
+10_74010|nga la tư
+10_74011|pháp quốc
+10_74012|ca luân bỉ á
+10_74013|ca tư đạt lê gia
+10_74014|hàn quốc
+10_74015|khắc la địa á
+10_74016|bí lỗ
+10_74017|ma lạc ca
+10_74018|mặc tây ca
+10_74019|ni nhật lợi á
+10_74020|bồ đào nha
+10_74021|nhật bản
+10_74022|thụy điển
+10_74023|thụy sĩ
+10_74024|tái nhĩ duy á
+10_74025|tái nội gia nhĩ
+10_74026|sa đặc a lạp bá
+10_74027|đột ni tư
+10_74028|ô lạp khuê
+10_74029|tây ban nha
+10_74030|y lãng
+10_74031|anh cách lan
+10_74032|úc đại lợi á
+10_74033|ba nã mã
+8_80001|hàn thiết cự kiếm tàn phiến
+8_80002|chân vũ kiếm tàn phiến
+8_80003|trảm long đao tàn phiến
+8_80004|hạo thiên kiếm tàn phiến
+8_80005|trục khuyển bổng tàn phiến
+8_80006|kim long kiếm tàn phiến
+8_80007|tú hoa châm tàn phiến
+8_80008|băng nguyệt kỳ đao tàn phiến
+8_80009|huyền thiết chủy thủ tàn phiến
+8_80010|tây dương hỏa thương tàn phiến
+8_80011|việt vương kiếm tàn phiến
+8_80012|long phượng đao tàn phiến
+8_80013|ngưng bích kiếm tàn phiến
+8_80014|cự ác tiễn tàn phiến
+8_80015|huyết sao tàn phiến
+8_80016|anh hùng trường kiếm tàn phiến
+8_80017|hồng nhan đoản kiếm tàn phiến
+8_80018|ngũ độc trượng tàn phiến
+8_80019|hạt vĩ tiên tàn phiến
+8_80020|song đao tàn phiến
+8_80021|trúc bổng tàn phiến
+8_80022|tụ tiễn tàn phiến
+8_80023|thiết kiếm tàn phiến
+8_80024|ô kim bảo giáp tàn phiến
+8_80025|kim ti bối tâm tàn phiến
+8_80026|kim ti bảo giáp tàn phiến
+8_80027|đan tâm giáp tàn phiến
+8_80028|vũ đương huyền phục tàn phiến
+8_80029|tuyết sơn miên áo tàn phiến
+8_80030|bảo tượng ca sa tàn phiến
+8_80031|phi thiên vân thường tàn phiến
+8_80032|tương quân khải tàn phiến
+8_80033|mật tông pháp bào tàn phiến
+8_80034|thiếu lâm tăng y tàn phiến
+8_80035|giang hồ cát sam tàn phiến
+8_80036|ngạc bì hộ giáp tàn phiến
+8_80037|tịnh minh đạo bào tàn phiến
+8_80038|nga mi truy y tàn phiến
+8_80039|bì y tàn phiến
+8_80040|bách kết y tàn phiến
+8_80041|dạ hành y tàn phiến
+8_80042|bố y tàn phiến
+8_80043|huyền thiết yêu hoàn tàn phiến
+8_80044|thần chiếu trù đái tàn phiến
+8_80045|vô lượng ngọc hoàn tàn phiến
+8_80046|tiêu diêu vũ câm tàn phiến
+8_80047|thú đầu hộ yêu tàn phiến
+8_80048|bảo thạch yêu hoàn tàn phiến
+8_80049|mạn đà hoa hoàn tàn phiến
+8_80050|mạn đà thúc yêu tàn phiến
+8_80051|phỉ thúy yêu hoàn tàn phiến
+8_80052|hoàng đồng thúc yêu tàn phiến
+8_80053|hiệp sĩ đái tàn phiến
+8_80054|kim ti yêu đái tàn phiến
+8_80055|hổ bì đái tàn phiến
+8_80056|bì yêu đái tàn phiến
+8_80057|ti thao đái tàn phiến
+8_80058|bách kết câm tàn phiến
+8_80059|ngũ long lệnh hoàn tàn phiến
+8_80060|cực nhạc chỉ hoàn tàn phiến
+8_80061|phỉ thúy chỉ hoàn tàn phiến
+8_80062|thánh hỏa giới tàn phiến
+8_80063|hàng long giới tàn phiến
+8_80064|băng tàm giới tàn phiến
+8_80065|thanh phong giới tàn phiến
+8_80066|hàn ngọc giới tàn phiến
+8_80067|đại vương giới tàn phiến
+8_80068|huyền thiết giới tàn phiến
+8_80069|hương phi giới tàn phiến
+8_80070|thần mộc giới tàn phiến
+8_80071|ngũ độc chỉ hoàn tàn phiến
+8_80072|thiết giới chỉ tàn phiến
+8_80073|ngân giới chỉ tàn phiến
+8_80074|kim giới chỉ tàn phiến
+8_80075|lăng ba phi yến tàn phiến
+8_80076|đại yến hoàng ngoa tàn phiến
+8_80077|thê vân bảo lý tàn phiến
+8_80078|sấm vương chiến ngoa tàn phiến
+8_80079|thần hành ngoa tàn phiến
+8_80080|phi thiên ngoa tàn phiến
+8_80081|lô vi hài tàn phiến
+8_80082|thủy thượng phiêu tàn phiến
+8_80083|vũ tăng hài tàn phiến
+8_80084|tú hoa hài tàn phiến
+8_80085|truy luyến tàn phiến
+8_80086|mang hài tàn phiến
+8_80087|bố hài tàn phiến
+8_80088|lộc bì ngoa tàn phiến
+8_80089|mộc kịch tàn phiến
+8_80090|thúy vũ hoàng sam tàn phiến
+8_80091|bích ngọc tiêu tàn phiến
+8_80092|bộ vân ngoa tàn phiến
+8_80093|bàn long lý tàn phiến
+8_80094|hạc vũ y tàn phiến
+8_80095|long phượng hoàn tàn phiến
+8_80096|bồ đề ca sa tàn phiến
+8_80097|ngọc hoàng đái tàn phiến
+8_80098|vô trần kiếm tàn phiến
+8_80099|cửu diệu chiến ngoa tàn phiến
+8_80100|linh lung khải tàn phiến
+8_80101|phượng linh đái tàn phiến
+8_80102|mị ảnh ngoa tàn phiến
+8_80103|hàn xuyên đái tàn phiến
+8_80104|chức kim đái tàn phiến
+8_80105|u dạ giới tàn phiến
+8_80106|lưu tô đái tàn phiến
+8_80107|trục nhật hài tàn phiến
+8_80108|phục ma trượng tàn phiến
+8_80109|thiên cương phục tàn phiến
+8_80110|ngạo thiên kiếm tàn phiến
+8_80111|ngạo thiên giáp tàn phiến
+8_80112|ngạo thiên đái tàn phiến
+8_80113|ngạo thiên giới tàn phiến
+8_80114|ngạo thiên ngoa tàn phiến
+8_80115|long ngâm kiếm tàn phiến
+8_80116|long ngâm giáp tàn phiến
+8_80117|long ngâm đái tàn phiến
+8_80118|long ngâm giới tàn phiến
+8_80119|long ngâm ngoa tàn phiến
+8_80120|chu niên khánh vũ khí tàn phiến
+8_80121|chu niên khánh thượng y tàn phiến
+8_80122|chu niên khánh yêu đái tàn phiến
+8_80123|chu niên khánh giới chỉ tàn phiến
+8_80124|chu niên khánh hài tử tàn phiến
+6_61001|thiếu lâm kim cương quyền
+6_61002|tổ sư kiếm pháp
+6_61003|minh kính tâm pháp
+6_61004|huyền môn thổ nạp công
+6_61005|thổ nạp dưỡng sinh công
+6_61006|phật môn bế tức công
+6_61007|thiếu lâm đồng tử công
+6_61008|thần dũng đại pháp
+6_61009|tán công đại pháp
+6_61010|nguyệt ảnh vũ bộ
+6_61011|bỉ khâu đao pháp
+6_61012|quán điện kiếm
+6_61013|bất giới đao pháp
+6_61014|tứ tượng kiếm pháp
+6_61015|phật môn bát trượng
+6_61016|linh khuyển đoạt thực quyền
+6_61017|đả hổ quyền
+6_61018|phật môn hàng ma công
+6_61019|bát môn chưởng
+6_61020|lục lộ cầm nã thủ
+6_61021|chính khí quyết
+6_61022|ba la thiền công
+6_61023|cửu thiên huyền công
+6_61024|huyền vũ chân quyết
+6_61025|hồi sinh quyết
+6_61026|phạt mao tẩy tủy thiên
+6_61027|kim cương bất phôi
+6_61028|huyền thiên công
+6_61029|nê long công
+6_61030|độ thủy vô ngân
+6_61031|phi long tam chuyển
+6_61032|trương húc thiếp
+6_61033|lục hòa đao
+6_61034|hồng nhan kiếm pháp
+6_61035|tật phong kiếm pháp
+6_61036|cổ cầm vô ảnh kiếm
+6_61037|tiên gia thất kiếm
+6_61038|tam thanh thất kiếp kiếm
+6_61039|phích lịch quyền
+6_61040|hòa phong xuy liễu chưởng pháp
+6_61041|đại lực kim cương thủ
+6_61042|độn giáp tam chuyển
+6_61043|hợp khí chỉ
+6_61044|liệt diễm chỉ pháp
+6_61045|phất diệp chỉ
+6_61046|thuần dương công
+6_61047|đại chu thiên công
+6_61048|kim cương hàng ma công
+6_61049|ngũ luân phi thiên
+6_61050|khổ thiền công
+6_61051|bích vân thần công
+6_61052|nguyên thiên công
+6_61053|long tượng thổ mỗ
+6_61054|cực hàn khí kình
+6_61055|pháp hoa công
+6_61056|vô tướng hộ thể
+6_61057|đăng vân thê
+6_61058|di hình hoán vị
+6_61059|long phi cửu thiên
+6_61060|thảo thượng phi
+6_61061|tinh đình điểm thủy
+6_61062|toàn phong tuyệt học
+6_61063|khu ác côn pháp
+6_61064|kim địch kiếm pháp
+6_61065|thái cực kiếm pháp
+6_61066|trấn long thủ
+6_61067|thái cực quyền pháp
+6_61068|đồ long chí dương chưởng
+6_61069|tân phân phi kiếm chưởng
+6_61070|côn luân thuần dương chưởng
+6_61071|côn luân phi hoa thủ
+6_61072|thuần dương chỉ
+6_61073|đa thải kiếm khí
+6_61074|khuất chỉ thần công
+6_61075|thần nữ tâm pháp
+6_61076|đảo chuyển côn luân
+6_61077|hoa nghiêm kinh
+6_61078|thiên địa huyền hoàng công
+6_61079|vô hình thần công
+6_61080|tu la thần công
+6_61081|tẩy tủy kinh
+6_61082|mật tông thổ mỗ công
+6_61083|chí dương kỳ công
+6_61084|đảo nghịch kinh mạch
+6_61085|sư hổ bàn nhược công
+6_61086|tạp a hàm kinh
+6_61087|trùng tiêu huyền công
+6_61088|phi vũ xuyên tinh bộ
+6_61089|liễu diệp kình
+6_61090|thiên huyễn thần hành
+6_61091|phi thiên dược
+6_61092|phiêu thủy di hình
+6_61093|kiếm thần cửu thức
+6_61094|càn khôn hỗ hoán
+6_61095|huyễn âm chỉ
+6_61096|đạp tuyết vô ngân
+6_61097|đại bảo luân pháp
+6_61098|sinh tử chú
+6_61099|phàn vân thừa long
+6_61100|bách hoa quyền pháp
+6_61101|vô vọng thần công
+6_61102|mê hồn đại pháp
+6_61103|phần tâm nhị dụng
+6_61104|nhất bộ thiên lý
+6_61105|u minh thần chưởng
+6_61106|thủ huy ngũ huyền
+6_61107|độc thiềm công
+6_61108|thập nhị cầm long
+6_61109|kim đỉnh miên chưởng
+6_61110|thất tinh lạc không
+6_61111|bàn nhược thần công
+6_61112|tu di sơn lực
+6_61113|xà hình điêu thủ
+6_61114|hống long chưởng
+6_61115|hư không di na tâm pháp
+6_61116|tâm ý khí hỗn nguyên công
+6_61117|linh dương chân tông nội công
+6_61118|diệt tuyệt kiếm pháp
+6_61119|tiềm long thăng thiên
+6_61120|phiêu tuyết xuyên vân
+6_61121|đại trí vô định
+6_61122|vạn ứng linh thông
+6_61123|tung hạc cầm long thủ
+6_61124|thiên chu vạn độc thủ
+6_61125|cửu long phi thiên tâm pháp
+6_61126|thái hư chân kinh
+6_61127|kim cương bàn nhược thần công
+6_61128|vô thượng tiềm uyên đao
+6_61129|thanh vân toái tâm chưởng
+6_61130|du vân đạp vụ thức
+6_61131|dương viêm thần công
+6_61132|vô cực chí dương công
+6_61133|bôn lôi kiếm pháp
+6_61134|đoạn cân chiết mạch thủ
+6_61135|lưu kim ám nguyệt phá
+6_61136|địa sát phong huyệt thủ
+6_61137|thiên thần hàng ma công
+8_62001|thiếu lâm kim cương quyền
+8_62002|tổ sư kiếm pháp
+8_62003|minh kính tâm pháp
+8_62004|huyền môn thổ nạp công
+8_62005|thổ nạp dưỡng sinh công
+8_62006|phật môn bế tức công
+8_62007|thiếu lâm đồng tử công
+8_62008|thần dũng đại pháp
+8_62009|tán công đại pháp
+8_62010|nguyệt ảnh vũ bộ
+8_62011|bỉ khâu đao pháp
+8_62012|quán điện kiếm
+8_62013|bất giới đao pháp
+8_62014|tứ tượng kiếm pháp
+8_62015|phật môn bát trượng
+8_62016|linh khuyển đoạt thực quyền
+8_62017|đả hổ quyền
+8_62018|phật môn hàng ma công
+8_62019|bát môn chưởng
+8_62020|lục lộ cầm nã thủ
+8_62021|chính khí quyết
+8_62022|ba la thiền công
+8_62023|cửu thiên huyền công
+8_62024|huyền vũ chân quyết
+8_62025|hồi sinh quyết
+8_62026|phạt mao tẩy tủy thiên
+8_62027|kim cương bất phôi
+8_62028|huyền thiên công
+8_62029|nê long công
+8_62030|độ thủy vô ngân
+8_62031|phi long tam chuyển
+8_62032|trương húc thiếp
+8_62033|lục hòa đao
+8_62034|hồng nhan kiếm pháp
+8_62035|tật phong kiếm pháp
+8_62036|cổ cầm vô ảnh kiếm
+8_62037|tiên gia thất kiếm
+8_62038|tam thanh thất kiếp kiếm
+8_62039|phích lịch quyền
+8_62040|hòa phong xuy liễu chưởng pháp
+8_62041|đại lực kim cương thủ
+8_62042|độn giáp tam chuyển
+8_62043|hợp khí chỉ
+8_62044|liệt diễm chỉ pháp
+8_62045|phất diệp chỉ
+8_62046|thuần dương công
+8_62047|đại chu thiên công
+8_62048|kim cương hàng ma công
+8_62049|ngũ luân phi thiên
+8_62050|khổ thiền công
+8_62051|bích vân thần công
+8_62052|nguyên thiên công
+8_62053|long tượng thổ mỗ
+8_62054|cực hàn khí kình
+8_62055|pháp hoa công
+8_62056|vô tướng hộ thể
+8_62057|đăng vân thê
+8_62058|di hình hoán vị
+8_62059|long phi cửu thiên
+8_62060|thảo thượng phi
+8_62061|tinh đình điểm thủy
+8_62062|toàn phong tuyệt học
+8_62063|khu ác côn pháp
+8_62064|kim địch kiếm pháp
+8_62065|thái cực kiếm pháp
+8_62066|trấn long thủ
+8_62067|thái cực quyền pháp
+8_62068|đồ long chí dương chưởng
+8_62069|tân phân phi kiếm chưởng
+8_62070|côn luân thuần dương chưởng
+8_62071|côn luân phi hoa thủ
+8_62072|thuần dương chỉ
+8_62073|đa thải kiếm khí
+8_62074|khuất chỉ thần công
+8_62075|thần nữ tâm pháp
+8_62076|đảo chuyển côn luân
+8_62077|hoa nghiêm kinh
+8_62078|thiên địa huyền hoàng công
+8_62079|vô hình thần công
+8_62080|tu la thần công
+8_62081|tẩy tủy kinh
+8_62082|mật tông thổ mỗ công
+8_62083|chí dương kỳ công
+8_62084|đảo nghịch kinh mạch
+8_62085|sư hổ bàn nhược công
+8_62086|tạp a hàm kinh
+8_62087|trùng tiêu huyền công
+8_62088|phi vũ xuyên tinh bộ
+8_62089|liễu diệp kình
+8_62090|thiên huyễn thần hành
+8_62091|phi thiên dược
+8_62092|phiêu thủy di hình
+6_62093|kiếm thần cửu thức
+6_62094|càn khôn hỗ hoán
+6_62095|huyễn âm chỉ
+6_62096|đạp tuyết vô ngân
+6_62097|đại bảo luân pháp
+8_62101|vô vọng thần công
+8_62105|u minh thần chưởng
+8_62113|xà hình điêu thủ
+8_62114|hống long chưởng
+8_62115|hư không di na tâm pháp
+8_62116|tâm ý khí hỗn nguyên công
+8_62117|linh dương chân tông nội công
+8_62123|tung hạc cầm long thủ
+8_62124|thiên chu vạn độc thủ
+8_62125|cửu long phi thiên tâm pháp
+8_62126|thái hư chân kinh
+8_62127|kim cương bàn nhược thần công
+8_62129|thanh thành thôi tâm chưởng
+8_62131|xích luyện thần công
+8_62133|lôi chấn kiếm pháp
+8_62135|kim quang nguyệt ảnh phá
+8_62137|hàng ma vô thượng thần công
+6_63001|thiếu lâm kim cương đồ phổ
+6_63002|tổ sư kiếm pháp đồ phổ
+6_63003|minh kính tâm pháp đồ phổ
+6_63004|thổ nạp công đồ phổ
+6_63005|dưỡng sinh công đồ phổ
+6_63006|bế tức công đồ phổ
+6_63007|đồng tử công đồ phổ
+6_63008|thần dũng đại pháp đồ phổ
+6_63009|tán công đại pháp đồ phổ
+6_63010|nguyệt ảnh vũ bộ đồ phổ
+6_63011|bỉ khâu đao pháp đồ phổ
+6_63012|quán điện kiếm đồ phổ
+6_63013|bất giới đao pháp đồ phổ
+6_63014|tứ tượng kiếm pháp đồ phổ
+6_63015|phật môn bát trượng đồ phổ
+6_63016|linh khuyển đoạt thực đồ phổ
+6_63017|đả hổ quyền đồ phổ
+6_63018|phật môn hàng ma đồ phổ
+6_63019|bát môn chưởng đồ phổ
+6_63020|lục lộ cầm nã đồ phổ
+6_63021|chính khí quyết đồ phổ
+6_63022|ba la thiền công đồ phổ
+6_63023|cửu thiên huyền công đồ phổ
+6_63024|huyền vũ chân quyết đồ phổ
+6_63025|hồi sinh quyết đồ phổ
+6_63026|phạt mao tẩy tủy đồ phổ
+6_63027|kim cương bất phôi đồ phổ
+6_63028|huyền thiên công đồ phổ
+6_63029|nê long công đồ phổ
+6_63030|độ thủy vô ngân đồ phổ
+6_63031|phi long tam chuyển đồ phổ
+6_63032|trương húc thiếp đồ phổ
+6_63033|lục hòa đao đồ phổ
+6_63034|hồng nhan kiếm pháp đồ phổ
+6_63035|tật phong kiếm pháp đồ phổ
+6_63036|cổ cầm vô ảnh đồ phổ
+6_63037|tiên gia thất kiếm đồ phổ
+6_63038|tam thanh thất kiếp đồ phổ
+6_63039|phích lịch quyền đồ phổ
+6_63040|hòa phong xuy liễu đồ phổ
+6_63041|đại lực kim cương đồ phổ
+6_63042|độn giáp tam chuyển đồ phổ
+6_63043|hợp khí chỉ đồ phổ
+6_63044|liệt diễm chỉ pháp đồ phổ
+6_63045|phất diệp chỉ đồ phổ
+6_63046|thuần dương công đồ phổ
+6_63047|đại chu thiên công đồ phổ
+6_63048|kim cương hàng ma đồ phổ
+6_63049|ngũ luân phi thiên đồ phổ
+6_63050|khổ thiền công đồ phổ
+6_63051|bích vân thần công đồ phổ
+6_63052|nguyên thiên công đồ phổ
+6_63053|long tượng thổ mỗ đồ phổ
+6_63054|cực hàn khí kình đồ phổ
+6_63055|pháp hoa công đồ phổ
+6_63056|vô tướng hộ thể đồ phổ
+6_63057|đăng vân thê đồ phổ
+6_63058|di hình hoán vị đồ phổ
+6_63059|long phi cửu thiên đồ phổ
+6_63060|thảo thượng phi đồ phổ
+6_63061|tinh đình điểm thủy đồ phổ
+6_63062|toàn phong tuyệt học đồ phổ
+6_63063|khu ác côn pháp đồ phổ
+6_63064|kim địch kiếm pháp đồ phổ
+6_63065|thái cực kiếm pháp đồ phổ
+6_63066|trấn long thủ đồ phổ
+6_63067|thái cực quyền pháp đồ phổ
+6_63068|đồ long chí dương đồ phổ
+6_63069|tân phân phi kiếm đồ phổ
+6_63070|côn luân thuần dương đồ phổ
+6_63071|côn luân phi hoa đồ phổ
+6_63072|thuần dương chỉ đồ phổ
+6_63073|đa thải kiếm khí đồ phổ
+6_63074|khuất chỉ thần công đồ phổ
+6_63075|thần nữ tâm pháp đồ phổ
+6_63076|đảo chuyển côn luân đồ phổ
+6_63077|hoa nghiêm kinh đồ phổ
+6_63078|thiên địa huyền hoàng đồ phổ
+6_63079|vô hình thần công đồ phổ
+6_63080|tu la thần công đồ phổ
+6_63081|tẩy tủy kinh đồ phổ
+6_63082|mật tông thổ mỗ đồ phổ
+6_63083|chí dương kỳ công đồ phổ
+6_63084|đảo nghịch kinh mạch đồ phổ
+6_63085|sư hổ bàn nhược đồ phổ
+6_63086|tạp a hàm kinh đồ phổ
+6_63087|trùng tiêu huyền công đồ phổ
+6_63088|phi vũ xuyên tinh đồ phổ
+6_63089|liễu diệp kình đồ phổ
+6_63090|thiên huyễn thần hành đồ phổ
+6_63091|phi thiên dược đồ phổ
+6_63092|phiêu thủy di hình đồ phổ
+6_63093|kiếm thần cửu thức đồ phổ
+6_63094|càn khôn hỗ hoán đồ phổ
+6_63095|huyễn âm chỉ đồ phổ
+6_63096|đạp tuyết vô ngân đồ phổ
+6_63097|đại bảo luân pháp đồ phổ
+6_63098|sinh tử chú đồ phổ
+6_63099|phàn vân thừa long đồ phổ
+6_63100|bách hoa quyền pháp đồ phổ
+6_63101|vô vọng thần công đồ phổ
+6_63102|mê hồn đại pháp đồ phổ
+6_63103|phần tâm nhị dụng đồ phổ
+6_63104|nhất bộ thiên lý đồ phổ
+6_63105|u minh thần chưởng đồ phổ
+6_63106|thủ huy ngũ huyền đồ phổ
+6_63107|độc thiềm công đồ phổ
+6_63108|thập nhị cầm long đồ phổ
+6_63109|kim đỉnh miên chưởng đồ phổ
+6_63110|thất tinh lạc không đồ phổ
+6_63111|bàn nhược thần công đồ phổ
+6_63112|tu di sơn lực đồ phổ
+6_63118|diệt tuyệt kiếm pháp đồ phổ
+6_63119|tiềm long thăng thiên đồ phổ
+6_63120|phiêu tuyết xuyên vân đồ phổ
+6_63121|đại trí vô định đồ phổ
+6_63122|vạn ứng linh thông đồ phổ
+6_63128|vô thượng tiềm uyên đao đồ phổ
+6_63130|du vân đạp vụ thức đồ phổ
+6_63132|vô cực chí dương công đồ phổ
+6_63134|đoạn cân chiết mạch thủ đồ phổ
+6_63136|địa sát phong huyệt thủ đồ phổ
+8_64001|kim cương quyền đồ phổ
+8_64002|tổ sư kiếm pháp đồ phổ
+8_64003|minh kính tâm pháp đồ phổ
+8_64004|thổ nạp công đồ phổ
+8_64005|dưỡng sinh công đồ phổ
+8_64006|bế tức công đồ phổ
+8_64007|đồng tử công đồ phổ
+8_64008|thần dũng đại pháp đồ phổ
+8_64009|tán công đại pháp đồ phổ
+8_64010|nguyệt ảnh vũ bộ đồ phổ
+8_64011|bỉ khâu đao pháp đồ phổ
+8_64012|quán điện kiếm đồ phổ
+8_64013|bất giới đao pháp đồ phổ
+8_64014|tứ tượng kiếm pháp đồ phổ
+8_64015|phật môn bát trượng đồ phổ
+8_64016|linh khuyển đoạt thực đồ phổ
+8_64017|đả hổ quyền đồ phổ
+8_64018|phật môn hàng ma đồ phổ
+8_64019|bát môn chưởng đồ phổ
+8_64020|lục lộ cầm nã đồ phổ
+8_64021|chính khí quyết đồ phổ
+8_64022|ba la thiền công đồ phổ
+8_64023|cửu thiên huyền công đồ phổ
+8_64024|huyền vũ chân quyết đồ phổ
+8_64025|hồi sinh quyết đồ phổ
+8_64026|phạt mao tẩy tủy đồ phổ
+8_64027|kim cương bất phôi đồ phổ
+8_64028|huyền thiên công đồ phổ
+8_64029|nê long công đồ phổ
+8_64030|độ thủy vô ngân đồ phổ
+8_64031|phi long tam chuyển đồ phổ
+8_64032|trương húc thiếp đồ phổ
+8_64033|lục hòa đao đồ phổ
+8_64034|hồng nhan kiếm pháp đồ phổ
+8_64035|tật phong kiếm pháp đồ phổ
+8_64036|cổ cầm vô ảnh đồ phổ
+8_64037|tiên gia thất kiếm đồ phổ
+8_64038|tam thanh thất kiếp đồ phổ
+8_64039|phích lịch quyền đồ phổ
+8_64040|hòa phong xuy liễu đồ phổ
+8_64041|đại lực kim cương đồ phổ
+8_64042|độn giáp tam chuyển đồ phổ
+8_64043|hợp khí chỉ đồ phổ
+8_64044|liệt diễm chỉ pháp đồ phổ
+8_64045|phất diệp chỉ đồ phổ
+8_64046|thuần dương công đồ phổ
+8_64047|đại chu thiên công đồ phổ
+8_64048|kim cương hàng ma đồ phổ
+8_64049|ngũ luân phi thiên đồ phổ
+8_64050|khổ thiền công đồ phổ
+8_64051|bích vân thần công đồ phổ
+8_64052|nguyên thiên công đồ phổ
+8_64053|long tượng thổ mỗ đồ phổ
+8_64054|cực hàn khí kình đồ phổ
+8_64055|pháp hoa công đồ phổ
+8_64056|vô tướng hộ thể đồ phổ
+8_64057|đăng vân thê đồ phổ
+8_64058|di hình hoán vị đồ phổ
+8_64059|long phi cửu thiên đồ phổ
+8_64060|thảo thượng phi đồ phổ
+8_64061|tinh đình điểm thủy đồ phổ
+8_64062|toàn phong tuyệt học đồ phổ
+8_64063|khu ác côn pháp đồ phổ
+8_64064|kim địch kiếm pháp đồ phổ
+8_64065|thái cực kiếm pháp đồ phổ
+8_64066|trấn long thủ đồ phổ
+8_64067|thái cực quyền pháp đồ phổ
+8_64068|đồ long chí dương đồ phổ
+8_64069|tân phân phi kiếm đồ phổ
+8_64070|côn luân thuần dương đồ phổ
+8_64071|côn luân phi hoa đồ phổ
+8_64072|thuần dương chỉ đồ phổ
+8_64073|đa thải kiếm khí đồ phổ
+8_64074|khuất chỉ thần công đồ phổ
+8_64075|thần nữ tâm pháp đồ phổ
+8_64076|đảo chuyển côn luân đồ phổ
+8_64077|hoa nghiêm kinh đồ phổ
+8_64078|thiên địa huyền hoàng đồ phổ
+8_64079|vô hình thần công đồ phổ
+8_64080|tu la thần công đồ phổ
+8_64081|tẩy tủy kinh đồ phổ
+8_64082|mật tông thổ mỗ đồ phổ
+8_64083|chí dương kỳ công đồ phổ
+8_64084|đảo nghịch kinh mạch đồ phổ
+8_64085|sư hổ bàn nhược đồ phổ
+8_64086|tạp a hàm kinh đồ phổ
+8_64087|trùng tiêu huyền công đồ phổ
+8_64088|phi vũ xuyên tinh đồ phổ
+8_64089|liễu diệp kình đồ phổ
+8_64090|thiên huyễn thần hành đồ phổ
+8_64091|phi thiên dược đồ phổ
+8_64092|phiêu thủy di hình đồ phổ
+8_64093|kiếm thần cửu thức đồ phổ
+8_64094|càn khôn hỗ hoán đồ phổ
+8_64095|huyễn âm chỉ đồ phổ
+8_64096|đạp tuyết vô ngân đồ phổ
+8_64097|đại bảo luân pháp đồ phổ
+8_64098|sinh tử chú đồ phổ
+8_64099|phàn vân thừa long đồ phổ
+8_64100|bách hoa quyền pháp đồ phổ
+8_64101|vô vọng thần công đồ phổ
+8_64102|mê hồn đại pháp đồ phổ
+8_64103|phần tâm nhị dụng đồ phổ
+8_64104|nhất bộ thiên lý đồ phổ
+8_64105|u minh thần chưởng đồ phổ
+8_64106|thủ huy ngũ huyền đồ phổ
+8_64107|độc thiềm công đồ phổ
+8_64108|thập nhị cầm long đồ phổ
+8_64109|kim đỉnh miên chưởng đồ phổ
+8_64110|thất tinh lạc không đồ phổ
+8_64111|bàn nhược thần công đồ phổ
+8_64112|tu di sơn lực đồ phổ
+8_64118|diệt tuyệt kiếm pháp đồ phổ
+8_64119|tiềm long thăng thiên đồ phổ
+8_64120|phiêu tuyết xuyên vân đồ phổ
+8_64121|đại trí vô định đồ phổ
+8_64122|vạn ứng linh thông đồ phổ
+8_64128|vô thượng tiềm uyên đao đồ phổ
+8_64130|du vân đạp vụ thức đồ phổ
+8_64132|vô cực chí dương công đồ phổ
+8_64134|đoạn cân chiết mạch thủ đồ phổ
+8_64136|địa sát phong huyệt thủ đồ phổ
+1_125|nhị chu niên khánh vũ khí
+1_126|nhị chu niên khánh thượng y
+1_127|nhị chu niên khánh yêu đái
+1_128|nhị chu niên khánh giới chỉ
+1_129|nhị chu niên khánh hài tử
+7_2345|côn luân tam thánh hiệp hồn
+10_30309|Tuyệt phẩm khí hồn kiềm
+10_30440|lục ngự long tiên thảo
+10_30441|ngũ dương hồn tinh
+35_30442|khí quán tu di - toàn bản
+10_30443|tâm pháp điển tịch minh tâm quyển
+10_30444|thiên cơ phù
+10_30445|tiểu kim trư
+27_30774|sơ cấp kinh nghiệm thiên mệnh
+27_30775|trung cấp kinh nghiệm thiên mệnh
+27_30776|cao cấp kinh nghiệm thiên mệnh
+10_30917|kim ba tuần hoa
+10_30918|thập bát học sĩ
+10_30919|vô lượng ngọc bích
+10_30920|tiểu ngọc hài
+10_30921|tứ thập nhị chương kinh
+10_30922|thanh tâm phổ thiện chú
+10_30923|đan thanh bút
+19_50038|bạch hổ thần trận
+20_52066|bạch hổ thần trận tàn hiệt
+24_53021|ma vân kim sí
+24_53022|minh phủ cự linh
+24_53023|khuê phúc thần quân
+24_53024|liệt viêm phong lôi thiểm
+4_45479|nhị chu niên trang bị tự tuyển tương
+4_40597|lương phẩm thiên mệnh tuyển trạch tương
+4_40598|tinh phẩm thiên mệnh tuyển trạch tương
+4_40599|cực phẩm thiên mệnh tuyển trạch tương
+4_40600|thần phẩm thiên mệnh tuyển trạch tương
+4_40601|Tuyệt phẩm thiên mệnh tuyển trạch tương
+4_40602|lương phẩm phương hình tuyển trạch tương
+4_40603|lương phẩm tam giác tuyển trạch tương
+4_40604|lương phẩm viên hình tuyển trạch tương
+4_40605|tinh phẩm phương hình tuyển trạch tương
+4_40606|tinh phẩm tam giác tuyển trạch tương
+4_40607|tinh phẩm viên hình tuyển trạch tương
+4_40608|cực phẩm phương hình tuyển trạch tương
+4_40609|cực phẩm tam giác tuyển trạch tương
+4_40610|cực phẩm viên hình tuyển trạch tương
+4_40611|thần phẩm phương hình tuyển trạch tương
+4_40612|thần phẩm tam giác tuyển trạch tương
+4_40613|thần phẩm viên hình tuyển trạch tương
+4_40614|Tuyệt phẩm phương hình tuyển trạch tương
+4_40615|Tuyệt phẩm tam giác tuyển trạch tương
+4_40616|Tuyệt phẩm viên hình tuyển trạch tương
+4_40617|thập lục cấp bảo thạch tương
+4_40618|thập lục cấp tân bảo thạch tương
+4_40619|thập thất cấp bảo thạch tương
+4_40620|thập thất cấp tân bảo thạch tương
+4_40621|thập bát cấp bảo thạch tương
+4_40622|thập bát cấp tân bảo thạch tương
+4_40623|thập cửu cấp bảo thạch tương
+4_40624|thập cửu cấp tân bảo thạch tương
+4_40625|nhị thập cấp bảo thạch tương
+4_40626|nhị thập cấp tân bảo thạch tương
+24_53020|kim quan lân xà
+24_53019|quỷ mục vương xà
+24_53018|xích luyện xà
+24_53017|thiết tuyến xà
+24_53016|thất bộ xà
+7_2346|côn luân tam thánh hiệp hồn
+7_2355|ThầnLâm Viễn Đồ hồn
+1_137|Thiên Cơ kiếm
+1_138|Thiên Cơ giáp
+1_139|Thiên Cơ mang
+1_140|Thiên Cơ giới
+1_141|Thiên Cơ giày
+7_2341|côn luân tam thánh hiệp hồn
+7_2344|côn luân tam thánh hiệp hồn
+7_2347|MaChu Chỉ Nhược hồn
+4_145438|Rương Trang Bị 2 Năm
+1_242|Tây Độc kiếm
+1_243|Tây Độc giáp
+1_244|Tây Độc mang
+1_245|Tây Độc giới
+1_246|Tây Độc giày
+4_145439|Rương Tây Độc
+12_50046|anh hiệp thiên thư
+35_100000|anh hiệp thiên thư
+2_1356|thập lục cấp khí huyết thạch
+2_1357|thập thất cấp khí huyết thạch
+2_1358|thập bát cấp khí huyết thạch
+2_1359|thập cửu cấp khí huyết thạch
+2_1360|nhị thập cấp khí huyết thạch
+2_1361|thập lục cấp vũ lực thạch
+2_1362|thập thất cấp vũ lực thạch
+2_1363|thập bát cấp vũ lực thạch
+2_1364|thập cửu cấp vũ lực thạch
+2_1365|nhị thập cấp vũ lực thạch
+2_1366|thập lục cấp nội lực thạch
+2_1367|thập thất cấp nội lực thạch
+2_1368|thập bát cấp nội lực thạch
+2_1369|thập cửu cấp nội lực thạch
+2_1370|nhị thập cấp nội lực thạch
+2_1371|thập lục cấp phòng ngự thạch
+2_1372|thập thất cấp phòng ngự thạch
+2_1373|thập bát cấp phòng ngự thạch
+2_1374|thập cửu cấp phòng ngự thạch
+2_1375|nhị thập cấp phòng ngự thạch
+2_1376|thập lục cấp bạo kích thạch
+2_1377|thập thất cấp bạo kích thạch
+2_1378|thập bát cấp bạo kích thạch
+2_1379|thập cửu cấp bạo kích thạch
+2_1380|nhị thập cấp bạo kích thạch
+2_1381|thập lục cấp kháng bạo thạch
+2_1382|thập thất cấp kháng bạo thạch
+2_1383|thập bát cấp kháng bạo thạch
+2_1384|thập cửu cấp kháng bạo thạch
+2_1385|nhị thập cấp kháng bạo thạch
+2_1386|thập lục cấp thân pháp thạch
+2_1387|thập thất cấp thân pháp thạch
+2_1388|thập bát cấp thân pháp thạch
+2_1389|thập cửu cấp thân pháp thạch
+2_1390|nhị thập cấp thân pháp thạch
+2_1391|thập lục cấp mệnh trung thạch
+2_1392|thập thất cấp mệnh trung thạch
+2_1393|thập bát cấp mệnh trung thạch
+2_1394|thập cửu cấp mệnh trung thạch
+2_1395|nhị thập cấp mệnh trung thạch
+2_1396|thập lục cấp thiểm tị thạch
+2_1397|thập thất cấp thiểm tị thạch
+2_1398|thập bát cấp thiểm tị thạch
+2_1399|thập cửu cấp thiểm tị thạch
+2_1400|nhị thập cấp thiểm tị thạch
+2_1401|Đá Hp 26
+2_1402|Đá Hp 27
+2_1403|Đá Hp 28
+2_1404|Đá Hp 29
+2_1405|Đá Hp 30
+2_1406|Đá Võ Lực 26
+2_1407|Đá Võ Lực 27
+2_1408|Đá Võ Lực 28
+2_1409|Đá Võ Lực 29
+2_1410|Đá Võ Lực 30
+2_1411|Đá Nội Lực 26
+2_1412|Đá Nội Lực 27
+2_1413|Đá Nội Lực 28
+2_1414|Đá Nội Lực 29
+2_1415|Đá Nội Lực 30
+2_1416|Đá Thủ 26
+2_1417|Đá Thủ 27
+2_1418|Đá Thủ 28
+2_1419|Đá Thủ 29
+2_1420|Đá Thủ 30
+2_1421|Đá Bạo 26
+2_1422|Đá Bạo 27
+2_1423|Đá Bạo 28
+2_1424|Đá Bạo 29
+2_1425|Đá Bạo 30
+2_1426|Đá K. Bạo 26
+2_1427|Đá K. Bạo 27
+2_1428|Đá K. Bạo 28
+2_1429|Đá K. Bạo 29
+2_1430|Đá K. Bạo 30
+2_1431|Đá Thân Pháp 26
+2_1432|Đá Thân Pháp 27
+2_1433|Đá Thân Pháp 28
+2_1434|Đá Thân Pháp 29
+2_1435|Đá Thân Pháp 30
+2_1436|Đá Trúng 26
+2_1437|Đá Trúng 27
+2_1438|Đá Trúng 28
+2_1439|Đá Trúng 29
+2_1440|Đá Trúng 30
+2_1441|Đá Né 26
+2_1442|Đá Né 27
+2_1443|Đá Né 28
+2_1444|Đá Né 29
+2_1445|Đá Né 30
+7_2356|
+7_2351|vô tình sư thái hiệp hồn
+7_2349|
+7_2357|
+7_2343|Viên sĩ tiêu hiệp hồ
+7_2348|Lý tầm hoan hiệp hồn
+7_2342|
+10_30315|Cục Thần Kì
+4_45516|nhị thập cấp bảo thạch tương
+4_45517|nhị thập cấp bảo thạch tương
+4_45518|nhị thập cấp bảo thạch tương
+4_45519|nhị thập cấp bảo thạch tương
+10_74049|tiểu kim trư
+35_100001|anh hiệp thiên thư
+35_100002|anh hiệp thiên thư
+35_100003|anh hiệp thiên thư
+35_100004|anh hiệp thiên thư
+1_143|Tây Độc kiếm
+1_144|Tây Độc giáp
+1_145|Tây Độc mang
+1_146|Tây Độc giới
+1_147|Tây Độc giày
+4_123456|Rương Tb
+12_50045|anh hiệp thiên thư
+7_2352|
+7_9278|
+7_9297|
+7_2353|
+7_9012|
+7_9308|
+7_9294|
+7_9279|
+7_9013|
+27_91999|Tuyệt phẩm khí huyết
+27_92000|Tuyệt phẩm vũ lực
+27_92001|Tuyệt phẩm phòng ngự
+27_92002|Tuyệt phẩm nội lực
+27_92003|Tuyệt phẩm thân pháp
+27_92004|Tuyệt phẩm cường khí huyết
+27_92005|Tuyệt phẩm cường vũ lực
+27_92006|Tuyệt phẩm cường phòng ngự
+27_92007|Tuyệt phẩm cường nội lực
+27_92008|Tuyệt phẩm cường thân pháp
+28_92100|Tuyệt phẩm mệnh trung
+28_92101|Tuyệt phẩm thiểm tị
+28_92102|Tuyệt phẩm bạo kích
+28_92103|Tuyệt phẩm kháng bạo
+28_92104|Tuyệt phẩm phổ công thương hại
+28_92105|Tuyệt phẩm kỹ năng thương hại
+28_92106|Tuyệt phẩm trì tục thương hại
+28_92107|Tuyệt phẩm phổ công giảm miễn
+28_92108|Tuyệt phẩm kỹ năng giảm miễn
+28_92200|Tuyệt phẩm trì tục giảm miễn
+29_92201|Tuyệt phẩm khí huyết khôi phục
+29_92202|Tuyệt phẩm thụ liệu gia thành
+29_92203|Tuyệt phẩm thương hại gia thành
+29_92204|Tuyệt phẩm thương hại giảm miễn
+29_92205|Tuyệt phẩm bạo thương tăng gia
+29_92206|Tuyệt phẩm bạo thương giảm miễn
+29_92207|Tuyệt phẩm vô thị giảm thương
+4_88888|
+4_88889|
+24_54100|
+16_140006|
+16_140035|
+20_500000|
+19_50039|
+24_55095|bạch vĩ điêu
+24_55096|tuyết dực điêu
+24_55097|kim sí điêu
+24_55098|bích đồng linh điêu
+24_55099|diễm linh thần điêu
+24_56095|tiểu hắc viên
+24_56096|bạch nhung viên
+24_56097|thiết tí viên
+24_56098|hàn xuyên linh viên
+4_800001|
+24_54095|thất bộ xà
+24_54096|thiết tuyến xà
+24_54097|xích luyện xà
+24_54098|quỷ mục vương xà
+24_54099|kim quan lân xà
+24_53095|quỷ mục vương xà
+24_53096|xích luyện xà
+24_53097|thiết tuyến xà
+24_53098|thất bộ xà
+24_53099|kim quan lân xà
+24_55100|ma vân kim sí
+24_56100|minh phủ cự linh
+24_53100|liệt viêm phong lôi thiểm
+4_800002|
+1_601|
+1_602|

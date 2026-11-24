@@ -1,0 +1,18 @@
+80003;60 Nguyên bảo
+80005;300 Nguyên bảo
+80006;680 Nguyên bảo
+80007;980 Nguyên bảo
+80009;1980 Nguyên bảo
+80010;2980 Nguyên bảo
+80011;3280 Nguyên bảo
+80012;6480 Nguyên bảo
+80013;10000 Nguyên bảo
+80014;20000 Nguyên bảo
+80015;30000 Nguyên bảo
+31002;Thẻ tháng Cổ tích
+40001;S1 Trận đấu mùa giải tiên lệnh đặc quyền
+40002;S2 Trận đấu mùa giải tiên lệnh đặc quyền
+40003;S3 Trận đấu mùa giải tiên lệnh đặc quyền
+40004;S4 Trận đấu mùa giải tiên lệnh đặc quyền
+40005;S5 Trận đấu mùa giải tiên lệnh đặc quyền
+40006;S6 Trận đấu mùa giải tiên lệnh đặc quyền

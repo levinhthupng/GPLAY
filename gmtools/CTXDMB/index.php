@@ -1,0 +1,256 @@
+<?php
+require_once('../../head.php');
+?>
+    <title>Công Thành Xưng Đế Mobile | GM Tools | <?= $site['site_tenweb']; ?></title>
+<?php require_once('../../sidebar.php'); ?>
+    <div class="mobile-menu-overlay"></div>
+    <div class="main-container">
+    <div class="pd-ltr-20 xs-pd-20-10">
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7930717041744833"
+            crossorigin="anonymous"></script>
+    <!-- ads18 -->
+    <ins class="adsbygoogle"
+         style="display:block; text-align:center;"
+         data-ad-client="ca-pub-7930717041744833"
+         data-ad-slot="2015150245"
+         data-ad-format="auto"
+         data-full-width-responsive="true"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+    <div class="page-header">
+        <div class="row">
+            <div class="col-md-6 col-sm-12">
+                <div class="title">
+                    <h4>Tiểu Yêu Tầm Đạo GM Tools</h4>
+                </div>
+                <nav aria-label="breadcrumb" role="navigation">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a href="/">Home</a></li>
+                        <li class="breadcrumb-item"><a href="#">GM Tools</a></li>
+                        <li class="breadcrumb-item active" aria-current="page">Công Thành Xưng Đế Mobile Tools Full Vật
+                            Phẩm
+                        </li>
+                    </ol>
+                </nav>
+            </div>
+        </div>
+    </div>
+    <!-- Default Basic Forms Start -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7930717041744833"
+            crossorigin="anonymous"></script>
+    <!-- ads19 -->
+    <ins class="adsbygoogle"
+         style="display:block; text-align:center;"
+         data-ad-client="ca-pub-7930717041744833"
+         data-ad-slot="7064468386"
+         data-ad-format="auto"
+         data-full-width-responsive="true"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+    <div class="row" style="text-align: center;justify-content: center;">
+    <div class="center col-md-2 col-sm-12">
+        <ins class="adsbygoogle"
+             style="display:block; text-align:center;"
+             data-ad-client="ca-pub-7930717041744833"
+             data-ad-slot="7064468386"
+             data-ad-format="auto"
+             data-full-width-responsive="true"></ins>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+    <div class="center col-md-6 col-sm-12">
+        <div class="card-box mb-30">
+            <div class="pd-20">
+                <div class="alert alert-info mt-2" style="text-align: center;" role="alert">
+                    <i class="fa fa-bell"></i> CÔNG THÀNH XƯNG ĐẾ MOBILE <i class="fa fa-bell"></i>
+                </div>
+                <ins class="adsbygoogle"
+                     style="display:block; text-align:center;"
+                     data-ad-layout="in-article"
+                     data-ad-format="fluid"
+                     data-ad-client="ca-pub-7930717041744833"
+                     data-ad-slot="1642124461"></ins>
+                <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                </script>
+                <div class="alert alert-danger mt-2" style="text-align: center;" role="alert">
+                    <i class="fa fa-bell"></i>- Tools Số lượng ít đủ dùng. <i class="fa fa-bell"></i> </br>
+                    <i class="fa fa-bell"></i>- Vật phẩm nào dùng được thì tools số lượng nhiều, trường hợp không dùng
+                    được mà tools số lượng lớn bị lỗi Admin không chịu trách nhiệm. <i class="fa fa-bell"></i> </br>
+                    <i class="fa fa-bell"></i>- Nếu server Reopen AE vui lòng bấm mua lại tools để được kích hoạc lại
+                    tools miễn phí. Lưu ý: Thông tin phải trùng với thông tin trong lịch sử mua tools.<i
+                            class="fa fa-bell"></i>
+                </div>
+                <ins class="adsbygoogle"
+                     style="display:block; text-align:center;"
+                     data-ad-layout="in-article"
+                     data-ad-format="fluid"
+                     data-ad-client="ca-pub-7930717041744833"
+                     data-ad-slot="9081630787"></ins>
+                <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                </script>
+                <form id="GMTools" method="post">
+
+                    <div class="form-group">
+                        <label for="" class="control-label">Chọn Sever:</label>
+                        <select class="custom-select form-control" name="qu" id="qu" required="">
+                            <option value="">-- Sever Game --</option>
+                            <option value="10001">S1-G100K</option>
+                            <option value="10002">S2-G100K</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="" class="control-label">Nhập UID Nhân Vật:</label> <br>
+                        <input type="text" id="uid" name="uid" class="form-control is-valid">
+                    </div>
+                    <div class="alert alert-warning mt-2" style="text-align: center;" role="alert">
+                        <b style="color:red;">
+                    <i class="fa fa-bell"></i>- Vào game chơi hết hướng dẫn tân thủ Lv30 mới sử dụng GM.<i class="fa fa-bell"></i> </br>
+                    <i class="fa fa-bell"></i>- Tránh bị lỗi hướng dẫn tân thủ bị kẹt Lv14 không lên cấp 15. <i class="fa fa-bell"></i> </br>
+                    <i class="fa fa-bell"></i>- Nếu gặp lỗi này thì các bạn tháo hết tướng trong đội hình ra rồi gắn mấy con tướng tím được tặng đầu game vào là lên Lv15.<i
+                            class="fa fa-bell"></i>
+                             <i class="fa fa-bell"></i>- Làm Nhiêm Vụ tới đâu thì nâng tới đó. TH không làm nhiệm vụ nâng lỗi sẽ không chịu trách nhiệm<i
+                            class="fa fa-bell"></i>
+                            </b>
+                </div>
+                    <div class="alert alert-danger mt-2" style="text-align: center;" role="alert">
+                        <i class="fa fa-bell"></i> Nạp Free <i class="fa fa-bell"></i>
+                    </div>
+                    <div class="form-group">
+                        <label for="" class="control-label">Chọn Vật Phẩm:</label>
+                        <select class="selectpicker form-control show-tick" id="chargetype" name="chargetype"
+                                data-live-search="true" data-size="5">
+                            <option value="">-- Chọn Vật Phẩm --</option>
+                            <option value="diamond">Kim Nguyên Bảo</option>
+                            <option value="gold,">Đồng</option>
+                            <option value="food,">Lương thảo</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="" class="control-label">Nhập Số Lượng:</label> <br>
+                        <small style="color:red;" id="infogm"></small>
+                        <input type="text" id="chargenum" name="chargenum" class="form-control is-valid">
+                    </div>
+                    <ins class="adsbygoogle"
+                         style="display:block; text-align:center;"
+                         data-ad-client="ca-pub-7930717041744833"
+                         data-ad-slot="9679857588"
+                         data-ad-format="auto"
+                         data-full-width-responsive="true"></ins>
+                    <script>
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    <div class="form-group">
+                        <button class="btn g100k btn-danger" id="NapFree" name="NapFree" type="button"><i
+                                    class="fa fa-credit-card"></i> Nạp Free
+                        </button>
+                    </div>
+                    <div class="form-group">
+                        <button class="btn g100k btn-info" id="XoaThu" name="XoaThu" type="button"><i
+                                    class="fa fa-credit-card"></i> Xóa Thư
+                        </button>
+                    </div>
+                    <div class="alert alert-warning mt-2" style="text-align: center;" role="alert">
+                        <b style="color:red;">
+                    <i class="fa fa-bell"></i>- Cân Nhắc Xóa Balo Khi Sử Dụng. Bị lỗi Không chịu trách nhiệm.<i class="fa fa-bell"></i> </br>
+                            </b>
+                </div>
+                                        <div class="form-group">
+                        <button class="btn g100k btn-warning" id="ClearBag" name="ClearBag" type="button"><i
+                                    class="fa fa-credit-card"></i> Xóa BaLo
+                        </button>
+                    </div>
+                    <script async
+                            src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7930717041744833"
+                            crossorigin="anonymous"></script>
+                    <ins class="adsbygoogle"
+                         style="display:block; text-align:center;"
+                         data-ad-layout="in-article"
+                         data-ad-format="fluid"
+                         data-ad-client="ca-pub-7930717041744833"
+                         data-ad-slot="9907627297"></ins>
+                    <script>
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                   
+                    <script async
+                            src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7930717041744833"
+                            crossorigin="anonymous"></script>
+                    <ins class="adsbygoogle"
+                         style="display:block; text-align:center;"
+                         data-ad-layout="in-article"
+                         data-ad-format="fluid"
+                         data-ad-client="ca-pub-7930717041744833"
+                         data-ad-slot="7956251378"></ins>
+                    <script>
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    <div class="alert alert-success mt-2" style="text-align: center;" role="alert">
+                        <i class="fa fa-bell"></i> Gửi Vật Phẩm <i class="fa fa-bell"></i>
+                    </div>
+                    <div class="form-group">
+                        <label for="" class="control-label">Chọn Vật Phẩm:</label>
+                        <select class="selectpicker form-control show-tick" id="mailid" name="mailid"
+                                data-live-search="true" data-size="5">
+                            <option value="">-- Chọn Vật Phẩm --</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="" class="control-label">Nhập Số Lượng:</label> <br>
+                        <small style="color:red;" id="infogm"></small>
+                        <input type="text" id="mailnum" name="mailnum" class="form-control is-valid">
+                    </div>
+                    <ins class="adsbygoogle"
+                         style="display:block; text-align:center;"
+                         data-ad-client="ca-pub-7930717041744833"
+                         data-ad-slot="8092838979"
+                         data-ad-format="auto"
+                         data-full-width-responsive="true"></ins>
+                    <script>
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+
+                    <div class="form-group">
+                        <button class="btn g100k btn-success" id="SendMail" name="SendMail" type="button"><i
+                                    class="fa fa-credit-card"></i> Gửi Vật Phẩm
+                        </button>
+                    </div>
+                    <script async
+                            src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7930717041744833"
+                            crossorigin="anonymous"></script>
+                    <!-- ads20 -->
+                    <ins class="adsbygoogle"
+                         style="display:block; text-align:center;"
+                         data-ad-client="ca-pub-7930717041744833"
+                         data-ad-slot="2371940131"
+                         data-ad-format="auto"
+                         data-full-width-responsive="true"></ins>
+                    <script>
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                </form>
+            </div>
+
+        </div>
+    </div>
+    <div class="center col-md-2 col-sm-12">
+        <ins class="adsbygoogle"
+             style="display:block; text-align:center;"
+             data-ad-client="ca-pub-7930717041744833"
+             data-ad-slot="8749919294"
+             data-ad-format="auto"
+             data-full-width-responsive="true"></ins>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+    </form>
+    <div id="loading">
+        <img src="/assets/img/2000x2000-gif3.gif">
+    </div>
+    <script src="/gm-tools/cong-thanh-xung-de/g100k.js?time=<? echo $t;?>"></script>
+  <?php require_once('../../foot.php'); ?>

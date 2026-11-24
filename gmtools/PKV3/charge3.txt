@@ -1,0 +1,19 @@
+4000; Thám hiểm linh kiện
+501; Phỉ Suiseiseki
+521; Thần thú vạn năng mảnh vỡ
+502; Phổ thông vạn năng mảnh vỡ
+111; Khắc ấn tinh thạch
+112; Khắc ấn đột phá ngọc thạch
+514; Sao chổi mảnh vỡ
+2103; Cao cấp cường hóa thạch
+851; Tử Tinh tiềm năng thạch
+850; Lam Ngọc tiềm năng thạch
+422; Công hội chiến huân kim tệ
+412; Aether quỹ ngân sách
+coin6; Thạch anh kim chất huy chương
+152; Cầu vồng xì sơn
+151; Huy chương mảnh vỡ
+16; Cây nước trái cây
+5037; Cây lựu cỏ Nguyên bảo thạch
+5038; Cây lựu Hỏa nguyên bảo thạch
+5039; Cây lựu Thủy nguyên bảo thạch

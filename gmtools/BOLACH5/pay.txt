@@ -1,0 +1,175 @@
+1,10| Thủ mạo xưng hào lễ nạp tiền thành công
+2,30| Chiến lực kèn lệnh mua thành công
+3,68| Điểm kim thủ
+4,98| Vận mệnh tinh bàn
+5,38| Nguyệt thẻ nạp tiền thành công
+6,168| Chí tôn đặc quyền nạp tiền thành công
+7,1|1 Nguyên miểu sát 1 Nguyên
+8,3|1 Nguyên miểu sát 3 Nguyên
+9,6|1 Nguyên miểu sát 6 Nguyên
+10,8|1 Nguyên miểu sát 8 Nguyên
+11,10|SVIP Miểu sát 10 Nguyên
+12,68|SVIP Miểu sát 68 Nguyên
+13,128|SVIP Miểu sát 128 Nguyên
+14,168|SVIP Miểu sát 168 Nguyên
+15,6| Thành công nạp tiền 6 Nguyên
+16,30| Thành công nạp tiền 30 Nguyên
+17,60| Thành công nạp tiền 60 Nguyên
+18,98| Thành công nạp tiền 98 Nguyên
+19,198| Thành công nạp tiền 198 Nguyên
+20,328| Thành công nạp tiền 328 Nguyên
+21,648| Thành công nạp tiền 648 Nguyên
+22,1288| Thành công nạp tiền 1288 Nguyên
+23,2998| Thành công nạp tiền 2998 Nguyên
+45,30| Tọa kỵ thẳng mua gói quà
+46,108| Tọa kỵ thẳng mua gói quà
+47,648| Tọa kỵ thẳng mua gói quà
+48,1288| Tọa kỵ thẳng mua gói quà
+49,30| Vũ khí thẳng mua gói quà
+50,108| Vũ khí thẳng mua gói quà
+51,648| Vũ khí thẳng mua gói quà
+52,1288| Vũ khí thẳng mua gói quà
+53,30| Long tộc thẳng mua gói quà
+54,108| Long tộc thẳng mua gói quà
+55,648| Long tộc thẳng mua gói quà
+56,1288| Long tộc thẳng mua gói quà
+57,30| Cánh thẳng mua gói quà
+58,108| Cánh thẳng mua gói quà
+59,648| Cánh thẳng mua gói quà
+60,1288| Cánh thẳng mua gói quà
+61,30| Chiến tướng thẳng mua gói quà
+62,108| Chiến tướng thẳng mua gói quà
+63,648| Chiến tướng thẳng mua gói quà
+64,1288| Chiến tướng thẳng mua gói quà
+65,30| Chiến kỵ thẳng mua gói quà
+66,108| Chiến kỵ thẳng mua gói quà
+67,648| Chiến kỵ thẳng mua gói quà
+68,1288| Chiến kỵ thẳng mua gói quà
+69,30| Thánh linh thẳng mua gói quà
+70,108| Thánh linh thẳng mua gói quà
+71,648| Thánh linh thẳng mua gói quà
+72,1288| Thánh linh thẳng mua gói quà
+73,10| Tuần thẻ nạp tiền thành công
+74,30| Trưởng thành trở lại lợi
+75,68| Đồ đằng thẳng mua gói quà
+76,328| Đồ đằng thẳng mua gói quà
+77,648| Đồ đằng thẳng mua gói quà
+78,108| Thời trang thẳng mua gói quà
+79,648| Thời trang thẳng mua gói quà
+80,1288| Thời trang thẳng mua gói quà
+81,68| Nước Tinh Tinh Thạch thẳng mua gói quà
+82,68| Kim Tinh Tinh Thạch thẳng mua gói quà
+83,68| Lửa Tinh Tinh Thạch thẳng mua gói quà
+84,68| Mộc Tinh Tinh Thạch thẳng mua gói quà
+85,68| Thổ tinh tinh thạch thẳng mua gói quà
+86,68| Trời Tinh Tinh Thạch thẳng mua gói quà
+87,198| Đồng bạn thẳng mua gói quà
+88,198| Đồng bạn thẳng mua gói quà
+89,198| Đồng bạn thẳng mua gói quà
+90,648| Đồng bạn thẳng mua gói quà
+91,648| Đồng bạn thẳng mua gói quà
+92,30| Mào thẻ thẳng mua gói quà
+93,98| Bát Hoang khiến
+94,30| Tọa kỵ thẳng mua gói quà
+95,30| Vũ khí thẳng mua gói quà
+96,30| Long tộc thẳng mua gói quà
+97,30| Cánh thẳng mua gói quà
+98,30| Chiến tướng thẳng mua gói quà
+99,30| Chiến kỵ thẳng mua gói quà
+100,30| Thánh linh thẳng mua gói quà
+101,108| Tọa kỵ thẳng mua gói quà
+102,108| Vũ khí thẳng mua gói quà
+103,108| Long tộc thẳng mua gói quà
+104,108| Cánh thẳng mua gói quà
+105,108| Chiến tướng thẳng mua gói quà
+106,108| Chiến kỵ thẳng mua gói quà
+107,108| Thánh linh thẳng mua gói quà
+108,648| Tọa kỵ thẳng mua gói quà
+109,648| Vũ khí thẳng mua gói quà
+110,648| Long tộc thẳng mua gói quà
+111,648| Cánh thẳng mua gói quà
+112,648| Chiến tướng thẳng mua gói quà
+113,648| Chiến kỵ thẳng mua gói quà
+114,648| Thánh linh thẳng mua gói quà
+115,1288| Tọa kỵ thẳng mua gói quà
+116,1288| Vũ khí thẳng mua gói quà
+117,1288| Long tộc thẳng mua gói quà
+118,1288| Cánh thẳng mua gói quà
+119,1288| Chiến tướng thẳng mua gói quà
+120,1288| Chiến kỵ thẳng mua gói quà
+121,1288| Thánh linh thẳng mua gói quà
+122,30| Siêu giá trị thẳng mua gói quà
+123,108| Siêu giá trị thẳng mua gói quà
+124,328| Siêu giá trị thẳng mua gói quà
+125,648| Siêu giá trị thẳng mua gói quà
+126,98| Cuồng hoan tiệc tùng gói quà
+127,198| Sủng vật hạn lúc gói quà
+128,198| Sủng vật hạn lúc gói quà
+129,198| Sủng vật hạn lúc gói quà
+130,1288| Sủng vật hạn lúc gói quà
+131,1288| Sủng vật hạn lúc gói quà
+132,1288| Sủng vật hạn lúc gói quà
+133,1288| Sủng vật hạn lúc gói quà
+134,1288| Sủng vật hạn lúc gói quà
+135,1288| Sủng vật hạn lúc gói quà
+136,1288| Sủng vật hạn lúc gói quà
+137,1288| Sủng vật hạn lúc gói quà
+138,1288| Sủng vật hạn lúc gói quà
+139,1288| Sủng vật hạn lúc gói quà
+140,1288| Sủng vật hạn lúc gói quà
+141,1288| Sủng vật hạn lúc gói quà
+142,1288| Sủng vật hạn lúc gói quà
+143,1288| Sủng vật hạn lúc gói quà
+144,1288| Sủng vật hạn lúc gói quà
+145,1288| Sủng vật hạn lúc gói quà
+146,1288| Sủng vật hạn lúc gói quà
+147,1288| Sủng vật hạn lúc gói quà
+148,1288| Sủng vật hạn lúc gói quà
+149,50| Sủng vật hạn lúc gói quà
+150,50| Sủng vật hạn lúc gói quà
+151,50| Sủng vật hạn lúc gói quà
+152,50| Sủng vật hạn lúc gói quà
+153,50| Sủng vật hạn lúc gói quà
+154,50| Sủng vật hạn lúc gói quà
+155,50| Sủng vật hạn lúc gói quà
+156,50| Sủng vật hạn lúc gói quà
+157,50| Sủng vật hạn lúc gói quà
+158,50| Sủng vật hạn lúc gói quà
+159,50| Sủng vật hạn lúc gói quà
+160,50| Sủng vật hạn lúc gói quà
+161,1288| Long tộc hạn lúc gói quà
+162,1288| Long tộc hạn lúc gói quà
+163,1288| Long tộc hạn lúc gói quà
+164,1288| Long tộc hạn lúc gói quà
+165,648| Long tộc hạn lúc gói quà
+166,648| Long tộc hạn lúc gói quà
+167,328| Long tộc hạn lúc gói quà
+168,328| Long tộc hạn lúc gói quà
+169,68| Long tộc hạn lúc gói quà
+170,68| Long tộc hạn lúc gói quà
+171,68| Long tộc hạn lúc gói quà
+172,68| Long tộc hạn lúc gói quà
+173,50| Đồng bạn hạn lúc gói quà
+174,50| Đồng bạn hạn lúc gói quà
+175,50| Đồng bạn hạn lúc gói quà
+176,328| Đồng bạn hạn lúc gói quà
+177,328| Đồng bạn hạn lúc gói quà
+178,648| Đồng bạn hạn lúc gói quà
+179,1288| Đồng bạn hạn lúc gói quà
+180,50| Đồng bạn hạn lúc gói quà
+181,50| Đồng bạn hạn lúc gói quà
+182,50| Đồng bạn hạn lúc gói quà
+183,50| Đồng bạn hạn lúc gói quà
+184,198| Đồng bạn hạn lúc gói quà
+185,198| Chiến tướng hạn lúc gói quà
+186,198| Chiến tướng hạn lúc gói quà
+187,1288| Chiến tướng hạn lúc gói quà
+188,1288| Chiến tướng hạn lúc gói quà
+189,1288| Chiến tướng hạn lúc gói quà
+190,1288| Chiến tướng hạn lúc gói quà
+191,1288| Chiến tướng hạn lúc gói quà
+192,1288| Chiến tướng hạn lúc gói quà
+193,2998| Chiến tướng hạn lúc gói quà
+194,2998| Chiến tướng hạn lúc gói quà
+195,2998| Chiến tướng hạn lúc gói quà
+196,2998| Chiến tướng hạn lúc gói quà

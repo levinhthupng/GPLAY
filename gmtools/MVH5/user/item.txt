@@ -1,0 +1,215 @@
+1001|Túi Tử Thủy Tinh
+1002|Bình Suối Thánh
+1003|Pháp Điển Trùng Sinh
+1004|Công Tích Thư-Sơ
+1005|Tử Thủy Tinh (Ngẫu Nhiên)
+1006|Pháp Điển Trùng Sinh (Ngẫu Nhiên)
+1007|Công Tích Thư-Trung
+1010|Túi Bảo Vật
+1011|Lễ Hộp Á Quân Tranh Bá
+1020|Ma Pháp Kinh Nghiệm Thư
+1021|Ma Pháp Kinh Nghiệm Thư (Ngẫu Nhiên)
+1029|Kỹ Năng Kinh Nghiệm Thư (Ngẫu Nhiên)
+1030|Kỹ Năng Kinh Nghiệm Thư
+1031|Đá Hiền Giả (Ngẫu Nhiên)
+1032|Lì Xì Kim Kê
+1033|Lễ Hộp Hợp Thành Sứ Ma
+1040|Chiến Lợi Phẩm Thường
+1041|Chiến Lợi Phẩm Hiếm
+1042|Chiến Lợi Phẩm Sử Thi
+1043|Chiến Lợi Phẩm Truyền Thuyết
+1051|Túi Quà Tặng
+1052|Lễ Hộp Hẹn Hò
+1053|Bảo Hộp Nuôi Dưỡng Cấp 2
+1054|Lễ Hộp Hợp Thành Sứ Ma
+1055|Túi Quà Tặng
+1056|Lễ Hộp Hẹn Hò-Chân
+1057|Hộp Trang Điểm Công Chúa
+1058|Lễ Hộp Hợp Thành Sứ Ma
+1090|Thỉnh Chiến Thư
+1101|Chinh Thu Lệnh
+1102|Sổ Tay Chính Vụ
+1150|Lễ Hộp Thủy Tinh Nguyên Thạch
+1151|Võ Lực Thủy Tinh Nguyên Thạch
+1152|Trí Lực Thủy Tinh Nguyên Thạch
+1153|Vận Khí Thủy Tinh Nguyên Thạch
+1154|Tinh Thần Thủy Tinh Nguyên Thạch
+1161|Mảnh Thủy Tinh
+1201|Kẹo Năng Lực Cấp 3
+1202|Kẹo Võ Lực Cấp 3
+1203|Kẹo Trí Lực Cấp 3
+1204|Kẹo Vận Khí Cấp 3
+1205|Kẹo Tinh Thần Cấp 3
+1206|Kẹo Năng Lực Cấp 2
+1207|Kẹo Võ Lực Cấp 2
+1208|Kẹo Trí Lực Cấp 2
+1209|Kẹo Vận Khí Cấp 2
+1210|Kẹo Tinh Thần Cấp 2
+1211|Kẹo Năng Lực Cấp 1
+1212|Kẹo Võ Lực Cấp 1
+1213|Kẹo Trí Lực Cấp 1
+1214|Kẹo Vận Khí Cấp 1
+1215|Kẹo Tinh Thần Cấp 1
+1216|Kẹo Năng Lực Cấp 4
+1217|Kẹo Võ Lực Cấp 4
+1218|Kẹo Trí Lực Cấp 4
+1219|Kẹo Vận Khí Cấp 4
+1220|Kẹo Tinh Thần Cấp 4
+1301|Dược Thủy Tinh Lực
+1302|Dược Thủy Thể Lực
+1303|Dược Thủy Hoạt Lực
+1351|Búp Bê Tiểu Ác Ma
+1352|Búp Bê Ác Long
+1353|Nhẫn Hổ Phách
+1354|Nhẫn Hắc Diệu Thạch
+1361|Ma Giới Chi Hoa
+1362|Nhẫn Vô Tì Vết
+1401|Móng Vuốt Ác Ma
+1402|Cánh Ác Ma
+1403|Trái Tim Ác Ma
+1501|Nguyên Liệu Đơn Giản
+1502|Gia Vị Đơn Giản
+1511|Nguyên Liệu Phong Phú
+1512|Gia Vị Phong Phú
+1521|Lễ Hộp Hoa Lệ
+1522|Gián Mô Phỏng
+1523|Thiệp Mời
+1551|Chiến Kỳ
+1552|Quyết Đấu Thư
+1553|Ám Sát Chỉ Lệnh
+1554|Ám Sát Chỉ Lệnh Vỡ Vụn
+1601|Kết Giới Miễn Chiến
+1701|Tín Vật Ma Vương Cấp 1
+1702|Huyết Ác Ma Cấp 1
+1703|Trang Phục Chiến Đấu Cấp 1
+1704|Tín Vật Ma Vương Cấp 2
+1705|Huyết Ác Ma Cấp 2
+1706|Trang Phục Chiến Đấu Cấp 2
+1707|Tín Vật Ma Vương Cấp 3
+1708|Huyết Ác Ma Cấp 3
+1709|Trang Phục Chiến Đấu Cấp 3
+1710|Tín Vật Ma Vương Cấp 4
+1711|Huyết Ác Ma Cấp 4
+1712|Trang Phục Chiến Đấu Cấp 4
+1713|Tín Vật Ma Vương Cấp 5
+1714|Huyết Ác Ma Cấp 5
+1715|Trang Phục Chiến Đấu Cấp 5
+1716|Tín Vật Ma Vương Cấp 6
+1717|Huyết Ác Ma Cấp 6
+1718|Trang Phục Chiến Đấu Cấp 6
+1751|Kết Giới Đá
+1801|Bụi Chú Thuật
+1802|Nguyên Thạch Chú Thuật
+1803|Kết Tinh Chú Thuật
+1804|Tinh Nguyên Chú Thuật
+1805|Bụi Chú Thuật
+1806|Nguyên Thạch Chú Thuật
+1807|Kết Tinh Chú Thuật
+1808|Tinh Nguyên Chú Thuật
+1809|Dây Mây Gai
+1810|Roi Da Hung Hiểm
+1811|Sắt Nung Nóng Hổi
+1812|Gậy Đinh Sắt
+1813|Pháo Nổ
+1814|Pháo Điện Quang
+1815|Pháo Đại Hồng
+1816|Pháo Chấn Thiên
+1817|Viên Đá
+1818|Phi Tiêu
+1819|Phi Đao
+1820|Tên Nỏ
+1901|Thẻ Đổi Tên
+1902|Thẻ Hình Tượng
+1910|Mảnh Thủy Tinh Bang Hội
+1911|Thủy Tinh Bang Hội
+1912|Thủy Tinh Bang Hội Cao Cấp
+1950|Di Vật Judas
+2000|Mảnh Ma Tướng Lệnh
+2001|Tín Vật Tứ Đại Huyết Tộc
+2002|Tín Vật Chiến Thần Bắc Âu
+2003|Tín Vật Chiến Thần Hy Lạp
+2004|Tín Vật Chiến Thần Phương Đông
+2005|Hộ Phù Triệu Hồi
+2102|Tín Vật
+2105|Diều Gió
+2106|Diều Giấy
+5001|Gói Quà Yến Tiệc
+5002|Gói Quà Tân Thủ
+5003|Gói Quà Tiềm Năng
+5004|Gói Quà Siêu Tiềm Năng
+5005|Gói Quà Tranh Bá
+5006|Gói Quà Hào Hoa
+5007|Gói Quà Thăng Cấp
+5008|Gói Quà Bang Hội
+5009|Gói Quà Tranh Bá
+5010|Gói Quà Tinh Thần
+5011|Gói Quà Chiến Lực
+5012|Gói Quà Tranh Bá Đấu Trường
+5013|Gói Quà Tăng Cấp
+5014|Gói Quà Tấn Phong
+5015|Gói Quà Thân Mật Tân Thủ
+5016|Gói Quà Tranh Bá Thân Mật
+6003|Gói Quà Thế Lực
+6004|Gói Quà Siêu Thế Lực
+2101|Tơ Lụa
+2103|Rượu Hoa Mai
+2104|Rượu Trúc Diệp Thanh
+1012|Sinh Nhật Vui Vẻ
+3000|Danh Hiệu Ma Vương Bạo Nộ
+3001|Danh Hiệu Vô Tận Chi Chủ
+3002|Danh Hiệu Tình Thánh Chí Cao
+3003|Danh Hiệu Thiên Giới Khắc Tinh
+3004|Danh Hiệu Bất Bại Chiến Thần
+3005|Danh Hiệu Ma Vương Chi Vương
+3006|Danh Hiệu Nguyên Lão Ma Tộc
+3007|Danh Hiệu Nhà Có Mỏ
+3008|Danh Hiệu Thánh Tuyền Chi Linh
+3009|Danh Hiệu Thiết Vệ Ma Đô
+3010|Danh Hiệu Party Chi Vương
+3101|Danh Hiệu Chí Cao Ma Vương
+3102|Danh Hiệu Ma Vương Bạo Thực
+3103|Danh Hiệu Ma Vương Xảo Quyệt
+3104|Danh Hiệu Ma Vương Đố Kỵ
+3105|Danh Hiệu Ma Vương Tham Lam
+3106|Danh Hiệu Ma Vương Phản Bội
+3201|Danh Hiệu Ma Vương Hỗn Loạn
+3202|Danh Hiệu Thâm Uyên Đấu Thần
+3203|Danh Hiệu Ma Giới Đỉnh Phong
+3204|Danh Hiệu Thợ Săn Tình Trường
+3205|Danh Hiệu Tuyên Liệt Vương
+3301|Danh Hiệu Ôn Nhu Thể Thiếp
+3302|Danh Hiệu Ma Giới Tinh Anh
+3303|Danh Hiệu Chiến Lực Bùng Nổ
+3304|Danh Hiệu Hoàng Hôn Chi Chủ
+3305|Danh Hiệu Cao Thủ Tình Trường
+3306|Danh Hiệu Thợ Săn Thiên Sứ
+3307|Danh Hiệu Chiến Trường Chúa Tể
+3401|Danh Hiệu Ma Đô Chi Chủ
+3402|Danh Hiệu Đạt Nhân Tán Gái
+3403|Danh Hiệu Giáo Đoàn Sát Thủ
+3404|Danh Hiệu Bất Khuất Đấu Hồn
+4001|Khung Vàng Quý Tộc
+4002|Khánh Điển Mùa Xuân
+4003|Danh Tiếng Vang Xa
+4004|Đại Đường Thịnh Thế
+4005|Tiên Phong Lao Động
+4006|Hoàng Đế
+3801|Giang Hồ Hiệp Sĩ
+992001|Mảnh Linh Hồn Thor
+992002|Mảnh Linh Hồn Loki
+992003|Mảnh Linh Hồn Heimdall
+992004|Mảnh Linh Hồn Freya
+992005|Mảnh Linh Hồn Cain
+992006|Mảnh Linh Hồn Gilles de Rais
+992007|Mảnh Linh Hồn Vlad III
+992008|Mảnh Linh Hồn Elizabeth Bathory
+992009|Mảnh Linh Hồn Apollo
+992010|Mảnh Linh Hồn Poseidon
+992011|Mảnh Linh Hồn Hermes
+992012|Mảnh Linh Hồn Athena
+992013|Mảnh Linh Hồn Hades
+992014|Mảnh Linh Hồn Ngộ Không
+992015|Mảnh Linh Hồn Ngộ Năng
+992016|Mảnh Linh Hồn Ngộ Tịnh
+992017|Mảnh Linh Hồn Huyền Trang
+992018|Mảnh Linh Hồn Bạch Long

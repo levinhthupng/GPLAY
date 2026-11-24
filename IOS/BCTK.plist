@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+				<plist version="1.0">
+				<dict>
+					<key>items</key>
+					<array>
+						<dict>
+							<key>assets</key>
+							<array>
+								<dict>
+									<key>kind</key>
+									<string>software-package</string>
+									<key>url</key>
+									<string>https://vfslh-my.sharepoint.com/personal/admin_g100k_net/_layouts/15/download.aspx?share=EcF8x6ld8Y1DgJlvzg3zV90BYMzNe2voAw0BzSeOocStPA</string>
+								</dict>
+								<dict>
+									<key>kind</key>
+									<string>display-image</string>
+									<key>needs-shine</key>
+									<true/>
+									<key>url</key>
+									<string>https://g100k.net/assets/img/bachchien.webp</string>
+								</dict>
+								<dict>
+									<key>kind</key>
+									<string>full-size-image</string>
+									<key>needs-shine</key>
+									<true/>
+									<key>url</key>
+									<string>https://g100k.net/assets/img/bachchien.webp</string>
+								</dict>
+							</array>
+							<key>metadata</key>
+							<dict>
+								<key>bundle-identifier</key>
+								<string>com.mhdqsssss.ssq</string>
+								<key>bundle-version</key>
+								<string>1.0</string>
+								<key>kind</key>
+								<string>software</string>
+								<key>title</key>
+								<string>Bách Chiến 3D</string>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+				</plist>

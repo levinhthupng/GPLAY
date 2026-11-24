@@ -1,0 +1,6 @@
+coin;Xu
+gold;Vàng
+food;Lương
+wood;Gỗ
+iron;Sắt
+merit;Công huân

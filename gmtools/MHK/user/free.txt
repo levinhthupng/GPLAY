@@ -1,0 +1,20 @@
+100;Ngân Lượng
+101;1 Vạn Ngân Lượng
+102;10 Vạn Ngân Lượng
+103;100 Vạn Ngân Lượng
+104;1000 Vạn Ngân Lượng
+105;500 Ngân Lượng
+106;1000 Ngân Lượng
+200;Ngọc Phù
+201;10 Ngọc Phù
+202;100 Ngọc Phù
+203;1000 Ngọc Phù
+204;1 Vạn Ngọc Phù
+205;10 Vạn Ngọc Phù
+206;100 Vạn Ngọc Phù
+207;1000 Vạn Ngọc Phù
+300;1000 Kinh Nghiệm
+301;1 Vạn Kinh Nghiệm
+302;10 Vạn Kinh Nghiệm
+303;100 Vạn Kinh Nghiệm
+304;1000 Vạn Kinh Nghiệm

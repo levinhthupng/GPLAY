@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Animated Order Confirm — Car</title>
+<style>
+  :root{
+    --bg:#0f1220;
+    --panel:#ffffff;
+    --road:#151824;
+    --dash:#cfd6ff22;
+    --accent:#5865f2;
+    --green:#2ecc71;
+    --shadow:0 12px 30px rgba(0,0,0,.25);
+  }
+
+  *{box-sizing:border-box}
+  body{
+    margin:0;
+    min-height:100vh;
+    display:grid;
+    place-items:center;
+    background:var(--bg);
+    font-family:Inter,system-ui,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+  }
+
+  .order{
+    position:relative;
+    width:320px;
+    height:84px;
+    display:grid;
+    place-items:center;
+    border-radius:999px;
+    background:var(--panel);
+    box-shadow:var(--shadow);
+    cursor:pointer;
+    user-select:none;
+    transition:transform .2s ease;
+    overflow:hidden;
+  }
+  .order:active{ transform:scale(.98) }
+
+  /* labels */
+  .label{
+    position:absolute; inset:0;
+    display:grid; place-items:center;
+    font-weight:600; font-size:18px;
+    color:#1d2333;
+    transition:opacity .3s ease;
+  }
+  .label.success{ opacity:0 }
+  .order.done .label.default{ opacity:0 }
+  .order.done .label.success{ opacity:1 }
+
+  .label.success svg{
+    width:22px; height:22px; margin-left:6px;
+    stroke:var(--green); fill:none; stroke-width:3;
+    stroke-linecap:round; stroke-linejoin:round;
+    stroke-dasharray:16; stroke-dashoffset:16;
+    transition:stroke-dashoffset .55s ease .05s;
+  }
+  .order.done .label.success svg{ stroke-dashoffset:0 }
+
+  /* track */
+  .track{
+    position:absolute;
+    width:260px; height:52px;
+    background:var(--road);
+    border-radius:999px;
+    overflow:hidden;
+    display:flex; align-items:center;
+    gap:0;
+    padding:0 58px 0 22px;   /* chừa chỗ cho xe ở phải khi đến đích */
+    transform:translateY(2px); /* giống hình tham khảo */
+  }
+
+  /* lane dashes */
+  .track::after{
+    content:"";
+    position:absolute; left:18px; right:18px; top:50%;
+    height:2px; transform:translateY(-50%);
+    background:
+      repeating-linear-gradient(90deg,
+        transparent 0 10px,
+        #e8edff 10px 22px);
+    opacity:.55;
+    /* khi processing, vạch chạy ngược lại để tạo cảm giác xe chạy */
+    animation:none;
+  }
+  .order.processing .track::after{
+    animation:dashMove .8s linear infinite;
+  }
+  @keyframes dashMove{
+    to{ background-position:-22px 0; }
+  }
+
+  /* the car */
+  .car{
+    position:absolute;
+    left:14px; top:50%;
+    width:86px; height:36px;
+    transform:translateY(-50%);
+    display:grid; place-items:center;
+    /* đứng yên mặc định */
+  }
+  /* khi chạy, tịnh tiến sang phải */
+  .order.processing .car{
+    animation:drive 1.4s cubic-bezier(.25,.85,.22,1) forwards;
+  }
+  @keyframes drive{
+    from{ transform:translate(0,-50%) }
+    to  { transform:translate(160px,-50%) } /* quãng đường */
+  }
+
+  /* Car SVG details */
+  .car svg{ display:block; width:86px; height:36px }
+  .body{ fill:#2b2f42 }
+  .glass{ fill:#e8edff }
+  .stripe{ fill:#5865f2 }
+  .bumper{ fill:#ffd166 }
+
+  .wheel{ fill:#111; stroke:#222; stroke-width:2 }
+  .wheel circle{ fill:#111 }
+  .wheel line{ stroke:#444; stroke-width:2; stroke-linecap:round }
+
+  /* bánh xe quay khi processing */
+  .order.processing .wheel{
+    animation:spin .6s linear infinite;
+    transform-origin:center;
+  }
+  @keyframes spin{ to{ transform:rotate(360deg) } }
+
+  /* giai đoạn kết thúc: thu road & ẩn xe để hiện Done */
+  .order.done .track{ opacity:0; transition:opacity .35s ease .05s }
+</style>
+</head>
+<body>
+
+<button class="order" id="orderBtn" aria-label="Place order">
+  <!-- đường + xe -->
+  <div class="track" aria-hidden="true">
+    <div class="car">
+      <!-- Xe nhỏ bằng SVG (nhẹ & sắc nét) -->
+      <svg viewBox="0 0 86 36">
+        <!-- thân xe -->
+        <rect x="6" y="6" rx="18" ry="18" width="62" height="24" class="body"/>
+        <!-- khoang kính -->
+        <rect x="48" y="8" rx="4" ry="4" width="18" height="20" class="glass"/>
+        <!-- viền xanh đậm -->
+        <rect x="66" y="8" width="5" height="20" class="stripe"/>
+        <!-- cản sau vàng -->
+        <rect x="72" y="12" width="6" height="12" class="bumper"/>
+        <!-- bánh trước -->
+        <g class="wheel" transform="translate(22,28)">
+          <circle r="6"/>
+          <line x1="-6" y1="0" x2="6" y2="0"/>
+          <line x1="0" y1="-6" x2="0" y2="6"/>
+        </g>
+        <!-- bánh sau -->
+        <g class="wheel" transform="translate(54,28)">
+          <circle r="6"/>
+          <line x1="-6" y1="0" x2="6" y2="0"/>
+          <line x1="0" y1="-6" x2="0" y2="6"/>
+        </g>
+      </svg>
+    </div>
+  </div>
+
+  <!-- nhãn -->
+  <div class="label default">Order</div>
+  <div class="label success">Done
+    <svg viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg>
+  </div>
+</button>
+
+<script>
+  const btn = document.getElementById('orderBtn');
+  let busy = false;
+
+  btn.addEventListener('click', () => {
+    if (busy) return;
+    busy = true;
+
+    // B1: bắt đầu chạy xe
+    btn.classList.remove('done');
+    btn.classList.add('processing');
+
+    // B2: sau khi xe chạy xong -> hiện Done (1.45s trễ khớp với animation)
+    setTimeout(() => {
+      btn.classList.remove('processing');
+      btn.classList.add('done');
+    }, 1450);
+
+    // B3: tự reset để bấm lại (tuỳ bạn giữ hay bỏ)
+    setTimeout(() => {
+      btn.classList.remove('done');
+      busy = false;
+    }, 3600);
+  });
+</script>
+
+</body>
+</html>
